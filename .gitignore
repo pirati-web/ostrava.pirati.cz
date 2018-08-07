@@ -8,3 +8,5 @@ Gemfile.lock
 desktop.ini
 package-lock.json
 
+.bundle/
+vendor/
