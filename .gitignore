@@ -8,5 +8,9 @@ Gemfile.lock
 desktop.ini
 package-lock.json
 
+#Files needed for local Jekyll instance
 .bundle/
 vendor/
+
+#Local operating system files
+.directory
