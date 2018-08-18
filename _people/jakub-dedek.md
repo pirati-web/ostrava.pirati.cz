@@ -4,8 +4,9 @@ name:     Jakub Dedek      		# běžně používáné jméno
 fullname: Jakub Dedek  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - koordinator
+- kontaktni_osoba
 img: people/jakub-dedek.jpg           # 165 x 220
-description: Koordinátor dobrovolníků pro Moravskoslezský # kratký popis, max 160 znaků
+description: Koordinátor dobrovolníků pro Moravskoslezský kraj
 mail:
 - jakub.dedek@pirati.cz
 mob: +420 770 113 644
@@ -14,7 +15,7 @@ profiles:
   facebook:				
   twitter:
   linkedin: 
-ordkoord: 1
+ordpak: 1
 ---
 
 Jakub Dedek (* 21. dubna 1992) je členem Pirátské strany od začátku roku 2017. Jakub pochází z Ostravy, kde taky momentálně i působí.

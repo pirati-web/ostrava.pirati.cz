@@ -1,25 +1,107 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
+#
 
-# Site settings
 title: Pirátská strana | OSTRAVA
-email: to@pirati.cz
-description: > # this means to ignore newlines until "baseurl:"
+email: pavel.korizek@pirati.cz
+description: >-
   Web České pirátské strany v Ostravě.
-url: "https://ostrava.pirati.cz" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: piráti, česká pirátská strana, svoboda, demokracie, ostrava, ova, moap, poruba, jih
 
-# Build settings
+administrator:
+  email: pavel.korizek@pirati.cz # mail kam pujdou chybove vystupy
+
+organization:
+  name: Pirátská strana Ostrava
+  shortName: Ostrava
+  contactUid: jakub.dedek
+  email: jakub.dedek@pirati.cz
+  phone: +420 770 113 644
+  address: |
+    Ostravské pirátské centrum (OPiCe)
+    Jugoslávská 3038/40A
+    700 30 Ostrava-jih
+  residenceImg:
+  mapLink: https://goo.gl/maps/3KiQxHKSJp72
+  redmineLink: https://redmine.pirati.cz/projects
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
+
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Krajský kalendář
+  id: i7ipksvi9b852grgjic8mnhua0@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
+facebook:
+  loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/Pir%C3%A1ti-Ostrava-996724667073669/
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: PiratiMSK
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+gplus:
+  profilePage: https://plus.google.com/b/114293532258612655893/
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/ostrava.pirati.cz/
+  branch: master
+
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
 markdown: kramdown
-
+theme: jekyll-theme-pirati
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -27,41 +109,62 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-
-sass:
-    style: compressed
+  - vendor
 
 permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
+
   program:
     output: true
-    permalink: /volby/:path/
-  teams:
-    output: true
-    permalink: /pripoj-se/:title/
+    permalink: /komunalni-volby/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
     scope:
       path: "_people"
     values:
-      layout: "member"
-      rbar: "foto"
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "volby"
-  -
-    scope:
-      path: "_teams"
-    values:
-      layout: "team"
-      rbar: "team-summary, teams-toc"
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 emptyArray: []
-exclude: [vendor]
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.0.2/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass

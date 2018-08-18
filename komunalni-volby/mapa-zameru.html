@@ -1,0 +1,19 @@
+---
+layout: default
+title: Mapa záměrů
+---
+
+<div class="c-intention-map">
+  <header class="c-intention-map__header-wrap">
+    <h1 itemprop="headline" class="c-page-title c-intention-map__header">Mapa záměrů</h1>
+  </header>
+
+  <!-- Article -->
+  <article itemtype="http://schema.org/BlogPosting" itemscope="">
+    <link itemprop="mainEntityOfPage" href="{{ page.url }}">
+    {% if site.env.GOOGLE_MAPS_APIKEY %}
+      <div class="__vue-root" data-app="CustomLayerMap" data-apikey="{{ site.env.GOOGLE_MAPS_APIKEY }}" data-layer="12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n" data-version="1"></div>
+    {% endif %}
+  </article>
+  <!-- /Article -->
+</div>
