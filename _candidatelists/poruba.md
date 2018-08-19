@@ -16,52 +16,188 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: 
     party: Piráti
   - uid: jiri.rajnoch
-    age: ??
+    age: 29
     profession: síťový inženýr
     description: 
-    party: ??
+    party: Piráti
   - uid: jakub.dedek
-    age: ??
+    age: 26
     profession: krajský koordinátor
     description: 
-    party: ??
+    party: Piráti
   - uid: martin.tomasek
-    age: ??
+    age: 49
     profession: vysokoškolský učitel
     description: 
-    party: ??
+    party:
   - uid: pavel.kucera
-    age: ??
+    age: 31
     profession: programátor
     description: 
-    party: ??
+    party:
   - uid: denisa.kucerova
-    age: ??
+    age: 33
     profession: úředník
     description: 
-    party: ??
+    party:
   - uid: pavel.sikora
-    age: ??
+    age: 31
     profession: kulturní referent
     description: 
-    party: ??
+    party:
   - uid: vladan.hyl
-    age: ??
+    age: 32
     profession: redaktor zpravodajství
     description: 
-    party: ??
+    party: Piráti
   - uid: jakub.pohl
-    age: ??
+    age: 33
     profession: technik, OSVČ
     description: 
-    party: ??
+    party:
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name:  Mgr. Martin Černý
-    age: # zjistit
+    age: 33
     profession:  učitel
-    party: # Piráti - ověřit
+    party:
+  - name:  Ing. Kateřina Smutná
+    age: 37
+    profession:  vědecký pracovník
+    party:
+  - name:  RNDr. Libor Davidík
+    age: 37
+    profession:  učitel
+    party:
+  - name:  MUDr. Jana Daňková-Kučerová
+    age: 34
+    profession:  lékař
+    party:
+  - name:  Mgr. Petr Říman
+    age: 43
+    profession:  učitel
+    party:
+  - name:  Bc. Pavel Ryška
+    age: 42
+    profession:  personalista
+    party:
+  - name:  Mgr. Zuzana Lažková
+    age: 42
+    profession:  speciální pedagog
+    party:
+  - name:  Ing. Andrea Wantulová
+    age: 29
+    profession:  PR manažer
+    party:
+  - name:  Mgr. Martina Dušková
+    age: 30
+    profession:  odborná konzultantka
+    party:
+  - name:  Bc. Ondřej Filip
+    age: 30
+    profession:  IT technik
+    party:
+  - name:  Ing. Anna Kučerová
+    age: 53
+    profession:  úřednice
+    party:
+  - name:  Ing. Martin Mucha
+    age: 30
+    profession:  online marketér, OSVČ
+    party:
+  - name:  Bc. Jiří Homola
+    age: 42
+    profession:  IT technik
+    party:
+  - name:  Lukáš Šimíček
+    age: 38
+    profession:  učitel autoškoly
+    party:
+  - name:  Jan Smutný, DiS.
+    age: 37
+    profession:  grafik
+    party:
+  - name:  Bc. Markéta Tomášková
+    age: 23
+    profession:  studentka
+    party:
+  - name:  Mgr. Adam Šotkovský
+    age: 29
+    profession:  logistik
+    party:
+  - name:  Bc. Richard Jakubec
+    age: 44
+    profession:  technolog
+    party:
+  - name:  Bc. Petra Hoffmannová
+    age: 41
+    profession:  asistentka pedagoga
+    party:
+  - name:  Ing. Lumír Janošek
+    age: 32
+    profession:  programátor
+    party:
+  - name:  Mgr. Hana Černá
+    age: 32
+    profession:  učitelka
+    party:
+  - name:  Ctirad Wojtanovský
+    age: 34
+    profession:  lektor
+    party:
+  - name:  Jana Wildová
+    age: 31
+    profession:  rodičovská dovolená
+    party:
+  - name:  Jiří Tomášek
+    age: 18
+    profession:  student
+    party:
+  - name:  Růžena Podžorská
+    age: 59
+    profession:  prodavačka
+    party:
+  - name:  Petr Hoffmann
+    age: 53
+    profession:  důchodce
+    party:
+  - name:  Vlastimil Garai
+    age: 53
+    profession:  OSVČ
+    party:
+  - name:  Jan Kučera
+    age: 68
+    profession:  důchodce
+    party:
+  - name:  Radim Gál
+    age: 33
+    profession:  OSVČ
+    party:
+  - name:  Eva Šebková
+    age: 69
+    profession:  důchodkyně
+    party:
+  - name:  Filip Koval
+    age: 34
+    profession:  programátor
+    party:
+  - name:  Jiří Pleva
+    age: 33
+    profession:  technik ŽTV
+    party:
+  - name:  Dominik Blaha
+    age: 24
+    profession:  servisní technik
+    party:
+  - name:  Václav Raipert
+    age: 71
+    profession:  důchodce
+    party:
+  - name:  Helena Švidrnochová
+    age: 24
+    profession:  student
+    party:
  
 
 note: # poznámka pod kanidátku
