@@ -15,13 +15,18 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: informatik - databázový specialista
     description: 
     party: Piráti
+  - uid: andrea.hoffmannova
+    age: 35  
+    profession: vysokoškolská pedagožka
+    description: 
+    party: Piráti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name:  Mgr. Andrea Hoffmannová, Ph.D.
-    age: 35
-    profession:  vysokoškolská pedagožka
-    party: Piráti
+  - name:  Ing. Petr Kopečný
+    age: # zjistit
+    profession:  automatizační inženýr
+    party: # Piráti - ověřit
  
 
 note: # poznámka pod kanidátku
