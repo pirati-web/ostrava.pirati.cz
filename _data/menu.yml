@@ -22,6 +22,9 @@ main:
   - link: /poruba/
     name: Poruba
     match: poruba
+  - link: /jih/
+    name: Jih
+    match: jih
   - link: /kontakt/
     name: Kontakt
     match: kontakt
