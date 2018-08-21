@@ -19,6 +19,9 @@ main:
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
+  - link: /poruba/
+    name: Poruba
+    match: poruba
   - link: /kontakt/
     name: Kontakt
     match: kontakt
