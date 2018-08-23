@@ -4,7 +4,7 @@ name:     Ondřej Netočný  	# běžně používáné jméno
 fullname: Ing. Ondřej Netočný  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/ondrej-netocny.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
 mail:
 # - zjistit

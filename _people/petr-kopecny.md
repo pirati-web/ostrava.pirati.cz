@@ -4,7 +4,7 @@ name:     Petr Kopečný  	# běžně používáné jméno
 fullname: Ing. Petr Kopečný  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/petr-kopecny.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
 mail:
 # - zjistit

@@ -4,7 +4,7 @@ name:     Michal Breškovec  	# běžně používáné jméno
 fullname: Ing. Michal Breškovec  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/michal-breskovec.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
 mail: michal.breskovec@pirati.cz 
 ---
