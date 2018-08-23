@@ -16,7 +16,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: 
     party: Piráti
   - uid: jiri.rajnoch
-    age: 29
+    age: 30
     profession: síťový inženýr
     description: 
     party: Piráti
@@ -31,7 +31,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: 
     party:
   - uid: pavel.kucera
-    age: 31
+    age: 32
     profession: programátor
     description: 
     party:
@@ -41,7 +41,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: 
     party:
   - uid: pavel.sikora
-    age: 31
+    age: 32
     profession: kulturní referent
     description: 
     party:
@@ -59,7 +59,7 @@ tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name:  Mgr. Martin Černý
-    age: 33
+    age: 34
     profession:  učitel
     party:
   - name:  Ing. Kateřina Smutná
@@ -67,7 +67,7 @@ tail: # zbytek kandidatky
     profession:  vědecký pracovník
     party:
   - name:  RNDr. Libor Davidík
-    age: 37
+    age: 38
     profession:  učitel
     party:
   - name:  MUDr. Jana Daňková-Kučerová
@@ -91,7 +91,7 @@ tail: # zbytek kandidatky
     profession:  PR manažer
     party:
   - name:  Mgr. Martina Dušková
-    age: 30
+    age: 31
     profession:  odborná konzultantka
     party:
   - name:  Bc. Ondřej Filip
@@ -119,11 +119,11 @@ tail: # zbytek kandidatky
     profession:  grafik
     party:
   - name:  Bc. Markéta Tomášková
-    age: 23
+    age: 24
     profession:  studentka
     party:
   - name:  Mgr. Adam Šotkovský
-    age: 29
+    age: 30
     profession:  logistik
     party:
   - name:  Bc. Richard Jakubec
@@ -151,11 +151,11 @@ tail: # zbytek kandidatky
     profession:  rodičovská dovolená
     party:
   - name:  Jiří Tomášek
-    age: 18
+    age: 19
     profession:  student
     party:
   - name:  Růžena Podžorská
-    age: 59
+    age: 60
     profession:  prodavačka
     party:
   - name:  Petr Hoffmann
@@ -167,7 +167,7 @@ tail: # zbytek kandidatky
     profession:  OSVČ
     party:
   - name:  Jan Kučera
-    age: 68
+    age: 69
     profession:  důchodce
     party:
   - name:  Radim Gál
@@ -183,16 +183,16 @@ tail: # zbytek kandidatky
     profession:  programátor
     party:
   - name:  Jiří Pleva
-    age: 33
+    age: 34
     profession:  technik ŽTV
     party:
   - name:  Dominik Blaha
-    age: 24
+    age: 25
     profession:  servisní technik
     party:
-  - name:  Václav Raipert
-    age: 71
-    profession:  důchodce
+  - name:  Martin Šimeček
+    age: 30
+    profession:  team leader
     party:
   - name:  Helena Švidrnochová
     age: 24
