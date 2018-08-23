@@ -4,7 +4,7 @@ name:     Pavlína Nováčková  	# běžně používáné jméno
 fullname: Bc. Pavlína Nováčková  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - kandidat 
-img:   # 165 x 220
+img: people/pavlina-novackova.jpg  # 165 x 220
 description: kandidátka na starostku Ostravy-Jihu            	# kratký popis, max 160 znaků
 mail:
 - # zjistit

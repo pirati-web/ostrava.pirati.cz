@@ -4,7 +4,7 @@ name:     Sandra Lamichová  	# běžně používáné jméno
 fullname: Sandra Lamichová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/sandra-lamichova.jpg
 description: kandidátka do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
 mail:
 # - zjistit
