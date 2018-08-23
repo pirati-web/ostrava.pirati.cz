@@ -4,7 +4,7 @@ name:     Arnošt Žídek # běžně používáné jméno
 fullname: Mgr. Arnošt Žídek, Ph.D.  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/arnost-zidek.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
 mail:
 # - zjistit
