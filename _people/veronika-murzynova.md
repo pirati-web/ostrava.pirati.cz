@@ -4,7 +4,7 @@ name:     Veronika Murzynová  	# běžně používáné jméno
 fullname: Veronika Murzynová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - kontaktni_osoba  
-img: people/veronika_murzynova.jpg   # 165 x 220
+img: people/veronika-murzynova.jpg
 description: volební koordinátor pro Moravskoslezský kraj            	# kratký popis, max 160 znaků
 mail:
 - veronika.murzynova@pirati.cz
