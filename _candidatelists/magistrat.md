@@ -1,5 +1,5 @@
 ---
-title: Kandidátka na radnici
+title: Kandidátka na Magistrát města Ostravy
 uid: magistrat
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
