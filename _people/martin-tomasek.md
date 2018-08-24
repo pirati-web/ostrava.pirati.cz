@@ -4,7 +4,7 @@ name:     Martin Tomášek  	# běžně používáné jméno
 fullname: Mgr. Martin Tomášek, Ph.D.  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat
-img:   # 165 x 220
+img: people/martin-tomasek.jpg
 description: kandidát do Senátu v obvodu Ostrava-město, kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
 mail:
 # - martin.tomasek@pirati.cz - ověřit

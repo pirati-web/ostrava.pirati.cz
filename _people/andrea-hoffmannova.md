@@ -4,7 +4,7 @@ name:     Andrea Hoffmannová  	# běžně používáné jméno
 fullname: Mgr. Andrea Hoffmannová, Ph.D.  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - kandidat 
-img:   # 165 x 220
+img: people/andrea-hoffmannova.jpg
 description: kandidátka na starostku Ostravy-Poruby            	# kratký popis, max 160 znaků
 mail:
 - andrea.hoffmannova@pirati.cz

@@ -4,7 +4,7 @@ name:     Jiří Rajnoch  	# běžně používáné jméno
 fullname: Ing. Jiří Rajnoch  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/jiri-rajnoch.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
 mail:
 # - jiri.rajnoch@pirati.cz - ověřit
