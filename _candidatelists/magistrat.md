@@ -1,6 +1,6 @@
 ---
 title: Kandidátka na radnici
-uid: radnice
+uid: magistrat
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: david.witosz
