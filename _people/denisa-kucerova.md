@@ -4,7 +4,7 @@ name:     Denisa Kučerová  	# běžně používáné jméno
 fullname: Bc. Denisa Kučerová  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/denisa-kucerova.jpg
 description: kandidátka do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
 mail:
 # - zjistit

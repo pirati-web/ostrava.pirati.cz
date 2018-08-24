@@ -4,7 +4,7 @@ name:     Pavel Kučera  	# běžně používáné jméno
 fullname: Mgr. Pavel Kučera  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/pavel-kucera.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
 mail:
 # - zjistit
