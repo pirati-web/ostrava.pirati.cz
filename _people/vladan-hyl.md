@@ -4,7 +4,7 @@ name:     Vladan Hýl  	# běžně používáné jméno
 fullname: Vladan Hýl  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/vladan-hyl.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
 mail:
 # - zjistit

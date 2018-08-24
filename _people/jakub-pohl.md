@@ -4,7 +4,7 @@ name:     Jakub Pohl  	# běžně používáné jméno
 fullname: Jakub Pohl  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
-img:   # 165 x 220
+img: people/jakub-pohl.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
 mail:
 # - zjistit
