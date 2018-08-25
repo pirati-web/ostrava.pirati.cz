@@ -1,6 +1,6 @@
 ---
-title: Kandidátka na radnici
-uid: radnice
+title: Kandidátka na Magistrát města Ostravy
+uid: magistrat
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: david.witosz
@@ -31,6 +31,22 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: martin.tomasek
     age: 49
     profession: vysokoškolský učitel
+    party:
+  - uid: lukas.jansa
+    age: 41
+    profession: právník, člen Pracovní komise pro soukromé právo
+    party:
+  - uid: jakub.dedek
+    age: 26
+    profession: krajský koordinátor
+    party: Piráti
+  - uid: ondrej.rucka
+    age: 35
+    profession: právník
+    party: Piráti
+  - uid: jaroslav.horejsi
+    age: 35
+    profession: programátor
     party: Piráti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat

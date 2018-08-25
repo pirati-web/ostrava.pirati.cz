@@ -16,9 +16,12 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /magistrat/
+    name: Magistrát
+    match: magistrat
+  - link: /moap/
+    name: Moravská Ostrava
+    match: moap
   - link: /poruba/
     name: Poruba
     match: poruba
@@ -38,12 +41,16 @@ bottom:
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
       - link: /aktuality/
         name: Aktuality
+      - link: /magistrat/
+        name: Magistrát
+      - link: /moap/
+        name: Moravská Ostrava
+      - link: /poruba/
+        name: Poruba
+      - link: /jih/
+        name: Jih
   - class: small-12 medium-4
     title: Otevřenost
     links:
