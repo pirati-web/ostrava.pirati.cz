@@ -1,7 +1,7 @@
 ---
 title: Kandidáti na zastupitele v Ostravě-Porubě
 uid: poruba
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 5
 leader:
   uid: andrea.hoffmannova
   age: 35
