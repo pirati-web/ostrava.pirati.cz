@@ -1,7 +1,9 @@
 ---
 uid: denisa.kucerova
-name:     Denisa Kučerová  	# běžně používáné jméno
-fullname: Bc. Denisa Kučerová  	# jméno s tituly etc.
+name: Denisa Kučerová
+titles:
+  before: Bc. 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/denisa-kucerova.jpg

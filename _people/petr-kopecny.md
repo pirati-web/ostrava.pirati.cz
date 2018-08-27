@@ -1,7 +1,9 @@
 ---
 uid: petr.kopecny
-name:     Petr Kopečný  	# běžně používáné jméno
-fullname: Ing. Petr Kopečný  	# jméno s tituly etc.
+name: Petr Kopečný
+titles:
+  before: Ing. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/petr-kopecny.jpg

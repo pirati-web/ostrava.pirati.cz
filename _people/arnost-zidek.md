@@ -1,7 +1,9 @@
 ---
 uid: arnost.zidek
-name:     Arnošt Žídek # běžně používáné jméno
-fullname: Mgr. Arnošt Žídek, Ph.D.  	# jméno s tituly etc.
+name: Arnošt Žídek
+titles:
+  before: Mgr. 
+  after: Ph.D.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/arnost-zidek.jpg

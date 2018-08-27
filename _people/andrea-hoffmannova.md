@@ -1,7 +1,9 @@
 ---
 uid: andrea.hoffmannova
-name:     Andrea Hoffmannová  	# běžně používáné jméno
-fullname: Mgr. Andrea Hoffmannová, Ph.D.  	# jméno s tituly etc.
+name: Andrea Hoffmannová
+titles:
+  before: Mgr. 
+  after: Ph.D.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - kandidat 
 img: people/andrea-hoffmannova.jpg

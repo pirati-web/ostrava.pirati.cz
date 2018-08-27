@@ -1,7 +1,9 @@
 ---
 uid: martin.tomasek
-name:     Martin Tomášek  	# běžně používáné jméno
-fullname: Mgr. Martin Tomášek, Ph.D.  	# jméno s tituly etc.
+name: Martin Tomášek
+titles:
+  before: Mgr. 
+  after: Ph.D.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat
 img: people/martin-tomasek.jpg

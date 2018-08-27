@@ -1,7 +1,9 @@
 ---
 uid: david.witosz
-name:     David Witosz  	# běžně používáné jméno
-fullname: David Witosz  	# jméno s tituly etc.
+name: David Witosz
+titles:
+  before: Ing.
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pms
 img: people/david-witosz.jpg   # 165 x 220
@@ -12,7 +14,9 @@ mail:
 ordpms: 2
 ---
 
-Ing.David Witosz (*26. dubna 1981) je členem Krajského sdružení Moravskoslezského kraje, garant programového bodu Doprava pro parlamentní volby 2017.
+(* 26. dubna 1981)
+
+David Witosz je členem Krajského sdružení Moravskoslezského kraje, garant programového bodu Doprava pro parlamentní volby 2017.
 
 Dokončil studia institutu Geodézie a Důlního Měřictví na VŠB-TU Ostrava Hornicko-geologické fakulty, obor Inženýrská geodézie. Během studia pracoval v různých odvětvích. Od komunálního úklidu, popeláře, přes stavitele pódií, číšníka, „hallmajstra“ na výstavišti, až po pomocnou sílu v geodetických firmách.
 

@@ -1,7 +1,9 @@
 ---
 uid: jaroslav.horejsi
-name:     Jaroslav Hořejší # běžně používáné jméno
-fullname: Ing. Jaroslav Hořejší # jméno s tituly etc.
+name: Jaroslav Hořejší
+titles:
+  before: Ing. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: #

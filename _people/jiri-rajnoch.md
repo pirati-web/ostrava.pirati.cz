@@ -1,7 +1,9 @@
 ---
 uid: jiri.rajnoch
-name:     Jiří Rajnoch  	# běžně používáné jméno
-fullname: Ing. Jiří Rajnoch  	# jméno s tituly etc.
+name: Jiří Rajnoch
+titles:
+  before: Ing. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/jiri-rajnoch.jpg

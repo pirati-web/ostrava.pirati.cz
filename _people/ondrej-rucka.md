@@ -1,7 +1,9 @@
 ---
 uid: ondrej.rucka
-name:     Ondřej Ručka # běžně používáné jméno
-fullname: JUDr. Ondřej Ručka # jméno s tituly etc.
+name: Ondřej Ručka
+titles:
+  before: JUDr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/ondrej-rucka.jpg

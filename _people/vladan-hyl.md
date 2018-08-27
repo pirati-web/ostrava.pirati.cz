@@ -1,7 +1,9 @@
 ---
 uid: vladan.hyl
-name:     Vladan Hýl  	# běžně používáné jméno
-fullname: Vladan Hýl  	# jméno s tituly etc.
+name: Vladan Hýl
+titles:
+  before: 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/vladan-hyl.jpg

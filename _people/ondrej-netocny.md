@@ -1,7 +1,9 @@
 ---
 uid: ondrej.netocny
-name:     Ondřej Netočný  	# běžně používáné jméno
-fullname: Ing. Ondřej Netočný  	# jméno s tituly etc.
+name: Ondřej Netočný
+titles:
+  before: Ing. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/ondrej-netocny.jpg
