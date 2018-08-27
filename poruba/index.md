@@ -1,10 +1,10 @@
 ---
 layout: communal-elections
-title: Komunální volby v Ostravě-Porubě
+title: Piráti Ostrava-Poruba
 campaignCategoryUid: praha2018
 candidateListUid: poruba
 ---
 
 
-> ABC
+> Pět pirátských priorit pro Porubu
 
