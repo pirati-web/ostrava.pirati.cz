@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
-title: Piráti v Ostravě-Porubě
-campaignCategoryUid: poruba2018
+title: Piráti Ostrava-Poruba
+campaignCategoryUid: praha2018
 candidateListUid: poruba
 ---
 
