@@ -119,7 +119,7 @@ collections:
 
   program:
     output: true
-    permalink: /magistrat/program/:path/
+    permalink: /program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
