@@ -13,9 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /lide/
-    name: O nás
-    match: lide
+  #- link: /lide/
+  #  name: O nás
+  #  match: lide
   - link: /magistrat/
     name: Magistrát
     match: magistrat
@@ -28,9 +28,9 @@ main:
   - link: /jih/
     name: Jih
     match: jih
-  - link: /kontakt/
-    name: Kontakt
-    match: kontakt
+  #- link: /kontakt/
+  #  name: Kontakt
+  #  match: kontakt
 
 bottom:
   - class: small-12 medium-4
