@@ -1,7 +1,9 @@
 ---
 uid: barbora.vojkovska
-name:     Barbora Vojkovská # běžně používáné jméno
-fullname: Mgr. Barbora Vojkovská # jméno s tituly etc.
+name: Barbora Vojkovská
+titles:
+  before: Mgr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: #

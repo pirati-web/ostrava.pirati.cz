@@ -1,7 +1,9 @@
 ---
 uid: veronika.murzynova
-name:     Veronika Murzynová  	# běžně používáné jméno
-fullname: Veronika Murzynová  	# jméno s tituly etc.
+name: Veronika Murzynová
+titles:
+  before: 
+  after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - kontaktni_osoba  
 img: people/veronika-murzynova.jpg

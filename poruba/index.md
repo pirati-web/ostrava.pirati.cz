@@ -5,6 +5,5 @@ campaignCategoryUid: praha2018
 candidateListUid: poruba
 ---
 
-
-> Pět pirátských priorit pro Porubu
+> Poruba je naším společným domovem a Piráti se budou snažit o to, aby se nám zde spolu žilo co nejlépe a to díky dostupným a kvalitním službám, kultuře, sportovnímu vyžití a infrastruktuře, atraktivnímu veřejnému prostoru, udržované zeleni, pocitu bezpečnosti a to vše v souladu s aktuálními potřebami občanů, kteří se budou moci podílet na vedení obvodu.
 

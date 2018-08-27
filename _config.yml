@@ -10,7 +10,7 @@ email: pavel.korizek@pirati.cz
 description: >-
   Web České pirátské strany v Ostravě.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, ostrava, ova, moap, poruba, jih
+keywords: piráti, česká pirátská strana, svoboda, demokracie, ostrava, ova, magistrat, moap, poruba, jih
 
 administrator:
   email: pavel.korizek@pirati.cz # mail kam pujdou chybove vystupy
@@ -119,7 +119,7 @@ collections:
 
   program:
     output: true
-    permalink: /magistrat/program/:path/
+    permalink: /program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:

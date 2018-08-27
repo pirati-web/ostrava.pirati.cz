@@ -1,7 +1,9 @@
 ---
 uid: pavel.kucera
-name:     Pavel Kučera  	# běžně používáné jméno
-fullname: Mgr. Pavel Kučera  	# jméno s tituly etc.
+name: Pavel Kučera
+titles:
+  before: Mgr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/pavel-kucera.jpg

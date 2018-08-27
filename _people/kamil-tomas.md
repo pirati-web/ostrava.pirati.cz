@@ -1,7 +1,9 @@
 ---
 uid: kamil.tomas
-name:     Kamil Tomáš # běžně používáné jméno
-fullname: Ing. Kamil Tomáš # jméno s tituly etc.
+name: Kamil Tomáš
+titles:
+  before: Ing. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: #

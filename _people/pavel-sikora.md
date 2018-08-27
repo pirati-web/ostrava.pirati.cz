@@ -1,7 +1,9 @@
 ---
 uid: pavel.sikora
-name:     Pavel Sikora  	# běžně používáné jméno
-fullname: Mgr. Pavel Sikora  	# jméno s tituly etc.
+name: Pavel Sikora
+titles:
+  before: Mgr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/pavel-sikora.jpg
