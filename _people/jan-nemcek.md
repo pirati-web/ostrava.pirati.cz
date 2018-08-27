@@ -1,7 +1,9 @@
 ---
 uid: jan.nemcek
-name:     Jan Nemček # běžně používáné jméno
-fullname: Mgr. Jan Nemček # jméno s tituly etc.
+name: Jan Nemček
+titles:
+  before: Mgr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/jan-nemcek.jpg

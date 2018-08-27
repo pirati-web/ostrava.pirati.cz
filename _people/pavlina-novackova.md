@@ -1,7 +1,9 @@
 ---
 uid: pavlina.novackova
-name:     Pavlína Nováčková  	# běžně používáné jméno
-fullname: Bc. Pavlína Nováčková  	# jméno s tituly etc.
+name: Pavlína Nováčková
+titles:
+  before: Bc. 
+  after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
   - kandidat 
 img: people/pavlina-novackova.jpg  # 165 x 220

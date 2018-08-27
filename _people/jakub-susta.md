@@ -1,7 +1,9 @@
 ---
 uid: jakub.susta
-name:     Jakub Šusta # běžně používáné jméno
-fullname: Jakub Šusta # jméno s tituly etc.
+name: Jakub Šusta
+titles:
+  before: 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: #

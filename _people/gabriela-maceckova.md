@@ -1,7 +1,9 @@
 ---
 uid: gabriela.maceckova
-name:     Gabriela Macečková  	# běžně používáné jméno
-fullname: Gabriela Macečková  	# jméno s tituly etc.
+name: Gabriela Macečková
+titles:
+  before: 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/gabriela-maceckova.jpg

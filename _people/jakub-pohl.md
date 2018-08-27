@@ -1,7 +1,6 @@
 ---
 uid: jakub.pohl
-name:     Jakub Pohl  	# běžně používáné jméno
-fullname: Jakub Pohl  	# jméno s tituly etc.
+name: Jakub Pohl
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/jakub-pohl.jpg

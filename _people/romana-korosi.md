@@ -1,7 +1,9 @@
 ---
 uid: romana.korosi
-name:     Romana Körösi  	# běžně používáné jméno
-fullname: Romana Körösi  	# jméno s tituly etc.
+name: Romana Körösi
+titles:
+  before: 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/romana-korosi.jpg

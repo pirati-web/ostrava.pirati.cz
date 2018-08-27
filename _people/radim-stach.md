@@ -1,7 +1,9 @@
 ---
 uid: radim.stach
-name:     Radim Stach  	# běžně používáné jméno
-fullname: Radim Stach  	# jméno s tituly etc.
+name: Radim Stach
+titles:
+  before: 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img:   # 165 x 220

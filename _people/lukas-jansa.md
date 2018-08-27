@@ -1,7 +1,9 @@
 ---
 uid: lukas.jansa
-name:     Lukáš Jansa # běžně používáné jméno
-fullname: JUDr. Lukáš Jansa # jméno s tituly etc.
+name: Lukáš Jansa
+titles:
+  before: JUDr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/lukas-jansa.jpg

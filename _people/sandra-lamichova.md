@@ -1,7 +1,9 @@
 ---
 uid: sandra.lamichova
-name:     Sandra Lamichová  	# běžně používáné jméno
-fullname: Sandra Lamichová  	# jméno s tituly etc.
+name: Sandra Lamichová
+titles:
+  before: 
+  after:
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/sandra-lamichova.jpg

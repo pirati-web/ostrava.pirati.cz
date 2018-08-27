@@ -1,7 +1,9 @@
 ---
 uid: michal.breskovec
-name:     Michal Breškovec  	# běžně používáné jméno
-fullname: Ing. Michal Breškovec  	# jméno s tituly etc.
+name: Michal Breškovec
+titles:
+  before: Ing. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/michal-breskovec.jpg

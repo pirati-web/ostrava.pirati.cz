@@ -1,7 +1,9 @@
 ---
 uid: pavel.brynda
-name:     Pavel Brynda # běžně používáné jméno
-fullname: Mgr. Pavel Brynda # jméno s tituly etc.
+name: Pavel Brynda
+titles:
+  before: Mgr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: #

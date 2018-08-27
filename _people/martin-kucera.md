@@ -1,7 +1,9 @@
 ---
 uid: martin.kucera
-name:     Martin Kučera # běžně používáné jméno
-fullname: Mgr. Martin Kučera # jméno s tituly etc.
+name: Martin Kučera
+titles:
+  before: Mgr. 
+  after: 
 category:                 	# kategorie: kandidat, pks, zastupitel
 - kandidat 
 img: people/martin-kucera.jpg
