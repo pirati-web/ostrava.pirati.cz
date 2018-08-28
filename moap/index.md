@@ -1,6 +1,6 @@
 ---
 layout: communal-elections
-title: Komunální volby v Moravské Ostravě a Přívoze
+title: Piráti Moravská Ostrava a Přívoz
 campaignCategoryUid: praha2018
 candidateListUid: moap
 ---
