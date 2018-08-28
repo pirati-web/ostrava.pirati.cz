@@ -37,9 +37,9 @@ Překlad projevu, který Ondřej Polanský přednesl v OSN:
 
 
 
-![alt text]({{ 'polansky-osn-2.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
+![alt text]({{ 'assets/img/posts/polansky-osn-2.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
 
-![alt text]({{ 'polansky-osn-3.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
+![alt text]({{ 'assets/img/posts/polansky-osn-3.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
 
 - - -
 
