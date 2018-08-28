@@ -18,8 +18,9 @@ Hospodaření statutárních měst, krajů i veřejnoprávních médií by podle
 
 vysvětluje svou motivaci pirátský poslanec Lukáš Černohorský, který novelu zákona připravil. 
 
-> „Jako člen Kontrolního výboru jsem měl možnost nahlédnout pod pokličku fungování NKÚ a je to podle mého jeden z nejlépe fungujících úřadů v Česku. Nemám sebemenší pochybnosti o jeho nezávislosti ani kvalitě odváděné práce,“ chválí fungování NKÚ Lukáš Černohorský.
+> „Jako člen Kontrolního výboru jsem měl možnost nahlédnout pod pokličku fungování NKÚ a je to podle mého jeden z nejlépe fungujících úřadů v Česku. Nemám sebemenší pochybnosti o jeho nezávislosti ani kvalitě odváděné práce,“
 
+chválí fungování NKÚ Lukáš Černohorský.
 
 Piráti svým návrhem navazují na někdejšího ministra Sobotkovy vlády Jiřího Dientsbiera, který už podobný zákon před dvěma lety předložil. Zákon tehdy sice prošel Sněmovnou, Senát jej ale zamítl. Podruhé se už zákon schválit nestihl, protože legislativní proces přerušily volby. 
 
