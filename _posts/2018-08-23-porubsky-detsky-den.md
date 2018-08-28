@@ -5,7 +5,7 @@ title: 'Porubský dětský den'
 date: 2018-08-23T10:00:00.000Z
 author: Andrea Hoffmannová
 authorId: andrea.hoffmannova
-image: posts/tk-ostrava.jpg
+image: posts/detsky-den.jpg
 tags: 'ostrava poruba děti rodina'
 ---
 

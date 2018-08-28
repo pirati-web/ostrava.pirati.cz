@@ -5,7 +5,7 @@ title: 'Porubský pirátský jogging'
 date: 2018-08-28T10:00:00.000Z
 author: Andrea Hoffmannová
 authorId: andrea.hoffmannova
-image: posts/tk-ostrava.jpg
+image: posts/jogging1.jpg
 tags: 'ostrava poruba myslivna sport'
 ---
 
