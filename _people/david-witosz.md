@@ -4,14 +4,14 @@ name: David Witosz
 titles:
   before: Ing.
   after:
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - pms
-img: people/david-witosz.jpg   # 165 x 220
-description: předseda místního sdružení Piráti MOaP a garant programového bodu Doprava pro parlamentní volby 2017   	# kratký popis, max 160 znaků
-mail:
-- david.witosz@pirati.cz
-
+- leader
 ordpms: 2
+ordleaders: 1
+img: people/david-witosz.jpg
+description: kandidát na primátora města Ostravy
+mail: david.witosz@pirati.cz
 ---
 
 (* 26. dubna 1981)
