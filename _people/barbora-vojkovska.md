@@ -4,11 +4,17 @@ name: Barbora Vojkovská
 titles:
   before: Mgr. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
-- kandidat 
+category:
+  - kandidat 
 img: #
-description: kandidátka do zastupitelstva Moravské Ostravy a Přívozu # kratký popis, max 160 znaků
+description: kandidátka do zastupitelstva Moravské Ostravy a Přívozu
 mail: # zjistit
 ---
 
-Doplnit bio.
+(* 1986)
+
+Barbora Vojkovská je zkušená PPC specialistka, nadšená grafička, fanoušek veškeré online reklamy a komunikace, kreativní dáma, milovnice koloběžky a lektorka fitness a poledance.
+
+Soustředí se především na tvorbu kampaní pro online komunikaci.
+
+Vystudovala UTB ve Zlíně, ale nejvíc na světě miluje Ostravu.
