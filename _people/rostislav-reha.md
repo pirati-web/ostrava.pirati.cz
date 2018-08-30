@@ -4,18 +4,19 @@ name: Rostislav Řeha
 titles:
   before: Ing. 
   after: 
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
 - pks
-img: people/rostislav-reha.jpg           # 165 x 220
-description: místopředseda krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
-mail:
-- rostislav.reha@pirati.cz
+- leader
+ordpks: 4
+ordleaders: 2
+img: people/rostislav-reha.jpg
+description: volební lídr v Moravské Ostravě a Přívoze
+mail: rostislav.reha@pirati.cz
 profiles:
   github:
   facebook:	https://www.facebook.com/rostislav.reha	
   twitter:
   linkedin: 
-ordpks: 4
 ---
 
 (* 16. záři 1973)
