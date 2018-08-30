@@ -4,14 +4,14 @@ name: Jakub Šusta
 titles:
   before: 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: #
-description: kandidát do zastupitelstva Moravské Ostravy a Přívozu # kratký popis, max 160 znaků
+description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
 mail: # zjistit
 ---
 
-(* 27.07.1983)
+(* 27. července 1983)
 
 Jakub Šusta je majitelem a provozovatelem podniku Sádrový Ježek v centru Ostravy.
 

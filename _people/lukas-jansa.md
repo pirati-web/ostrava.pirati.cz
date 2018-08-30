@@ -4,10 +4,10 @@ name: Lukáš Jansa
 titles:
   before: JUDr. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/lukas-jansa.jpg
-description: kandidát do zastupitelstva Moravské Ostravy a Přívozu # kratký popis, max 160 znaků
+description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
 mail: # zjistit
 ---
 
