@@ -4,10 +4,12 @@ name: Ondřej Polanský
 titles:
   before: Ing. 
   after:
-category:                 	# kategorie: kandidat, pks, zastupitel
-- kandidat 
-img: #
-description: kandidát do zastupitelstva Moravské Ostravy a Přívozu # kratký popis, max 160 znaků
+category:
+- kandidat
+- poslanec
+ordposlanci: 2
+img: people/ondrej-polansky.jpg
+description: poslanec PSP ČR
 mail: # zjistit
 ---
 
