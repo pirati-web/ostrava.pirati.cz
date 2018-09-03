@@ -4,12 +4,13 @@ name: Martin Tomášek
 titles:
   before: Mgr. 
   after: Ph.D.
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat
+- senat
+ordsenat: 1
 img: people/martin-tomasek.jpg
-description: kandidát do Senátu v obvodu Ostrava-město, kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
-mail:
-# - martin.tomasek@pirati.cz - ověřit
+description: kandidát do Senátu v obvodu Ostrava-město
+mail: # - martin.tomasek@pirati.cz - ověřit
 ---
 
 Martin Tomášek se do Poruby přiženil v roce 1991 a považuje ji za ideální místo k životu.

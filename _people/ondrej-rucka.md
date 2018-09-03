@@ -4,10 +4,10 @@ name: Ondřej Ručka
 titles:
   before: JUDr. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/ondrej-rucka.jpg
-description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
+description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # zjistit
 ---
 

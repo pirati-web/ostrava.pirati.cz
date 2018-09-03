@@ -4,10 +4,10 @@ name: Michal Breškovec
 titles:
   before: Ing. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/michal-breskovec.jpg
-description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
+description: kandidát do zastupitelstva Ostravy-Jihu
 mail: michal.breskovec@pirati.cz 
 ---
 

@@ -1,12 +1,14 @@
 ---
 uid: jakub.pohl
 name: Jakub Pohl
-category:                 	# kategorie: kandidat, pks, zastupitel
+titles:
+  before: 
+  after:
+category:
 - kandidat 
 img: people/jakub-pohl.jpg
-description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidát do zastupitelstva Ostravy-Poruby
+mail: # - zjistit
 ---
 
 Narozen v Ostravě, převážnou část života žije v městské části Poruba. Vystudoval divadelní fakultu JAMU v Brně, obor Jevištní technologie.
