@@ -11,6 +11,13 @@ ordposlanci: 2
 img: people/ondrej-polansky.jpg
 description: poslanec PSP ČR
 mail: # zjistit
+mob: #
+profiles:
+  github:       
+  facebook: https://www.facebook.com/ondrej.polansky
+  twitter: https://twitter.com/ondrej_polansky
+  flickr:
+  web: http://ondrejpolansky.cz	 
 ---
 
 Ondřej Polanský se narodil roku 1984 v Ostravě, kde, s výjimkou doby studia na VŠ, žije dodnes. Členem pirátské strany je od jejího vzniku.
