@@ -4,10 +4,10 @@ name: Martin Kučera
 titles:
   before: Mgr. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/martin-kucera.jpg
-description: kandidát do zastupitelstva Moravské Ostravy a Přívozu # kratký popis, max 160 znaků
+description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
 mail: martin.kucera@pirati.cz
 ---
 (* 14. května 1971)

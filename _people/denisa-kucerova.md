@@ -4,12 +4,11 @@ name: Denisa Kučerová
 titles:
   before: Bc. 
   after:
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/denisa-kucerova.jpg
-description: kandidátka do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidátka do zastupitelstva Ostravy-Poruby
+mail: deniska.w@centrum.cz
 ---
 
 Denisa žije v Ostravě 11. rokem. Je vdaná a má dceru.

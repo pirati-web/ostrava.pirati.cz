@@ -4,12 +4,11 @@ name: Sandra Lamichová
 titles:
   before: 
   after:
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/sandra-lamichova.jpg
-description: kandidátka do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidátka do zastupitelstva Ostravy-Jihu
+mail: # - zjistit
 ---
 
 (* 1974) 

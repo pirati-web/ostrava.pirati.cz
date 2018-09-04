@@ -4,12 +4,13 @@ name: Pavlína Nováčková
 titles:
   before: Bc. 
   after: 
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:
   - kandidat 
-img: people/pavlina-novackova.jpg  # 165 x 220
-description: kandidátka na starostku Ostravy-Jihu            	# kratký popis, max 160 znaků
-mail:
-- # zjistit
+  - leader
+ordleaders: 4
+img: people/pavlina-novackova.jpg
+description: volební lídr na Ostravě-Jihu
+mail: # zjistit
 mob:			  
 profiles:
   github:       
