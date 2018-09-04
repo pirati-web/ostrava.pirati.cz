@@ -2,7 +2,7 @@
 uid: jakub.pohl
 name: Jakub Pohl
 titles:
-  before: 
+  before: BcA.
   after:
 category:
 - kandidat 
