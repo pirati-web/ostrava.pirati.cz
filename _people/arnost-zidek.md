@@ -4,12 +4,11 @@ name: Arnošt Žídek
 titles:
   before: Mgr. 
   after: Ph.D.
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/arnost-zidek.jpg
-description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidát do zastupitelstva Ostravy-Jihu
+mail: # - zjistit
 ---
 
 (* 7. srpna 1976) 

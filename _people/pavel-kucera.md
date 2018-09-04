@@ -2,14 +2,13 @@
 uid: pavel.kucera
 name: Pavel Kučera
 titles:
-  before: Mgr. 
+  before: Ing. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/pavel-kucera.jpg
-description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidát do zastupitelstva Ostravy-Poruby
+mail: #
 ---
 
 Pavel žije celý svůj život v Porubě, nakonec i dnes jej můžete potkat na procházce s manželkou a dcerkou. S krátkou přestávkou při studiu střední školy zde prožil i svá studentská léta, které zakončil vysokou školou v oboru informačních technologií. Nyní pracuje v Porubě jako programátor.

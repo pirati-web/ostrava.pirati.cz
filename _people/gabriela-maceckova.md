@@ -4,12 +4,11 @@ name: Gabriela Macečková
 titles:
   before: 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/gabriela-maceckova.jpg
-description: kandidátka do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidátka do zastupitelstva Ostravy-Jihu
+mail: # - zjistit
 ---
 
 (* 13. února 1997) 

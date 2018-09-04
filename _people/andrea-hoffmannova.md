@@ -4,12 +4,13 @@ name: Andrea Hoffmannová
 titles:
   before: Mgr. 
   after: Ph.D.
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-  - kandidat 
+category:
+- kandidat 
+- leader
+ordleaders: 3
 img: people/andrea-hoffmannova.jpg
-description: kandidátka na starostku Ostravy-Poruby            	# kratký popis, max 160 znaků
-mail:
-- andrea.hoffmannova@pirati.cz
+description: volební lídr v Ostravě-Porubě
+mail: andrea.hoffmannova@pirati.cz
 mob:			  
 profiles:
   github:       

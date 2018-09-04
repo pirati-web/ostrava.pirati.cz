@@ -4,10 +4,10 @@ name: Radim Stach
 titles:
   before: 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
-img:   # 165 x 220
-description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
+img:
+description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # zjistit
 ---
 
