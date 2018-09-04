@@ -4,12 +4,11 @@ name: Ondřej Netočný
 titles:
   before: Ing. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/ondrej-netocny.jpg
-description: kandidát do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidát do zastupitelstva Ostravy-Jihu
+mail: # - zjistit
 ---
 
 (* 21. února 1989) 

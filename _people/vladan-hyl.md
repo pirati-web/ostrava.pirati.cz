@@ -4,12 +4,11 @@ name: Vladan Hýl
 titles:
   before: 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/vladan-hyl.jpg
-description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidát do zastupitelstva Ostravy-Poruby
+mail: # - zjistit
 ---
 
 Vladan vystudoval herectví na Janáčkově konzervatoři v Ostravě.

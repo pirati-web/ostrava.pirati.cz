@@ -4,12 +4,11 @@ name: Jiří Rajnoch
 titles:
   before: Ing. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/jiri-rajnoch.jpg
-description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
-mail:
-# - jiri.rajnoch@pirati.cz - ověřit
+description: kandidát do zastupitelstva Ostravy-Poruby
+mail: # - jiri.rajnoch@pirati.cz - ověřit
 ---
 
 Jirka Rajnoch chodil do školky na základní, střední a vysokou školu do Ostravy-Poruby!

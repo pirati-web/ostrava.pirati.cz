@@ -4,12 +4,11 @@ name: Romana Körösi
 titles:
   before: 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/romana-korosi.jpg
-description: kandidátka do zastupitelstva Ostravy-Jihu   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidátka do zastupitelstva Ostravy-Jihu
+mail: # - zjistit
 ---
 
 (* 1973)

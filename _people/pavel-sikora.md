@@ -4,12 +4,11 @@ name: Pavel Sikora
 titles:
   before: Mgr. 
   after: 
-category:                 	# kategorie: kandidat, pks, zastupitel
+category:
 - kandidat 
 img: people/pavel-sikora.jpg
-description: kandidát do zastupitelstva Ostravy-Poruby   	# kratký popis, max 160 znaků
-mail:
-# - zjistit
+description: kandidát do zastupitelstva Ostravy-Poruby
+mail: # - zjistit
 ---
 
 Pavel je porubský patriot, v Porubě žije celý život a nehodlá to měnit.
