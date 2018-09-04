@@ -8,7 +8,7 @@ category:
 - kandidat 
 img: people/denisa-kucerova.jpg
 description: kandidátka do zastupitelstva Ostravy-Poruby
-mail: deniska.w@centrum.cz
+mail: #
 ---
 
 Denisa žije v Ostravě 11. rokem. Je vdaná a má dceru.
