@@ -5,7 +5,7 @@
   title: Volby 2018     # title of the campaign group
   campaigns:
     - title: Pirátský program   # individual campaigns within the group
-      categoryUid: praha2018
+      categoryUid: magistrat2018
     - title: Pět pirátských priorit pro Porubu
       categoryUid: poruba2018
     # - title: Senát
