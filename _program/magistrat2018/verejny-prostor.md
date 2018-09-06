@@ -16,35 +16,22 @@ order: 4
 
 Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvníky dostatečně atraktivní. Svou pozornost nechceme upírat pouze na centrum samotné, ale i na přilehlé obydlené oblasti a sídliště. Našim cílem je neustále kultivovat a oživovat veřejný prostor, a to především se zapojením veřejnosti jak laické tak odborné.
 
-<dl class="c-program-key-point-list">
-  <dt>Prosadíme zpracování kvalitního Manuálu veřejného prostranství,</dt>
-  <dd>jak už je standardem v Praze nebo v západní Evropě. Tímto manuálem chceme definovat, která veřejná místa jsou problematická, a je nutné přednostně upravit. Současně zakotvíme povinnost konání architektonických a urbanistických veřejných soutěží.</dd>
-  <dt>Budeme řešit nejproblematičtější místa</dt>
-  <dd>zmapovaná v rámci tzv. odborné plánovací dílny roku 2016 a vytvoříme mapu problematických míst i pro další části města.</dd>
-  <dt>Prosadíme realizaci designerské soutěže na městský mobiliář</dt>
-  <dd>namísto zastaralých plastových košů, nevzhledných květináčů atd. Vytvoříme manuál městského mobiliáře, tak aby byla zachována jednotná koncepce a úroveň kvality.</dd>
-  <dt>Zajistíme kvalitní opravu chodníků</dt>
-  <dd>v obytných zónách a na sídlištích, budeme vymáhat sankce z dřívějších smluv u nekvalitně provedené dlažby. V rámci manuálu veřejného prostranství budeme požadovat sjednocení povrchů a vzhledu vhodných pro konkrétní ulice dle významu a využití.</dd>
-  <dt>Budeme prosazovat dětská hřiště</dt>
-  <dd>v obytných zónách a realizovat projekt mobilních dětských koutků.</dd>
-  <dt>Vyřešíme chybějící veřejné WC</dt>
-  <dd>slevou z nájmu provozoven, které jsou v majetku města a které zpřístupní své toalety veřejnosti. Vybudujeme nová veřejná WC a podpoříme vznik přebalovacích a kojících koutků pro matky s dětmi v městských provozovnách.</dd>
-  <dt>Zajistíme efektivní a permanentní svoz odpadků</dt>
-  <dd>z veřejných odpadkových košů. Budeme prosazovat <b>zavedení inteligentních odpadkových košů</b> na solární energii, které budou hlásit svou naplněnost.</dd>
-  <dt>Omezíme reklamní smog (nevzhledné reklamní tabule a stojany)</dt>
-  <dd>nařízením města o regulaci reklamy.</dd>
-  <dt>Zatraktivníme Komenského sady</dt>
-  <dd>– podpoříme vybudování architektonicky zajímavé kavárny s veřejnými WC, esteticky zajímavých piknikových míst, edukativního dětského hřiště a poznávací stezky. Zajistíme dostatečnou zásobu sáčků na psí exkrementy. Současně chceme upravit tok Ostravice při nábřeží tak, aby zde vznikly zátočiny vhodné pro život říčních živočichů.</dd>
-  <dt>Opravíme chodníky v sadu Milady Horákové</dt>
-  <dd>a vypíšeme veřejnou soutěž na celkovou revitalizaci parku společně s řešením přístavby Domu kultury.</dd>
-  <dt>Trvalé umění ve městě</dt>
-  <dd>(sochy apod.) budeme umisťovat pouze jako <b>výsledek veřejné soutěže</b>.</dd>
-  <dt>Budeme usilovat o revitalizaci Černé louky.</dt>
-  <dt>Vytvoříme aplikaci</dt>
-  <dd>s GPS lokátorem za účelem poznávání zajímavých architektonických památek a soch ve veřejném prostranství. Budeme v rámci činnosti Ostravského informačního centra lépe propagovat památky, sochy ve veřejném prostranství, zajímavá místa či gastropodniky.</dd>
-  <dt>Zajistíme revitalizace zelených ploch</dt>
-  <dd>v zastavěných oblastech jako prostředku pro snížení teploty v horkých dnech a pro snížení prašnosti.</dd>
-</dl>
+<ul>
+  <li><b>Prosadíme zpracování kvalitního Manuálu veřejného prostranství</b>, jak už je standardem v Praze nebo v západní Evropě. Tímto manuálem chceme definovat, která veřejná místa jsou problematická, a je nutné přednostně upravit. Současně zakotvíme povinnost konání architektonických a urbanistických veřejných soutěží.</li>
+  <li><b>Budeme řešit nejproblematičtější místa</b> zmapovaná v rámci tzv. odborné plánovací dílny roku 2016 a vytvoříme mapu problematických míst i pro další části města.</li>
+  <li><b>Prosadíme realizaci designerské soutěže na městský mobiliář</b> namísto zastaralých plastových košů, nevzhledných květináčů atd. Vytvoříme manuál městského mobiliáře, tak aby byla zachována jednotná koncepce a úroveň kvality.</li>
+  <li><b>Zajistíme kvalitní opravu chodníků</b> v obytných zónách a na sídlištích, budeme vymáhat sankce z dřívějších smluv u nekvalitně provedené dlažby. V rámci manuálu veřejného prostranství budeme požadovat sjednocení povrchů a vzhledu vhodných pro konkrétní ulice dle významu a využití.</li>
+  <li><b>Budeme prosazovat dětská hřiště</b> v obytných zónách a realizovat projekt mobilních dětských koutků.</li>
+  <li><b>Vyřešíme chybějící veřejné WC</b> slevou z nájmu provozoven, které jsou v majetku města a které zpřístupní své toalety veřejnosti. Vybudujeme nová veřejná WC a podpoříme vznik přebalovacích a kojících koutků pro matky s dětmi v městských provozovnách.</li>
+  <li><b>Zajistíme efektivní a permanentní svoz odpadků</b> z veřejných odpadkových košů. Budeme prosazovat <b>zavedení inteligentních odpadkových košů</b> na solární energii, které budou hlásit svou naplněnost.</li>
+  <li><b>Omezíme reklamní smog (nevzhledné reklamní tabule a stojany)</b> nařízením města o regulaci reklamy.</li>
+  <li><b>Zatraktivníme Komenského sady</b> – podpoříme vybudování architektonicky zajímavé kavárny s veřejnými WC, esteticky zajímavých piknikových míst, edukativního dětského hřiště a poznávací stezky. Zajistíme dostatečnou zásobu sáčků na psí exkrementy. Současně chceme upravit tok Ostravice při nábřeží tak, aby zde vznikly zátočiny vhodné pro život říčních živočichů.</li>
+  <li><b>Opravíme chodníky v sadu Milady Horákové</b> a vypíšeme veřejnou soutěž na celkovou revitalizaci parku společně s řešením přístavby Domu kultury.</li>
+  <li><b>Trvalé umění ve městě</b> (sochy apod.) budeme umisťovat pouze jako <b>výsledek veřejné soutěže</b>.</li>
+  <li><b>Budeme usilovat o revitalizaci Černé louky.</b></li>
+  <li><b>Vytvoříme aplikaci</b> s GPS lokátorem za účelem poznávání zajímavých architektonických památek a soch ve veřejném prostranství. Budeme v rámci činnosti Ostravského informačního centra lépe propagovat památky, sochy ve veřejném prostranství, zajímavá místa či gastropodniky.</li>
+  <li><b>Zajistíme revitalizace zelených ploch</b> v zastavěných oblastech jako prostředku pro snížení teploty v horkých dnech a pro snížení prašnosti.</li>
+</ul>
 
 ## Moderní architektura a opravené památky
 
