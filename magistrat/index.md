@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
 title: Komunální volby v Ostravě
-campaignCategoryUid: praha2018
+campaignCategoryUid: magistrat2018
 candidateListUid: magistrat
 ---
 
