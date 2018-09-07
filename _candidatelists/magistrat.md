@@ -34,7 +34,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party:
   - uid: lukas.jansa
     age: 41
-    profession: právník, člen Pracovní komise pro soukromé právo
+    profession: právník, člen pracovní komise Legislativní rady vlády
     party:
   - uid: jakub.dedek
     age: 26
