@@ -12,7 +12,7 @@ order: 3
 
 **Životní prostředí vnímáme komplexně jako prostředí, ve kterém žijeme. Naše vize nejsou jen o přírodě a její ochraně, ale cítíme k ní velký respekt, k jejím schopnostem s velmi inspirativním přínosem i pro život ve městě. Pokud chráníme životní prostředí, chráníme tak i sebe, své zdraví, svůj životní prostor i místo ve svém okolí.**
 
-## Aby se nám dýchalo lépe: ovzduší
+## Ovzduší: Aby se nám dýchalo lépe
 
 <ul>
   <li>Kotlíkové dotace vnímáme pozitivně, prosazujeme však změnu v přístupu k poskytování dotací - více komunikace ze strany města a přímá pomoc úředníků při získávání dotace.</li>
@@ -23,7 +23,7 @@ order: 3
   <li>Podpoříme <b>motivaci k využívání hromadné dopravy</b> (slevy na dlouhodobé jízdné) a cyklodopravy (propojení cyklostezek mezi Ostravou a všemi okolními městy).</li>
 </ul>
 
-## Lepší prostředí pro život v městě: Mikroklima a hospodaření s vodou
+## Mikroklima a hospodaření s vodou: Lepší prostředí pro život v městě
 
 <ul>
   <li>Revitalizujeme a dále budeme <b>rozvíjet městskou zeleň</b>.</li>
@@ -34,7 +34,7 @@ order: 3
   <li>Vytvoříme teplotní mapy městských částí k zjištění a <b>odstranění teplotních hotspotů</b>.</li>
 </ul>
 
-## Nejlepší je odpad, který nevznikne: Odpadové hospodářství
+## Odpadové hospodářství: Nejlepší je odpad, který nevznikne
 
 <ul>
   <li>Prosadíme <b>snižování produkce směsného komunálního odpadu</b> (SKO) pomocí motivačních programů, rozšíření odděleného sběru a pod. Podpora využití systému PAYT (co vytřídíš, to neplatíš).</li>
@@ -42,7 +42,7 @@ order: 3
   <li>Rozšíříme <b>sběr oddělených komodit</b> o použité oleje z domácnosti (olej do výlevky nepatří) a drobný kovoodpad v individuální zástavbě.</li>
 </ul>
 
-## Řídíme město chytře: Ostrava Smart City
+## Ostrava Smart City: Řídíme město chytře
 
 <ul>
   <li>Úpravíme veřejného osvětlení - <b>popereme se se světelným smogem</b>.</li>
@@ -50,7 +50,7 @@ order: 3
   <li>Podporujeme co <b>nejširší otevřené informace o stavu ovzduší a dalších složek ŽP přímo na portálu města</b>, podpoříme zvýšení informovanosti obyvatel a návštěvníků pomocí připojení zdarma (využití dotačního programu WiFi4EU).</li>
 </ul>
 
-## Chceme město, kde se dá žít: Ekologické zátěže
+## Ekologické zátěže: Chceme město, kde se dá žít
 
 <ul>
   <li>Budeme požadovat výběr <b>skutečně efektivních způsobů sanace a likvidace ekologických zátěží</b> s ohledem na minimalizaci obtěžování a bezpečí obyvatel Ostravy a provádění rekultivací způsobem přírodě blízkých (např. přirozená sukcese).</li>
