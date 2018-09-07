@@ -17,7 +17,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Piráti
   - uid: lukas.jansa
     age: 41
-    profession: právník, člen Pracovní komise pro soukromé právo
+    profession: právník, člen pracovní komise Legislativní rady vlády
     description: 
     party:
   - uid: kamil.tomas
