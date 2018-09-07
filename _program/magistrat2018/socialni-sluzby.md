@@ -6,11 +6,11 @@ campaignGroupUid: volby-2018
 approved: #
 garant: veronika.murzynova
 perex: >
-  Ke kvalitnímu životu města patří veřejné služby na úrovni, které budou dostupné pro všechny a budou odpovídat aktuálním potřebám obyvatel.  Bezpečnost, dostupná zdravotní péče a bydlení je způsob k zajištění kvalitního života občanů všech věkových kategorií.
+  Ke kvalitnímu životu města patří veřejné služby na úrovni, které budou dostupné pro všechny a budou odpovídat aktuálním potřebám obyvatel. Bezpečnost, dostupná zdravotní péče a bydlení je způsob k zajištění kvalitního života občanů všech věkových kategorií. Posílíme spolupráci mezi městem, obvody a neziskovými organizacemi. Nechceme přenášet odpovědnost na nestátní neziskové organizace skrze použití dotací. Zaměříme se na podporu rodin s dětmi, seniorů i handicapovaných občanů formou individuálních služeb. Bezpečnost občanů Ostravy je pro Piráty zcela zásadní nejen v rámci snahy o zastavení odlivu obyvatel. Obyvatelé Ostravy musí mít pocit bezpečí a v případě jakéhokoliv problému v této oblasti jim musí být poskytnuta okamžitá a efektivní pomoc. 
 order: 6
 ---
 
-**Ke kvalitnímu životu města patří veřejné služby na úrovni, které budou dostupné pro všechny a budou odpovídat aktuálním potřebám obyvatel.  Bezpečnost, dostupná zdravotní péče a bydlení je způsob k zajištění kvalitního života občanů všech věkových kategorií.**
+**Ke kvalitnímu životu města patří veřejné služby na úrovni, které budou dostupné pro všechny a budou odpovídat aktuálním potřebám obyvatel. Bezpečnost, dostupná zdravotní péče a bydlení je způsob k zajištění kvalitního života občanů všech věkových kategorií. Posílíme spolupráci mezi městem, obvody a neziskovými organizacemi. Nechceme přenášet odpovědnost na nestátní neziskové organizace skrze použití dotací. Zaměříme se na podporu rodin s dětmi, seniorů i handicapovaných občanů formou individuálních služeb. Bezpečnost občanů Ostravy je pro Piráty zcela zásadní nejen v rámci snahy o zastavení odlivu obyvatel. Obyvatelé Ostravy musí mít pocit bezpečí a v případě jakéhokoliv problému v této oblasti jim musí být poskytnuta okamžitá a efektivní pomoc.**
 
 ## Dostupné a pohodlné bydlení pro všechny
 
@@ -24,8 +24,6 @@ order: 6
 
 ## Sociální podpora a služby pro všechny, kdo je potřebují
 
-Posílíme spolupráci mezi městem, obvody a neziskovými organizacemi. Nechceme přenášet odpovědnost na Nestátní neziskové organizace skrze použití dotací – naším cílem je posílení kooperace formou trojstranných kontraktů mezi magistrátem, městskými obvody, neziskovými organizacemi a rodinou s cílem zintenzivnit sociální práci v rodinách. Chceme použít již osvědčení způsoby a rozšířit je na všechny obvody. Zaměříme se na podporu rodin s dětmi, seniorů i handicapovaných občanů formou individuálních služeb.
-
 <ul>
   <li><b>Budeme pomáhat mladým rodinám</b> při získávání financí z dotačních titulů spojených s bydlením.</li>
   <li>Chceme zajistit poskytování individuálních služeb pro osoby se zdravotním znevýhodněním.</li>
@@ -35,11 +33,9 @@ Posílíme spolupráci mezi městem, obvody a neziskovými organizacemi. Nechcem
 
 ## Bezpečnost obyvatel Ostravy
 
-Bezpečnost občanů Ostravy je pro Piráty zcela zásadní nejen v rámci snahy o zastavení odlivu obyvatel. Obyvatelé Ostravy musí mít pocit bezpečí a v případě jakéhokoliv problému v této oblasti jim musí být poskytnuta okamžitá a efektivní pomoc.  Proto chceme:
-
 <ul>
   <li>Budeme informovat občany o „jejich“ územně odpovědných strážnících městské police, včetně vytvoření komunikační linky na příslušné osoby. <b>Okrskový policista by měl být partnerem</b> občanů ve své lokalitě.</li>
-  <li>Na základě dostupných dat zpracujeme <b>analýzu efektivnosti působení Policie</b> a zasadit se o zveřejnění co nejvíce relevantních údajů ve formě otevřených dat.</li>
+  <li>Na základě dostupných dat zpracujeme <b>analýzu efektivnosti působení Policie</b> a zasadíme se o zveřejnění co nejvíce relevantních údajů ve formě otevřených dat.</li>
   <li>Zajistíme <b>bezpečnou dopravu v blízkosti škol</b>.</li>
   <li>Zajistíme, aby <b>městská policie pracovala systematicky</b> a nezaměřovala se v určitou dobu jen na jednu lokalitu, aby byla vidět a spolupracovala s místními autoritami a hlavně s občany.</li>
   <li>Zvýšíme počet <b>asistentů prevence kriminality v rizikových místech</b> a časech na základě kompletní analýzy.</li>

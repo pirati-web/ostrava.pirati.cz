@@ -6,15 +6,13 @@ campaignGroupUid: volby-2018
 approved: #
 garant: lukas.jansa
 perex: >
-  Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvníky dostatečně atraktivní. Svou pozornost nechceme upírat pouze na centrum samotné, ale i na přilehlé obydlené oblasti a sídliště. Našim cílem je neustále kultivovat a oživovat veřejný prostor, a to především se zapojením veřejnosti jak laické tak odborné. Budeme usilovat o atraktivitu Ostravy prosazováním kvalitní architektury jako výsledku veřejných soutěží s účastí renomovaných architektů.
+  Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvníky dostatečně atraktivní. Našim cílem je neustále kultivovat a oživovat veřejný prostor, a to především se zapojením veřejnosti jak laické tak odborné. Budeme usilovat o atraktivitu Ostravy prosazováním kvalitní architektury jako výsledku veřejných soutěží s účastí renomovaných architektů. Jak ukazují příklady Bilbaa a Katowic, moderní architektura je pro další rozvoj industriálních měst zcela klíčová.
 order: 4
 ---
 
-**Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvníky dostatečně atraktivní. Našim cílem je neustále kultivovat a oživovat veřejný prostor, a to především se zapojením veřejnosti jak laické tak odborné. Budeme usilovat o atraktivitu Ostravy prosazováním kvalitní architektury jako výsledku veřejných soutěží s účastí renomovaných architektů.**
+**Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvníky dostatečně atraktivní. Našim cílem je neustále kultivovat a oživovat veřejný prostor, a to především se zapojením veřejnosti jak laické tak odborné. Budeme usilovat o atraktivitu Ostravy prosazováním kvalitní architektury jako výsledku veřejných soutěží s účastí renomovaných architektů. Jak ukazují příklady Bilbaa a Katowic, moderní architektura je pro další rozvoj industriálních měst zcela klíčová.**
 
 ## Atraktivní veřejný prostor
-
-Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvníky dostatečně atraktivní. Svou pozornost nechceme upírat pouze na centrum samotné, ale i na přilehlé obydlené oblasti a sídliště. Našim cílem je neustále kultivovat a oživovat veřejný prostor, a to především se zapojením veřejnosti jak laické tak odborné.
 
 <ul>
   <li><b>Prosadíme zpracování kvalitního Manuálu veřejného prostranství</b>, jak už je standardem v Praze nebo v západní Evropě. Tímto manuálem chceme definovat, která veřejná místa jsou problematická, a je nutné přednostně upravit. Současně zakotvíme povinnost konání architektonických a urbanistických veřejných soutěží.</li>
@@ -34,8 +32,6 @@ Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvn
 </ul>
 
 ## Moderní architektura a opravené památky
-
-Jak ukazují příklady Bilbaa a Katowic, moderní architektura je pro další rozvoj industriálních měst zcela klíčová. Budeme usilovat o atraktivitu Ostravy prosazováním kvalitní architektury jako výsledku veřejných soutěží s účastí renomovaných architektů.
 
 <ul>
   <li><b>Budeme podporovat výstavbu</b> Moravskoslezské knihovny tzv. Černé kostky, přestavbu budovy historických jatek podle návrhu polského architekta R. Konieczneho a realizaci veřejné architektonické soutěže s mezinárodním obsazením nejen poroty pro dostavbu Domu umění či výstavbu koncertní síně Janáčkovy filharmonie.</li>
