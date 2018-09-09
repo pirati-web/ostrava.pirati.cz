@@ -1,10 +1,12 @@
 ---
 title: Doprava, parkování a cyklodoprava
+shortTitle: Doprava a&nbsp;parkování
 uid: doprava
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #
 garant: david.witosz
+img: program/doprava.svg
 perex: >
   Plynulá doprava a dostatečné kapacity parkovišť jsou předpokladem dobře fungujícího města. Naší snahou bude efektivní rozvoj dopravní obslužnosti a budování dostatečných parkovacích kapacit.
 order: 2

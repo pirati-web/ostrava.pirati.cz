@@ -1,10 +1,12 @@
 ---
 title: Školství a sport
+shortTitle: Školství a&nbsp;sport
 uid: skolstvi-sport
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #
 garant: andrea.hoffmannova
+img: program/vzdelani.svg
 perex: >
    Kvalitní vzdělání je investicí do dalších generací našich občanů a začíná právě na úrovních mateřských a základních škol. Piráti Ostrava vidí ve školách základ komunity, budovy i instituce by měly být ideálně propojeny s místní komunitou občanů a podílet se na životě v dané lokalitě. Sportovní aktivity budeme podporovat zejména u dětí a poskytneme podporu největším talentům. K tomu je zapotřebí vybudovat kvalitní sportovní zázemí, a to včetně podpory kvalitních trenérů a dalších osob pomáhajících rozvíjet sportovní činnosti mladších generací.
 order: 6

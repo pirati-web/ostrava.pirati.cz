@@ -1,10 +1,12 @@
 ---
 title: Kultura
+shortTitle: Kultura
 uid: kultura
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #
 garant: andrea.hoffmannova
+img: program/kultura.svg
 perex: >
   Kultura v Ostravě hrála vždy důležitou roli, ne nadarmo se Ostrava skoro stala Evropským městem kultury pro rok 2015. Budeme podporovat kulturu, která by měla být žánrově rozmanitá a kvalitní. Toto máme v úmyslu docílit pomocí spravedlivého rozdělování dotací komisí složenou převážně z odborníků.
 order: 5

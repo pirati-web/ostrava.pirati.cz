@@ -1,10 +1,12 @@
 ---
 title: Veřejný prostor a architektura
+shortTitle: Veřejný prostor a&nbsp;architektura
 uid: verejny-prostor
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #
 garant: lukas.jansa
+img: program/mistni-rozvoj.svg
 perex: >
   Ostrava by se měla stát místem, které bude pro její obyvatele i návštěvníky dostatečně atraktivní. Našim cílem je neustále kultivovat a oživovat veřejný prostor, a to především se zapojením veřejnosti jak laické tak odborné. Budeme usilovat o atraktivitu Ostravy prosazováním kvalitní architektury jako výsledku veřejných soutěží s účastí renomovaných architektů. Jak ukazují příklady Bilbaa a Katowic, moderní architektura je pro další rozvoj industriálních měst zcela klíčová.
 order: 4

@@ -1,10 +1,12 @@
 ---
 title: Otevřená radnice, transparentní hospodaření a participace občanů
+shortTitle: Transparence a&nbsp;participace
 uid: otevrena-radnice
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: # https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: rostislav.reha
+img: program/otevrena-radnice.svg
 perex: >
   Piráti chtějí občanům umožnit komfortní komunikaci s úřady a podílet se připomínkami na rozhodování zastupitelstva, efektivně je zapojit do udržování pořádku a kultivování veřejného prostoru a zajistit, aby město poskytovalo zpětnou vazbu a reagovalo na jejich podněty. Otevřená radnice patří mezi principy, které umožní zapojit občany do kontroly a participace na řízení jejich města. Stejně tak hospodaření města by mělo být pro občany naprosto transparentní a nastaveno tak, aby byly veřejné finance šetřeny a efektivně využívány v maximální míře.
 order: 1
