@@ -1,6 +1,6 @@
 ---
 title: Veřejný prostor a architektura
-shortTitle: Veřejný prostor a&nbsp;architektura
+shortTitle: Veřejný prostor
 uid: verejny-prostor
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
