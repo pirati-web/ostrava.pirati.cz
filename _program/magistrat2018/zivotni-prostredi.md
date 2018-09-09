@@ -1,10 +1,12 @@
 ---
 title: Životní prostředí
+shortTitle: Životní prostředí
 uid: zivotni-prostredi
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #
 garant: rostislav.reha
+img: program/zivotni-prostredi.svg
 perex: >
   Životní prostředí vnímáme komplexně jako prostředí, ve kterém žijeme. Naše vize nejsou jen o přírodě a její ochraně, ale cítíme k ní velký respekt, k jejím schopnostem s velmi inspirativním přínosem i pro život ve městě. Pokud chráníme životní prostředí, chráníme tak i sebe, své zdraví, svůj životní prostor i místo ve svém okolí.
 order: 3

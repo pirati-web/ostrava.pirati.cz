@@ -1,10 +1,12 @@
 ---
 title: Veřejné a sociální služby
+shortTitle: Veřejné služby
 uid: socialni-sluzby
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #
 garant: veronika.murzynova
+img: program/socialni-sluzby.svg
 perex: >
   Ke kvalitnímu životu města patří veřejné služby na úrovni, které budou dostupné pro všechny a budou odpovídat aktuálním potřebám obyvatel. Bezpečnost, dostupná zdravotní péče a bydlení je způsob k zajištění kvalitního života občanů všech věkových kategorií. Posílíme spolupráci mezi městem, obvody a neziskovými organizacemi. Nechceme přenášet odpovědnost na nestátní neziskové organizace skrze použití dotací. Zaměříme se na podporu rodin s dětmi, seniorů i handicapovaných občanů formou individuálních služeb. Bezpečnost občanů Ostravy je pro Piráty zcela zásadní nejen v rámci snahy o zastavení odlivu obyvatel. Obyvatelé Ostravy musí mít pocit bezpečí a v případě jakéhokoliv problému v této oblasti jim musí být poskytnuta okamžitá a efektivní pomoc. 
 order: 7
