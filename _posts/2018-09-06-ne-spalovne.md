@@ -51,3 +51,5 @@ komentuje situaci Jan Nezhyba, garant Pirátů pro programový bod Životní pro
     </section>
   </div>
 </div>
+
+- - -

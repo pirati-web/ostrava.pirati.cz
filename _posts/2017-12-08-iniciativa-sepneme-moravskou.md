@@ -6,17 +6,23 @@ date: 2017-12-08T15:59:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: posts/2017-12-08-lavka3.jpg
-tags: 'ostrava moravská ostrava lávka sepněme moravskou'
+tags: 'Ostrava Moravská Lávka Sepněme Moravskou'
 ---
 Iniciativu „Sepněme Moravskou“ jsme chystali pro komunální volby 2018 v Ostravě ještě daleko dříve, než někoho z nás napadlo, že bych se mohl dostat do Parlamentu. S radostí proto oznamuji, že dnes byla jak (znovu)založena místní buňka pirátské strany v Moravské Ostravě a Přívoze, ale také představen náš hlavní projekt.
 
 „Sepněme Moravskou“ je název projektu, který představilo právě založené místní sdružení Pirátů pro Moravskou Ostravu a Přívoz. Smyslem iniciativy je propojit dvě dosud oddělené části obvodu tak, aby se z jednoho konce na druhý dostali chodci, lidé na invalidním vozíku, cyklisté i bruslaři.
 
-„Území obvodu Moravská Ostrava a Přívoz (MOaP) je od severu k jihu zhruba v polovině rozděleno neprostupnou bariérou v podobě železniční trati a ulice Místecké. Zatímco pro automobily je propojení přes osu  Hlavní nádraží a nádraží Ostrava – Střed velmi dobré, chodec prakticky nemá možnost důstojně se dostat z jedné části obvodu do druhé. Po celé délce mezi Hlavním nádražím a nádražím Ostrava – Střed neexistuje ani jeden plnohodnotný přechod,“ vysvětluje autor myšlenky, Pirát David Witosz.
+> „Území obvodu Moravská Ostrava a Přívoz (MOaP) je od severu k jihu zhruba v polovině rozděleno neprostupnou bariérou v podobě železniční trati a ulice Místecké. Zatímco pro automobily je propojení přes osu  Hlavní nádraží a nádraží Ostrava – Střed velmi dobré, chodec prakticky nemá možnost důstojně se dostat z jedné části obvodu do druhé. Po celé délce mezi Hlavním nádražím a nádražím Ostrava – Střed neexistuje ani jeden plnohodnotný přechod,“
+
+vysvětluje autor myšlenky, Pirát David Witosz.
 
 ![alt text]({{ 'assets/img/posts/2017-12-08-lavka1.jpg' | relative_url }} "Neprostupná bariéra urpostřed Moravské Ostravy a Přívozu."){: .thumbnail}
 
-Územní plán města ani nedávno zveřejněný strategický plán přitom s žádnou formou čistě pěšího bezbariérového propojení obou částí obvodu nepočítají. Situace je o to horší, že nedávné rozšíření Místecké ulice způsobilo odříznutí jediné funkční lávky přes železniční trať. V obvodu MOaP dnes žije přes 15 000 obyvatel na každé straně bariéry a Piráti se domnívají, že právě volný pohyb chodců v centrální části je základním předpokladem jeho oživení.  „Je to problém tak velký, a tak chronický, že si paradoxně nikdo ani neuvědomuje jeho závažnost, lidé se s tou bariérou již sžili a berou ji jako každodenní fakt. Vedení města tento problém nejen neřeší, navíc nechávají bez povšimnutí i jeho neustálé zhoršování.“ dodává Pirát David Witosz.
+Územní plán města ani nedávno zveřejněný strategický plán přitom s žádnou formou čistě pěšího bezbariérového propojení obou částí obvodu nepočítají. Situace je o to horší, že nedávné rozšíření Místecké ulice způsobilo odříznutí jediné funkční lávky přes železniční trať. V obvodu MOaP dnes žije přes 15 000 obyvatel na každé straně bariéry a Piráti se domnívají, že právě volný pohyb chodců v centrální části je základním předpokladem jeho oživení.
+
+> „Je to problém tak velký, a tak chronický, že si paradoxně nikdo ani neuvědomuje jeho závažnost, lidé se s tou bariérou již sžili a berou ji jako každodenní fakt. Vedení města tento problém nejen neřeší, navíc nechávají bez povšimnutí i jeho neustálé zhoršování.“
+
+dodává Pirát David Witosz.
 
 ![alt text]({{ 'assets/img/posts/2017-12-08-lavka2.jpg' | relative_url }} "Odříznutá pěší lávka přes železnici. Místo zvýšeného výskytu sražených chodců, kteří zoufale přebíhají kruhový objezd."){: .thumbnail}
 
@@ -40,9 +46,15 @@ Na stavbu propojení je navíc mimořádně příznivá doba. V oblasti se chyst
 - prodloužení Porážkové až k Hlavnímu nádraží,
 - propojení ulice Cihelní s ulicí Porážkovou.
 
-„Všechny tyto projekty jsou ve stavu záměru, takže se ještě nezačala zpracovávat dokumentace. Chceme dosáhnout toho, aby řešení pěšího propojení bylo její nedílnou součástí. Cena stavebního řešení i navazující pěší magistrály bude zlomková oproti investicím do automobilové a železniční infrastruktury,“ doplňuje pirátský poslanec za MSK Ondřej Polanský.
+> „Všechny tyto projekty jsou ve stavu záměru, takže se ještě nezačala zpracovávat dokumentace. Chceme dosáhnout toho, aby řešení pěšího propojení bylo její nedílnou součástí. Cena stavebního řešení i navazující pěší magistrály bude zlomková oproti investicím do automobilové a železniční infrastruktury,“
 
-Na této iniciativě Piráti navíc chtějí také prezentovat otevřený způsob komunikace s obyvateli obvodu. „Chceme s lidmi tvořit Ostravu společně, ptát se na jejich názory a postoje a pak je promítnout do skutečné podoby města,“ dodává David Witosz.
+doplňuje pirátský poslanec za MSK Ondřej Polanský.
+
+Na této iniciativě Piráti navíc chtějí také prezentovat otevřený způsob komunikace s obyvateli obvodu.
+
+> „Chceme s lidmi tvořit Ostravu společně, ptát se na jejich názory a postoje a pak je promítnout do skutečné podoby města,“
+
+dodává David Witosz.
 
 ### Odkazy
 
@@ -50,4 +62,3 @@ Na této iniciativě Piráti navíc chtějí také prezentovat otevřený způso
 
 
 - - -
-

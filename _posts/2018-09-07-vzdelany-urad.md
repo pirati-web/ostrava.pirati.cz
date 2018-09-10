@@ -42,3 +42,5 @@ Henry Ford údajně řekl:
 A o to bychom měli usilovat taky u nás na Jihu.
 
 *Autorky: Gabriela Macečková a Pavlína Nováčková*
+
+- - -

@@ -22,3 +22,5 @@ Akce se zúčastnil a dětský den zahájil pirátský kandidát na ostravského
 dodal Witosz, který je zároveň pirátským expertem pro dopravu.
  
 Akce se odhadem zúčastnilo kolem 1400 lidí a podle úsměvů na tvářích dětí, rodičů i kolemjdoucích soudíme, že se líbila. Brzy na viděnou na další pirátské akci!
+
+- - -

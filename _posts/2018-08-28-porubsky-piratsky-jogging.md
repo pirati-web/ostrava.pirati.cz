@@ -22,3 +22,5 @@ Trasa dlouhá něco kolem pěti kilometrů vede od Domova sester přes lesopark 
 dodala Hoffmannová.
  
 Termíny a časy porubského pirátského joggingu najdete v událostech na stránkách Pirátů Ostrava-Poruba. 
+
+- - -
