@@ -26,3 +26,5 @@ Jako obyvatel centra vidí problém v tom, že na dané opatření doplatí hlav
 Město by mělo vyřešit přetlak parkování v pracovní dny uvážlivě a ne dostávat z občanů bydlících v centru města peníze za parkování. 
 
 ![alt text]({{ 'assets/img/posts/parkovani3.jpg' | relative_url }} "Zcela zaplněné parkoviště v centru Ostravy."){: .thumbnail}
+
+- - -
