@@ -1,7 +1,7 @@
 ---
 title: Otevřená radnice, transparentní hospodaření a participace občanů
 shortTitle: Transparence a&nbsp;participace
-uid: otevrena-radnice
+uid: otevrena-transparentni-participace
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: # https://forum.pirati.cz/viewtopic.php?f=349&t=41530
