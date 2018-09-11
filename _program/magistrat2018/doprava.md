@@ -24,8 +24,11 @@ order: 2
 ## Dostatečné a efektivní parkování
 
 <ul>
-  <li><b>Budeme usilovat o vybudování parkovacího domu</b> ve vhodné lokalitě blízko Masarykova náměstí. V zastavěných oblastech <b>rozšíříme počet parkovacích míst</b>. Zavedeme aplikaci pro volné parkování. Budeme usilovat o rychlé odtahování autovraků. Pro rezidenty a abonenty vytvoříme bezplatné parkovací zóny s poskytnutím volné časové kapacity pro návštěvy, tyto zóny budou ve vymezeném čase během pracovních dní zpoplatněné pro ostatní návštěvníky centra.</li>
-  <li><b>Kvalitní a přesná data, základ správných rozhodnutí.</b> Vybudujeme a rozvineme systémy pro sběr dat o obsazení jednotlivých parkovacích míst. Tato otevřená data o využití parkovacích míst umožní vytvořit aplikaci, která uživatele snadno navede na volné parkovací místo bez zbytečného bloudění a ztráty času. Zároveň umožníme online nákup R karet s jejich následným doručením.</li>
+  <li><b>Budeme usilovat o vybudování parkovacího domu</b> ve vhodné lokalitě blízko Masarykova náměstí. V zastavěných oblastech <b>rozšíříme počet parkovacích míst</b>.</li>
+  <li>Budeme usilovat o <b>rychlé odtahování autovraků</b>.</li>
+  <li>Pro rezidenty a abonenty vytvoříme <b>bezplatné parkovací zóny s poskytnutím volné časové kapacity pro návštěvy</b>, tyto zóny budou ve vymezeném čase během pracovních dní zpoplatněné pro ostatní návštěvníky centra.</li>
+  <li><b>Kvalitní a přesná data, základ správných rozhodnutí.</b> Vybudujeme a rozvineme systémy pro sběr dat o obsazení jednotlivých parkovacích míst. Tato otevřená data o využití parkovacích míst umožní vytvořit aplikaci, která uživatele snadno navede na volné parkovací místo bez zbytečného bloudění a ztráty času.</li>
+  <li>Zároveň <b>umožníme online nákup R karet</b> s jejich následným doručením.</li>
 </ul>
 
 ## Uvážený rozvoj dopravy nejen uvnitř města
@@ -43,7 +46,8 @@ order: 2
 ## Kvalitní a rozvinutá cyklodoprava
 
 <ul>
-  <li><b>Dokončíme síť cyklostezek</b> v rámci stávající dopravní infastruktury, včetně cyklopřechodů a lávek spojující centrum města s ostatními částmi Ostravy. <b>Vybudujeme parkovací boxy</b> na kola u sportovišť, úřadů, obchodních center atd.</li>
+  <li><b>Dokončíme síť cyklostezek</b> v rámci stávající dopravní infastruktury, včetně cyklopřechodů a lávek spojující centrum města s ostatními částmi Ostravy.</li>
+  <li><b>Vybudujeme parkovací boxy</b> na kola u sportovišť, úřadů, obchodních center atd.</li>
   <li>Budeme dál rozvíjet spolupráci města s poskytovateli <b>sdílení kol</b>. V oblasti bikesharingu je třeba zajistit, aby odstavená kola neobtěžovala chodce.</li>
 </ul>
 
