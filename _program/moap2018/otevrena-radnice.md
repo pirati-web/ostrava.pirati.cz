@@ -22,7 +22,7 @@ order: 3
   <li><b>Zřídíme elektronický systém</b>, který bude od občanů, neziskového sektoru a firem shromažďovat žádosti, odpovědi a který umožní veřejnou diskusi.</li>
 </ul>
 
-## Omezení korupce politiků a úředníků
+## Zamezení korupce politiků a úředníků
 
 <ul>
   <li><b>Zabráníme nekalému jednání a střetu zájmů</b> politiků a úředníků - občané musí vědět, kdo řídí město.</li>

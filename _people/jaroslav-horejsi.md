@@ -6,7 +6,7 @@ titles:
   after: 
 category:
 - kandidat 
-img: #
+img: people/jaroslav-horejsi.jpg
 description: kandidát do zastupitelstva MMO
 mail: # - zjistit
 ---
