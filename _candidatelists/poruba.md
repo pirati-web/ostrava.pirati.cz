@@ -62,7 +62,7 @@ tail: # zbytek kandidatky
     age: 34
     profession:  učitel
     party:
-  - name:  Ing. Kateřina Smutná
+  - name:  Ing. Kateřina Smutná, Ph.D.
     age: 37
     profession:  vědecký pracovník
     party:
