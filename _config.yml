@@ -10,14 +10,14 @@ email: pavel.korizek@pirati.cz
 description: >-
   Piráti Ostrava - Web České pirátské strany v Ostravě
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, ostrava, česká pirátská strana, magistrat, moap, poruba, jih, svoboda, demokracie
+keywords: ostrava, piráti, pirátská strana, magistrat, moap, poruba, jih, svoboda, demokracie
 
 administrator:
   email: pavel.korizek@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Pirátská strana Ostrava
-  shortName: Ostrava
+  name: Piráti Ostrava
+  shortName: Piráti Ostrava
   contactUid: jakub.dedek
   email: jakub.dedek@pirati.cz
   phone: +420 770 113 644
