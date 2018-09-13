@@ -1,7 +1,7 @@
 ---
 title: Životní prostředí
 shortTitle: Životní prostředí
-uid: zivotni-prostredi
+uid: zivotni-prostredi-magistrat
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #

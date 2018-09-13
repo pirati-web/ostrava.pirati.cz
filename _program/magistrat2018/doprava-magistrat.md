@@ -1,7 +1,7 @@
 ---
 title: Doprava, parkování a cyklodoprava
 shortTitle: Doprava a&nbsp;parkování
-uid: doprava
+uid: doprava-magistrat
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #

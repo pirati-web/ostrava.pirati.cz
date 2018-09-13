@@ -1,7 +1,7 @@
 ---
 title: Kultura
 shortTitle: Kultura
-uid: kultura
+uid: kultura-magistrat
 campaignCategoryUid: magistrat2018
 campaignGroupUid: volby-2018
 approved: #
