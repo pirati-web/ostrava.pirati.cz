@@ -51,7 +51,7 @@ order: 1
   <li><b>Celoročně oživíme Masarykovo náměstí</b>, tzn. budeme usilovat o kvalitní využití (výstavy, kvalitní výsadba atd.) také na jaře a na podzim. Zejména chceme řešit proluky na Masarykově náměstí umístěním veřejně zajímavých projektů (např. výstavy a sochy pod širým nebem).</li>
   <li>Chceme společně s Vysokou školou báňskou a Ostravskou univerzitou <b>hledat řešení pro budovu Ekonomické fakulty VŠB</b>, budeme usilovat o zachování této fakulty nebo umístění jiné fakulty ve stávající budově, případně oslovovat potenciální nájemce ze sektoru soukromého školství.</li>
   <li>Chceme řešit <b>využití Kina Vesmír</b> nejen pro promítání kvalitní filmové tvorby, ale i pro pořádání zajímavých přednášek, festivalů a konferencí.</li>
-  <li><b>Omezíme reklamní smog</b> v centru města (např. nevzhledné reklamní tabule a stojany) nařízením o regulaci reklamy.</li>
+  <li><b>Omezíme reklamní smog</b> v centru města (např. nevzhledné reklamní tabule a stojany) vyhláškou o regulaci reklamy.</li>
   <li>Budeme intenzivně <b>řešit</b> soubor památkově chráněných budov <b>Bachner, Ostravica - Textilia</b>.</li>
   <li><b>Budeme podporovat výstavbu</b> Moravskoslezské knihovny tzv. Černé kostky, přestavbu budovy historických jatek podle návrhu polského architekta R. Konieczneho a realizaci veřejné architektonické soutěže s mezinárodním obsazením nejen poroty pro dostavbu Domu umění či výstavbu koncertní síně Janáčkovy filharmonie.</li>
 </ul>

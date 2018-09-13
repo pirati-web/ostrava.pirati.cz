@@ -24,7 +24,7 @@ order: 4
   <li><b>Budeme prosazovat dětská hřiště</b> v obytných zónách a realizovat projekt mobilních dětských koutků.</li>
   <li><b>Vyřešíme chybějící veřejné WC</b> slevou z nájmu provozoven, které jsou v majetku města a které zpřístupní své toalety veřejnosti. Vybudujeme nová veřejná WC a podpoříme vznik přebalovacích a kojících koutků pro matky s dětmi v městských provozovnách.</li>
   <li><b>Zajistíme efektivní a permanentní svoz odpadků</b> z veřejných odpadkových košů. Budeme prosazovat <b>zavedení inteligentních odpadkových košů</b> na solární energii, které budou hlásit svou naplněnost.</li>
-  <li><b>Omezíme reklamní smog (nevzhledné reklamní tabule a stojany)</b> nařízením města o regulaci reklamy.</li>
+  <li><b>Omezíme reklamní smog (nevzhledné reklamní tabule a stojany)</b> vyhláškou města o regulaci reklamy.</li>
   <li><b>Zatraktivníme Komenského sady</b> – podpoříme vybudování architektonicky zajímavé kavárny s veřejnými WC, esteticky zajímavých piknikových míst, edukativního dětského hřiště a poznávací stezky. Zajistíme dostatečnou zásobu sáčků na psí exkrementy. Současně chceme upravit tok Ostravice při nábřeží tak, aby zde vznikly zátočiny vhodné pro život říčních živočichů.</li>
   <li><b>Opravíme chodníky v sadu Milady Horákové</b> a vypíšeme veřejnou soutěž na celkovou revitalizaci parku společně s řešením přístavby Domu kultury.</li>
   <li><b>Trvalé umění ve městě</b> (sochy apod.) budeme umisťovat pouze jako <b>výsledek veřejné soutěže</b>.</li>
