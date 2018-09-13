@@ -11,8 +11,6 @@ description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # - zjistit
 ---
 
-(* 10. srpna 1976) 
-
 (* 10. července 1995)
 
 Robert Kolena je od června roku 2018 registrovaným příznivcem České pirátské strany. Narodil se v Ostravě.
