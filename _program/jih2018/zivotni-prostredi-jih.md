@@ -1,10 +1,12 @@
 ---
 title: Životní prostředí
+shortTitle: Životní prostředí
 uid: zivotni-prostredi-jih
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: ondrej.netocny
+img: program/zivotni-prostredi.svg
 perex: >
   Bojujeme proti suchu a plýtvání pitnou vodou. Výrazný problém představuje i znečištěné ovzduší, proto ho chceme monitorovat a získaná data využít k zavedení účinných opatření. Budeme uvažovat nad vysazováním zeleně – ta totiž musí být estetická, užitečná a vhodná.
 order: 6

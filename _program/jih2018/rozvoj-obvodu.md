@@ -1,10 +1,12 @@
 ---
 title: Rozvoj obvodu a veřejný prostor
+shortTitle: Rozvoj obvodu
 uid: rozvoj-obvodu
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: pavlina.novackova
+img: program/mistni-rozvoj.svg
 perex: >
   Všechna města, městské části nebo obvody by měly vědět, čeho chtějí dosáhnout během příštích 5, 10 nebo 30 let. I místo, kde žijeme, potřebuje vize a plány svého rozvoje. Neobejdeme se bez kvalitního urbanismu, nemůžeme přehlížet potřeby lidí a životního prostředí.
 order: 1

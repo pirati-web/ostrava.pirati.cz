@@ -1,10 +1,12 @@
 ---
 title: Sociální problematika seniorů a hendikepovaných
+shortTitle: Senioři a&nbsp;hendikepovaní
 uid: socialni-problematika
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: sandra.lamichova
+img: program/zdravotnictvi.svg
 perex: >
   Na Jihu žijí lidé s hendikepem, a jak obvod stárne, přibývá i občanů s omezenou pohyblivostí. Potřebám obou skupin se zatím nevěnovala velká pozornost a jejich problémy byly řešeny pouze okrajově. Chceme to změnit a rozšířit Senior express mezi větší skupinu seniorů i mezi hendikepované.
 order: 3

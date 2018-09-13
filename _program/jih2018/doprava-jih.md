@@ -1,10 +1,12 @@
 ---
 title: Doprava
+shortTitle: Doprava
 uid: doprava-jih
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: petr.kopecny
+img: program/doprava.svg
 perex: >
   Podporujeme udržitelnou mobilitu a alternativní zdroje, jejichž využívání budeme koordinovat s celým městem. Podporujeme budování cyklostezek pro lepší dojíždění do práce i ježdění na kole ve volném čase. Zasadíme se o rozvoj bikesharingu. Problematiku parkování budeme řešit stavbou parkovacích domů a změnou parkovacích dispozic všude tam, kde to bude možné.
 order: 5
