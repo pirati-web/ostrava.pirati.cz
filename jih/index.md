@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
 title: Piráti Ostrava-Jih
-campaignCategoryUid: praha2018
+campaignCategoryUid: jih2018
 candidateListUid: jih
 ---
 
