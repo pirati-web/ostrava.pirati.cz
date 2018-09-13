@@ -13,7 +13,7 @@ mail: # zjistit
 
 (* 9. srpna 1977)
 
-Lukáš Jansa je advokát a společníkem advokátní kanceláře Jansa, Mokrý, Otevřel & partneři, s.r.o., která se stala opakovaně finalistou soutěže Vodafone Firma roku Moravskoslezského kraje a také Odpovědnou firmou roku Moravskoslezského kraje. Je současně asistent poslance Ing. Lukáše Černohorského. Dále je členem Pracovní komise pro soukromé právo Legislativní rady vlády ČR a členem Sekce IT práva a GDPR České advokátní komory.
+Lukáš Jansa je advokát a společník advokátní kanceláře Jansa, Mokrý, Otevřel & partneři, s.r.o., která se stala opakovaně finalistou soutěže Vodafone Firma roku Moravskoslezského kraje a také Odpovědnou firmou roku Moravskoslezského kraje. Je současně asistent poslance Ing. Lukáše Černohorského. Dále je členem Pracovní komise pro soukromé právo Legislativní rady vlády ČR a členem Sekce IT práva a GDPR České advokátní komory.
 
 Pirátům pomáhá už od roku 2010.
 
