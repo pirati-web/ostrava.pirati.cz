@@ -1,10 +1,12 @@
 ---
 title: Bydlení a bezpečnost
+shortTitle: Bydlení a&nbsp;bezpečnost
 uid: bydleni-bezpecnost
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: romana.korosi
+img: program/socialni-sluzby.svg
 perex: >
   Stát městům v sociální oblasti zatím stále moc nepomáhá. To málo, co existuje, však hodláme maximálně využít, podporujeme např. koncept „housing first“.
 order: 7

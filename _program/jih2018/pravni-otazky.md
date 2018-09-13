@@ -1,10 +1,12 @@
 ---
 title: Právní otázky
+shortTitle: Právní otázky
 uid: pravni-otazky
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: ondrej.rucka
+img: program/spravedlnost.svg
 perex: >
   Uskutečníme sérii přednášek na různá témata, která pomohou lidem zorientovat se v jednání s úřady a v otázkách ekonomických a právních. S městem budeme chtít vyjednat přísnější obecně závaznou vyhlášku proti hazardu.
 order: 10

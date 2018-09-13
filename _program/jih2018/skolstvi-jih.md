@@ -1,10 +1,12 @@
 ---
 title: Školství
+shortTitle: Školství
 uid: skolstvi-jih
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: arnost.zidek
+img: program/vzdelani.svg
 perex: >
   Školství na Jihu potřebuje systematické a kvalitní zabezpečení po finanční i personální stránce. Musíme školám pomoci od zbytečné byrokracie všude, kde to pravidla umožní. Propojíme různé stupně vzdělávání semináři, workshopy a dalšími společnými projekty.
 order: 8

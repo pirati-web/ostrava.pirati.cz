@@ -1,10 +1,12 @@
 ---
 title: Kultura
+shortTitle: Kultura
 uid: kultura-jih
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: pavlina.novackova
+img: program/kultura.svg
 perex: >
   Kultura na Jihu potřebuje vzpruhu. Musíme více spolupracovat se spolky a neziskovými organizacemi, podporovat místní umělce a pomáhat kultuře tzv. odspodu. Organizace akcí má klást důraz na jedinečnost místní kultury, proto chceme více zapojit studenty a kreativní obyvatele Jihu.
 order: 4

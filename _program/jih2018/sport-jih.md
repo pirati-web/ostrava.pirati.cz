@@ -1,10 +1,12 @@
 ---
 title: Sport
+shortTitle: Sport
 uid: sport-jih
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: robert.kolena
+img: program/sport.png
 perex: >
   Naší prioritou je zajištění sportovních činností pro děti a mládež. Jsme přesvědčení, že obvod má podporovat sportovní kluby a spolky s různým zaměřením.
 order: 9

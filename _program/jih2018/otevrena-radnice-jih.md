@@ -1,10 +1,12 @@
 ---
 title: Otevřená radnice
+shortTitle: Otevřená radnice
 uid: otevrena-radnice-jih
 campaignCategoryUid: jih2018
 campaignGroupUid: volby-2018
 approved: #
 garant: gabriela.maceckova
+img: program/otevrena-radnice.svg
 perex: >
   Naší prioritou je zvýšit informovanost občanů o dění v obvodu. Pokud jsou dostupné kvalitní informace, otevírá se prostor pro smysluplnou debatu o tom, jak obvod vést dále.
 order: 2

@@ -13,7 +13,7 @@ candidateListUid: magistrat
       <div class="c-BasicPage">
         <div class="c-BasicPage-content">
             {% assign program = site.program | where: "campaignCategoryUid","magistrat2018" | sort: 'order' %}
-            <div class="row small-up-4 medium-up-6 large-up-8">
+            <div class="row small-up-4 medium-up-6 large-up-7">
               {% for item in program %}
                 <div class="column column-block">
                   <a href="{{ item.url | relative_url }}">
