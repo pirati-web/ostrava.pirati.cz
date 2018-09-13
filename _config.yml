@@ -11,6 +11,7 @@ description: >-
   Piráti Ostrava - Web České pirátské strany v Ostravě
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: ostrava, piráti, pirátská strana, magistrat, moap, poruba, jih, svoboda, demokracie
+url: "https://ostrava.pirati.cz"
 
 administrator:
   email: pavel.korizek@pirati.cz # mail kam pujdou chybove vystupy
