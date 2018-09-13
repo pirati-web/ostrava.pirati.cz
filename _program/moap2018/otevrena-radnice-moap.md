@@ -15,10 +15,10 @@ order: 3
 ## Maximální přístup k informacím
 
 <ul>
-  <li><b>Umožníme občanům snadný přístup k maximu informací</b>. Chceme zpřístupnit údaje o rozpočtu, ekonomice, dopravě, kriminalitě, životním prostředí, stavbách, jednáních atd. Informace budou k dispozici ve formě open data, automatizovaných výstupů z dnes již fungujících informačních systémů města. Budeme také podporovat zapracování těchto dat do užitečných aplikací, které umožní jednoduchým a individuálně nastavitelným způsobem přístup občanů k tomu, co je v jejich okolí zajímá.</li>
+  <li><b>Umožníme občanům snadný přístup k maximu informací</b>. Chceme zpřístupnit údaje o rozpočtu, ekonomice, dopravě, kriminalitě, životním prostředí, stavbách a jednáních. Informace budou k dispozici ve formě open data, automatizovaných výstupů z dnes již fungujících informačních systémů města. Budeme také podporovat zapracování těchto dat do užitečných aplikací, které umožní jednoduchým a individuálně nastavitelným způsobem přístup občanů k tomu, co je v jejich okolí zajímá.</li>
   <li><b>Zabráníme nevýhodným nákupům a prodejům</b>, o kterých se veřejnost většinou dozví, až když už je pozdě. O případném nákupu nebo prodeji majetku budeme informovat s předstihem a s maximálním využitím různých informačních kanálů.</li>
   <li><b>Zefektivníme nástroj pro udržování pořádku a zlepšování veřejného prostoru cistaova.cz</b>, a to zveřejněním fotografií, uvedením termínu do kdy má být situace řešena a odesláním informace o vyřešení občanům, kteří odeslali hlášení, vytvoření týmu, který bude vyhledávat samostatně nedostatky veřejného prostranství a bude dozorovat na vyřešení všech nedostatků.</li>
-  <li><b>Vytvoříme přehledný informační portál pro vyhledávání informací</b> uveřejněných dle zákona č. 106/1999 Sb., který bude obsahovat archiv zveřejněných informací.</li>
+  <li><b>Vytvoříme přehledný informační portál pro vyhledávání informací</b> uveřejněných dle zákona č. 106/1999 Sb. o svobodném přístupu k infomracím, který bude obsahovat archiv zveřejněných informací.</li>
   <li><b>Zřídíme elektronický systém</b>, který bude od občanů, neziskového sektoru a firem shromažďovat žádosti, odpovědi a který umožní veřejnou diskusi.</li>
 </ul>
 

@@ -47,7 +47,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party:
   - uid: jakub.susta
     age: 35
-    profession: podnikatel
+    profession: podnikatel v gastronomii
     description: 
     party: 
   - uid: jan.nemcek

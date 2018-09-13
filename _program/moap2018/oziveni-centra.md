@@ -27,9 +27,9 @@ order: 1
 <ul>
   <li>V rámci průmyslu požadujeme <b>omezení vzniku nových zdrojů znečištění</b> (plánovaná <a href="{{ 'aktuality/ne-spalovne.html' | relative_url }}">spalovna</a> v blízkosti centra města). Centrum města je zatíženo zvýšenou koncentrací prachu a absencí koncepce rozvoje městské zeleně. Dokud nedojde ke zlepšení životního prostředí v centru, pak nebude důvod, aby se lidé do centra vraceli bydlet.</li>
   <li>Budeme <b>poskytovat</b> lepší a dostupné, otevřené <b>informace o stavu ovzduší a dalších složek</b> životního prostředí. Přímo na portálu města zvýšení informovanosti obyvatel a návštěvníků pomocí veřejného internetového portálu města.</li>
-  <li>V městském prostředí chceme nadále <b>udržovat trvale zelené pásy kolem silnic</b> a podporovat výstavbu izolační zeleně.</li>
   <li>Budeme usilovat o <b>revitalizaci a rozvoj městské zeleně</b>.</li>
-  <li>Zajistíme <b>chodníky bez jedů</b> pro naše děti (zákaz používání herbicidů na bázi glyfosátu v katastru města Ostrava).</li>
+  <li>Chceme nadále <b>udržovat trvale zelené pásy kolem silnic</b> a podporovat výstavbu izolační zeleně.</li>
+  <li>Zajistíme <b>chodníky bez jedů</b> (zákaz používání herbicidů na bázi glyfosátu v katastru města Ostrava).</li>
   <li>Budeme usilovat o <b>využívání šedé vody v objektech obcí</b>, podpora její využívání v rámci staveb a rekonstrukcí (snižování spotřeby).</li>
   <li>Budeme usilovat o <b>snižování produkce směsného komunálního odpadu</b> (SKO) např. pomocí motivačních programů, rozšíření odděleného sběru apod. a podpoříme <b>využití systému PAYT</b> (co vytřídíš, to neplatíš).</li>
   <li>Zajistíme <b>využití a podporu separace bioodpadů</b> (bioodpad tvoří okolo 40% obsahu SKO).</li>
@@ -40,6 +40,7 @@ order: 1
 ## Atraktivní veřejný prostor
 
 <ul>
+  <li><b>Zakotvíme povinnost konání architektonických soutěží</b> a budeme usilovat o opravy památkově chráněných domů (Ostravica - Textilia, Bachner), včetně prosazování sankcí za zanedbání oprav soukromými vlastníky.
   <li><b>Zatraktivníme Komenského sady</b> – podpoříme vybudování architektonicky zajímavé kavárny s veřejnými WC, esteticky zajímavých piknikových míst, edukativního dětského hřiště a poznávací stezky. Zajistíme dostatečnou zásobu sáčků na psí exkrementy. Současně chceme upravit tok Ostravice při nábřeží tak, aby zde vznikly zátočiny vhodné pro život říčních živočichů.</li>
   <li><b>Odstraníme parkoviště z Kostelního náměstí</b> a proměníme ho na atraktivní místo pro setkávání a kulturní aktivity.</li>
   <li><b>Opravíme chodníky v sadu Milady Horákové</b> a vypíšeme veřejnou soutěž na celkovou revitalizaci parku společně s řešením přístavby Domu kultury.</li>
@@ -52,8 +53,7 @@ order: 1
   <li>Chceme společně s Vysokou školou báňskou a Ostravskou univerzitou <b>hledat řešení pro budovu Ekonomické fakulty VŠB</b>, budeme usilovat o zachování této fakulty nebo umístění jiné fakulty ve stávající budově, případně oslovovat potenciální nájemce ze sektoru soukromého školství.</li>
   <li>Chceme řešit <b>využití Kina Vesmír</b> nejen pro promítání kvalitní filmové tvorby, ale i pro pořádání zajímavých přednášek, festivalů a konferencí.</li>
   <li><b>Omezíme reklamní smog</b> v centru města (např. nevzhledné reklamní tabule a stojany) vyhláškou o regulaci reklamy.</li>
-  <li>Budeme intenzivně <b>řešit</b> soubor památkově chráněných budov <b>Bachner, Ostravica - Textilia</b>.</li>
-  <li><b>Budeme podporovat výstavbu</b> Moravskoslezské knihovny tzv. Černé kostky, přestavbu budovy historických jatek podle návrhu polského architekta R. Konieczneho a realizaci veřejné architektonické soutěže s mezinárodním obsazením nejen poroty pro dostavbu Domu umění či výstavbu koncertní síně Janáčkovy filharmonie.</li>
+  <li><b>Budeme podporovat výstavbu</b> Moravskoslezské knihovny tzv. Černé kostky, přestavbu budovy historických jatek, přístavbu Domu umění tzv. Bílého stínu vybudování nové koncertní síně Janáčkovy filharmonie.</li>
 </ul>
 
 ## Kvalitní kultura pro oživení centra
