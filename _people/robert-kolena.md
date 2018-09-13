@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - kandidat 
-img: # 
+img: people/robert-kolena.jpg 
 description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # - zjistit
 ---
