@@ -1,6 +1,6 @@
 ---
 title: Otevřená radnice
-uid: otevrena-radnice
+uid: otevrena-radnice-moap
 campaignCategoryUid: moap2018
 campaignGroupUid: volby-2018
 approved: # https://forum.pirati.cz/viewtopic.php?f=349&t=41530
