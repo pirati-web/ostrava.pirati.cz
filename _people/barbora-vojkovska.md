@@ -6,7 +6,7 @@ titles:
   after: 
 category:
   - kandidat 
-img: #
+img: people/barbora-vojkovska.jpg
 description: kandidátka do zastupitelstva Moravské Ostravy a Přívozu
 mail: # zjistit
 ---
