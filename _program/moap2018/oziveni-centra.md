@@ -40,7 +40,7 @@ order: 1
 ## Atraktivní veřejný prostor
 
 <ul>
-  <li><b>Zakotvíme povinnost konání architektonických soutěží</b> a budeme usilovat o opravy památkově chráněných domů (Ostravica - Textilia, Bachner), včetně prosazování sankcí za zanedbání oprav soukromými vlastníky.
+  <li><b>Zakotvíme povinnost konání architektonických soutěží</b> a budeme usilovat o opravy památkově chráněných domů (Ostravica - Textilia, Bachner), včetně prosazování sankcí za zanedbání oprav soukromými vlastníky.</li>
   <li><b>Zatraktivníme Komenského sady</b> – podpoříme vybudování architektonicky zajímavé kavárny s veřejnými WC, esteticky zajímavých piknikových míst, edukativního dětského hřiště a poznávací stezky. Zajistíme dostatečnou zásobu sáčků na psí exkrementy. Současně chceme upravit tok Ostravice při nábřeží tak, aby zde vznikly zátočiny vhodné pro život říčních živočichů.</li>
   <li><b>Odstraníme parkoviště z Kostelního náměstí</b> a proměníme ho na atraktivní místo pro setkávání a kulturní aktivity.</li>
   <li><b>Opravíme chodníky v sadu Milady Horákové</b> a vypíšeme veřejnou soutěž na celkovou revitalizaci parku společně s řešením přístavby Domu kultury.</li>

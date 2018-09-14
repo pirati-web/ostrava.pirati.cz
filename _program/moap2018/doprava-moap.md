@@ -24,7 +24,7 @@ order: 2
 ## Uvážený rozvoj dopravy
 
 <ul>
-  <li>Zasadíme se o co <b>nejrychlejší rozšíření Místecké</b> a její napojení na ul. Českobratrskou. Ekonomické ztráty pramenící z nedostavění této důležité stavby stojí stát (a tedy i nás, občany) mnohem větší prostředky a každým dnem se tyto ztráty jen a jen navyšují.</li>
+  <li>Zasadíme se o co <b>nejrychlejší dobudování Místecké</b> a její napojení na ulici Českobratrskou. Ekonomické ztráty pramenící z nedostavění této důležité stavby stojí stát (a tedy i nás, občany) mnohem větší prostředky a každým dnem se tyto ztráty jen a jen navyšují.</li>
   <li>Chceme <b>propojit sídliště Fifejdy a Šalamouna s centrem</b> (<a href="{{ 'aktuality/iniciativa-sepneme-moravskou.html' | relative_url }}">Sepněme Moravskou</a>) projekty různých přemostění, lávek atd. a to pro chodce, tak pro cyklisty a lidi na vozíku.</li>
   <li>Opravy infrastruktury budeme <b>provádět koordinovaně, efektivně, ve spolupráci s krajem a ŘSD</b>, aby nedocházelo k zablokování celých čtvrtí a opakovaným opravám v krátkém časovém intervalu.</li>
   <li><b>Prosadíme spojení centra s DOV</b> tramvajovou dopravou a lávkou pro pěší a cyklisty.</li>
