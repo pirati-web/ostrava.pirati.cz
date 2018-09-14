@@ -53,7 +53,7 @@ order: 1
   <li>Chceme společně s Vysokou školou báňskou a Ostravskou univerzitou <b>hledat řešení pro budovu Ekonomické fakulty VŠB</b>, budeme usilovat o zachování této fakulty nebo umístění jiné fakulty ve stávající budově, případně oslovovat potenciální nájemce ze sektoru soukromého školství.</li>
   <li>Chceme řešit <b>využití Kina Vesmír</b> nejen pro promítání kvalitní filmové tvorby, ale i pro pořádání zajímavých přednášek, festivalů a konferencí.</li>
   <li><b>Omezíme reklamní smog</b> v centru města (např. nevzhledné reklamní tabule a stojany) vyhláškou o regulaci reklamy.</li>
-  <li><b>Budeme podporovat výstavbu</b> Moravskoslezské knihovny tzv. Černé kostky, přestavbu budovy historických jatek, přístavbu Domu umění tzv. Bílého stínu vybudování nové koncertní síně Janáčkovy filharmonie.</li>
+  <li><b>Budeme podporovat výstavbu</b> Moravskoslezské knihovny tzv. Černé kostky, přestavbu budovy historických jatek, přístavbu Domu umění tzv. Bílého stínu a vybudování nové koncertní síně Janáčkovy filharmonie.</li>
 </ul>
 
 ## Kvalitní kultura pro oživení centra
