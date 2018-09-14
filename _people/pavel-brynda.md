@@ -6,7 +6,7 @@ titles:
   after: 
 category:
 - kandidat 
-img: #
+img: people/pavel-brynda.jpg
 description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
 mail: #
 ---
