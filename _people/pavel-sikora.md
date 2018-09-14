@@ -2,7 +2,7 @@
 uid: pavel.sikora
 name: Pavel Sikora
 titles:
-  before: Mgr. 
+  before: Ing. 
   after: 
 category:
 - kandidat 
