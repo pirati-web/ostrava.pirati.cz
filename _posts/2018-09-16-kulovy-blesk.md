@@ -5,7 +5,7 @@ title: 'Kulový blesk na základních školách'
 date: 2018-09-16T10:00:00.000Z
 author: Arnošt Žídek
 authorId: arnost.zidek
-image: posts/vzdelany-urad.jpg
+image: posts/volgogradska.jpg
 tags: 'ostrava jih úřad vzdělávání'
 ---
 
