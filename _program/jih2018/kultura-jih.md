@@ -20,7 +20,7 @@ order: 4
   <dt>Vlastní akce</dt><br />
   <dd>Proměníme strukturu aktivit na Jihu. Akce upravíme tak, aby měly vlastní výraz. Nechceme na akcích každý stánek jiný, ale co nejčistší styl. Budeme reagovat na aktuální poptávku a hlad po kultuře, pro konání akcí budeme také hledat neobvyklá místa.</dd>
   <dt>Spolupráce</dt><br />
-  <dd>Chceme na pořádání akcí spolupracovat s místními spolky, komunitami i jednotlivci, a to jak systémem dotací, tak materiální nebo personální pomocí. Chceme je propojovat se školami i spolu navzájem, být jim nápomocní. Zapojíme školy, ne však jako zřizovatel, který školám něco nařizuje, ale takovým způsobem, aby s organizací akcí mohli pomáhat i studenti, něco se přiučili a posílil se jejich vztah k našemu obvodu.</dd>
+  <dd>Chceme na pořádání akcí spolupracovat s místními spolky, komunitami i jednotlivci, a to jak systémem dotací, tak materiální nebo personální pomocí. Chceme je propojovat se školami i spolu navzájem, být jim nápomocní. Zapojíme školy, ne však jako zřizovatel, který školám něco nařizuje, ale takovým způsobem, aby s organizací akcí mohli pomáhat i studenti, něco se přiučili a posílil se jejich vztah k našemu obvodu. Budeme podporovat drobné živnostníky a podnikatele, protože ti jsou součástí rozvoje a kultury v obcích.</dd>
   <dt>Efektivita organizací</dt><br />
   <dd>Chceme posunout dramaturgii Kulturních zařízení Ostrava-Jih dále. Dělat více specializovaných filmových večerů nebo minifestivalů, připojovat se do projektů. Zefektivníme financování, např. vytvářením rezerv nebo jasnější přerozdělování.</dd>
   <dt>Propagace</dt><br />
