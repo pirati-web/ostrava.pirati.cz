@@ -19,4 +19,4 @@ Kdyby to šlo tak by v porubě i pracoval, jenže Poruba funguje jako satelitní
 
 Například změnit Černou perlu v místo, kde bude dost práce s přidanou hodnotou.
 
-Razí heslo, které se line tribunama na porubském hokeji. Za Porubu do porubu!
+Razí heslo, které se line tribunama na porubském hokeji: Pro Porubu, za Porubu!
