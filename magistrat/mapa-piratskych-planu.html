@@ -1,0 +1,21 @@
+---
+layout: default
+title: Mapa pirátských plánů pro Ostravu
+description: Prohlédněte si interaktivní mapu pirátských plánů pro Ostravu. Mapa je součástí volebního programu, se kterým jdeme do komunálních voleb v roce 2018.
+keywords: volby, 2018, program, mapa záměrů, mapa
+---
+
+<div class="c-intention-map">
+  <header class="c-intention-map__header-wrap">
+    <h1 itemprop="headline" class="c-page-title c-intention-map__header">Mapa pirátských plánů</h1>
+  </header>
+
+  <!-- Article -->
+  <article itemtype="http://schema.org/BlogPosting" itemscope="">
+    <link itemprop="mainEntityOfPage" href="{{ page.url }}">
+    {% if site.env.MAPBOX_ACCESS_TOKEN %}
+    <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://raw.githubusercontent.com/PiratiPardubice/intention-map/master/map.geojson" data-ideaform="https://goo.gl/forms/wKSPmWNDzgRiUxLN2" data-colors="auta:wisteria,brownfield:alizarin,cyklo:peterRiver,veřejný prostor:carrot,MHD:midnightBlue,pěší:emerald,rekreace:sunFlower"></div>
+    {% endif %}
+  </article>
+  <!-- /Article -->
+</div>
