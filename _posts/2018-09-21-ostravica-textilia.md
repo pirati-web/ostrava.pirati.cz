@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Piráti jsou pro zodpovědný přístup k záchraně obchodního domu Ostravica Textilia'
 date: 2018-09-21T10:00:00.000Z
-author: Andrea Hoffmannová
-authorId: andrea.hoffmannova
+author: Lukáš Jansa
+authorId: lukas.jansa
 image: posts/ostravica1.jpg
 tags: 'Ostrava Centrum Ostravica Textilia Architektura'
 ---
