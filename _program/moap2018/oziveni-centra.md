@@ -1,10 +1,12 @@
 ---
 title: Oživení centra
+shortTitle: Oživení centra
 uid: oziveni-centra
 campaignCategoryUid: moap2018
 campaignGroupUid: volby-2018
 approved: #
 garant: lukas.jansa
+img: program/mistni-rozvoj.svg
 perex: >
   Již dlouhou dobu se nedaří uspokojivě oživit centrum města a Piráti chtějí tento stav řešit zejména obnovou dostupného bydlení – rekonstrukcí a výstavbou cenově dostupných bytů (dokud nebudou občané bydlet v centru, pak centrum neožije), dostatečnou kapacitou parkovacích míst (a ne jejich rušením), snahou o zdravější životní prostředí (70 % odcházejících obyvatel bydlí z důvodu lepšího životního prostředí v blízkosti Ostravy), atraktivním veřejným prostorem a moderní architekturou.
 order: 1

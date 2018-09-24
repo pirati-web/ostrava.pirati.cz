@@ -1,10 +1,12 @@
 ---
 title: Transparentní hospodaření
+shortTitle: Transparentní hospodaření
 uid: transparentni-hospodareni
 campaignCategoryUid: moap2018
 campaignGroupUid: volby-2018
 approved: #
 garant: rostislav.reha
+img: program/finance.svg
 perex: >
   Piráti prosazují, aby hospodaření města bylo pro občany naprosto transparentní a nastaveno tak, aby byly veřejné finance šetřeny a efektivně využívány v maximální míře. 
 order: 4

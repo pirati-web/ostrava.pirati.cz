@@ -1,10 +1,12 @@
 ---
 title: Doprava a parkování
+shortTitle: Doprava a&nbsp;parkování
 uid: doprava-moap
 campaignCategoryUid: moap2018
 campaignGroupUid: volby-2018
 approved: #
 garant: david.witosz
+img: program/doprava.svg
 perex: >
   Plynulá doprava a dostatečné kapacity parkovišť jsou předpokladem dobře fungujícího centra města a míst, kde občané bydlí. Naší snahou bude efektivní rozvoj dopravní obslužnosti a budování dostatečných parkovacích kapacit.
 order: 2
