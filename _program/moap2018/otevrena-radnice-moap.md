@@ -1,10 +1,12 @@
 ---
 title: Otevřená radnice
+shortTitle: Otevřená radnice
 uid: otevrena-radnice-moap
 campaignCategoryUid: moap2018
 campaignGroupUid: volby-2018
 approved: # https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: rostislav.reha
+img: program/otevrena-radnice.svg
 perex: >
   Piráti chtějí občanům umožnit komfortní komunikaci s úřady a podílet se připomínkami na rozhodování zastupitelstva. Otevřená radnice znamená i snahu o omezení střetu zájmů a korupci politiků a úředníků. 
 order: 3
