@@ -27,6 +27,6 @@ V budoucnu budeme občany detailně informovat o všech krocích vedoucích k z�
 
 ![alt text]({{ 'assets/img/posts/ostravica3.jpg' | relative_url }} "Zchátralý komplex budov Ostravica Textilia"){: .thumbnail}
 
-*Autorem fotografie vpravo je Antonín Dvořák/SPOK.*
+*Autorem fotografie vpravo je Antonín Dvořák/Kabinet architektury.*
 
 ---
