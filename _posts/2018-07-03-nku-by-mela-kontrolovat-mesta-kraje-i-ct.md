@@ -4,6 +4,7 @@ category: CLANKY
 title: "Piráti: Nejvyšší kontrolní úřad by měl mít pravomoc kontrolovat města, kraje i Českou televizi"
 date: 2018-07-03T10:21:23.824Z
 author: Zuzana Klusová
+authorId: zuzana.klusova
 image: posts/NKU.jpg
 tags:
   - korupce
