@@ -9,7 +9,7 @@ category:
   - leader
 ordleaders: 4
 img: people/pavlina-novackova.jpg
-description: volební lídr na Ostravě-Jihu
+description: lídr na Ostravě-Jihu
 mail: pavlina.novackova1@gmail.com
 mob:			  
 profiles:
