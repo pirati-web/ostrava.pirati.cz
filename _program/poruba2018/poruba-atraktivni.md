@@ -1,10 +1,12 @@
 ---
 title: Poruba jako atraktivní místo pro život
+shortTitle: Poruba atraktivní
 uid: poruba-atraktivni
 campaignCategoryUid: poruba2018
 campaignGroupUid: volby-2018
 approved: # zjistit
 garant: andrea.hoffmannova
+img: program/kultura.svg
 perex: >
   Zasadíme se o to, aby byla Poruba v budoucnosti ještě atraktivnějším místem pro život. Chceme zabránit odlivu především mladých lidí z Poruby jak nabídkou nových pracovních míst, tak podporou místních podniků a služeb, širší nabídkou kulturních akcí a sportovního vyžití, včetně lepšího propojení porubského kampusu VŠB s Porubou.
 order: 1

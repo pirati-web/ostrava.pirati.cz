@@ -1,10 +1,12 @@
 ---
 title: Poruba moderní
+shortTitle: Poruba moderní
 uid: poruba-moderni
 campaignCategoryUid: poruba2018
 campaignGroupUid: volby-2018
 approved: # zjistit
 garant: andrea.hoffmannova
+img: program/mistni-rozvoj.svg
 perex: >
   Chceme, aby se Poruba rozvíjela i architektonicky, a budeme pěstovat kultivovaný veřejný prostor. Postaráme se o to, aby byly vypracovány architektonické studie a návrhy na základě transparentního výběrového řízení či soutěže. Nepodporujeme megalomanské projekty, ale postupnou rekonstrukci a hlavně údržbu veřejných budov i veřejného prostoru.
 order: 3

@@ -1,10 +1,12 @@
 ---
 title: Poruba pohodlná a bezpečná
+shortTitle: Poruba pohodlná
 uid: poruba-pohodlna
 campaignCategoryUid: poruba2018
 campaignGroupUid: volby-2018
 approved: # zjistit
 garant: andrea.hoffmannova
+img: program/zdravotnictvi.svg
 perex: >
   Všichni se chceme cítit ve svém bydlišti co nejpohodlněji a bezpečně. Udržovaný a čistý veřejný prostor je jeden ze základních předpokladů, stejně jako bezpečné přechody pro chodce, v noci osvětlené ulice a zrekonstruované a pohodlné udržované chodníky, na kterých nebude docházet ke zraněním.
 order: 4

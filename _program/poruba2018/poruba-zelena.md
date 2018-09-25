@@ -1,10 +1,12 @@
 ---
 title: Poruba zelená
+shortTitle: Poruba zelená
 uid: poruba-zelena
 campaignCategoryUid: poruba2018
 campaignGroupUid: volby-2018
 approved: # zjistit
 garant: andrea.hoffmannova
+img: program/zivotni-prostredi.svg
 perex: >
   Zeleň je jeden z hlavních důvodů, proč je Poruba tak oblíbeným místem k životu. Postaráme se o to, aby zelené porubské plochy dále neubývaly jak na úkor zbytečně rozšířených komunikací či zbytečné výstavby, a aby byly náležitě udržovány, ať už z estetických, tak bezpečnostních důvodů.
 order: 5
