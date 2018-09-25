@@ -10,7 +10,7 @@ category:
 ordpms: 2
 ordleaders: 1
 img: people/david-witosz.jpg
-description: kandidát na primátora města Ostravy
+description: kandidát na primátora
 mail: david.witosz@pirati.cz
 ---
 

@@ -10,7 +10,7 @@ category:
 ordpks: 4
 ordleaders: 2
 img: people/rostislav-reha.jpg
-description: volební lídr v Moravské Ostravě a Přívoze
+description: lídr v Mor. Ostravě a Přívoze
 mail: rostislav.reha@pirati.cz
 profiles:
   github:

@@ -1,10 +1,12 @@
 ---
 title: Poruba informovaná a zodpovědná
+shortTitle: Poruba informovaná
 uid: poruba-informovana
 campaignCategoryUid: poruba2018
 campaignGroupUid: volby-2018
 approved: # zjistit
 garant: andrea.hoffmannova
+img: program/otevrena-radnice.svg
 perex: >
   Cílem Pirátu je zprostředkovat občanovi co nejvíce informací, ztransparentnit celý proces rozhodování radnice a také umožnit zasahovat do jeho rozhodování pomocí participativního rozpočtu.
 order: 2

@@ -6,7 +6,7 @@ campaignCategoryUid: moap2018
 campaignGroupUid: volby-2018
 approved: #
 garant: rostislav.reha
-img: program/svoboda.svg
+img: program/informatika.svg
 perex: >
   Piráti chtějí efektivně je zapojit do udržování pořádku a kultivování veřejného prostoru a zajistit, aby město poskytovalo zpětnou vazbu a reagovalo na jejich podněty. 
 order: 5

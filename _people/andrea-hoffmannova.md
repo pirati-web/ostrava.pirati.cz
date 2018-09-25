@@ -9,7 +9,7 @@ category:
 - leader
 ordleaders: 3
 img: people/andrea-hoffmannova.jpg
-description: volební lídr v Ostravě-Porubě
+description: lídr v Ostravě-Porubě
 mail: andrea.hoffmannova@pirati.cz
 mob:			  
 profiles:
