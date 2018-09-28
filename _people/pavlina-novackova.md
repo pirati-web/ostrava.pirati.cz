@@ -14,7 +14,7 @@ mail: pavlina.novackova1@gmail.com
 mob:			  
 profiles:
   github:       
-  facebook:
+  facebook: https://www.facebook.com/pavlina.novackova
   twitter: 		  
   flickr:	 
 ---
