@@ -21,6 +21,15 @@ Vystudoval právnickou fakultu Masarykovy univerzity v Brně v roce 2000 a poté
 
 Má za sebou více než 50 přednášek z oblasti práva informačních technologií na konferencích a seminářích. Publikoval více než 200 článků z oblasti práva informačních technologií v odborných časopisech nebo na internetových portálech. Je spoluautorem odborné publikace „Softwarové právo“ vydané v roce 2011, v rozšířeném vydání v roce 2014 a 2018 a také spoluautorem a vedoucím autorského kolektivu odborné publikace „Internetové právo“ vydané v roce 2016.
 
+Je autorem a současně provozovatelem projektu <a href="http://www.chcemepomahat.cz">www.chcemepomahat.cz</a>, který umožňuje vyhledávání organizací pomáhající postiženým a takto jim pomáhá se zviditelnit a zprostředkovat finanční pomoc.
+
 Je zakladatelem petice za záchranu Ostravice Textilie, aktivně se účastnil v boji proti výstavbě obchodního centra Nové Karoliny v Ostravě, účastnil se na Pirátských akcích (proti ACTA, Ostravica Textilia atd.).
 
 Má rád cestování, umění, architekturu, hory, fotografování, svobodnou a aktivní společnost.
+
+##Externí odkazy
+<ul>
+<li><a href="http://lawyer.cz/judr-lukas-jansa-advokat.html">Profesní profil</a></li>
+<li><a href="https://www.epravo.cz/top/aktualne/na-navsteve-u-jansa-mokry-otevrel-partneri-95930.html">Rozhovor pro epravo.cz #1</a></li>
+<li><a href="https://www.epravo.cz/top/aktualne/10-otazek-pro-lukase-jansu-81646.html">Rozhovor pro epravo.cz #2</a></li>
+</ul>
