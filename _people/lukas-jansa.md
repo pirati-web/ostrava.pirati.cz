@@ -27,7 +27,7 @@ Je zakladatelem petice za záchranu Ostravice Textilie, aktivně se účastnil v
 
 Má rád cestování, umění, architekturu, hory, fotografování, svobodnou a aktivní společnost.
 
-##Externí odkazy
+Externí odkazy
 <ul>
 <li><a href="http://lawyer.cz/judr-lukas-jansa-advokat.html">Profesní profil</a></li>
 <li><a href="https://www.epravo.cz/top/aktualne/na-navsteve-u-jansa-mokry-otevrel-partneri-95930.html">Rozhovor pro epravo.cz #1</a></li>
