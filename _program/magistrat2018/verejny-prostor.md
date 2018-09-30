@@ -42,4 +42,5 @@ order: 4
   <li><b>Budeme usilovat o opravy památkově chráněných domů</b> a prosazovat sankce za zanedbání oprav soukromými vlastníky.</li>
   <li>Chceme společně s Vysokou školou báňskou a Ostravskou univerzitou <b>hledat řešení pro budovu Ekonomické fakulty VŠB</b>, budeme usilovat o zachování této fakulty nebo umístění jiné fakulty ve stávající budově, případně oslovovat potenciální nájemce ze sektoru soukromého školství.</li>
   <li><b>Budeme</b> intenzivně <b>řešit</b> soubor památkově chráněných budov <b>Bachner</b>, <b>Ostravica-Textilia</b> a také dořešíme rekonstrukci <b>kulturního domu Poklad</b>.</li>
+  <li>Budeme usilovat o vytvoření příspěvkové organizace po vzoru Institutu plánování a rozvoje (IPR Praha) a Kanceláře architekta města (KAM Brno) za účelem rozvoje kvalitního urbanismu a architektury mesta</li>
 </ul>

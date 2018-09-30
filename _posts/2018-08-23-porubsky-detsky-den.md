@@ -6,7 +6,7 @@ date: 2018-08-23T10:00:00.000Z
 author: Andrea Hoffmannová
 authorId: andrea.hoffmannova
 image: posts/detsky-den.jpg
-tags: 'ostrava poruba děti rodina'
+tags: 'Ostrava Poruba Děti Rodina'
 ---
 
 Ostrava, 23. 8. 2018 - Dne 22. srpna 2018 uspořádali Piráti Ostrava u Rondlu na Hlavní třídě Pirátský dětský den, kterým odstartovala ostravská kampaň do komunálních voleb. V režii Pirátů a dobrovolníků si děti mohli vyzkoušet vázání uzlů, kreslení či různé pohybové aktivity. Největší zájem vzbudilo malování na obličej a skákací hrad.
