@@ -6,7 +6,7 @@ titles:
   after: 
 category:
 - kandidat 
-img:
+img: people/radim-stach.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # zjistit
 ---
