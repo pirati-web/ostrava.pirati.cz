@@ -27,7 +27,7 @@ Dalším důvodem jsou nedostatečné kapacity externích dodavatelů – proto�
 Třetím důvodem jsou nedostatečné interní kapacity – dva chybějící pracovníci na referátu vzdělávání a na oddělení strategického rozvoje. Tento problém by mělo být možné řešit outsourcingem, spoluprací na DPP/DPČ nebo změnou organizační struktury. Ani toto se nám nejeví jako nepřekonatelný problém.
 ### 4. To nedáme
 
-Posledním důvodem pro odmítnutí dotace je teze, že vzdělávání úředníků v tak krátkém čase  by paralyzovalo chod úřadu. V tom případě bylo na místě vymyslet systém, jak mohou už proškolení pracovníci předat nové znalosti svým kolegům. Vzdělávání určitě není o tom, že celý úřad bude najednou pouze studovat, ale sdílet informace a zkušenosti jde kdykoliv. Stačí jen chtít.
+Posledním důvodem pro odmítnutí dotace je teze, že vzdělávání úředníků v tak krátkém čase by paralyzovalo chod úřadu. V tom případě bylo na místě vymyslet systém, jak mohou už proškolení pracovníci předat nové znalosti svým kolegům. Vzdělávání určitě není o tom, že celý úřad bude najednou pouze studovat, ale sdílet informace a zkušenosti jde kdykoliv. Stačí jen chtít.
 
 Co z toho vyplývá? Vzdělávání úředníků na Jihu nestojí v cestě nepřekonatelné překážky. Rozhodnutí zastupitelů raději dotaci odmítnout než řešit zmíněné problémy bude mít za následek, že budeme dál čekat na moderní úřad.
 

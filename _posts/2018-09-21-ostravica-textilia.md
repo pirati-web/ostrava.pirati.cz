@@ -15,7 +15,7 @@ Současní zástupci města před volbami prezentovali veřejnosti svůj záměr
 
 Pokud se tedy město neposunulo dál v jednání s vlastníkem, který chce budovy využít jinak, pak jakékoliv studie považujeme za nezodpovědný přístup a politický marketing z veřejných peněz. Stejně tak ODS nyní hlásající, že zastaví chátrání budov, byla 8 let součástí vládnoucí koalice v Ostravě a žádná snaha o záchranu budov nebyla z jejich strany patrná.
 
-Piráti stáli v roce 2010 u zrodu petice za zachování Ostravice Textilie a dlouhodobě se podílí na veřejných akcích za její záchranu. Petice má nyní zhruba 7500 podpisů. V současné době se práce uvnitř budov obnovily a my vítáme jakékoliv snahy vlastníka o nápravu tristního stavu. Město by však mělo v každém případě usilovat o intenzivnější spolupráci s vlastníkem, který by měl garantovat opravení budov do určitého termínu. Zároveň navrhujeme, aby město hledalo společně řešení i pro přilehlé náměstí Dr. Edvarda Beneše, které spolu s budovami tvoří nedílný celek.
+Piráti stáli v roce 2010 u zrodu <a href="http://ostravica-textilia.cz/" target="_blank">petice</a> za zachování Ostravice Textilie a dlouhodobě se podílí na veřejných akcích za její záchranu. Petice má nyní zhruba 7500 podpisů. V současné době se práce uvnitř budov obnovily a my vítáme jakékoliv snahy vlastníka o nápravu tristního stavu. Město by však mělo v každém případě usilovat o intenzivnější spolupráci s vlastníkem, který by měl garantovat opravení budov do určitého termínu. Zároveň navrhujeme, aby město hledalo společně řešení i pro přilehlé náměstí Dr. Edvarda Beneše, které spolu s budovami tvoří nedílný celek.
 
 ![alt text]({{ 'assets/img/posts/ostravica2.jpg' | relative_url }} "Zchátralý komplex budov Ostravica Textilia"){: .thumbnail}
 
