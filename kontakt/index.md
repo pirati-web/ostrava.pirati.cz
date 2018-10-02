@@ -14,7 +14,7 @@ contentSize: even
 Zajímá vás co Piráti dělají? Ozvěte se koordinátorovi nebo přijďte k nám
 na schůzi (viz <a href="{{ '/' | relative_url }}">krajský kalendář</a>).
 
-### Propagační materiály
+### Materiály ke stažení
 <ul>
   <li><a href="{{ 'assets/pdf/letak-jih-2018.pdf' | relative_url }}" target="_blank">Volební leták Pirátů z Ostravy-Jihu pro komunální volby 2018</a></li>
 </ul>
