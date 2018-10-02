@@ -1,0 +1,44 @@
+<div class="c-top-bar">
+  <div class="row">
+    <div class="columns small-12">
+      <div class="c-top-bar__body">
+        <div class="c-top-bar__brand">
+          <a href="{{ '/' | relative_url }}" class="c-top-bar__brand-link">
+            <img src="{{ 'assets/img/brand/logo_napis_white.svg' | relative_url }}" alt='Česká pirátská strana' class="c-top-bar__brand-image u-center-medium-down u-stacked">
+          </a>
+        </div>
+
+        <div class="c-top-bar__search">
+          <div class="__vue-root" data-app="SiteSearch">
+            <!-- this will get replaced by Vue.js content, placeholder only -->
+            <div class="c-search c-top-bar__search-container">
+              <input class="c-search__input c-top-bar__search-input" type="search" id="search" placeholder="Hledaný výraz">
+              <button type="button" class="c-search__confirm c-top-bar__search-confirm" id="searchsub"><i class="fa fa-search" aria-hidden="true"></i></button>
+            </div>
+          </div>
+        </div>
+
+        {% assign slash = '/' %}
+
+        <div id="responsive-menu" class="c-responsive-menu">
+          <ul class="c-responsive-menu__items" data-dropdown-menu="">
+            {% for item in site.data.menu.main %}
+            {% assign match_with_slash = item.match | append: slash %}
+            <li class="c-responsive-menu__item {% if item.class %}{{ item.class }}{% endif %} {% if item.match and page.url contains match_with_slash %}c-responsive-menu__item--active{% endif %}">
+              <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="c-responsive-menu-toggle hide-for-large">
+          <span data-responsive-toggle="responsive-menu" id="menuTogge" data-hide-for="large">
+            <button class="c-responsive-menu-toogle__button" type="button" data-toggle="">
+              <span class="c-responsive-menu-toggle__caption">Menu</span>
+            </button>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
