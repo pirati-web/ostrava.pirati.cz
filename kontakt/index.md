@@ -12,7 +12,7 @@ contentSize: even
 </div>
 
 Zajímá vás co Piráti dělají? Ozvěte se koordinátorovi nebo přijďte k nám
-na schůzi (viz krajský kalendář).
+na schůzi (viz <a href="{{ '/' | relative_url }}">krajský kalendář</a>).
 
 ### Propagační materiály
 <ul>
