@@ -55,6 +55,6 @@ tags: 'Ostrava Bedřiška Mariánské Hory'
 ![alt text]({{ 'assets/img/posts/bedriska-4.jpg' | relative_url }} "Kulturní akce v osadě Bedřiška"){: .thumbnail}
 ![alt text]({{ 'assets/img/posts/bedriska-5.jpg' | relative_url }} "Osada Bedřiška"){: .thumbnail}
 
-*Autorky: Jaroslav Hořejší a Daniel Tichý*
+*Autoři: Jaroslav Hořejší a Daniel Tichý*
 
 ---
