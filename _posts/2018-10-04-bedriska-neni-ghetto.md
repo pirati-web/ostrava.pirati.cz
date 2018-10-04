@@ -2,9 +2,8 @@
 layout: post
 category: CLANKY
 title: 'Je Bedřiška opravdu ghetto? Ani náhodou! Bývalá havířská osada jde příkladem celé republice'
-date: 2018-10-03T21:00:00.000Z
-author: Veronika Murzynová
-authorId: veronika.murzynova
+date: 2018-10-04T06:00:00.000Z
+author: Daniel Tichý
 image: posts/bedriska-1.jpg
 tags: 'Ostrava Bedřiška Mariánské Hory'
 ---
@@ -55,5 +54,7 @@ tags: 'Ostrava Bedřiška Mariánské Hory'
 ![alt text]({{ 'assets/img/posts/bedriska-3.jpg' | relative_url }} "Osada Bedřiška"){: .thumbnail}
 ![alt text]({{ 'assets/img/posts/bedriska-4.jpg' | relative_url }} "Kulturní akce v osadě Bedřiška"){: .thumbnail}
 ![alt text]({{ 'assets/img/posts/bedriska-5.jpg' | relative_url }} "Osada Bedřiška"){: .thumbnail}
+
+*Autorky: Jaroslav Hořejší a Daniel Tichý*
 
 ---
