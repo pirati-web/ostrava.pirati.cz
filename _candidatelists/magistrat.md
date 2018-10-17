@@ -1,7 +1,6 @@
 ---
 title: Kandidátka na Magistrát města Ostravy
 uid: magistrat
-number: 15
 leader:
   uid: david.witosz
   age: 37

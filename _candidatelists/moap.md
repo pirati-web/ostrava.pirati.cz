@@ -1,7 +1,6 @@
 ---
 title: Kandidáti na zastupitele v Moravské Ostravě a Přívoze
 uid: moap
-number: 4
 leader:
   uid: rostislav.reha
   age: 45

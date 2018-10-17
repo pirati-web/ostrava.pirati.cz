@@ -1,7 +1,6 @@
 ---
 title: Kandidáti na zastupitele v Ostravě-Jihu
 uid: jih
-number: 6
 leader:
   uid: pavlina.novackova
   age: 30
