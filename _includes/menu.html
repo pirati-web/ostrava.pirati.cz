@@ -23,10 +23,25 @@
         <div id="responsive-menu" class="c-responsive-menu">
           <ul class="c-responsive-menu__items" data-dropdown-menu="">
             {% for item in site.data.menu.main %}
-            {% assign match_with_slash = item.match | append: slash %}
-            <li class="c-responsive-menu__item {% if item.class %}{{ item.class }}{% endif %} {% if item.match and page.url contains match_with_slash %}c-responsive-menu__item--active{% endif %}">
-              <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
-            </li>
+              {% assign active_submenu_item = false %}
+              {% assign active_menu_item = false %}
+              {% if item.match %}
+                {% if item.submenu %}
+                  {% for submenu in item.submenu %}
+                    {% assign match_with_slash = submenu.match | append: slash %}
+                    {% if page.url contains match_with_slash %}
+                      {% assign active_submenu_item = true %}
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+                {% assign match_with_slash = item.match | append: slash %}
+                {% if page.url contains match_with_slash %}
+                  {% assign active_menu_item = true %}
+                {% endif %}
+              {% endif %}
+              <li class="c-responsive-menu__item {% if item.class %}{{ item.class }}{% endif %} {% if active_submenu_item or active_menu_item %}c-responsive-menu__item--active{% endif %}">
+                <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
+              </li>
             {% endfor %}
           </ul>
         </div>

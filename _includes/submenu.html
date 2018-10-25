@@ -1,0 +1,29 @@
+{% for menu in site.data.menu.main %}
+  {% assign submenu_visible = false %}
+  {% if menu.submenu %}
+    {% for submenu in menu.submenu %}
+      {% if page.url contains submenu.match %}
+        {% assign submenu_visible = true %}
+      {% endif %}
+    {% endfor %}
+    {% if submenu_visible %}
+      <nav class="c-top-sub-nav">
+        <div class="row">
+          <div class="c-top-sub-nav-inner columns">
+            <div class="c-top-sub-nav__header">
+              <h2 class="c-top-sub-nav__heading">{{ menu.name }}</h2>
+            </div>
+            <div class="c-top-sub-nav-divider"></div>
+            <ul class="c-top-sub-nav-items">
+              {% for submenu in menu.submenu %}
+              <li class="c-top-sub-nav__item {% if page.url contains submenu.match %}c-top-sub-nav__item--active{% endif %}">
+                <a href="{{ submenu.link }}">{{ submenu.name }} </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </nav>
+    {% endif %}
+  {% endif %}
+{% endfor %}

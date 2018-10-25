@@ -20,14 +20,18 @@ main:
     name: Magistrát
     match: magistrat
   - link: /moap/
-    name: Moravská Ostrava
+    name: Městské obvody
     match: moap
-  - link: /poruba/
-    name: Poruba
-    match: poruba
-  - link: /jih/
-    name: Jih
-    match: jih
+    submenu:
+      - link: /moap/
+        name: Moravská Ostrava a Přívoz
+        match: moap
+      - link: /poruba/
+        name: Poruba
+        match: poruba
+      - link: /jih/
+        name: Jih
+        match: jih
   - link: /kontakt/
     name: Kontakt
     match: kontakt
