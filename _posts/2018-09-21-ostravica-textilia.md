@@ -6,7 +6,7 @@ date: 2018-09-21T10:00:00.000Z
 author: Lukáš Jansa
 authorId: lukas.jansa
 image: posts/ostravica1.jpg
-tags: 'Ostrava Centrum Ostravica Textilia Bachner Architektura'
+tags: 'Ostrava MOaP Urbanismus Architektura Ostravica Bachner'
 ---
 
 Ostrava se může pyšnit celou řadou památek, jejichž autory jsou slavní architekti – například komplex budov Ostravica Textilia postavený v letech 1911-1929 (architekti Deiningerovi, Neumann, Frommerová), nebo obchodní dům Bachner z roku 1933, který navrhl světoznámý německý architekt Erich Mendelsohn.

@@ -6,7 +6,7 @@ date: 2018-09-04T10:00:00.000Z
 author: Rostislav Řeha
 authorId: rostislav.reha
 image: posts/parkovani1.jpg
-tags: 'ostrava centrum parkovaní'
+tags: 'Ostrava MOaP Doprava'
 ---
 
 Ostrava, 4. 9. 2018 - Současní zástupci města Ostravy se rozhodli zrušit 600 parkovacích míst v centru Ostravy, které jsou zdarma. Cena parkovného přitom na větších parkovištích vyjde až na 40 Kč/hod a obyvatelé centra oceňují, že mohou parkovat zdarma tam, kde bydlí. V centru Ostravy údajně v současné chvíli denně chybí čtyři tisíce stání. Zástupci města chtějí přesto zrušit bezplatná parkovací místa v centru Ostravy a vybudovat systém P + R (Park & Ride, tj. zaparkuj a jeď), aby občané a návštěvníci města parkovali zdarma na hranici centra a zbývající část trasy by jeli městskou hromadnou dopravou.

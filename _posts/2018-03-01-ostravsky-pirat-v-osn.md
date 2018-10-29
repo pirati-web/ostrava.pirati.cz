@@ -6,7 +6,7 @@ date: 2018-03-01T10:18:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: posts/polansky-osn-1.jpg
-tags: 'Polanský OSN NewYork migrace'
+tags: 'Polanský Migrace'
 ---
 
 „New York, New York!“ Známý hit Franka Sinatry si jistě připomněl Ondřej Polanský, poslanec Pirátské strany za Moravskoslezský kraj, po svém výstupu na plénu OSN v New Yorku. Svou první velkou zahraniční cestu v pozici předsedy Stálé delegace Parlamentu do Meziparlamentní unie doprovodil projevem na téma migrace. Tato problematika vyvolává kontroverze nejenom v Evropě. Nicméně jak řekl Ondřej:

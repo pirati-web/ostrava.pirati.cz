@@ -6,14 +6,7 @@ date: 2018-10-23T06:00:00.000Z
 author: Pavlína Nováčková
 authorId: pavlina.novackova
 image: posts/povolebni-vyjednavani-1.jpg
-tags:
-  - volby
-  - volby2018
-  - komunál
-  - výsledky
-  - ostrava
-  - jih
-  - jednání
+tags: 'Ostrava Jih Volby'
 ---
 
 Lidé se nás často ptají, jak probíhala povolební jednání – kdo, s kým a co? Mnozí čekají, že budeme vyprávět dramatické příběhy plné nečekaných zvratů, které jsou občas v politice k vidění. Koalici na Jihu nakonec vytvořilo Hnutí ANO 2011 (vítěz voleb), Hnutí Ostravak (druhý nejsilnější subjekt) a ODS (pátý subjekt v zastupitelstvu), z jejího středu pak vzejde nové vedení radnice (poté, co bude schváleno zastupitelstvem). I když Piráti zamířili do opozice, vše probíhalo poklidně. To, že nakonec usedneme do opozičních lavic, je výsledkem mnoha faktorů. 

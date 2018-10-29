@@ -6,7 +6,7 @@ date: 2018-09-05T10:00:00.000Z
 author: Rostislav Řeha
 authorId: rostislav.reha
 image: posts/spalovna1.jpg
-tags: 'ostrava spalovna'
+tags: 'Ostrava Ekologie'
 ---
 
 Ostrava, 5. 9. 2018 - Ostravští Piráti nesouhlasí se záměrem společnosti SUEZ vybudovat v Mariánských Horách spalovnu nebezpečných odpadů. Poukazují na to, že podstatná část Moravskosleszského kraje už nyní trpí výrazně zhoršenou kvalitou ovzduší, když jsou zde dlouhodobě překračovány imisní limity. Zároveň nebyla dostatečně odůvodněna potřeba nové spalovny a z dostupných dat vyplývá, že pro naplnění její kapacity bude nutné do Ostravy svážet nebezpečný odpad nejen z celého Moravskoslezského, ale  i z jiných krajů. Proto Piráti začínají se sběrem podpisů pod petici proti její výstavbě, zároveň se chtějí účastnit i nadcházejícího řízení a využít veškeré zákonné prostředky k tomu, aby obyvatelům Ostravy nepřibyl k těm současným ještě další  zdroj znečištění. 

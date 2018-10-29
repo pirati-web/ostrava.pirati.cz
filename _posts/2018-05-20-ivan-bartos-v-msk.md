@@ -6,7 +6,7 @@ date: 2018-05-20T15:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: posts/ivan-opava-harmonika.jpg
-tags: 'bartoš kampaň karviná ostrava opava'
+tags: 'Ostrava Karviná Opava Bartoš Volby'
 tags:
   - Bartoš
   - Kampaň

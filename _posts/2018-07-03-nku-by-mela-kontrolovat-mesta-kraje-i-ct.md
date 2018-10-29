@@ -6,9 +6,7 @@ date: 2018-07-03T10:21:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: posts/NKU.jpg
-tags:
-  - korupce
-  - kontrola
+tags: 'Korupce Kontrola'
 ---
 
 

@@ -6,7 +6,7 @@ date: 2018-09-30T09:00:00.000Z
 author: Pavlína Nováčková
 authorId: pavlina.novackova
 image: posts/detsky-den-jih.jpg
-tags: 'Ostrava Jih Děti Rodina'
+tags: 'Ostrava Jih Rodina'
 ---
 
 **Dětský pirátský den na Jihu proběhl v neděli 23. září a svým založením připomínal spíš komunitní akci – tím hlavním totiž nebyly bombastické a prvoplánové atrakce, ale nápady a nadšení všech zúčastněných.**

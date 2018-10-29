@@ -6,7 +6,7 @@ date: 2018-09-16T10:00:00.000Z
 author: Arnošt Žídek
 authorId: arnost.zidek
 image: posts/volgogradska.jpg
-tags: 'ostrava jih úřad vzdělávání'
+tags: 'Ostrava Jih Vzdělávání'
 ---
 
 Ředitelé základních škol jsou jmenováni zřizovatelem – městským obvodem Ostrava-Jih – na šestileté funkční období. Po jeho skončení má městský obvod možnost vyhlásit konkurzní řízení na místo ředitele nebo ponechat stávajícího ředitele ve funkci. Doposud bylo dobrým zvykem ponechat úspěšného ředitele základní školy ve funkci. V letošním roce bylo poprvé vyhlášeno konkurzní řízení, a to hned na šesti základních školách v Ostravě-Jihu, tedy na všech, kde ředitelům končilo funkční období. 

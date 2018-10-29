@@ -6,7 +6,7 @@ date: 2018-09-30T08:00:00.000Z
 author: Andrea Hoffmannová
 authorId: andrea.hoffmannova
 image: posts/michalek.jpg
-tags: 'Ostrava Jakub Michálek Centrum Poruba Jih'
+tags: 'Ostrava MOaP Poruba Jih Michálek'
 ---
 
 **Předposlední zářijový víkend navštívil Ostravu Jakub Michálek, předseda poslaneckého klubu Pirátů a místopředseda strany. Potkal se s místními v Porubě, zavítal do Dolních Vítkovic i centra a zúčastnil se dne dětí na Jihu.**
