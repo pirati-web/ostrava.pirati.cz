@@ -6,7 +6,7 @@ date: 2018-08-07T12:49:23.824Z
 author: Veronika Murzynová
 authorId: veronika.murzynova
 image: posts/tk-ostrava.jpg
-tags: 'volby ostrava'
+tags: 'Ostrava Volby'
 ---
 
 Ostrava, 7. 8. 2018 - Piráti představili své lídry do komunálních voleb v Ostravě. Kandidátky staví na “velkou radnici” i tři městské obvody: Jih, Porubu a Moravskou Ostravu a Přívoz. Všechny programové body pirátů pro Ostravu mají dva společné jmenovatele: důraz na transparentnost a rozvoj města jako centra milionové aglomerace.

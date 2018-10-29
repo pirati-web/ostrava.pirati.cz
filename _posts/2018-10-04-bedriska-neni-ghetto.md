@@ -5,7 +5,7 @@ title: 'Je Bedřiška opravdu ghetto? Ani náhodou! Bývalá havířská osada j
 date: 2018-10-04T06:00:00.000Z
 author: Daniel Tichý
 image: posts/bedriska-1.jpg
-tags: 'Ostrava Bedřiška Mariánské Hory'
+tags: 'Ostrava Mariánské-Hory Bedřiška'
 ---
 
 **Když se v Ostravě řekne slovo „Bedřiška“, reakce jsou různé. Co tento pojem vlastně znamená? Bedřiška je obytná kolonie nacházející se v ostravském obvodu Mariánské Hory a Hulváky. Dříve byla považovaná za sociálně vyloučenou oblast. Tento obraz šíří v současnosti i některá média a politické subjekty. Aktuálně hrozí Bedřišce demolice a vystěhování jejích obyvatel.  Zástupci ostravské Pirátské strany se proto rozhodli osadu Bedřiška navštívit a informovat širokou veřejnost o aktuální situaci. Rozhovor nám poskytla „mluvčí“ osady, paní Eva Lehotská.**
