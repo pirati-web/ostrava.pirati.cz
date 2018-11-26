@@ -5,10 +5,7 @@ titles:
   before: 
   after: 
 category:
-  - kontaktni_osoba
-ordpak: 2
 img: people/veronika-murzynova.jpg
-description: volební koordinátor pro Moravskoslezský kraj
 mail: veronika.murzynova@pirati.cz
 mob:			  
 profiles:
