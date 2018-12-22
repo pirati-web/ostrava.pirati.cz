@@ -7,6 +7,7 @@ author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
 image: posts/tichy-daniel.jpg
 tags:
+  - tisková zpráva
   - piráti
   - mariánské hory
   - liana Janáčková
