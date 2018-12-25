@@ -7,9 +7,11 @@ titles:
 category:
 - koordinator
 - kontaktni_osoba
+- representativePoruba
 ordpak: 1
+ordRepresentativesPoruba: 5
 img: people/jakub-dedek.jpg
-description: koordinátor dobrovolníků pro Moravskoslezský kraj
+description: zastupitel městského obvodu Poruba, koordinátor dobrovolníků pro Moravskoslezský kraj
 mail: jakub.dedek@pirati.cz
 mob: +420 770 113 644
 profiles:

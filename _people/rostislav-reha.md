@@ -5,12 +5,14 @@ titles:
   before: Ing. 
   after: 
 category:
+- representativeMagistrat
+- representativeMoap
 - pks
-- leader
+ordRepresentativesMagistrat: 3
+ordRepresentativesMoap: 2
 ordpks: 4
-ordleaders: 2
 img: people/rostislav-reha.jpg
-description: lídr v Mor. Ostravě a Přívoze
+description: místostarosta městského obvodu Moravská Ostrava a Přívoz, zastupitel města Ostravy
 mail: rostislav.reha@pirati.cz
 profiles:
   github:

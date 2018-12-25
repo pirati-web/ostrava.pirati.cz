@@ -5,9 +5,10 @@ titles:
   before: Mgr. 
   after: 
 category:
-  - kandidat 
+- representativeMoap
+ordRepresentativesMoap: 5
 img: people/barbora-vojkovska.jpg
-description: kandidátka do zastupitelstva Moravské Ostravy a Přívozu
+description: zastupitelka městského obvodu Moravská Ostrava a Přívoz 
 mail: # zjistit
 ---
 

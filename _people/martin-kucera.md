@@ -5,9 +5,10 @@ titles:
   before: Mgr. 
   after: 
 category:
-- kandidat 
+- representativeMoap
+ordRepresentativesMoap: 6
 img: people/martin-kucera.jpg
-description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
+description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
 mail: martin.kucera@pirati.cz
 ---
 (* 14. května 1971)

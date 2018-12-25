@@ -5,11 +5,10 @@ titles:
   before: Mgr. 
   after: Ph.D.
 category:
-- kandidat
-- senat
-ordsenat: 1
+- representativePoruba
+ordRepresentativesPoruba: 1
 img: people/martin-tomasek.jpg
-description: kandidát do Senátu v obvodu Ostrava-město
+description: místostarosta městského obvodu Poruba
 mail: # - martin.tomasek@pirati.cz - ověřit
 ---
 

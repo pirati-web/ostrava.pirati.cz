@@ -5,11 +5,10 @@ titles:
   before: Bc. 
   after: 
 category:
-  - kandidat 
-  - leader
-ordleaders: 4
+- representativeJih
+ordRepresentativesJih: 1
 img: people/pavlina-novackova.jpg
-description: lídr na Ostravě-Jihu
+description: zastupitelka městského obvodu Ostrava-Jih
 mail: pavlina.novackova1@gmail.com
 mob:			  
 profiles:

@@ -13,9 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  #- link: /lide/
-  #  name: O nás
-  #  match: lide
+  - link: /lide/
+    name: Lidé
+    match: lide
   - link: /magistrat/
     name: Magistrát
     match: magistrat
