@@ -5,9 +5,10 @@ titles:
   before: Ing. 
   after: 
 category:
-- kandidat 
+- representativeJih
+ordRepresentativesJih: 4
 img: people/michal-breskovec.jpg
-description: kandidát do zastupitelstva Ostravy-Jihu
+description: zastupitel městského obvodu Ostrava-Jih
 mail: michal.breskovec@pirati.cz 
 ---
 

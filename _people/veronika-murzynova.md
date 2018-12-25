@@ -5,7 +5,12 @@ titles:
   before: 
   after: 
 category:
+- representativeMagistrat
+- representativePoruba
+ordRepresentativesMagistrat: 5
+ordRepresentativesPoruba: 2
 img: people/veronika-murzynova.jpg
+description: radní městského obvodu Poruba, zastupitelka města Ostravy
 mail: veronika.murzynova@pirati.cz
 mob:			  
 profiles:

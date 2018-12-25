@@ -5,9 +5,10 @@ titles:
   before: Ing. 
   after: 
 category:
-- kandidat 
+- representativePoruba
+ordRepresentativesPoruba: 4
 img: people/jiri-rajnoch.jpg
-description: kandidát do zastupitelstva Ostravy-Poruby
+description: zastupitel městského obvodu Poruba
 mail: # - jiri.rajnoch@pirati.cz - ověřit
 ---
 

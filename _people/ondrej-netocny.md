@@ -5,9 +5,10 @@ titles:
   before: Ing. 
   after: 
 category:
-- kandidat 
+- representativeJih
+ordRepresentativesJih: 5
 img: people/ondrej-netocny.jpg
-description: kandidát do zastupitelstva Ostravy-Jihu
+description: zastupitel městského obvodu Ostrava-Jih
 mail: # - zjistit
 ---
 

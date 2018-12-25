@@ -5,9 +5,10 @@ titles:
   before: 
   after: 
 category:
-- kandidat 
+- representativeJih
+ordRepresentativesJih: 3
 img: people/gabriela-maceckova.jpg
-description: kandidátka do zastupitelstva Ostravy-Jihu
+description: zastupitelka městského obvodu Ostrava-Jih
 mail: # - zjistit
 ---
 

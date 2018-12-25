@@ -5,9 +5,12 @@ titles:
   before: Ing. 
   after: 
 category:
-- kandidat 
+- representativeMagistrat
+- representativeJih
+ordRepresentativesMagistrat: 4
+ordRepresentativesJih: 2
 img: people/petr-kopecny.jpg
-description: kandidát do zastupitelstva Ostravy-Jihu
+description: zastupitel města Ostravy, zastupitel městského obvodu Ostrava-Jih
 mail: # - zjistit
 ---
 

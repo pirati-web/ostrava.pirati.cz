@@ -5,9 +5,10 @@ titles:
   before: Ing. 
   after: 
 category:
-- kandidat 
+- representativeMoap
+ordRepresentativesMoap: 4
 img: people/kamil-tomas.jpg
-description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
+description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
 mail: #
 ---
 

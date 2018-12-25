@@ -5,9 +5,10 @@ titles:
   before: JUDr. 
   after: 
 category:
-- kandidat 
+- representativeMoap
+ordRepresentativesMoap: 3
 img: people/lukas-jansa.jpg
-description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
+description: radní městského obvodu Moravská Ostrava a Přívoz
 mail: # zjistit
 ---
 
