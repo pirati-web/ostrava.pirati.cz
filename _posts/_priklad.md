@@ -7,9 +7,9 @@ author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
 tags:						#Jedno slovo, první písmeno velké, s diakritikou, v případě jmen jen příjmení
-  - město/obvod			#ostrava-jih
-  - programová oblast		#transparence
-  - osoby				#jen příjmení
+  - mesto/obvod			#Jih
+  - programova oblast		#Transparence
+  - osoby				#Polanský
   - kauza				#Další relevantní tagy
 ---
 
