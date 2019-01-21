@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Znečištěný vzduch se na Jihu zatím měřit nebude'
 date: 2019-01-20T22:00:00.000Z
-author: Pavlína Nováčková
-authorId: pavlina.novackova    # uid nekoho z _people
+author: Ondřej Netočný
+authorId: ondrej.netocny    # uid nekoho z _people
 image: posts/cista-skolka.jpg
 tags:
   - Jih
@@ -25,7 +25,7 @@ Konkrétně jsme navrhli rozmístit do škol a školek na Jihu mobilní měříc
 
 Mobilní měřící stanice je malá krabička o rozměrech cca 10 x 15 cm, která obsahuje čidla pro měření kvality ovzduší a SIM kartu, díky níž je zařízení neustále online a může tak odesílat naměřená data na internet. Pořizovací cena je mnohonásobně nižší než náklady na pořízení velkých měřících stanic ČHMÚ, naměřené hodnoty jsou nicméně stejně průkazné a  čidla podléhají stejné certifikaci.
 
-Projekt jsme osobně prezentovali již na podzim loňského roku paní místostarostce pro školství tak, abychom navrhovaný pilotní běh stihli ještě během letošních smogových situací. Navíc jsme návrh předložili záměrně ještě před schvalováním rozpočtu na letošní rok, aby bylo možné na něj alokovat potřebné finanční prostředky. Rada obvodu se nicméně rozhodla projednání návrhu odložit až na lednové zasedání, tudíž se náš požadavek už nemohl dostat do rozpočtu, který byl schvalován na prosincovém zasedání zastupitelstva. Minulý týden naše obavy potvrdilo písemné vyjádření, které nás ujistilo, že letos se na Čistou školku peníze nenajdou. Příprava i realizace projektu jsou časově náročné akce a to v praxi znamená, že start projektu bude odložen minimálně do další zimy, kdy bude možné znovu měřit znečistění během smogových situací.
+Projekt jsme osobně prezentovali již na podzim loňského roku paní místostarostce pro školství tak, abychom navrhovaný pilotní běh stihli ještě během letošních smogových situací. Navíc jsme návrh předložili záměrně ještě před schvalováním rozpočtu na letošní rok, aby bylo možné na něj alokovat potřebné finanční prostředky. Podrobný návrh si můžete stáhnout <a href="{{ 'assets/zip/cista-skola-dz.zip' | relative_url }}">zde</a>. Rada obvodu se nicméně rozhodla projednání návrhu odložit až na lednové zasedání, tudíž se náš požadavek už nemohl dostat do rozpočtu, který byl schvalován na prosincovém zasedání zastupitelstva. Minulý týden naše obavy potvrdilo písemné vyjádření, které nás ujistilo, že letos se na Čistou školku peníze nenajdou. Příprava i realizace projektu jsou časově náročné akce a to v praxi znamená, že start projektu bude odložen minimálně do další zimy, kdy bude možné znovu měřit znečistění během smogových situací.
 
 Svůj boj za zdravější a vzdělanější město ale nevzdáváme. Podobný projekt prosazují také naši kolegové v Moravské Ostravě a Přívoze a podporu máme také u kolegů na magistrátu. Proto budeme nadále hledat cesty, jak projekt realizovat, ať už za finanční podpory obvodu, města nebo nějakého dotačního titulu.
 
