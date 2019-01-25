@@ -9,6 +9,9 @@ category:
 ordRepresentativesJih: 4
 img: people/michal-breskovec.jpg
 description: zastupitel městského obvodu Ostrava-Jih
+boroughMembershipId: jih
+boroughMembershipOrder: 4
+boroughMembershipDescription: zastupitel
 mail: michal.breskovec@pirati.cz 
 ---
 

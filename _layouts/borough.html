@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<!--
+{% include homepage/banner.html
+title=page.title
+default=page.boroughBannerDefault
+mobile=page.boroughBannerMobile
+breakpoint=640
+%}
+-->
+
+<div class="c-corner-ribbon-container">
+  {% capture headerContent %}
+    <div class="c-content-block c-emphasized-text">{{ content }}</div>
+  {% endcapture %}
+  {% include page-header.html headline=page.title content=headerContent %}
+</div>
+
+<div class="o-section">
+  <div class="row">
+    <div class="columns medium-8">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h2-super">Aktuální témata</h3>
+      </div>
+      <div class="o-section-inner o-section-inner--leftBlock">
+
+        {% assign applicablePosts = site.posts | where: "tags", page.boroughTag | sort: 'order' %}
+        {% for article in applicablePosts limit: 6 %}
+          {% include articles/horizontal-article.html article=article %}
+        {% endfor %}
+
+        <div class="c-article-listing__nextbox">
+          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Archiv všech článků</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h2-super">Náš tým</h3>
+      </div>
+      <div class="o-section-block" style="margin-top: 1.5rem;">
+        <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+          <li class="c-widget-accordion-item is-active" data-accordion-item="">
+            <div class="c-widget-accordion-content" data-tab-content="">
+              {% assign persons = site.people | where: "boroughMembershipId", page.boroughId | sort: 'boroughMembershipOrder' %}
+              {% for person in persons %}
+                {% include people/profile-badge.html item=person description=person.boroughMembershipDescription style='card' showContactInfo=false class='c-profile-badge--stacked c-profile-badge--bottomalign' headlineClass='t-h6-super' %}
+              {% endfor %}
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="columns medium-4">
+      <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h2-super">Dokumenty</h3>
+      </div>
+      <div class="o-section-block" style="margin-top: 1.5rem;">
+        <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+          <li class="c-widget-accordion-item is-active" data-accordion-item="">
+            <div class="c-widget-accordion-content" data-tab-content="">
+              {% for doc in page.documents %}
+                <a href="{{ doc.link | relative_url }}">{{ doc.name }}</a><br />
+              {% endfor %}
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
+  </div>
+</div>

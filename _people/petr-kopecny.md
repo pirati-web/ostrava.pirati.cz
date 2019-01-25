@@ -11,6 +11,9 @@ ordRepresentativesMagistrat: 4
 ordRepresentativesJih: 2
 img: people/petr-kopecny.jpg
 description: zastupitel města Ostravy, zastupitel městského obvodu Ostrava-Jih
+boroughMembershipId: jih
+boroughMembershipOrder: 2
+boroughMembershipDescription: zastupitel
 mail: # - zjistit
 ---
 

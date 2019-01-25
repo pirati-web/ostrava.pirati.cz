@@ -9,6 +9,9 @@ category:
 ordRepresentativesJih: 3
 img: people/gabriela-maceckova.jpg
 description: zastupitelka městského obvodu Ostrava-Jih
+boroughMembershipId: jih
+boroughMembershipOrder: 3
+boroughMembershipDescription: zastupitelka
 mail: # - zjistit
 ---
 
