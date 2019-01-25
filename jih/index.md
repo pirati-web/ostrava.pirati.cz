@@ -1,13 +1,23 @@
 ---
-layout: communal-elections
+layout: borough
 title: Piráti Ostrava-Jih
-campaignCategoryUid: jih2018
-candidateListUid: jih
+boroughBannerDefault: banner-default.jpg
+boroughBannerMobile: banner-mobile.jpg
+boroughId: jih
+boroughTag: "Jih"
+boroughMemberCategory: representativeJih
+boroughMemberOrder: ordRepresentativesJih
+boroughMemberDescription: boroughMemberDescriptionJih
+documents:
+  - name: Komunální volby 2018 - program
+    link: program/jih2018/rozvoj-obvodu/
+  - name: Komunální volby 2018 - kandidátka a výsledky
+    link: https://volby.cz/pls/kv2018/kv111111?xjazyk=CZ&xid=1&xdz=5&xnumnuts=8106&xobec=546135&xstrana=720&xstat=0&xvyber=0
 ---
 
 > Náš městský obvod je velice rozmanitý nejen historicky a geograficky, ale hlavně lidsky. Žijeme zde všichni spolu, avšak každý s jinými potřebami a přáními. Piráti z Jihu chtějí naslouchat a spolu s dalšími občany pomáhat Jihu v jeho rozvoji. Největší městský obvod si tu péči zaslouží.
 
-<section class="o-section o-section--spaceBot">
+<!-- <section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
     <div class="o-section-block">
       <div class="c-BasicPage">
@@ -30,4 +40,4 @@ candidateListUid: jih
     </div>
   </div>
 </section>
-
+-->
