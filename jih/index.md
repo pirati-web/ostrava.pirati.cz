@@ -31,11 +31,15 @@ teamMembers:
     committee: "členka bytové komise"
   - uid: ondrej.platko
     committee: "člen majetkové komise"
-documents:
-  - name: Komunální volby 2018 - program
-    link: program/jih2018/rozvoj-obvodu/
-  - name: Komunální volby 2018 - kandidátka a výsledky
-    link: https://volby.cz/pls/kv2018/kv111111?xjazyk=CZ&xid=1&xdz=5&xnumnuts=8106&xobec=546135&xstrana=720&xstat=0&xvyber=0
+documentCategories:
+  - name: Komunální volby 2018
+  - documents:
+    - name: Program
+      link: program/jih2018/rozvoj-obvodu/
+    - name: Kandidátka a výsledky
+      link: https://volby.cz/pls/kv2018/kv111111?xjazyk=CZ&xid=1&xdz=5&xnumnuts=8106&xobec=546135&xstrana=720&xstat=0&xvyber=0
+    - name: Povolební strategie
+      link: assets/pdf/povolebni-strategie.pdf
 ---
 
 > Náš městský obvod je velice rozmanitý nejen historicky a geograficky, ale hlavně lidsky. Žijeme zde všichni spolu, avšak každý s jinými potřebami a přáními. Piráti z Jihu chtějí naslouchat a spolu s dalšími občany pomáhat Jihu v jeho rozvoji. Největší městský obvod si tu péči zaslouží.

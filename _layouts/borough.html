@@ -74,8 +74,11 @@ breakpoint=640
         <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
           <li class="c-widget-accordion-item is-active" data-accordion-item="">
             <div class="c-widget-accordion-content" data-tab-content="">
-              {% for doc in page.documents %}
-                <a href="{{ doc.link | relative_url }}">{{ doc.name }}</a><br />
+              {% for category in page.documentCategories %}
+                <h2 class="t-h5-super">{{ category.name }}</h2>
+                {% for doc in category.documents %}
+                  <a href="{{ doc.link | relative_url }}">{{ doc.name }}</a><br />
+                {% endfor %}
               {% endfor %}
             </div>
           </li>
