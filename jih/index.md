@@ -8,6 +8,29 @@ boroughTag: "Jih"
 boroughMemberCategory: representativeJih
 boroughMemberOrder: ordRepresentativesJih
 boroughMemberDescription: boroughMemberDescriptionJih
+teamMembers:
+  - uid: pavlina.novackova
+    council: "předsedkyně zastupitelského klubu"
+    committee: "členka investiční komise"
+  - uid: gabriela.maceckova
+    council: "zastupitelka"
+    committee: "předsedkyně komise pro otevřenou radnici"
+  - uid: petr.kopecny
+    council: "zastupitel"
+    committee: "člen komise pro dopravu"
+  - uid: michal.breskovec
+    council: "zastupitel"
+    committee: "člen sociální komise"
+  - uid: ondrej.netocny
+    council: "zastupitel"
+  - uid: robert.kolena
+    committee: "místopředseda komise pro bezpečnost, sport a volný čas"
+  - uid: arnost.zidek
+    committee: "člen kulturní a školské komise"
+  - uid: romana.korosi
+    committee: "členka bytové komise"
+  - uid: ondrej.platko
+    committee: "člen majetkové komise"
 documents:
   - name: Komunální volby 2018 - program
     link: program/jih2018/rozvoj-obvodu/

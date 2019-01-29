@@ -9,9 +9,6 @@ category:
 ordRepresentativesJih: 5
 img: people/ondrej-netocny.jpg
 description: zastupitel městského obvodu Ostrava-Jih
-boroughMembershipId: jih
-boroughMembershipOrder: 5
-boroughMembershipDescription: zastupitel
 mail: # - zjistit
 ---
 

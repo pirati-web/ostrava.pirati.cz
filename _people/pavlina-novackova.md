@@ -9,9 +9,6 @@ category:
 ordRepresentativesJih: 1
 img: people/pavlina-novackova.jpg
 description: zastupitelka městského obvodu Ostrava-Jih
-boroughMembershipId: jih
-boroughMembershipOrder: 1
-boroughMembershipDescription: zastupitelka
 mail: pavlina.novackova1@gmail.com
 mob:			  
 profiles:
