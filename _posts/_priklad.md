@@ -3,14 +3,13 @@ layout: post
 category: CLANKY
 title: 'Nadpis článku'			#Zachovat jednoduché úvozovky
 date: 2019-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
-author: Jméno Příjmení			#Musí existovat profil v "./_people"
+author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
-image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/"
-tags:						#Všechno malými písmeny s diakritikou
-  - mesto/obvod			#ostrava-jih
-  - programova oblast		#transparence
-  - osoby				#jméno příjmení
-  - tisková zpráva		#V případě tiskové zprávy
+image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
+tags:						#Jedno slovo, první písmeno velké, s diakritikou, v případě jmen jen příjmení
+  - město/obvod			#ostrava-jih
+  - programová oblast		#transparence
+  - osoby				#jen příjmení
   - kauza				#Další relevantní tagy
 ---
 
@@ -23,9 +22,11 @@ Mezi odstavci musí být vždy jeden prázdný řádek.
 
 >„Přímá řeč se odděluje do vlastního odstavce, který je graficky odělen. Nezapomeňte správný, Český tvar úvozovek, tak jako jsou v této poznámce.”
 
-Vložení obrázku:
+Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku):
 
 ![Text který se objeví místo obrázku, pokud ten nelze zobrazit]({{'jmeno-obrazku.jpg' | prepend: '/assets/img/articles/cesta_k_obrazku/' | relative_url}} "Text který se objeví po najetí na obrázek")
+
+Pod obrázek můžete přidat popisek, ale musí být od obrázku oddělen mezerou.
 
 # Nadpis H1
 
