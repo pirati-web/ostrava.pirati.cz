@@ -45,9 +45,20 @@ breakpoint=640
         <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
           <li class="c-widget-accordion-item is-active" data-accordion-item="">
             <div class="c-widget-accordion-content" data-tab-content="">
-              {% assign persons = site.people | where: "boroughMembershipId", page.boroughId | sort: 'boroughMembershipOrder' %}
-              {% for person in persons %}
-                {% include people/profile-badge.html item=person description=person.boroughMembershipDescription style='card' showContactInfo=false class='c-profile-badge--stacked c-profile-badge--bottomalign' headlineClass='t-h6-super' %}
+              {% for member in page.teamMembers %}
+                {% capture description %}
+                  {% if member.council %}
+                    {% if member.committee %}
+                      {{ member.council }}, {{ member.committee }}
+                    {% else %}
+                      {{ member.council }}
+                    {% endif %}
+                  {% else %}
+                    {{ member.committee }}
+                  {% endif %}
+                {% endcapture %}
+                {% assign person = site.people | where: "uid", member.uid | first %}
+                {% include people/profile-badge.html item=person description=description style='card' showContactInfo=false class='c-profile-badge--stacked c-profile-badge--bottomalign' headlineClass='t-h6-super' %}
               {% endfor %}
             </div>
           </li>
@@ -63,8 +74,11 @@ breakpoint=640
         <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
           <li class="c-widget-accordion-item is-active" data-accordion-item="">
             <div class="c-widget-accordion-content" data-tab-content="">
-              {% for doc in page.documents %}
-                <a href="{{ doc.link | relative_url }}">{{ doc.name }}</a><br />
+              {% for category in page.documentCategories %}
+                <h2 class="t-h5-super">{{ category.name }}</h2>
+                {% for doc in category.documents %}
+                  <a href="{{ doc.link | relative_url }}">{{ doc.name }}</a><br />
+                {% endfor %}
               {% endfor %}
             </div>
           </li>
