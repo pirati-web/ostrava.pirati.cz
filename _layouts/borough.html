@@ -82,24 +82,23 @@ breakpoint=640
 
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h2-super">Dokumenty</h3>
+        <h3 class="o-section__heading t-h2-super">Odkazy</h3>
       </div>
-      <div class="o-section-block" style="margin-top: 1.5rem;">
-        <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
-          <li class="c-widget-accordion-item is-active" data-accordion-item="">
-            <div class="c-widget-accordion-content" data-tab-content="">
-              {% for category in page.documentCategories %}
+      {% for category in page.linkCategories %}
+        <div class="o-section-block" style="margin-top: 1.5rem;">
+          <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true" style="margin-bottom: 0;">
+            <li class="c-widget-accordion-item is-active" data-accordion-item="">
+              <div class="c-widget-accordion-content" data-tab-content="">
                 <h2 class="t-h5-super">{{ category.name }}</h2>
-                {% for doc in category.documents %}
-                  <a href="{{ doc.link | relative_url }}">{{ doc.name }}</a><br />
+                {% for link in category.links %}
+                  <a href="{{ link.link | relative_url }}">{{ link.name }}</a><br />
                 {% endfor %}
-              {% endfor %}
-            </div>
-          </li>
-        </ul>
-      </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      {% endfor %}
     </div>
-
 
   </div>
 </div>

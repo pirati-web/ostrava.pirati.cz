@@ -35,11 +35,19 @@ teamMembers:
     commission: "člen majetkové komise"
   - uid: ondrej.rucka
     committee: "člen kontrolního výboru"
-documentCategories:
+linkCategories:
+  - name: Sociální sítě
+    links:
+    - name: Facebook
+      link: https://www.facebook.com/PiratiOstravaJih/
+    - name: Instagram
+      link: https://www.instagram.com/piratiostravajih/
   - name: Komunální volby 2018
-  - documents:
-    - name: Program
+    links:
+    - name: Kompletní program
       link: program/jih2018/rozvoj-obvodu/
+    - name: Letáček s programem
+      link: assets/pdf/letak-jih-2018.pdf
     - name: Kandidátka a výsledky
       link: https://volby.cz/pls/kv2018/kv111111?xjazyk=CZ&xid=1&xdz=5&xnumnuts=8106&xobec=546135&xstrana=720&xstat=0&xvyber=0
     - name: Povolební strategie
