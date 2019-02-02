@@ -10,27 +10,31 @@ boroughMemberOrder: ordRepresentativesJih
 boroughMemberDescription: boroughMemberDescriptionJih
 teamMembers:
   - uid: pavlina.novackova
-    council: "předsedkyně zastupitelského klubu"
-    committee: "členka investiční komise"
+    assembly: "předsedkyně zastupitelského klubu"
+    commission: "členka investiční komise"
+    committee: "členka kontrolního výboru"
   - uid: gabriela.maceckova
-    council: "zastupitelka"
-    committee: "předsedkyně komise pro otevřenou radnici"
+    assembly: "zastupitelka"
+    commission: "předsedkyně komise pro otevřenou radnici"
   - uid: petr.kopecny
-    council: "zastupitel"
-    committee: "člen komise pro dopravu"
+    assembly: "zastupitel"
+    commission: "člen komise pro dopravu"
   - uid: michal.breskovec
-    council: "zastupitel"
-    committee: "člen sociální komise"
+    assembly: "zastupitel"
+    commission: "člen sociální komise"
   - uid: ondrej.netocny
-    council: "zastupitel"
+    assembly: "zastupitel"
+    committee: "člen finančního výboru"
   - uid: robert.kolena
-    committee: "místopředseda komise pro bezpečnost, sport a volný čas"
+    commission: "místopředseda komise pro bezpečnost, sport a volný čas"
   - uid: arnost.zidek
-    committee: "člen kulturní a školské komise"
+    commission: "člen kulturní a školské komise"
   - uid: romana.korosi
-    committee: "členka bytové komise"
+    commission: "členka bytové komise"
   - uid: ondrej.platko
-    committee: "člen majetkové komise"
+    commission: "člen majetkové komise"
+  - uid: ondrej.rucka
+    committee: "člen kontrolního výboru"
 documentCategories:
   - name: Komunální volby 2018
   - documents:

@@ -46,17 +46,31 @@ breakpoint=640
           <li class="c-widget-accordion-item is-active" data-accordion-item="">
             <div class="c-widget-accordion-content" data-tab-content="">
               {% for member in page.teamMembers %}
-                {% capture description %}
-                  {% if member.council %}
-                    {% if member.committee %}
-                      {{ member.council }}, {{ member.committee }}
-                    {% else %}
-                      {{ member.council }}
-                    {% endif %}
+                {% assign description = "" %}
+                {% if member.council %}
+                  {% assign description = member.council %}
+                {% endif %}
+                {% if member.assembly %}
+                  {% if description == "" %}
+                    {% assign description = member.assembly %}
                   {% else %}
-                    {{ member.committee }}
+                    {% assign description = description | append: ", " | append: member.assembly %}
                   {% endif %}
-                {% endcapture %}
+                {% endif %}
+                {% if member.commission %}
+                  {% if description == "" %}
+                    {% assign description = member.commission %}
+                  {% else %}
+                    {% assign description = description | append: ", " | append: member.commission %}
+                  {% endif %}
+                {% endif %}
+                {% if member.committee %}
+                  {% if description == "" %}
+                    {% assign description = member.committee %}
+                  {% else %}
+                    {% assign description = description | append: ", " | append: member.committee %}
+                  {% endif %}
+                {% endif %}
                 {% assign person = site.people | where: "uid", member.uid | first %}
                 {% include people/profile-badge.html item=person description=description style='card' showContactInfo=false class='c-profile-badge--stacked c-profile-badge--bottomalign' headlineClass='t-h6-super' %}
               {% endfor %}
