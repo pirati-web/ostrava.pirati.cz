@@ -46,17 +46,31 @@ breakpoint=640
           <li class="c-widget-accordion-item is-active" data-accordion-item="">
             <div class="c-widget-accordion-content" data-tab-content="">
               {% for member in page.teamMembers %}
-                {% capture description %}
-                  {% if member.council %}
-                    {% if member.committee %}
-                      {{ member.council }}, {{ member.committee }}
-                    {% else %}
-                      {{ member.council }}
-                    {% endif %}
+                {% assign description = "" %}
+                {% if member.council %}
+                  {% assign description = member.council %}
+                {% endif %}
+                {% if member.assembly %}
+                  {% if description == "" %}
+                    {% assign description = member.assembly %}
                   {% else %}
-                    {{ member.committee }}
+                    {% assign description = description | append: ", " | append: member.assembly %}
                   {% endif %}
-                {% endcapture %}
+                {% endif %}
+                {% if member.commission %}
+                  {% if description == "" %}
+                    {% assign description = member.commission %}
+                  {% else %}
+                    {% assign description = description | append: ", " | append: member.commission %}
+                  {% endif %}
+                {% endif %}
+                {% if member.committee %}
+                  {% if description == "" %}
+                    {% assign description = member.committee %}
+                  {% else %}
+                    {% assign description = description | append: ", " | append: member.committee %}
+                  {% endif %}
+                {% endif %}
                 {% assign person = site.people | where: "uid", member.uid | first %}
                 {% include people/profile-badge.html item=person description=description style='card' showContactInfo=false class='c-profile-badge--stacked c-profile-badge--bottomalign' headlineClass='t-h6-super' %}
               {% endfor %}
@@ -68,24 +82,23 @@ breakpoint=640
 
     <div class="columns medium-4">
       <div class="o-section-header o-section-header--bordered">
-        <h3 class="o-section__heading t-h2-super">Dokumenty</h3>
+        <h3 class="o-section__heading t-h2-super">Odkazy</h3>
       </div>
-      <div class="o-section-block" style="margin-top: 1.5rem;">
-        <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
-          <li class="c-widget-accordion-item is-active" data-accordion-item="">
-            <div class="c-widget-accordion-content" data-tab-content="">
-              {% for category in page.documentCategories %}
+      {% for category in page.linkCategories %}
+        <div class="o-section-block" style="margin-top: 1.5rem;">
+          <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true" style="margin-bottom: 0;">
+            <li class="c-widget-accordion-item is-active" data-accordion-item="">
+              <div class="c-widget-accordion-content" data-tab-content="">
                 <h2 class="t-h5-super">{{ category.name }}</h2>
-                {% for doc in category.documents %}
-                  <a href="{{ doc.link | relative_url }}">{{ doc.name }}</a><br />
+                {% for link in category.links %}
+                  <a href="{{ link.link | relative_url }}">{{ link.name }}</a><br />
                 {% endfor %}
-              {% endfor %}
-            </div>
-          </li>
-        </ul>
-      </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      {% endfor %}
     </div>
-
 
   </div>
 </div>
