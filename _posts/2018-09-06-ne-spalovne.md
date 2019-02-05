@@ -32,7 +32,7 @@ komentuje situaci Jan Nezhyba, garant Pirátů pro programový bod Životní pro
 <dd>Pokud máte restauraci, obchod či jiné vhodné místo, napište nám a my vás uvedeme na našich stránkách a pomůžeme s úpravou prostoru.</dd>
 <dt>Můžete sbírat podpisy sami</dt>
 <br />
-<dd>Stáhněte si <a href="{{ 'assets/pdf/petice-spalovna.pdf' | relative_url }}">Petici</a>, vytiskněte ji a sepněte sešívačkou a dejte ji k podpisu lidem ve vašem okolí. Je nutné sbírat podpisy v souladu s <a href="https://www.zakonyprolidi.cz/cs/1990-85">petičním zákonem</a> a pokud zaplníte podpisové archy, vytiskněte si Petici znovu a můžete stejným způsobem pokračovat. Zaplněné petice je potřeba dopravit (osobně nebo poštou) do poslanecké kanceláře (Nádražní&nbsp;1248/16, 702&nbsp;00&nbsp;Ostrava, +420 737 480 813).</dd>
+<dd>Stáhněte si <a href="{{ 'assets/pdf/petice-spalovna.pdf' | relative_url }}">Petici</a>, vytiskněte ji a sepněte sešívačkou a dejte ji k podpisu lidem ve vašem okolí. Je nutné sbírat podpisy v souladu s <a href="https://www.zakonyprolidi.cz/cs/1990-85">petičním zákonem</a> a pokud zaplníte podpisové archy, vytiskněte si Petici znovu a můžete stejným způsobem pokračovat. Zaplněné petice je potřeba dopravit (osobně nebo poštou) do poslanecké kanceláře (Denisova&nbsp;639/2&nbsp;,&nbsp;3.&nbsp;patro,&nbsp;702&nbsp;00&nbsp;Moravská&nbsp;Ostrava&nbsp;a&nbsp;Přívoz, +420&nbsp;737&nbsp;480&nbsp;813).</dd>
 </dl> 
 
 ## Kontakt
