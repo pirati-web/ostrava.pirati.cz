@@ -24,4 +24,6 @@ S ohledem na provoz původního zařízení je zřejmé, že jeho dosavadní kap
 
 Zpracovávat odpady z jiných krajů je to poslední, co Moravskoslezský kraj potřebuje. Místním obyvatelům z takových činností zůstanou jen emisemi zabarvené oči pro pláč. 
 
+Informace k petici proti spalovně naleznete v článku "[NE spalovně! Piráti budou bránit Ostravu před dalším znečištěním](https://ostrava.pirati.cz/aktuality/ne-spalovne.html "NE spalovně! Piráti budou bránit Ostravu před dalším znečištěním")."
+
 - - -
