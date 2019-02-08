@@ -32,6 +32,8 @@ main:
       - link: /jih/
         name: Jih
         match: jih
+  - link: https://nalodeni.pirati.cz/
+    name: Připoj se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
