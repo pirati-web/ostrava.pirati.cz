@@ -7,10 +7,11 @@ author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
 tags:						#Jedno slovo, první písmeno velké, s diakritikou, v případě jmen jen příjmení
-  - mesto/obvod			#Jih
-  - programova oblast		#Transparence
-  - osoby				#Polanský
-  - kauza				#Další relevantní tagy
+  - Město/obvod			#Ostrava-Jih
+  - Programová oblast		#Transparence
+  - Osoby			#Černohorský (vždy jen příjmení)
+  - Spojený tag			#Evropská-komise (tag o dvou slovech vždy spojit pomocí "-")
+  - Kauza			#Další relevantní tagy
 ---
 
 Ostrava, 31. ledna 2019 - **Místo a datum vždy v tomto tvaru! Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2019-01-41-rucnikovy-den.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/rucnikovy-den.html. Perex vždy tučně.**
