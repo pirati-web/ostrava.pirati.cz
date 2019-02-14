@@ -3,11 +3,7 @@ layout: borough
 title: Piráti Ostrava-Jih
 boroughBannerDefault: banner-default.jpg
 boroughBannerMobile: banner-mobile.jpg
-boroughId: jih
 boroughTag: "Jih"
-boroughMemberCategory: representativeJih
-boroughMemberOrder: ordRepresentativesJih
-boroughMemberDescription: boroughMemberDescriptionJih
 teamMembers:
   - uid: pavlina.novackova
     assembly: "předsedkyně zastupitelského klubu"
