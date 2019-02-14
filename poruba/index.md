@@ -20,6 +20,8 @@ teamMembers:
   - uid: jakub.dedek
     assembly: "zastupitel"
     committee: "člen finančního výboru"
+  - uid: pavel.sikora
+    commission: "předseda komise pro rozvoj kultury"
   - uid: denisa.kucerova
     commission: "členka komise pro strategické řízení, udržitelný rozvoj a MA21"
   - uid: pavel.kucera
