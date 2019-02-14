@@ -49,13 +49,8 @@ breakpoint=640
                 {% assign description = "" %}
                 {% if member.council %}
                   {% assign description = member.council %}
-                {% endif %}
-                {% if member.assembly %}
-                  {% if description == "" %}
-                    {% assign description = member.assembly %}
-                  {% else %}
-                    {% assign description = description | append: ", " | append: member.assembly %}
-                  {% endif %}
+                {% elsif member.assembly %}
+                  {% assign description = member.assembly %}
                 {% endif %}
                 {% if member.commission %}
                   {% if description == "" %}
