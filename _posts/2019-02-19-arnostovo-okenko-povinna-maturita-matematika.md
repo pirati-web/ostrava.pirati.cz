@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Povinná státní maturita z matematiky. Ano či ne?'
 date: 2019-02-19T16:00:00.000Z
 authorId: arnost.zidek
-image: #
+image: posts/vzdelany-urad.jpg
 tags:
   - Arnoštovo-okénko
   - Školství
