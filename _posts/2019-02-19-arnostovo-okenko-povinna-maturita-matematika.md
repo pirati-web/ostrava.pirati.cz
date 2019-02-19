@@ -4,12 +4,21 @@ category: CLANKY
 title: 'Povinná státní maturita z matematiky. Ano či ne?'
 date: 2019-02-19T16:00:00.000Z
 authorId: arnost.zidek
-image: posts/vzdelany-urad.jpg
+image: posts/maturita-matematika.jpg
 tags:
   - Arnoštovo-okénko
   - Školství
   - Vzdělávání
   - Jih
+infoboxes:
+  - content:
+      <img src="../assets/img/people/arnost-zidek.jpg" /><br /><br />
+      <h3>Arnošt Žídek</h3>
+      Už delší dobu si říkám, že zkusím vyrobit takový nepravidelný „blog“, kde bych se rád věnoval stavu školství v ČR a psal nejen o jeho aktuálním stavu a bolestech, ale také nějaké názory, nápady a postřehy, co si myslím, že by našemu školství mohlo pomoci do let dalších. V prvé řadě je však nutné, abych se představil.<br/><br/>
+      Vystudoval jsem v roce 1998 učitelství matematiky a fyziky na přírodovědecké fakultě UP Olomouc. Do práce jsem nastoupil na katedru matematiky a deskriptivní geometrie VŠB-TU Ostrava, kde jsem dodnes. Přednáším a cvičím matematické předměty převážně v prvním ročníku studia, nyní na fakultě strojní (prošel jsem už ale většinu fakult VŠB). Pokud si pod tím chcete něco představit, učím a zkouším prváky základy lineární algebry, dále derivace a integrály a jejich využití a také úvod do diferenciálních rovnic. Mám také nějaké hodiny vyšší matematiky v angličtině (vícerozměrné integrály, soustavy diferenciálních rovnic) pro zahraniční studenty, kteří studují na VŠB. Při práci jsem si dodělal doktorát (Ph.D.) z aplikované matematiky na fakultě elektrotechniky a informatiky VŠB. Spoustu let jsem byl nespokojen se stavem a znalostmi matematiky studentů technické vysoké školy. Proto jsem se v roce 2016 stal spoluzakladatelem centra pro podporu výuky matematiky na VŠB – Math Support Centre, kde se snažíme s kolegy tento neutěšený stav denně řešit.<br/><br/> 
+      Od roku 2014 spolupracuji s Pirátskou stranou. Stal jsem se garantem programového bodu Školství v regionálních volbách 2018 v městské čtvrti Ostrava-jih, kde většinu života bydlím. Po těchto volbách mě Piráti nominovali za člena komise kulturní a školské na naší městské čtvrti a také komise pro vzdělávání, vědu a výzkum Statutárního města Ostrava.<br/><br/>
+      <a href="../lide/arnost-zidek"><b>Více o autorovi</b></a>
+
 ---
 
 První téma, které bych rád ve svém novém blogu otevřel, je myšlenka povinné státní maturity z matematiky. Jsem si vědom toho, že téma je skutečně ožehavé a hlavně velice komplikované. Než se pustím do vlastního názoru na věc samotnou, zkusím nastínit několik klíčových myšlenek, které asi znáte, ale které jsou pro problém důležité. 
@@ -31,5 +40,3 @@ Za poslední dva roky propadlo u maturity z matematiky každý rok přes dvacet 
 Případným řešením by bylo vytvoření dvouúrovňové maturitní zkoušky. Jednoduchého testu pro širokou masu studentů a obtížnějšího testu pro studenty mířící na technické obory, informační technologie, matematiku, fyziku apod., kde by kvalita zůstala zachována, resp. by se mohla vrátit na původní úroveň z devadesátých let. Ta by pak mohla být vyžadována technickými a přírodovědnými obory k následnému studiu. Proč ne? Tohle by mohlo fungovat. Stále však postrádám smysl lehčí úrovně zkoušky pro široké spektrum studentů. Pokud studenty dokážeme motivovat k užitečnosti výuky matematiky, tyto nezbytné základy zvládnou v rámci svého standardního studia a maturovat mohou z předmětů, které budou potřebovat pro své další studium či praxi. Pokud je motivovat nebudeme, k matematice si nikdy vztah nevytvoří a represivní složka povinné státní maturity ničemu nepomůže a jen způsobí další generaci těch, kteří budou na potkání říkat „Já jsem matematiku nikdy neměl rád. Stejně k ničemu není.“ Což se mimochodem ve velké míře děje už dnes.
 
 Za sebe musím říct, že jsem naprosto proti zavedení povinné maturity z matematiky. A to bych na svém pracovním postu dal cokoli za to, aby studenti prvních ročníků naší technické univerzity byli lépe matematicky vybaveni, než je tomu doposud. Povinná maturita z matematiky tento problém totiž nevyřeší a kvalitu matematického vzdělání nikam neposune. 
-
-- - -
