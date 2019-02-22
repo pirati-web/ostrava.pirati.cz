@@ -6,7 +6,7 @@ date: 2018-01-18T11:37:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: posts/mistecka.jpg
-tags: 'Ostrava MOaP Doprava'
+tags: 'Ostrava MOaP Doprava David-Witosz'
 ---
 
 Dokončení Místecké se dále odkládá. Vedení města Ostrava nesouhlasilo s technickým řešením odhlučnění, které navrhlo ŘSD. Podle Pirátů to bude znamenat dalších několik let čekání na dokončení dopravní stavby, kterou Ostrava zoufale potřebuje, a také její výrazné prodražení. Navíc stát se stavbou počítá, ale pouze v rozpočtu pro rok 2018, co bude pak, nikdo nezaručí. Radní pro dopravu Lukáš Semerák (Ostravak) na posledním zasedání zastupitelstva ostravské čtvrti Moravská Ostrava a Přívoz pronesl k tématu Místecké  několik překvapivých výroků. Pirátům se prezentovaný postoj radního nezdál, a tak si je ověřili přímo u ministra.

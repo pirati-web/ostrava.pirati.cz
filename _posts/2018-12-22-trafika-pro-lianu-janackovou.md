@@ -7,8 +7,9 @@ author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
 image: posts/tichy-daniel.jpg
 tags:
+  - Ostrava
   - Mariánské-Hory
-  - Janáčková
+  - Liana-Janáčková
   - Klientelismus
 ---
  

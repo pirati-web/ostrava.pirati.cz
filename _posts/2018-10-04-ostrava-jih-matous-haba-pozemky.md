@@ -6,7 +6,7 @@ date: 2018-10-04T20:00:00.000Z
 author: Pavlína Nováčková
 authorId: pavlina.novackova
 image: posts/matous-haba-pozemky-1.jpg
-tags: 'Ostrava Jih Sport Klientelismus Hába'
+tags: 'Ostrava Jih Sport Klientelismus Matouš-Hába'
 ---
 
 **Pronájem zelené plochy o rozloze více jak 4 km<sup>2</sup> za cenu 50 000 Kč za rok spolku Ostravská sportovní, z.s. za účelem výstavby sportovního areálu pro trénink fotbalového dorostu považují Piráti za podezřelou machinaci s obecními pozemky a zbytečnou devastaci zdejší zeleně.**

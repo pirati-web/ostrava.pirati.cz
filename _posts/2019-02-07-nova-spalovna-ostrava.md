@@ -10,8 +10,8 @@ tags:
   - Moravskoslezský-kraj
   - Spalovna
   - Ekologie
-  - Nezhyba
-  - Řeha
+  - Jan-Nezhyba
+  - Rostislav-Řeha
 ---
 
 Havířov, 7. února 2019 – **Avizovaný a momentálně schvalovaný záměr společnosti SUEZ na novou spalovnu nebezpečných odpadů v Ostravě jitří vášně a budí obavy. Každý nový zdroj znečištění, který má v Ostravě vzniknout, přivádí lidi skoro k šílenství. Každý, kdo alespoň rámcově sleduje situaci na Ostravsko-Karvinsku, musí toto znepokojení chápat.**

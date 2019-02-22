@@ -17,6 +17,7 @@ na schůzi (viz <a href="{{ '/' | relative_url }}">krajský kalendář</a>).
 ### Materiály ke stažení
 <ul>
   <li><a href="{{ 'assets/pdf/piratske-listy.pdf' | relative_url }}" target="_blank">Ostravské Pirátské listy</a></li>
+  <li><a href="{{ 'assets/pdf/povolebni-strategie.pdf' | relative_url }}" target="_blank">Povolební strategie</a></li>
 </ul>
 
 

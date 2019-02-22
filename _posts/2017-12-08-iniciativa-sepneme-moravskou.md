@@ -6,7 +6,7 @@ date: 2017-12-08T15:59:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: posts/2017-12-08-lavka3.jpg
-tags: 'Ostrava MOaP Doprava Urbanismus'
+tags: 'Ostrava MOaP Doprava Urbanismus David-Witosz Ondřej-Polanský'
 ---
 Iniciativu „Sepněme Moravskou“ jsme chystali pro komunální volby 2018 v Ostravě ještě daleko dříve, než někoho z nás napadlo, že bych se mohl dostat do Parlamentu. S radostí proto oznamuji, že dnes byla jak (znovu)založena místní buňka pirátské strany v Moravské Ostravě a Přívoze, ale také představen náš hlavní projekt.
 
