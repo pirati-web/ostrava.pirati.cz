@@ -6,7 +6,7 @@ date: 2018-10-03T08:00:00.000Z
 author: Pavlína Nováčková
 authorId: pavlina.novackova
 image: posts/dopis-byty-jih-1.jpg
-tags: 'Ostrava Jih Bydlení Klientelismus Rykala'
+tags: 'Ostrava Jih Bydlení Klientelismus Adam-Rykala'
 ---
 
 **Nájemci bytů, které jsou ve vlastnictví Statutárního města Ostravy, správě městského obvodu Ostrava-Jih, dostali v těchto dnech do schránek (nebo před vchody do domů) nenápadnou bílou obálku s okýnkem a adresou „Nájemce obecního bytu ve vlastnictví SMO, správě městského obvodu Ostrava-Jih, 700 30 Ostrava.“ Po otevření na ně vykoukli odesílatelé Adam Rykala a Věra Válková s tituly funkcí v radě obvodu.**

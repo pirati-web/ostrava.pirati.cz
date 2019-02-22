@@ -7,12 +7,11 @@ author: Mediální odbor
 image: posts/cernohorsky-komisarka.jpg
 tags:
   - OKD
-  - Černohorský
-  - Kauza
   - Karbon-Invest
-  - Moravskoslezský-kraj
+  - Lukáš-Černohorský
   - Evropská-komise
   - Ministerstvo-financí
+  - Klientelismus
 ---
 
 Praha, 11. února 2019 – **Ministerstvo financí ČR podalo podle zjištění vyšetřovací komise k OKD Evropské komisi nepravdivé a zavádějící informace ohledně privatizace OKD. Šéf vyšetřovací komise, pirátský poslanec Lukáš Černohorský, o tom informoval eurokomisařku pro hospodářskou soutěž Margrethe Vestager při její návštěvě Poslanecké sněmovny Parlamentu ČR. Černohorský položil eurokomisařce několik dotazů během jejího vystoupení na zasedání Výboru pro evropské záležitosti a apeloval na ni, aby se Evropská komise privatizací OKD dál zabývala.**

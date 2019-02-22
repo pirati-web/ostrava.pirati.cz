@@ -1,7 +1,7 @@
-# Campaigns are grouped, this usually reperesents situation when multiple
-# election campaings are held at the same time (which saves $$$ for the country).
+# Campaigns are grouped, this is useful in a situation when multiple
+# election campaigns are held at the same time
 
-- groupUid: volby-2018  # identifier of the group, to be used in program point
+- groupUid: volby-2018  # identifier of the group, to be used in a program point
   title: Volby 2018     # title of the campaign group
   campaigns:
     - title: Pirátský program pro Magistrát   # individual campaigns within the group
@@ -12,6 +12,3 @@
       categoryUid: poruba2018
     - title: Pirátský program pro Jih
       categoryUid: jih2018
-
-    # - title: Senát
-    #   categoryUid: senat
