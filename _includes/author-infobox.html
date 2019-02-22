@@ -1,0 +1,11 @@
+<div class="c-article-infobox">
+  {% if include.author %}
+    {% if include.author.img %}
+      <img src="../assets/img/{{ include.author.img }}" /><br /><br />
+    {% endif %}
+    <h3>{{ include.author.name }}</h3>
+    {{ include.author.authorInfobox }}
+    <br /><br />
+    <a href="{{ include.author.url | relative_url }}"><b>Více o autorovi</b></a>
+  {% endif %}
+</div>

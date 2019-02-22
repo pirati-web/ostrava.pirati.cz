@@ -9,14 +9,8 @@ tags:
   - Arnoštovo-okénko
   - Vzdělávání
   - Jih
-infoboxes:
-  - content:
-      <img src="../assets/img/people/arnost-zidek.jpg" /><br /><br />
-      <h3>Arnošt Žídek</h3>
-      Už delší dobu si říkám, že zkusím vyrobit takový nepravidelný „blog“, kde bych se rád věnoval stavu školství v ČR a psal nejen o jeho aktuálním stavu a bolestech, ale také nějaké názory, nápady a postřehy, co si myslím, že by našemu školství mohlo pomoci do let dalších. V prvé řadě je však žádoucí, abych se představil.<br/><br/>
-      Vystudoval jsem v roce 1998 učitelství matematiky a fyziky na přírodovědecké fakultě UP Olomouc. Do práce jsem nastoupil na katedru matematiky a deskriptivní geometrie VŠB-TU Ostrava, kde jsem dodnes. Přednáším a cvičím matematické předměty převážně v prvním ročníku studia, nyní na fakultě strojní (prošel jsem už ale většinu fakult VŠB). Pokud si pod tím chcete něco představit, učím a zkouším prváky základy lineární algebry, dále derivace a integrály a jejich využití a také úvod do diferenciálních rovnic. Mám také nějaké hodiny vyšší matematiky v angličtině (vícerozměrné integrály, soustavy diferenciálních rovnic) pro zahraniční studenty, kteří studují na VŠB. Při práci jsem si dodělal doktorát (Ph.D.) z aplikované matematiky na fakultě elektrotechniky a informatiky VŠB. Spoustu let jsem byl nespokojen se stavem a znalostmi matematiky studentů technické vysoké školy. Proto jsem se v roce 2016 stal spoluzakladatelem centra pro podporu výuky matematiky na VŠB – Math Support Centre, kde se snažíme s kolegy tento neutěšený stav denně řešit.<br/><br/> 
-      Od roku 2014 spolupracuji s Pirátskou stranou. Stal jsem se garantem programového bodu Školství v komunálních volbách 2018 v městském obvodu Ostrava-jih, kde většinu života bydlím. Po těchto volbách mě Piráti nominovali za člena komise kulturní a školské v našem obvodu a také komise pro vzdělávání, vědu a výzkum Statutárního města Ostrava.<br/><br/> 
-      <a href="../lide/arnost-zidek"><b>Více o autorovi</b></a>
+authorBio: right-pane
+
 ---
 
 **Téma, kterým bych rád svůj nový blogu otevřel, je, v poslední době často diskutovaná, myšlenka povinné státní maturity z matematiky. Než se dostanu k vlastnímu názoru na věc samotnou, zkusím nastínit několik klíčových myšlenek, které asi znáte, ale které jsou pro problém důležité.** 
