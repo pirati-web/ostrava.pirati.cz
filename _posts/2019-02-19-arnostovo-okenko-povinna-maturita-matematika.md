@@ -46,3 +46,7 @@ Případným řešením by bylo vytvoření dvouúrovňové maturitní zkoušky.
 Za sebe musím říct, že jsem naprosto proti zavedení povinné maturity z matematiky. A to bych na svém pracovním postu dal cokoli za to, aby studenti prvních ročníků naší technické univerzity byli lépe matematicky vybaveni, než je tomu doposud. Povinná maturita z matematiky tento problém totiž nevyřeší a kvalitu matematického vzdělání nikam neposune. Jediným správným řešením je dlouhodobá koncepce zlepšování kvality výuky, motivace studentů vedoucí k přesvědčení o užitečnosti matematiky v jejich profesní kariéře i reálném životě.
 
 - - -
+
+Pokud chcete o problému diskutovat, mohu nabídnout k dispozici například svůj Facebookový profil. Názory mne zajímají, nestyďte se napsat!<br/>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Farnost.zidek.9%2Fposts%2F2279280415437606&width=500" width="500" height="549" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
