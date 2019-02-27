@@ -1,21 +1,19 @@
 ---
 layout: post
 category: CLANKY
-title: 'NE spalovně! Piráti budou bránit Ostravu před dalším znečištěním'
-date: 2018-09-05T10:00:00.000Z
+title: '„Společnost SUEZ klame veřejnost,“ kritizují Piráti výroky o spalovně nebezpečných odpadů'
+date: 2019-02-27T10:00:00.000Z
 author: Rostislav Řeha
 authorId: rostislav.reha
 image: posts/spalovna1.jpg
 tags: 'Ostrava Ekologie Rostislav-Řeha Jan-Nezhyba Zuzana-Klusová'
 ---
 
-## „Společnost SUEZ klame veřejnost,“ Piráti kritizují výroky o spalovně nebezpečných odpadu
-
 Ostrava, 27. 2. 2019 - *„Stát si za svým a hájit svůj byznys je pochopitelné, ale lhát se prostě nemá. Obzvláště ne Ostravanům ohledně ovzduší,“* komentuje pirátský garant pro životní prostředí Jan Nezhyba výroky Petra Špičáka, technického ředitele společnosti SUEZ. Ten [v článku uveřejněném na iDNES.cz](https://www.idnes.cz/ostrava/zpravy/spalovna-ostrava-suez-spalovny-odpad-odpady-moravskoslezsky-kraj.A190221_459063_ostrava-zpravy_jog "iDNES.cz: Ostrava je proti plánům na novou spalovnu, vadí jí emise i nárůst dopravy")  minulý týden uvedl ohledně stavby nové spalovny nebezpečných odpadů několik zavádějících tvrzení.
 
 <div>
  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8eytZGwFdVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
- <center><i>VIDEO: Pozvánka Piráti spalovna nebezpečných odpadů.</i></center>
+ <center><i>VIDEO: Pozvánka Pirátů na veřejné projednání stavby spalovny nebezpečných odpadů</i></center>
  <br>
 </div>
 
@@ -26,7 +24,7 @@ Piráti se proti stavbě spalovny nebezpečných odpadů postavili už loni na p
 <ol>
  <li>
   <p><i><b>„Nové zařízení ovzduší nezhorší… je srovnatelné s jedním domkem topícím pevnými palivy.“</b></i></p>
-  <p>Piráti: Tvrdit, že spalovna je asi tak nebezpečná jako jeden rodinný domek, je mírně řečeno velmi manipulativní. Je pravdou, že množství prachu neboli tuhých znečišťujících látek, které spalovna bude vypouštět, není v kontextu ostravského ovzduší nijak enormní. Přesto je to další zdroj do prostředí, kde lidé valnou část zimy dýchají vzduch vysoce překračující zákonem dané limity. Skutečný problém ale vězí jinde. <strong>Jsou jím těžké kovy – zejména arsen a rtuť</strong>. Ty se totiž vážou na prachové částice, které vdechujeme do plic, kde škodí a tráví nás postupně.</p>
+  <p>Piráti: Tvrdit, že spalovna je asi tak nebezpečná jako jeden rodinný domek, je mírně řečeno velmi manipulativní. Je pravdou, že množství prachu nebo-li tuhých znečišťujících látek, které spalovna bude vypouštět, není v kontextu ostravského ovzduší nijak enormní. Přesto je to další zdroj do prostředí, kde lidé valnou část zimy dýchají vzduch vysoce překračující zákonem dané limity. Skutečný problém ale vězí jinde. <strong>Jsou jím těžké kovy – zejména arsen a rtuť</strong>. Ty se totiž vážou na prachové částice, které vdechujeme do plic, kde škodí a tráví nás postupně.</p>
   <p>Spalovna za rok do ovzduší vypustí necelých <strong>5 kilo arsenu a 3 kila rtuti</strong>. Takové množství arsenu by pro představu dokázalo zabít 25 000 lidí. <a href="https://www.lidovky.cz/domov/cesko-je-ctvrtym-nejvetsim-znecistovatelem-ovzdusi-rtuti-kvuli-tezbe-hnedeho-uhli-rika-studie.A180926_144120_ln_domov_ele">Nebezpečí rtuti</a> je pro změnu v tom, že se v organismu kumuluje, přijímáme ji také ve vodě a potravinách. Proč má takovou zátěž pro životní prostředí nést na svých bedrech opět Ostrava?</p>
  </li><li>
   <p><i><b>„Kapacita je nedostatečná, nestíháme odstranit to, co region vyprodukuje.“</b></i></p>
@@ -47,7 +45,8 @@ Piráti se proti stavbě spalovny nebezpečných odpadů postavili už loni na p
   <p>Jde o <strong>120 kg arsenu</strong> a jeho sloučenin a přes <strong>200 kg sloučenin rtuti</strong>, 2 kilogramy rtuti v odpadních vodách. Součástí odpadů po spalování nebezpečného odpadu jsou také polychlorované bifenyly, dioxiny a furany, které jsou nebezpečné i ve stopovém množství.</p>
  </li><li>
   <p>pokud spalovna nenaplní kapacitu a nebude chtít odpad dovážet, bude její provoz doplácet kraj v řádech až desítek milionů. Podobně tomu je i dnes v Německu.</p>
-  <p>Pokud bude na ústupu těžký průmysl a množství nebezpečného odpadu se bude snižovat, nebudeme mít jinou volbu než odpad svážet nebo zařízení dotovat.</p>
+ </li><li>
+  <p>pokud bude v kraji na ústupu těžký průmysl, množství nebezpečného odpadu se bude snižovat a investorovi nezbude nic jiného než odpad dovážet, aby naplnil kapacitu. Jen těžko investici za stovky milionů odepíše, bude dobrovolně prodělávat nebo spalovnu zavře.</p>
  </li>
  </ul>
  
@@ -71,6 +70,8 @@ Piráti se proti stavbě spalovny nebezpečných odpadů postavili už loni na p
 </dl> 
 
 - - -
+
+## NE spalovně! Piráti budou bránit Ostravu před dalším znečištěním
 
 Ostrava, 5. 9. 2018 - Ostravští Piráti nesouhlasí se záměrem společnosti SUEZ vybudovat v Mariánských Horách spalovnu nebezpečných odpadů. Poukazují na to, že podstatná část Moravskosleszského kraje už nyní trpí výrazně zhoršenou kvalitou ovzduší, když jsou zde dlouhodobě překračovány imisní limity. Zároveň nebyla dostatečně odůvodněna potřeba nové spalovny a z dostupných dat vyplývá, že pro naplnění její kapacity bude nutné do Ostravy svážet nebezpečný odpad nejen z celého Moravskoslezského, ale  i z jiných krajů. Proto Piráti začínají se sběrem podpisů pod petici proti její výstavbě, zároveň se chtějí účastnit i nadcházejícího řízení a využít veškeré zákonné prostředky k tomu, aby obyvatelům Ostravy nepřibyl k těm současným ještě další  zdroj znečištění. 
 
