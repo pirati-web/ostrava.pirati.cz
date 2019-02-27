@@ -6,10 +6,10 @@ date: 2019-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
 author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
-tags:						#Jedno slovo, první písmeno velké, s diakritikou, v případě jmen jen příjmení
+tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou.
   - Město/obvod			#Ostrava-Jih
   - Programová oblast		#Transparence
-  - Osoby			#Černohorský (vždy jen příjmení)
+  - Osoby			#Lukáš-Černohorský
   - Spojený tag			#Evropská-komise (tag o dvou slovech vždy spojit pomocí "-")
   - Kauza			#Další relevantní tagy
 ---
@@ -28,6 +28,10 @@ Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspo�
 ![Text který se objeví místo obrázku, pokud ten nelze zobrazit]({{'jmeno-obrazku.jpg' | prepend: '/assets/img/articles/cesta_k_obrazku/' | relative_url}} "Text který se objeví po najetí na obrázek")
 
 Pod obrázek můžete přidat popisek, ale musí být od obrázku oddělen mezerou.
+
+Vložení odkazu na lokální soubor:
+
+[Text odkazu]({{'jmeno-soubor.pdf' | prepend: '/assets/pdf/' | relative_url}} "Text který se objeví po najetí na odkaz")
 
 # Nadpis H1
 
@@ -58,7 +62,7 @@ Všechny následující příklady seznamu jsou ekvivalentní:
 
 + A zase seznam
 
-[Toto je text odkazu](https://www.pirati.cz "Alternativní text")
+[Toto je text odkazu](https://www.pirati.cz "Text který se objeví po najetí na odkaz")
 
 Jednoduchá tabulka:
 
