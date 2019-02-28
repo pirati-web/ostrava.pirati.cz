@@ -44,9 +44,9 @@ Piráti se proti stavbě spalovny nebezpečných odpadů postavili už loni na p
   <p>problémem nejsou pouze jedy vypouštěné do ovzduší, ale také <strong>jedovatý odpad</strong>, který po spalování zůstane.</p>
   <p>Jde o <strong>120 kg arsenu</strong> a jeho sloučenin a přes <strong>200 kg sloučenin rtuti</strong>, 2 kilogramy rtuti v odpadních vodách. Součástí odpadů po spalování nebezpečného odpadu jsou také polychlorované bifenyly, dioxiny a furany, které jsou nebezpečné i ve stopovém množství.</p>
  </li><li>
-  <p>pokud spalovna nenaplní kapacitu a nebude chtít odpad dovážet, bude její provoz doplácet kraj v řádech až desítek milionů. Podobně tomu je i dnes v Německu.</p>
- </li><li>
   <p>pokud bude v kraji na ústupu těžký průmysl, množství nebezpečného odpadu se bude snižovat a investorovi nezbude nic jiného než odpad dovážet, aby naplnil kapacitu. Jen těžko investici za stovky milionů odepíše, bude dobrovolně prodělávat nebo spalovnu zavře.</p>
+ </li><li>
+  <p>SUEZ uvádí, že spalovna nebezpečných odpadů loni vyprodukovala 80 kg prachových částic (Pm 10), ale o rok dříve to bylo 240 kg, tedy třikrát více! Zajímavé, nemyslíte? Data za rok 2018 navíc zatím nelze ověřit.</p>
  </li>
  </ul>
  
