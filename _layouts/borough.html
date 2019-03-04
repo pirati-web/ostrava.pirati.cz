@@ -27,7 +27,7 @@ breakpoint=640
       <div class="o-section-inner o-section-inner--leftBlock">
 
         {% assign applicablePosts = site.posts | where: "tags", page.boroughTag | sort: 'order' %}
-        {% for article in applicablePosts limit: 6 %}
+        {% for article in applicablePosts limit: 8 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
 
