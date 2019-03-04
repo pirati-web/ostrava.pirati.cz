@@ -3,57 +3,8 @@ layout: borough
 title: Piráti Moravská Ostrava a Přívoz
 boroughBannerDefault: banner-default.jpg
 boroughBannerMobile: banner-mobile.jpg
-boroughTag: "MOaP"
-campaignCategoryUid: moap2018
-candidateListUid: moap
-teamMembers:
-  - uid: david.witosz
-    council: "místostarosta"
-    assembly: "zastupitel"
-  - uid: rostislav.reha
-    council: "místostarosta"
-    assembly: "zastupitel"
-  - uid: lukas.jansa
-    council: "radní"
-    assembly: "zastupitel"
-    commission: "předseda kulturní komise"
-  - uid: kamil.tomas
-    assembly: "zastupitel"
-    commission: "předseda komise pro otevřenou radnici"
-    committee: "člen finančního výboru"
-  - uid: barbora.vojkovska
-    assembly: "zastupitelka"
-    commission: "členka komise pro školství, členka sociální komise"
-    assembly: "členka finančního výboru"
-  - uid: martin.kucera
-    assembly: "zastupitel"
-    commission: "člen bytové komise"
-  - uid: pavel.brynda
-    commission: "člen komise pro školství, sport a volnočasové aktivity"
-  - uid: jiri.suruvka
-    commission: "člen kulturní komise"
-  - uid: petr.bainar
-    commission: "člen dopravní komise"
-  - uid: jakub.dedek
-    commission: "člen dopravní komise"
-  - uid: gabriela.maceckova
-    commission: "členka komise pro otevřenou radnici"
-  - uid: jan.moravcik
-    commission: "člen investiční komise"
-  - uid: veronika.murzynova
-    commission: "členka komise pro otevřednou radnici"
-  - uid: kristyna.slana
-    commission: "členka sociální komise"
-  - uid: antonin.sturz
-    commission: "člen komise pro obnovu Přívozu"
-  - uid: petr.svoboda
-    commission: "člen investiční komise"
-  - uid: katerina.sulakova
-    commission: "členka komise pro obnovu Přívozu"
-  - uid: jakub.susta
-    commission: "člen bytové komise"
-  - uid: pavel.kucera
-    committee: "člen kontrolního výboru"
+boroughTag: MOaP
+boroughTeamUid: moap
 linkCategories:
   - name: Sociální sítě
     links:

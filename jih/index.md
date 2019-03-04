@@ -3,34 +3,8 @@ layout: borough
 title: Piráti Ostrava-Jih
 boroughBannerDefault: banner-default.jpg
 boroughBannerMobile: banner-mobile.jpg
-boroughTag: "Jih"
-teamMembers:
-  - uid: pavlina.novackova
-    assembly: "předsedkyně zastupitelského klubu"
-    commission: "členka investiční komise"
-    committee: "členka kontrolního výboru"
-  - uid: gabriela.maceckova
-    assembly: "zastupitelka"
-    commission: "předsedkyně komise pro otevřenou radnici"
-  - uid: petr.kopecny
-    assembly: "zastupitel"
-    commission: "člen komise pro dopravu"
-  - uid: michal.breskovec
-    assembly: "zastupitel"
-    commission: "člen sociální komise"
-  - uid: ondrej.netocny
-    assembly: "zastupitel"
-    committee: "člen finančního výboru"
-  - uid: robert.kolena
-    commission: "místopředseda komise pro bezpečnost, sport a volný čas"
-  - uid: arnost.zidek
-    commission: "člen kulturní a školské komise"
-  - uid: romana.korosi
-    commission: "členka bytové komise"
-  - uid: ondrej.platko
-    commission: "člen majetkové komise"
-  - uid: ondrej.rucka
-    committee: "člen kontrolního výboru"
+boroughTag: Jih
+boroughTeamUid: jih
 linkCategories:
   - name: Sociální sítě
     links:
