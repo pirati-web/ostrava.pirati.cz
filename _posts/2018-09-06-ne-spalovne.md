@@ -6,7 +6,7 @@ date: 2019-02-27T10:00:00.000Z
 author: Rostislav Řeha
 authorId: rostislav.reha
 image: posts/spalovna1.jpg
-tags: 'Ostrava Ekologie Rostislav-Řeha Jan-Nezhyba Zuzana-Klusová'
+tags: 'Ostrava MOaP Ekologie Rostislav-Řeha Jan-Nezhyba Zuzana-Klusová'
 ---
 
 Ostrava, 27. 2. 2019 - *„Stát si za svým a hájit svůj byznys je pochopitelné, ale lhát se prostě nemá. Obzvláště ne Ostravanům ohledně ovzduší,“* komentuje pirátský garant pro životní prostředí Jan Nezhyba výroky Petra Špičáka, technického ředitele společnosti SUEZ. Ten [v článku uveřejněném na iDNES.cz](https://www.idnes.cz/ostrava/zpravy/spalovna-ostrava-suez-spalovny-odpad-odpady-moravskoslezsky-kraj.A190221_459063_ostrava-zpravy_jog "iDNES.cz: Ostrava je proti plánům na novou spalovnu, vadí jí emise i nárůst dopravy")  minulý týden uvedl ohledně stavby nové spalovny nebezpečných odpadů několik zavádějících tvrzení.
@@ -31,7 +31,7 @@ Piráti se proti stavbě spalovny nebezpečných odpadů postavili už loni na p
   <p>Tvrzení má vzbudit dojem, že Moravskoslezský kraj další spalovnu nutně potřebuje. To ale není pravda. V <a href="https://portal.cenia.cz/eiasea/detail/EIA_OV9201">dokumentaci</a>, kterou předložil SUEZ k hodnocení záměru, se na straně 21 jasně píše, že z Moravskoslezského kraje pochází jen necelé dvě třetiny odpadu, který se ve spalovně pálí. Třetina se dováží už teď z jiných koutů Česka. Je dobré si uvědomit, že stávající spalovna nebezpečných odpadů v Ostravě je největší takovou spalovnou v Česku. Nová spalovna má stávající kapacitu zdvojnásobit.</p>
   <p><img src="/assets/img/posts/ne-spalovne-cennzo.png" alt="Obrázek - CENNZO Ostrava: Dokumentace vlivu záměru na životní prostředí" title="CENNZO Ostrava: Dokumentace vlivu záměru na životní prostředí"></p>
  </li><li>
-   <p><i><b>„Kraj podle údajů za rok 2017 vyprodukuje za rok 350 tisíc tun. „Z toho vhodných pro zpracování ve spalovně nebezpečných odpadů je 40 tisíc tun ročně.“</b></i></p>
+   <p><i><b>„Kraj podle údajů za rok 2017 vyprodukuje za rok 350 tisíc tun. Z toho vhodných pro zpracování ve spalovně nebezpečných odpadů je 40 tisíc tun ročně.“</b></i></p>
   <p>Otázkou je, proč se tedy z těch 40 000 tun nepálí většina v ostravské spalovně? Ta má celkovou kapacitu jen 25 000 tun a přitom se třetina musí dovážet z jiných krajů. Nerozumíme tomu, proč se vedení společnosti SUEZ domnívá, že v budoucnu náš kraj vyrobí 40 000 tun nebezpečného odpadu vhodného ke spalování v nové spalovně. Zařízení má mít totiž velmi obdobnou respektive tutéž technologii jako ta, která už stojí. Například kaly z ostravských lagun zde spalovat nelze a ani do budoucna nepůjde. </p>
   <p>Zavádějící je také údaj o celkové produkci nebezpečných odpadů v kraji. Za rok 2017 sice náš kraj  skutečně vyprodukoval necelých 340 tisíc tun nebezpečných odpadů, jedná se ale ve srovnání s předchozími léty o skokový nárůst o více jak polovinu. Pokud zprůměrujeme množství nebezpečného odpadu vyprodukovaného v Moravskoslezském kraji v předchozích 5 letech, tedy od roku 2012 do roku 2016, zjistíme, že průměr je pouze 223 tisíc tun (<a href="https://www.mzp.cz/C1257458002F0DC7/cz/produkce_odpadu_v_cr/$FILE/OODP_Produkce_kraje_2009_2017-20181003.pdf">viz přehled ministerstva životního prostředí</a>).</p>
  </li>

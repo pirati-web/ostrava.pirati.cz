@@ -3,39 +3,8 @@ layout: borough
 title: Piráti Ostrava-Poruba
 boroughBannerDefault: banner-default.jpg
 boroughBannerMobile: banner-mobile.jpg
-boroughTag: "Poruba"
-teamMembers:
-  - uid: martin.tomasek
-    council: "místostarosta"
-    assembly: "zastupitel"
-  - uid: veronika.murzynova
-    council: "radní"
-    assembly: "zastupitelka"
-    committee: "členka kontrolního výboru"
-  - uid: andrea.hoffmannova
-    assembly: "předsedkyně zastupitelského klubu"
-  - uid: jiri.rajnoch
-    assembly: "zastupitel"
-    commission: "člen komise pro architekturu, člen dopravní komise"
-  - uid: jakub.dedek
-    assembly: "zastupitel"
-    committee: "člen finančního výboru"
-  - uid: pavel.sikora
-    commission: "předseda komise pro rozvoj kultury"
-  - uid: denisa.kucerova
-    commission: "členka komise pro strategické řízení, udržitelný rozvoj a MA21"
-  - uid: pavel.kucera
-    commission: "člen komise pro efektivní řízení a správu Úřadu"
-  - uid: katerina.smutna
-    commission: "členka komise pro životní prostředí"
-  - uid: martin.cerny
-    commission: "člen komise pro školství a vzdělávání"
-  - uid: jiri.lavicky
-    commission: "člen komise pro sport a volnočasové aktivity"
-  - uid: martina.duskova
-    commission: "členka komise pro sociální a bytovou politiku"
-  - uid: eva.spackova
-    commission: "členka komise pro architekturu"
+boroughTag: Poruba
+boroughTeamUid: poruba
 linkCategories:
   - name: Sociální sítě
     links:
