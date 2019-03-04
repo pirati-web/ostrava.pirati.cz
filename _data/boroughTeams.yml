@@ -7,23 +7,23 @@
     - uid: gabriela.maceckova
       assembly: "zastupitelka"
       commission: "předsedkyně komise pro otevřenou radnici"
-    - uid: petr.kopecny
-      assembly: "zastupitel"
-      commission: "člen komise pro dopravu"
     - uid: michal.breskovec
       assembly: "zastupitel"
       commission: "člen sociální komise"
+    - uid: petr.kopecny
+      assembly: "zastupitel"
+      commission: "člen komise pro dopravu"
     - uid: ondrej.netocny
       assembly: "zastupitel"
       committee: "člen finančního výboru"
     - uid: robert.kolena
       commission: "místopředseda komise pro bezpečnost, sport a volný čas"
-    - uid: arnost.zidek
-      commission: "člen kulturní a školské komise"
     - uid: romana.korosi
       commission: "členka bytové komise"
     - uid: ondrej.platko
       commission: "člen majetkové komise"
+    - uid: arnost.zidek
+      commission: "člen kulturní a školské komise"
     - uid: ondrej.rucka
       committee: "člen kontrolního výboru"
 - boroughTeamUid: poruba
@@ -45,32 +45,36 @@
       committee: "člen finančního výboru"
     - uid: pavel.sikora
       commission: "předseda komise pro rozvoj kultury"
-    - uid: denisa.kucerova
-      commission: "členka komise pro strategické řízení, udržitelný rozvoj a MA21"
-    - uid: pavel.kucera
-      commission: "člen komise pro efektivní řízení a správu Úřadu"
-    - uid: katerina.smutna
-      commission: "členka komise pro životní prostředí"
     - uid: martin.cerny
       commission: "člen komise pro školství a vzdělávání"
-    - uid: jiri.lavicky
-      commission: "člen komise pro sport a volnočasové aktivity"
     - uid: martina.duskova
       commission: "členka komise pro sociální a bytovou politiku"
+    - uid: jiri.lavicky
+      commission: "člen komise pro sport a volnočasové aktivity"
+    - uid: pavel.kucera
+      commission: "člen komise pro efektivní řízení a správu Úřadu"
+    - uid: denisa.kucerova
+      commission: "členka komise pro strategické řízení, udržitelný rozvoj a MA21"
+    - uid: katerina.smutna
+      commission: "členka komise pro životní prostředí"
     - uid: eva.spackova
       commission: "členka komise pro architekturu"
 - boroughTeamUid: moap
   members:
     - uid: david.witosz
-      council: "místostarosta"
+      council: "1. místostarosta"
       assembly: "zastupitel"
     - uid: rostislav.reha
       council: "místostarosta"
-      assembly: "zastupitel"
+      assembly: "předseda zastupitelského klubu"
     - uid: lukas.jansa
       council: "radní"
       assembly: "zastupitel"
       commission: "předseda kulturní komise"
+    - uid: martin.kucera
+      assembly: "zastupitel"
+      commission: "člen bytové komise"
+      committee: "člen kontrolního výboru"
     - uid: kamil.tomas
       assembly: "zastupitel"
       commission: "předseda komise pro otevřenou radnici"
@@ -79,15 +83,10 @@
       assembly: "zastupitelka"
       commission: "členka komise pro školství, členka sociální komise"
       assembly: "členka finančního výboru"
-    - uid: martin.kucera
-      assembly: "zastupitel"
-      commission: "člen bytové komise"
-    - uid: pavel.brynda
-      commission: "člen komise pro školství, sport a volnočasové aktivity"
-    - uid: jiri.suruvka
-      commission: "člen kulturní komise"
     - uid: petr.bainar
       commission: "člen dopravní komise"
+    - uid: pavel.brynda
+      commission: "člen komise pro školství, sport a volnočasové aktivity"
     - uid: jakub.dedek
       commission: "člen dopravní komise"
     - uid: gabriela.maceckova
@@ -100,11 +99,11 @@
       commission: "členka sociální komise"
     - uid: antonin.sturz
       commission: "člen komise pro obnovu Přívozu"
+    - uid: jiri.suruvka
+      commission: "člen kulturní komise"
     - uid: petr.svoboda
       commission: "člen investiční komise"
     - uid: katerina.sulakova
       commission: "členka komise pro obnovu Přívozu"
     - uid: jakub.susta
       commission: "člen bytové komise"
-    - uid: pavel.kucera
-      committee: "člen kontrolního výboru"
