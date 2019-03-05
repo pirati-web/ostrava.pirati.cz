@@ -6,7 +6,7 @@ date: 2019-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
 author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
 authorId: jakub.dedek			#Musí existovat profil v "./_people/"
 image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
-tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou.
+tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou. Seznam již použitých tagů je zde: https://mrak.pirati.cz/f/45085
   - Město/obvod			#Ostrava-Jih
   - Programová oblast		#Transparence
   - Osoby			#Lukáš-Černohorský
@@ -17,7 +17,7 @@ tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např
 Ostrava, 31. ledna 2019 - **Místo a datum vždy v tomto tvaru! Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2019-01-41-rucnikovy-den.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/rucnikovy-den.html. Perex vždy tučně.**
 
 Odděluje perex a text čárou:
-<hr>
+<hr />
 
 Mezi odstavci musí být vždy jeden prázdný řádek.
 
@@ -63,6 +63,15 @@ Všechny následující příklady seznamu jsou ekvivalentní:
 + A zase seznam
 
 [Toto je text odkazu](https://www.pirati.cz "Text který se objeví po najetí na odkaz")
+
+Pokud je potřeba nezalomitelná mezera, použij &nbsp;
+Třeba OS&nbsp;X.
+
+Pokud chceš použít v textu nějaký znak, který Markdown používá v textu pro formátování, dej před něj znak \.
+Třeba \* Toto nebude seznam.
+
+Text který má být kůs kódu se uzavírá mezi obrácené úvozovky, viz příklad:
+ toto je `kód`.
 
 Jednoduchá tabulka:
 
