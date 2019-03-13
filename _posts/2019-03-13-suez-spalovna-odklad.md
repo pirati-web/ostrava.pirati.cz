@@ -16,7 +16,7 @@ tags:
  - Zuzana-Klusová 
 ---
 
-Ostrava, 13. března 2019 - **Ministerstvo životního prostředí včera vrátilo dokumentaci ke spalovně nebezpečných odpadů k přepracování. Důvodem vrácení jsou podle ministerstva závažné nedostatky. Hned v několika bodech se tak potvrdily argumenty Pirátů. K rozhodnutí zřejmě významně přispěl bouřlivý průběh čtyřhodinového veřejného projednávání, na kterém občané i zástupci města Ostravy i okolních obcí řekli záměru jasné NE a přednesli desítky pádných argumentů proti záměru „CENNZO Ostrava.“**
+Ostrava, 13. března 2019 – **Ministerstvo životního prostředí včera vrátilo dokumentaci ke spalovně nebezpečných odpadů k přepracování. Důvodem vrácení jsou podle ministerstva závažné nedostatky. Hned v několika bodech se tak potvrdily argumenty Pirátů. K rozhodnutí zřejmě významně přispěl bouřlivý průběh čtyřhodinového veřejného projednávání, na kterém občané i zástupci města Ostravy i okolních obcí řekli záměru jasné NE a přednesli desítky pádných argumentů proti záměru „CENNZO Ostrava.“**
 
 <hr>
 

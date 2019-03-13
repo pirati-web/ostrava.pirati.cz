@@ -9,7 +9,7 @@ image: posts/spalovna1.jpg
 tags: 'Spalovna Ostrava MOaP Ekologie Rostislav-Řeha Jan-Nezhyba Zuzana-Klusová'
 ---
 
-Ostrava, 27. 2. 2019 - *„Stát si za svým a hájit svůj byznys je pochopitelné, ale lhát se prostě nemá. Obzvláště ne Ostravanům ohledně ovzduší,“* komentuje pirátský garant pro životní prostředí Jan Nezhyba výroky Petra Špičáka, technického ředitele společnosti SUEZ. Ten [v článku uveřejněném na iDNES.cz](https://www.idnes.cz/ostrava/zpravy/spalovna-ostrava-suez-spalovny-odpad-odpady-moravskoslezsky-kraj.A190221_459063_ostrava-zpravy_jog "iDNES.cz: Ostrava je proti plánům na novou spalovnu, vadí jí emise i nárůst dopravy")  minulý týden uvedl ohledně stavby nové spalovny nebezpečných odpadů několik zavádějících tvrzení.
+Ostrava, 27. února 2019 – *„Stát si za svým a hájit svůj byznys je pochopitelné, ale lhát se prostě nemá. Obzvláště ne Ostravanům ohledně ovzduší,“* komentuje pirátský garant pro životní prostředí Jan Nezhyba výroky Petra Špičáka, technického ředitele společnosti SUEZ. Ten [v článku uveřejněném na iDNES.cz](https://www.idnes.cz/ostrava/zpravy/spalovna-ostrava-suez-spalovny-odpad-odpady-moravskoslezsky-kraj.A190221_459063_ostrava-zpravy_jog "iDNES.cz: Ostrava je proti plánům na novou spalovnu, vadí jí emise i nárůst dopravy")  minulý týden uvedl ohledně stavby nové spalovny nebezpečných odpadů několik zavádějících tvrzení.
 
 <div>
  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8eytZGwFdVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
