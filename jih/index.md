@@ -6,6 +6,10 @@ boroughBannerMobile: banner-mobile.jpg
 boroughTag: Jih
 boroughTeamUid: jih
 linkCategories:
+  - name: Magazín Pod Plachtami
+    links:
+    - name: Březen 2019
+      link: assets/pdf/pod-plachtami-2019-03.pdf
   - name: Sociální sítě
     links:
     - name: Facebook
