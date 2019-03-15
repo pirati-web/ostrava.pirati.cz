@@ -18,8 +18,6 @@ tags:
 
 Ostrava, 13. března 2019 – **Ministerstvo životního prostředí včera vrátilo dokumentaci ke spalovně nebezpečných odpadů k přepracování. Důvodem vrácení jsou podle ministerstva závažné nedostatky. Hned v několika bodech se tak potvrdily argumenty Pirátů. K rozhodnutí zřejmě významně přispěl bouřlivý průběh čtyřhodinového veřejného projednávání, na kterém občané i zástupci města Ostravy i okolních obcí řekli záměru jasné NE a přednesli desítky pádných argumentů proti záměru „CENNZO Ostrava.“**
 
-<hr>
-
 >„O kauze jsme informovali jako první už loni na podzim. Veřejnost jsme varovali včas a rozdmýchali veřejnou diskuzi. V ní jsme se snažili racionálně vysvětlit, proč se stavbou nesouhlasíme. Naše argumenty se teď potvrdily. Připomínky ministerstva se týkaly například chybných specifikací druhu odpadů, dodržování emisních limitů, intenzity dopravy nebo vlivu na zdraví Ostravanů. Na to vše jsme v kampani upozorňovali a podali v tomto duchu také písemné připomínky,“
 
 vysvětluje Rostislav Řeha, pirátský místostarosta části Moravská Ostrava a Přívoz zodpovědný za oblast životního prostředí.
@@ -28,7 +26,9 @@ A co se bude dít teď? Společnost SUEZ bude muset doplnit dokumentaci k zámě
 
 Piráti mezitím dál sbírají podpisy pod petici, kterou chtějí na dalším slyšení osobně předat (více o petici [zde](https://ostrava.pirati.cz/aktuality/ne-spalovne.html)).
 
->„Jasně se ukázalo, že aktivita občanů podpořená jasně odmítavým stanoviskem města i přilehlých obcí se vyplatila. Zpracovatel posudku vzal připomínky v úvahu a doporučil vrátit dokumentaci k přepracování, tím se celý proces zabrzdil a v Ostravě zatím další spalovna nebezpečných odpadů nevyroste,“ shrnuje Jan Nezhyba, pirátský garant pro životní prostředí.
+>„Jasně se ukázalo, že aktivita občanů podpořená jasně odmítavým stanoviskem města i přilehlých obcí se vyplatila. Zpracovatel posudku vzal připomínky v úvahu a doporučil vrátit dokumentaci k přepracování, tím se celý proces zabrzdil a v Ostravě zatím další spalovna nebezpečných odpadů nevyroste,“
+
+shrnuje Jan Nezhyba, pirátský garant pro životní prostředí.
 
 Za zmínku stojí také fakt, že se včera do stávající spalovny nebezpečných odpadů v Ostravě přivezlo osm tun odpadu z nelegální skládky nebezpečných odpadů z Frýdku-Místku. Odpad pochází zřejmě z Polska, jeho odstranění prozatím hradí město, kterému jde především o jeho rychlou likvidaci. Na skládce zbývá ještě více než 600 tun nebezpečného odpadu.
 
