@@ -24,10 +24,10 @@ organization:
   phone: +420 770 113 644
   address: |
     Ostravské pirátské centrum (OPiCe)
-    Jugoslávská 3038/40a
-    700 30 Ostrava-Jih
+    Denisova 639/2
+    702 00 Ostrava
   residenceImg:
-  mapLink: https://goo.gl/maps/3KiQxHKSJp72
+  mapLink: https://goo.gl/maps/FK7JAGvaddx
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
@@ -43,6 +43,10 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/https://www.facebook.com/piratiostrava//" target="_blank">Piráti Ostrava</a>
 
 
 calendar:
