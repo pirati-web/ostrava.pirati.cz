@@ -9,7 +9,7 @@ image: posts/ostravica1.jpg
 tags: 'Ostrava MOaP Urbanismus Architektura Ostravica Bachner'
 ---
 
-Ostrava se může pyšnit celou řadou památek, jejichž autory jsou slavní architekti – například komplex budov Ostravica Textilia postavený v letech 1911-1929 (architekti Deiningerovi, Neumann, Frommerová), nebo obchodní dům Bachner z roku 1933, který navrhl světoznámý německý architekt Erich Mendelsohn.
+**Ostrava se může pyšnit celou řadou památek, jejichž autory jsou slavní architekti – například komplex budov Ostravica Textilia postavený v letech 1911-1929 (architekti Deiningerovi, Neumann, Frommerová), nebo obchodní dům Bachner z roku 1933, který navrhl světoznámý německý architekt Erich Mendelsohn.**
 
 Současní zástupci města před volbami prezentovali veřejnosti svůj záměr vykoupit zchátralý komplex Ostravica Textilia a sestěhovat do něj agendu občanských průkazů, pasů, řidičských průkazů i dalších dopravně-správních činností. Zaráží nás, že tento nápad v posledních letech nikdo nezveřejnil. Navíc jsou plány města v rozporu s dřívějším záměrem vlastníka Boborase, který (společně s podnikatelem Zemanem) plánoval znovuotevření celého areálu s novým využitím v rámci projektu "Ostravica 2020". Ještě loni v prosinci prohlašovali, že dvě z budov otevřou do 2 let.
 

@@ -15,8 +15,6 @@ tags:
  
 Ostrava, 22. prosince 2018 - **Na radnici obvodu Mariánské Hory a Hulváky je rušno i těsně před Vánoci. Poprask způsobilo rozhodnutí koalice, která uvolnila paní Janáčkovou a zvolila ji na post předsedkyně nově vytvořené komise pro strategický rozvoj a investice. Trafika pro bývalou starostku stojí městský obvod 1 milion korun ročně. Pro malý obvod jde o velké náklady.**
 
-<hr>
-
 Přestože paní Liana Janáčková skončila po 28 letech ve vedení mariánskohorské radnice, vypadá to, že se v žádném případě nehodlá vzdát svého vlivu na její chod. Tento názor podporuje i fakt, že byla zvolena jí nakloněnými politickými subjekty do čela 5-členné Komise pro strategický rozvoj a investice.
 
 Obsazením této funkce výdaje platem nekončí. Kromě 48 500,- měsíčně na výplatní pásce dostane jako uvolněný zastupitel mimo jiné služební automobil, kancelář a další. Přitom osobní automobil si nedovolí 6x větší Poruba ani pro starostu, ani pro místostarosty. Samozřejmostí jsou výdaje na pronájem kanceláře, služební telefon a další „menší” náklady. Celková částka jde minimálně do neuvěřitelného 1 milionu korun za každý rok.

@@ -11,8 +11,6 @@ tags: 'Ostrava MOaP Poruba Jih Volby'
 
 Piráti v Ostravě výrazně uspěli a usednou v zastupitelstvech tří obvodů a také na magistrátu. Celkem získali Piráti v Ostravě 21 mandátů (z toho pět na magistrátu). Nejlepšího výsledku jsme dosáhli v Moravské Ostravě a Přívozu s 14,5 % a šesti mandáty, což je nejlepší výsledek Pirátů v celém Moravskoslezském kraji.
 
----
-
 | OBVOD                     | JMÉNO A PŘÍJMENÍ   |
 |---------------------------|--------------------|
 | **Ostrava - Magistrát**       | David Witosz       |
