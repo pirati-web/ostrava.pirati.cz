@@ -9,7 +9,7 @@ image: posts/tk-ostrava.jpg
 tags: 'Ostrava Volby'
 ---
 
-Ostrava, 7. 8. 2018 - Piráti představili své lídry do komunálních voleb v Ostravě. Kandidátky staví na “velkou radnici” i tři městské obvody: Jih, Porubu a Moravskou Ostravu a Přívoz. Všechny programové body pirátů pro Ostravu mají dva společné jmenovatele: důraz na transparentnost a rozvoj města jako centra milionové aglomerace.
+**Ostrava, 7. srpna 2018 - Piráti představili své lídry do komunálních voleb v Ostravě. Kandidátky staví na “velkou radnici” i tři městské obvody: Jih, Porubu a Moravskou Ostravu a Přívoz. Všechny programové body pirátů pro Ostravu mají dva společné jmenovatele: důraz na transparentnost a rozvoj města jako centra milionové aglomerace.**
 
 Piráti chtějí v Ostravě navázat na celostátní úspěch v loňských volbách do poslanecké sněmovny. Kandidátem na primátora je 37letý David Witosz, inženýrský geodet, jehož specializací je doprava.
 

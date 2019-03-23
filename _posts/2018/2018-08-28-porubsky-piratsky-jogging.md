@@ -9,7 +9,7 @@ image: posts/jogging1.jpg
 tags: 'Ostrava Poruba Sport Myslivna Andrea-Hoffmannová'
 ---
 
-Ostrava, 28. 8. 2018 - Porubští Piráti zvolili originální způsob prezentace jedné z priorit svého programu - záchrany Lesoparku Poruba. Rozhodli se totiž pro pravidelný jogging v této Porubany oblíbené klidové a relaxační zóně.
+**Ostrava, 28. srpna 2018 - Porubští Piráti zvolili originální způsob prezentace jedné z priorit svého programu - záchrany Lesoparku Poruba. Rozhodli se totiž pro pravidelný jogging v této Porubany oblíbené klidové a relaxační zóně.**
  
 > „Máme k Myslivně vztah, protože zde stejně jako vy žijeme a také si přejeme, aby byl celý areál i nadále zasvěcen výhradně sportovním a odpočinkovým aktivitám. Těší nás, že nám během těchto akcí ostatní návštěvníci vyjadřují své sympatie a podporu. To nás pochopitelně motivuje nejen k dalšímu běhání,“
 

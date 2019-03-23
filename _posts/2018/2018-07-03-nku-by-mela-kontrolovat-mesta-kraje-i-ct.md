@@ -10,7 +10,9 @@ tags: 'Korupce Klientelismus Lukáš-Černohorský'
 ---
 
 
-Hospodaření statutárních měst, krajů i veřejnoprávních médií by podle Pirátů měl do budoucna kontrolovat Nejvyšší kontrolní úřad. Piráti zítra ve Sněmovně předloží novelu zákona o posílení jeho pravomocí. Pokračují tak v prosazování protikorupčních opatření. V současnosti může NKÚ dohlížet pouze na to, jak hospodaří stát. Kontroly na ministerstvech přitom odhalily chyby v účetnictví v řádech miliard, absenci vnitřních kontrolních mechanismů i závažné systémové nedostatky. Dohled NKÚ nad hospodařením krajů, měst i veřejnoprávních médií by měl podle Pirátů pomoci včas odhalit dotační podvody, poukázat na plýtvání s veřejnými penězi, ale i neúmyslné chyby v účetnictví. 
+**Hospodaření statutárních měst, krajů i veřejnoprávních médií by podle Pirátů měl do budoucna kontrolovat Nejvyšší kontrolní úřad. Piráti zítra ve Sněmovně předloží novelu zákona o posílení jeho pravomocí. Pokračují tak v prosazování protikorupčních opatření.**
+
+V současnosti může NKÚ dohlížet pouze na to, jak hospodaří stát. Kontroly na ministerstvech přitom odhalily chyby v účetnictví v řádech miliard, absenci vnitřních kontrolních mechanismů i závažné systémové nedostatky. Dohled NKÚ nad hospodařením krajů, měst i veřejnoprávních médií by měl podle Pirátů pomoci včas odhalit dotační podvody, poukázat na plýtvání s veřejnými penězi, ale i neúmyslné chyby v účetnictví. 
 
 
 > „V minulosti jsme byli na úrovni krajů svědky řady korupčních kauz i dlouholetého zneužívání dotací z regionálních operačních programů (ROP). Věřím, že pokud by je měl NKÚ pravomoc kontrolovat, mohly být odhaleny mnohem dříve,“ 

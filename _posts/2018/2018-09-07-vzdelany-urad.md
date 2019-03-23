@@ -9,9 +9,7 @@ image: posts/vzdelany-urad.jpg
 tags: 'Ostrava Jih Úředníci Vzdělávání'
 ---
 
-Pověst úřadů a úředníků je ve většinou nevalná. Lidé si stěžují na nesmyslné papírování, průtahy a taky nekompetentnost těch, kteří na úřadě pracují. Panuje přesvědčení, že úředníci jsou lenoši, kteří nic neumí, a pokud se mezi nimi objeví přeci jen někdo schopný, je s podivem, že ještě neutekl do soukromého sektoru.
-
-Skutečnost je však taková, že i na úřadech pracuje mnoho schopných lidí, které ale vedení nemotivuje k osobnímu růstu, nebo jim k dalšímu rozvoji neposkytuje vhodné nástroje. Na Jihu jsme však svědky toho, že když se naskytne příležitost, jak zlepšit práci úředníků a jejich služby občanům, úřad toho nevyužije.
+**Pověst úřadů a úředníků je ve většinou nevalná. Lidé si stěžují na nesmyslné papírování, průtahy a taky nekompetentnost těch, kteří na úřadě pracují. Panuje přesvědčení, že úředníci jsou lenoši, kteří nic neumí, a pokud se mezi nimi objeví přeci jen někdo schopný, je s podivem, že ještě neutekl do soukromého sektoru. Skutečnost je však taková, že i na úřadech pracuje mnoho schopných lidí, které ale vedení nemotivuje k osobnímu růstu, nebo jim k dalšímu rozvoji neposkytuje vhodné nástroje. Na Jihu jsme však svědky toho, že když se naskytne příležitost, jak zlepšit práci úředníků a jejich služby občanům, úřad toho nevyužije.**
 
 Městský obvod Ostrava-Jih podal v roce 2016 žádost na Ministerstvo práce a sociálních věcí o dotaci z Operačního programu Zaměstnanost pro projekt „Rozvoj kompetencí a znalostí zaměstnanců zařazených do úřadu městského obvodu Ostrava-Jih“. Cílem projektu bylo zvýšení výkonnosti úřadu pomocí optimalizace vnitřních procesů a zvyšování odbornosti úředníků.
 
