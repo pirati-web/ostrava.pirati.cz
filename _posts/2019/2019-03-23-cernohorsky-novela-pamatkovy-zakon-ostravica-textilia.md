@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Soud rozhodl v kauze Ostravica-Textilia, blýská se na happyend. Potřeba systémového řešení ochrany památek ale přetrvává'
+title: 'Soud rozhodl v kauze Ostravica-Textilia, blýská se na happyend. Piráti volají po systémovém řešení ochrany památek'
 date: 2019-03-23T08:00:00.000Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
