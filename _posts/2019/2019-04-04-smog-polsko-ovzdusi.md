@@ -18,7 +18,7 @@ Praha, 4. dubna 2019 – **Polsko právě připravuje Národní program omezová
 
 <hr />
 
-Že se Česko má zapojit do přípravy klíčového matriálu, který má za úkol zlepšit stav ovzduší v Polsku, potvrzuje i Pirátská předsedkyně sněmovního Výboru pro životní prostředí Dana Balcarová:
+Že se Česko má zapojit do přípravy klíčového matriálu, který má za úkol zlepšit stav ovzduší v Polsku, potvrzuje i havířovský zastupitel a Pirátský garant pro životní prostředí Jan Nezhyba:
 
 >„Máme teď jedinečnou příležitost podstatně zmírnit dálkové přenosy emisí z Polska, a zlepšit stav ovzduší v příhraničí. Ministerstvo by se mělo aktivně zasadit o zahájení spolupráce v rámci procesu posuzování vlivů na životní prostředí označovaný jako přeshraniční SEA. A to proto, aby mohly zainteresované české subjekty tento klíčový materiál připomínkovat.“
 
