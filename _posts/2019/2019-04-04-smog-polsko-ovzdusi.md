@@ -9,14 +9,12 @@ image: posts/smog.jpg
 tags:
   - Ostrava
   - Polsko
-  - Ovzduší
+  - Ekologie
   - Lukáš-Černohorský
   - Jan-Nezhyba
 ---
 
 Praha, 4. dubna 2019 – **Polsko právě připravuje Národní program omezování znečišťování ovzduší (NAPCP) bohužel ale bez nás. S polským smogem se potýkají zejména lidé na Ostravsku a Karvinsku, kde velkou část zimy dýchají vzduch znečištěný nad zákonem garantované limity. Teď má Česko šanci to ovlivnit. Sousední státy totiž mají podle evropské směrnice právo do přípravy polské legislativy zasáhnout, pokud je zdroje znečištění také negativně ovlivňují. „Vláda by měla neprodleně oslovit Polsko i Evropskou komisi s tím, že Česko chce vstoupit do řízení a zahájit proces přeshraničního veřejného posouzení dopadů na životní prostředí. Budu kvůli tomu okamžitě interpelovat ministra životního prostředí,“ komentuje Lukáš Černohorský, pirátský poslanec žijící v Ostravě.**
-
-<hr />
 
 Že se Česko má zapojit do přípravy klíčového matriálu, který má za úkol zlepšit stav ovzduší v Polsku, potvrzuje i havířovský zastupitel a Pirátský garant pro životní prostředí Jan Nezhyba:
 

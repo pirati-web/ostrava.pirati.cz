@@ -14,8 +14,6 @@ tags:
 
 Ostrava, 10. dubna 2019 - **Otevřený dopis: Výzva ke schválení prodloužení projektu Sociálního bydlení.**
 
-<hr />
-
 Vážený pane starosto, vážení radní,
 
 na čtvrtečním jednání rady obvodu máte rozhodovat o pokračování našeho obvodu v projektu Sociálního bydlení, který působí v prevenci bezdomovectví a ohrožení sociálním vyloučením v rámci celosvětového konceptu *„Housing First“*. Jako klub zastupitelů MO Ostrava-Jih za Českou pirátskou stranu věříme, že si plně uvědomujete význam tohoto projektu, který vzhledem k současnému nastavení práce v oblasti sociálních věcí, bytové problematiky a předpokládané demografické křivce, stále poroste.
