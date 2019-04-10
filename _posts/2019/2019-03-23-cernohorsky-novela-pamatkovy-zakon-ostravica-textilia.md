@@ -23,7 +23,7 @@ Právě pohnutý osud módního domu Ostravica-Textilia Lukáše Černohorského
 
 vysvětluje pirátský poslanec Lukáš Černohorský. Piráti chtějí odmítnout stávající podobu stavebního zákona, Černohorský navíc plánuje předložit také novelu památkového zákona, která staví na pěti pilířích:
 
-1. **Transformace Národního památkového úřadu a změna jeho kompetencí** - Prosazujeme transformaci státní památkové péče tak, že kromě centrálního Národního památkového ústavu vzniknou také jeho krajské pobočky a detašovaná pracoviště ve městech. Tyto odborné instituce by měly za úkol nejen hodnotit a doporučovat, ale také přímo rozhodovat a vydávat závazná stanoviska. Tyto sloučené úřady zajistí chybějící odborné zázemí při posuzování žádostí v oblasti památkové péče, proces zrychlí a zjednoduší a ušetří peníze z obecních rozpočtů, protože budou financovány přímo ze státního rozpočtu.
+1. **Transformace Národního památkového ústavu na úřad s rozhodovací pravomocí** - V současnosti má stanovisko Národního památkového ústavu pouze charakter doporučení a úředníci se jím nemusí řídit. Právě to často vede k devastaci památek ve prospěch zájmů developerů. To by se podle návrhu Pirátů mělo změnit. Ústav by se měl změnit na plnohodnotný úřad vydávající závazná stanoviska. Pobočky by měl v krajích i městech s rozšířenou působností, tím by se ulevilo také stávajícím úředníkům v obcích, kteří jsou často přetížení a nejsou odborníky v oblasti památkové péče.
 
 2. **Zapojení spolků do ochrany památek** - Stávající zákon o státní památkové péči vůbec s podílem spolků na ochraně architektonického dědictví nepočítá, to je podle Pirátů chyba. Česku to přímo ukládá Úmluva o ochraně architektonického dědictví Evropy.
 
