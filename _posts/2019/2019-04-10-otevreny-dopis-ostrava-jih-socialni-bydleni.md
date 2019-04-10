@@ -5,7 +5,7 @@ title: 'Otevřený dopis radě městského obvodu Ostrava-Jih: podpora projektu 
 date: 2019-04-10T08:00:00.000Z
 author: Michal Breškovec
 authorId: michal.breskovec
-image: posts/radnice_ostrava_jih.jpg
+image: posts/radnice-ostrava-jih.jpg
 tags:
   - Ostrava
   - Jih
