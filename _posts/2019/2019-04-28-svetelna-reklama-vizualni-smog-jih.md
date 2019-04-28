@@ -10,7 +10,7 @@ tags:
   - Ostrava
   - Jih
   - Kultura
-  - Urbanismus
+  - Architektura
 ---
 
 **Reklamy, kam se podíváš, billboardy ze všech stran – je to kultura nebo už ani trochu? Asi nejsme sami, komu tenhle „smog“ vadí. Jako Piráti jsme boj s podobnými reklamními vetřelci umístili mezi významné body svého programu v posledních komunálních volbách a nezapomněli jsme na to.**
