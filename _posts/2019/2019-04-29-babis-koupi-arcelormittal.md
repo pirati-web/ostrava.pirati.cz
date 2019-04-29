@@ -15,8 +15,6 @@ tags:
 
 Ostrava, 29. dubna 2019 – **Co bude s ArcelorMittal Ostrava je otázka, která trápí Ostravsko od loňského podzimu, kdy se veřejnost dozvěděla o záměru hutní kolos prodat společnosti Liberty House. Odboráři se obávají scénáře podobného pádu OKD. Znepokojivou situací okolo prodeje ostravské huti se proto minulý týden zabývali také poslanci. Pirát Lukáš Černohorský se během jednání ve Sněmovně přímo zeptal premiéra Andreje Babiše, zda má vláda nějaký záložní plán pro případ, že by nastal temný scénář, tedy pád společnosti Mittal. Premiérova odpověď leckoho v sále pobavila: _„Záložní plán samozřejmě máme. Potom, co vytunelovali OKD, tak jsem ho koupil, stát ho zase má. Koupili jsme ho za 70 milionů. Ano, já jsem ho koupil. Já. Jako ministr financí přes Prisco. Byla to moje iniciativa, dotáhl jsem to do konce a OKD funguje.“_**
 
-<hr />
-
 Mittal koupil většinový podíl v hutích od státu za 175 milionů korun, ze společnosti za 16 let vyvedl jen na dividendách 47 miliard, vlastníci si ale vyplatili miliardy také z rezervních fondů. Ty měly firmě sloužit pro případ mimořádných událostí, například nepředvídatelných oprav. Od roku 2014 po změně zákona o obchodních společnost už ale zákon neukládá firmám povinnost rezervy držet.
 
 >„S ohledem na stáří některých výrobních provozů v kunčické huti je právě riziko nečekaných oprav poměrně značné. Nepanuje u nás dobrá atmosféra a jako řadoví zaměstnanci máme obavy o budoucnost,“
