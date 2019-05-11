@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Dětský ráj. Ráj pro děti i pro provozovatelky.'
+title: 'Dětský ráj. Ráj pro děti i pro provozovatelky'
 date: 2019-05-11T18:00:00.000Z
 author: Jana Ožanová
 image: posts/detsky-raj.jpg
