@@ -6,9 +6,9 @@ titles:
   after: 
 category:
 - representativePoruba
-ordRepresentativesPoruba: 4
+ordRepresentativesPoruba: 2
 img: people/jiri-rajnoch.jpg
-description: zastupitel městského obvodu Poruba
+description: radní městského obvodu Poruba
 mail: # - jiri.rajnoch@pirati.cz - ověřit
 ---
 
