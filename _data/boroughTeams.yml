@@ -31,15 +31,15 @@
     - uid: martin.tomasek
       council: "místostarosta"
       assembly: "zastupitel"
-    - uid: veronika.murzynova
-      council: "radní"
-      assembly: "zastupitelka"
-      committee: "členka kontrolního výboru"
-    - uid: andrea.hoffmannova
-      assembly: "předsedkyně zastupitelského klubu"
     - uid: jiri.rajnoch
+      council: "radní"
       assembly: "zastupitel"
       commission: "člen komise pro architekturu, člen dopravní komise"
+    - uid: andrea.hoffmannova
+      assembly: "předsedkyně zastupitelského klubu"
+    - uid: veronika.murzynova
+      assembly: "zastupitelka"
+      committee: "členka kontrolního výboru"
     - uid: jakub.dedek
       assembly: "zastupitel"
       committee: "člen finančního výboru"
