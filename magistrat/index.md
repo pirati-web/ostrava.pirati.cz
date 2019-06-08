@@ -1,13 +1,28 @@
 ---
-layout: communal-elections
-title: Komunální volby v Ostravě
-campaignCategoryUid: magistrat2018
-candidateListUid: magistrat
+layout: borough
+title: Piráti na ostravském magistrátě
+boroughBannerDefault: banner-default.jpg
+boroughBannerMobile: banner-mobile.jpg
+boroughTag: Ostrava
+boroughTeamUid: magistrat
+linkCategories:
+  - name: Sociální sítě
+    links:
+    - name: Facebook
+      link: https://www.facebook.com/piratiostrava/
+  - name: Komunální volby 2018
+    links:
+    - name: Kompletní program
+      link: program/magistrat2018/otevrena-transparentni-participace/
+    - name: Kandidátka a výsledky
+      link: https://volby.cz/pls/kv2018/kv1111?xjazyk=CZ&xid=1&xdz=3&xnumnuts=8106&xobec=554821&xstat=0&xvyber=0
+    - name: Povolební strategie
+      link: assets/pdf/povolebni-strategie.pdf
 ---
 
 > Ostrava je naším společným domovem a Piráti se budou snažit o to, aby se nám zde spolu žilo co nejlépe, a to díky pro občany transparentnímu fungování a hospodaření magistrátu, dostupným a kvalitním službám, efektivní dopravě, atraktivnímu veřejnému prostoru a moderní architektuře, lepšímu životnímu prostředí, kvalitní kultuře, sportovnímu vyžití, udržované zeleni a pocitu bezpečnosti.
 
-<section class="o-section o-section--spaceBot">
+<!--<section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
     <div class="o-section-block">
       <div class="c-BasicPage">
@@ -29,4 +44,4 @@ candidateListUid: magistrat
       </div>
     </div>
   </div>
-</section>
+</section>-->

@@ -1,3 +1,55 @@
+- boroughTeamUid: magistrat
+  members:
+    - uid: andrea.hoffmannova
+      council: "náměstkyně primátora"
+      assembly: "zastupitelka"
+      commission: "členka komise kultury"
+      committee: "členka výboru pro udělování cen města"
+    - uid: david.witosz
+      council: "člen rady města"
+      assembly: "zastupitel"
+      commission: "předseda komise pro dopravu"
+      committee: "člen statutového výboru"
+    - uid: rostislav.reha
+      assembly: "zastupitel"
+      commission: "člen komise pro otevřenou radnici"
+    - uid: petr.kopecny
+      assembly: "zastupitel"
+      commission: "člen komise pro bezpečnost"
+    - uid: veronika.murzynova
+      assembly: "zastupitelka"
+    - uid: pavel.kucera
+      commission: "předseda komise pro IT"
+    - uid: jakub.dedek
+      commission: "člen komise pro majetek a hospodářskou správu"
+    - uid: martina.duskova
+      commission: "členka sociální a zdravotní komise"
+    - uid: lukas.jansa
+      commission: "člen komise kultury"
+    - uid: jiri.klega
+      commission: "člen právní komise"
+    - uid: denisa.kucerova
+      commission: "členka komise pro sport"
+    - uid: jiri.lavicky
+      commission: "člen komise pro sport"
+    - uid: simona.masarikova
+      commission: "členka komise pro rodinu a volný čas"
+    - uid: jan.nemcek
+      commission: "člen komise muzejní a názvoslovné"
+    - uid: jan.nezhyba
+      commission: "člen komise pro životní prostředí"
+    - uid: petr.svoboda
+      commission: "člen komise pro architekturu a rozvoj města"
+    - uid: jakub.susta
+      commission: "člen komise pro strategický rozvoj"
+    - uid: arnost.zidek
+      commission: "člen komise pro vzdělávání, vědu a výzkum"
+    - uid: ondrej.netocny
+      committee: "člen finančního výboru"
+    - uid: pavlina.novackova
+      committee: "členka kontrolního výboru"
+    - uid: ondrej.rucka
+      committee: "člen finančního výboru"
 - boroughTeamUid: jih
   members:
     - uid: pavlina.novackova
