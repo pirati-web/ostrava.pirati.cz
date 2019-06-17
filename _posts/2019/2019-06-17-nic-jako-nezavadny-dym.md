@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Nic jako nezávadný dým neexistuje, říká Pirát Nezhyba k požáru v ostravském SUEZu'
 date: 2019-06-17T08:00:00.000Z
-author: Daniel Galuszka
-authorId: daniel.galuszka
+author: Zuzana Klusová
+authorId: zuzana.klusova
 image: posts/SUEZ_pozar.jpg
 tags:
  - Spalovna
@@ -13,6 +13,7 @@ tags:
  - Ekologie
  - Jan-Nezhyba
  - Daniel-Galuszka
+ - Zuzana-Klusova
 ---
 
 Ostrava, 14. června 2019 – **Černý dým, zápach a nebezpečné zplodiny vylekaly už potřetí během června Ostravany i lidi z přilehlých obcí. Požár tentokrát vypukl v ostravské spalovně poblíž dálnice D1 vedoucí na Bohumín. Na vině bylo údajně samovznícení sodíku v blíže nespecifikovaném odpadu. Mluvčí spalovny uvedla, že do vzduchu ani vody neunikly nebezpečné látky.**
