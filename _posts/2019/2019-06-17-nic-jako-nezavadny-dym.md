@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Nic jako nezávadný dým neexistuje, říká Pirát Nezhyba k požáru v ostravském SUEZu'
 date: 2019-06-17T08:00:00.000Z
-author: Zuzana Klusová
-authorId: zuzana.klusova
+author: Daniel Galuszka
+authorId: daniel.galuszka
 image: posts/SUEZ_pozar.jpg
 tags:
  - Spalovna
@@ -12,7 +12,6 @@ tags:
  - MOaP
  - Ekologie
  - Jan-Nezhyba
- - Zuzana-Klusová
  - Daniel-Galuszka
 ---
 
