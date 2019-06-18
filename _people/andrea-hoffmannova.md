@@ -18,6 +18,7 @@ profiles:
   facebook: https://www.facebook.com/andrea.hoffmannova.5
   twitter: 		  
   flickr:	 
+calendar: YW5kcmVhLmhvZmZtYW5ub3ZhLm1tb0BnbWFpbC5jb20
 ---
 
 Celou svou kariéru se věnuje práci s mladými lidmi. Svou profesní dráhu začala jako středoškolská učitelka. Kromě akademického působení na Univerzitě Palackého nyní organizuje workshopy pro učitele a věnuje se vzdělávání dospělých, moderuje ostravské vzdělávací a kulturní akce. Se svými studenty připravila již několik desítek divadelních představení v českém i anglickém jazyce.
