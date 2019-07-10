@@ -17,8 +17,6 @@ tags:
 
 **U konce s dechem jsme byli několik dní před zasedáním posledního zastupitelstva. Vlastně od doby, kdy nám byly do online úložiště vloženy elektronicky materiály k projednávání. Oproti jiným obvodům se rada na zastupitelstvo obrací málo, a pokud vyloženě nemusí, nic navíc neudělá, i tak ale projednávaných bodů byla celá řada.**
 
-<hr />
-
 O některých bodech jsme věděli předem, že na programu budou, nebo spíš tušili.  Přesto nás krátká doba k nastudování nutila k bezesnému skládání informací, čtení mezi řádky a urputnou snahou o hledání nových skutečností. Když se dva dny před zasedáním uskutečnila schůzka předsedů politických klubů, některé nejasnosti jsme diskutovali a přes starostu žádali o další materiály. Na samotném zasedání jsme se pak dotazovali na podrobnosti k programovým bodům, které nám v materiálech chyběly, nebo které jsme chtěli, ať jsou zaznamenány pro lidi. Vybíráme z těch nejzajímavějších.
 
 **1. Návrh na zřízení příspěvkové organizace s názvem "Centrum sociálních služeb Jih, příspěvková organizace"**

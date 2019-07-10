@@ -18,8 +18,6 @@ tags:
 
 Ostrava, 14. června 2019 – **Černý dým, zápach a nebezpečné zplodiny vylekaly už potřetí během června Ostravany i lidi z přilehlých obcí. Požár tentokrát vypukl v ostravské spalovně poblíž dálnice D1 vedoucí na Bohumín. Na vině bylo údajně samovznícení sodíku v blíže nespecifikovaném odpadu. Mluvčí spalovny uvedla, že do vzduchu ani vody neunikly nebezpečné látky.**
 
-<hr />
-
 > „Obávám se, že vyjádření SUEZu je pouze nervózní výmluva. Nic jako nezávadný dým, který uniká mimo filtrační zařízení, zkrátka neexistuje. Pokud se nedozvíme, jaké konkrétní odpady hořely, můžeme tato prohlášení pokládat pouze za chlácholení laické veřejnosti,“ 
 
 říká garant pirátského programového bodu Životní prostředí Jan Nezhyba.
