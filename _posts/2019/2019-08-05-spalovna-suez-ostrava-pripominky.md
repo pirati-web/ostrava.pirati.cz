@@ -11,7 +11,7 @@ tags:
  - Ostrava
  - MOaP
  - Ekologie
- - Rostislav-Reha
+ - Rostislav-Řeha
 ---
 
 Ostrava, 5. srpna 2019 – **Piráti otevření nové spalovny nebezpečných odpadů v Ostravě nepodporují. Nepřesvědčila je ani doplněná dokumentace záměru a vidí v ní řadu nedostatků. Pokud to máte  stejně, řekněte to přímo posuzujícím úředníkům! K EIA dokumentaci můžete do 12.&nbsp;8.&nbsp;2019 poslat připomínky. Poradíme vám, jak na to.**
