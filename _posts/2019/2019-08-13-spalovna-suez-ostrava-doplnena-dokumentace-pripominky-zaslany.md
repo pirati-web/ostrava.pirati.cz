@@ -3,8 +3,7 @@ layout: post
 category: CLANKY
 title: 'Piráti podali připomínky k doplněné dokumentaci záměru společnosti SUEZ, která chce otevřít novou spalovnu nebezpečných odpadů'
 date: 2019-08-13T20:00:00.000Z
-author: Rostislav Řeha
-authorId: rostislav.reha
+author: Jana Ožanová
 image: posts/spalovna1.jpg
 tags:
  - Spalovna
