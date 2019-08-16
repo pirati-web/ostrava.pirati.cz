@@ -19,8 +19,12 @@ profiles:
   facebook:	https://www.facebook.com/rostislav.reha	
   twitter:
   linkedin:
-calendar: cm9zdGlzbGF2LnJlaGEubW9hcEBnbWFpbC5jb20
 
+personCalendarId: cm9zdGlzbGF2LnJlaGEubW9hcEBnbWFpbC5jb20
+personCalendarPage: https://calendar.google.com/calendar/embed?src=cm9zdGlzbGF2LnJlaGEubW9hcEBnbWFpbC5jb20&amp;ctz=Europe%2FPrague&amp;title=Rostislav%20%C5%98eha
+rbar:
+- foto
+- personCalendar
 ---
 
 (* 16. záři 1973)
