@@ -1,0 +1,26 @@
+<div>
+  <div class="o-section-header o-section-header--indented">
+    <h2 class="t-h2-alt">Zastávané funkce</h2>
+  </div>
+  {% for team in site.data.boroughTeams %}
+  {% assign teamPage = site.pages | where: "boroughTeamUid", team.boroughTeamUid | first %}
+  {% assign member = team.members | where: "uid", page.uid | first %}
+  {% if member %}
+  <h4>{{ teamPage.shortTitle }}</h4>
+  <ul>
+    {% if member.council %}
+    <li><strong>Rada:</strong> {{ member.council }}</li>
+    {% endif %}
+    {% if member.assembly %}
+    <li><strong>Zastupitelstvo:</strong> {{ member.assembly }}</li>
+    {% endif %}
+    {% if member.commission %}
+    <li><strong>Komise:</strong> {{ member.commission }}</li>
+    {% endif %}
+    {% if member.committee %}
+    <li><strong>Výbory:</strong> {{ member.committee }}</li>
+    {% endif %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+</div>
