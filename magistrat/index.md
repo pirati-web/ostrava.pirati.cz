@@ -1,6 +1,7 @@
 ---
 layout: borough
 title: Piráti na ostravském magistrátě
+shortTitle: Magistrát
 boroughBannerDefault: banner-default.jpg
 boroughBannerMobile: banner-mobile.jpg
 boroughTag: Ostrava

@@ -1,6 +1,7 @@
 ---
 layout: borough
 title: Piráti Moravská Ostrava a Přívoz
+shortTitle: Moravská Ostrava a Přívoz
 boroughBannerDefault: banner-default.jpg
 boroughBannerMobile: banner-mobile.jpg
 boroughTag: MOaP
