@@ -6,7 +6,7 @@
   {% assign teamPage = site.pages | where: "boroughTeamUid", team.boroughTeamUid | first %}
   {% assign member = team.members | where: "uid", page.uid | first %}
   {% if member %}
-  <h4>{{ teamPage.shortTitle }}</h4>
+  <h4 class="post-list-heading">{{ teamPage.shortTitle }}</h4>
   <ul>
     {% if member.council %}
     <li><strong>Rada:</strong> {{ member.council }}</li>

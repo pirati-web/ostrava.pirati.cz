@@ -38,5 +38,3 @@ Vystudoval obor ekotechnika na Vysoké škole báňské - Technická univerzita 
 Působil nejprve jako programátor, poté několik let jako jednatel herní společnosti Altar a celkem 16 let pracoval jako informatik v Rehabilitačním ústavu Hrabyně. Nyní se živí jako databázový specialista u firmy Tieto Czech.
 
 Mezi jeho hlavní zájmy spadá hlavně rodina se dvěma dětmi. Ve volném čase působil jako mezinárodní rozhodčí level 2 hry Magic: The Gathering, hraje deskové a karetní hry s kamarády a v poslední době ho baví i jízda na kole. Na druhou stranu ho vůbec nebaví současná politická situace.
-
-{% include powers.html uid=page.uid %}
