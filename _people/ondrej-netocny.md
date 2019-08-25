@@ -9,7 +9,7 @@ category:
 ordRepresentativesJih: 5
 img: people/ondrej-netocny.jpg
 description: zastupitel městského obvodu Ostrava-Jih
-mail: # - zjistit
+mail: ondrej.netocny@pirati.cz
 ---
 
 (* 21. února 1989) 
