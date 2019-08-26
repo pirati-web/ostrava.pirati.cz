@@ -31,3 +31,10 @@ Tohle vše by mělo být v obydlené lokalitě v dnešní době už nemysliteln�
 říká Rostislav Řeha, místostarosta Moravské Ostravy a Přívozu za Piráty. 
 
 Ke kauze se v minulosti vyjadřoval také primátor Ostravy i náměstkyně primátora pro životní prostředí (oba za ANO).
+
+---
+
+Úvodní obrázek zdroj: Václav Parchaňský /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
+- - -
+
