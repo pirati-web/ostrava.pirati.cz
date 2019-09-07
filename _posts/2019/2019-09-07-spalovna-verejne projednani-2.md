@@ -16,7 +16,7 @@ tags:
  - Jan-Nezhyba
 ---
 
-Ostrava, 7. 9. 2019 - **Dne 6.9.2019 se v Ostravě uskutečnilo veřejné projednání záměru společnosti SUEZ na rozšíření spalovny nebezpečných odpadů (CENNZO Ostrava). Stávající spalovna s kapacitou 25 tis. tun je největší spalovnou nebezpečného odpadu v ČR a má být rozšířena o dalších 15 tis. tun. Spalovna leží na hranici Přívozu a Mariánských Hor, a to v blízkosti sídliště Fifejdy (ca 1 km), obvodů Lhotka, Hošťálkovice a Petřkovice, a konečně 3 km od centrálního Masarykova náměstí.**
+Ostrava, 7. 9. 2019 - **Včera se v Ostravě uskutečnilo veřejné projednání záměru společnosti SUEZ na rozšíření spalovny nebezpečných odpadů (CENNZO Ostrava). Stávající spalovna s kapacitou 25 tis. tun je největší spalovnou nebezpečného odpadu v ČR a má být rozšířena o dalších 15 tis. tun. Spalovna leží na hranici Přívozu a Mariánských Hor, a to v blízkosti sídliště Fifejdy (ca 1 km), obvodů Lhotka, Hošťálkovice a Petřkovice, a konečně 3 km od centrálního Masarykova náměstí.**
 
 <hr />
 
