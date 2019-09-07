@@ -32,7 +32,7 @@ Piráti rozumí nutnosti omezit skládkování nebezpečného odpadu, ale je nap
 
 **Obstrukce?**
 
-Ministerstvo životního prostředí, které tento záměr podporuje, původně jako termín zvolilo pondělí&nbsp;2.9.2019. Na poslední chvíli termín posunulo na páteční odpoledne, což je pro občany vzhledem k počátku víkendu zdaleka nejméně přitažlivý termín. Zarážející bylo i to, že byla ze strany zástupkyně ministerstva svévolně omezen počet položených otázek na jednu osobu, a to pouze na dvě otázky. Piráti okamžitě vznesli protest, že jde o porušení zákona o posuzování vlivu na životní prostředí, který upravuje veřejné projednání. Na to reagovala zástupkyně ministerstva, že to bylo myšleno jinak a že každý může klást otázek, kolik bude chtít. Závěr si jistě uděláte sami.
+Ministerstvo životního prostředí, které tento záměr podporuje, původně jako termín zvolilo pondělí&nbsp;2.9.2019. Na poslední chvíli termín posunulo na páteční odpoledne, což je pro občany vzhledem k počátku víkendu zdaleka nejméně přitažlivý termín. Zarážející bylo i to, že byl ze strany zástupkyně ministerstva svévolně omezen počet položených otázek na jednu osobu, a to pouze na dvě otázky. Piráti okamžitě vznesli protest, že jde o porušení zákona o posuzování vlivu na životní prostředí, který upravuje veřejné projednání. Na to reagovala zástupkyně ministerstva, že to bylo myšleno jinak a že každý může klást otázek, kolik bude chtít. Závěr si jistě uděláte sami.
  
 **Proč rozšíření spalovny v Ostravě a co za tím stojí?**
 
