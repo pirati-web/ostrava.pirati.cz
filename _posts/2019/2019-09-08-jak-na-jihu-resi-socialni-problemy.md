@@ -6,7 +6,6 @@ date: 2019-09-08T00:00:00.000Z
 author: Romana Kӧrӧsi
 image: posts/HDHlubina.jpg
 tags:
-tags:
   - Ostrava
   - Jih
   - Sociální-bydlení
