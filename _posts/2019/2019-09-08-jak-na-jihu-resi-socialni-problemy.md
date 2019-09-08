@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Romana Körösi: Jak se na Jihu (ne)řeší sociální problémy'
 date: 2019-09-08T00:00:00.000Z
 authorId: romana.korosi
-image: posts/HDHlubina.jpg
+image: posts/hlubina.jpg
 tags:
   - Ostrava
   - Jih
@@ -16,7 +16,7 @@ Ostrava, 8. 9. 2019 - **Uveřejňujeme komentář Romany Körösi, pirátské č
 
 <hr />
 
-PA tak přišli zákonodárci s novinkou, která se stala doslova předvolebním hitem v loňských komunálních volbách. Starostové se mnohde doslova předháněli, kdo zavede větší bezdoplatkovou zónu. Opatření mělo totiž zamezit sestěhování lidí v bytové nouzi do míst, kde již výskyt sociálně-patologických jevů překročil únosnou mez. Nově příchozí sociálně slabí občané nemají v  místech, kde byla bezdoplatková zóna vyhlášena, nárok na využití doplatku na bydlení. 
+A tak přišli zákonodárci s novinkou, která se stala doslova předvolebním hitem v loňských komunálních volbách. Starostové se mnohde doslova předháněli, kdo zavede větší bezdoplatkovou zónu. Opatření mělo totiž zamezit sestěhování lidí v bytové nouzi do míst, kde již výskyt sociálně-patologických jevů překročil únosnou mez. Nově příchozí sociálně slabí občané nemají v  místech, kde byla bezdoplatková zóna vyhlášena, nárok na využití doplatku na bydlení. 
 
 Na první pohled se jedná o relativně rozumné řešení, které se snaží zabránit dalšímu zhoršování životní úrovně lidí v místech, kde už je situace neúnosná. Ve skutečnosti ale toto opatření pouze odhaluje absolutní selhání systému práce s lidmi na sociálním dně a stává se pouhým „hašením požáru“ v těch nejvíce postižených oblastech. Neřeší samotnou podstatu problému, jen zabraňuje jeho rozšiřování bez jakékoliv další koncepce.  
 
@@ -41,6 +41,6 @@ Problém se neřeší už hodně dlouhou dobu a stává se z něj navíc problé
 
 ---
 
-Úvodní obrázek zdroj: Romana Körösi /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: Pavlína Nováčková /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
