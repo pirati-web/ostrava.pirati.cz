@@ -12,7 +12,7 @@ tags:
   - Romana-Körösi
 ---
 
-Ostrava, 8. 9. 2019 - **Uveřejňujeme komentář Romany Körösi, pirátské členky bytové komise Ostravy-Jihu. Už pár let hýbe českou společností problém nešťastně nastaveného systému doplatků na bydlení, který likviduje sociální systém. Současná právní úprava totiž ve své podstatě nepomáhá chudým a potřebným, ale přihrává obrovské peníze ze státní kasy do kapsy soukromých osob, kterým se říká „obchodníci s chudobou“.**
+Ostrava, 8. září 2019 - **Uveřejňujeme komentář Romany Körösi, pirátské členky bytové komise Ostravy-Jihu. Už pár let hýbe českou společností problém nešťastně nastaveného systému doplatků na bydlení, který likviduje sociální systém. Současná právní úprava totiž ve své podstatě nepomáhá chudým a potřebným, ale přihrává obrovské peníze ze státní kasy do kapsy soukromých osob, kterým se říká „obchodníci s chudobou“.**
 
 A tak přišli zákonodárci s novinkou, která se stala doslova předvolebním hitem v loňských komunálních volbách. Starostové se mnohde doslova předháněli, kdo zavede větší bezdoplatkovou zónu. Opatření mělo totiž zamezit sestěhování lidí v bytové nouzi do míst, kde již výskyt sociálně-patologických jevů překročil únosnou mez. Nově příchozí sociálně slabí občané nemají v  místech, kde byla bezdoplatková zóna vyhlášena, nárok na využití doplatku na bydlení.
 
