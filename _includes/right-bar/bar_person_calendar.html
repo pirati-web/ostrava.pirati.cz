@@ -1,0 +1,23 @@
+&nbsp;<br /><!-- ugly, I know, fix if creating a pull request to central theme -->
+<div class="o-section-block show-for-medium">
+  <ul class="c-widget-accordion" data-accordion="" data-allow-all-closed="true">
+    <li class="c-widget-accordion-item is-active" data-accordion-item="">
+      <a href="#" class="c-widget-accordion-link c-widget-accordion-link--cal">
+        <span class="c-widget-accordion__title">Kalendář</span>
+      </a>
+      <div class="c-widget-accordion-content" data-tab-content="">
+        {% if site.env.GOOGLE_CALENDAR_APIKEY and page.personCalendarId %}
+        <div class="__vue-root" data-app="Agenda" data-apikey="{{ site.env.GOOGLE_CALENDAR_APIKEY }}" data-calendar="{{ page.personCalendarId }}"></div>
+        {% else %}
+        <iframe src="{{ page.personCalendarPage }}" style="border-width:0; width: 100%; height: 410px; border: 0; overflow: hidden;"></iframe>
+        {% endif %}
+
+        {% if page.personCalendarPage %}
+        <div class="c-widget-accordion-content__cta">
+          <a class="expanded button large u-0margin" href="{{ page.personCalendarPage | relative_url }}"> Zobrazit všechny akce </a>
+        </div>
+        {% endif %}
+      </div>
+    </li>
+  </ul>
+</div>
