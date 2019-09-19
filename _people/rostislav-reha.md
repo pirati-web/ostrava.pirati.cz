@@ -20,12 +20,7 @@ profiles:
   twitter:
   linkedin:
 
-personCalendarId: cm9zdGlzbGF2LnJlaGEubW9hcEBnbWFpbC5jb20
-personCalendarPage: https://calendar.google.com/calendar/embed?src=cm9zdGlzbGF2LnJlaGEubW9hcEBnbWFpbC5jb20&amp;ctz=Europe%2FPrague&amp;title=Rostislav%20%C5%98eha
-rbar:
-- foto
-- personContact
-- personCalendar
+calendar: cm9zdGlzbGF2LnJlaGEubW9hcEBnbWFpbC5jb20
 
 ---
 
