@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Piráti v Ostravě si zvolili nové předsednictvo'
 date: 2019-09-24T08:00:00.000Z
 author: Jana Ožanová
-image: posts/survey-4441595.jpg
+image: posts/pms-ostrava-9.2019.jpg
 tags:
   - Ostrava
   - Pavlína-Nováčková
@@ -24,6 +24,6 @@ Výsledek volby názorně ukazuje, že Piráti jsou svobodnou stranou uplatňuj�
 
 ---
 
-Úvodní obrázek zdroj: Christina Smith \[[Pixabay License](https://pixabay.com/service/license/)\], [z Pixabay](https://pixabay.com/cs/illustrations/pr%C5%AFzkum-formul%C3%A1%C5%99-dotazn%C3%ADk-s%C3%AD%C5%A5-4441595/).
+Úvodní obrázek zdroj: Lukáš Černohorský /Piráti/ \[[CC BY-NC-SA 4.0](httpscreativecommons.orglicensesby-nc-sa4.0deed.cs)\].
 
 - - -
