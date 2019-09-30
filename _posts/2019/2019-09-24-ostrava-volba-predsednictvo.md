@@ -24,6 +24,6 @@ Výsledek volby názorně ukazuje, že Piráti jsou svobodnou stranou uplatňuj�
 
 ---
 
-Úvodní obrázek zdroj: Lukáš Černohorský /Piráti/ \[[CC BY-NC-SA 4.0](httpscreativecommons.orglicensesby-nc-sa4.0deed.cs)\].
+Úvodní obrázek zdroj: Lukáš Černohorský /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
