@@ -7,10 +7,8 @@ titles:
 category:
 - representativeMagistrat
 - representativeMoap
-- pks
 ordRepresentativesMagistrat: 3
 ordRepresentativesMoap: 2
-ordpks: 4
 img: people/rostislav-reha.jpg
 description: místostarosta městského obvodu Moravská Ostrava a Přívoz, zastupitel města Ostravy
 mail: rostislav.reha@pirati.cz
