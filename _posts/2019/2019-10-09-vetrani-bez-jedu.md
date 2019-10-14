@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Piráti spouštějí unikátní webovou aplikaci &bdquo;Větrání bez jedů&ldquo;'
-date: 2019-10-09T00:00:00.000Z
+date: 2019-10-09T08:00:00.000Z
 author: Václav Parchaňský
 image: posts/vetranibezjedu.jpg
 tags:
