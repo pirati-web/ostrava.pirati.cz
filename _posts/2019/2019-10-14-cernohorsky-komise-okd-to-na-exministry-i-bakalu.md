@@ -5,7 +5,7 @@ tags:
   - OKD 
   - Lukáš-Černohorský
   - Karbon-Invest
-  - klientelismus
+  - Klientelismus
 layout:       post
 title:        "Komise vedená Pirátem Černohorským uzavírá vyšetřování – podá trestní oznámení na exministry Dlouhého, Urbana i Sobotku. Bakalu a Koláčka podezírá z podvodu"
 image:        posts/lukas-cernohorsky.jpg
