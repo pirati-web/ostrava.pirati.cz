@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Komise vedená Pirátem Černohorským uzavírá vyšetřování – podá trestní oznámení na exministry Dlouhého, Urbana i Sobotku. Bakalu a Koláčka podezírá z podvodu'
-date: 2019-10-08T00:00:00.000Z
+date: 2019-10-08T08:00:00.000Z
 author: Mediální odbor
 image: posts/lukas-cernohorsky.jpg
 tags:         
