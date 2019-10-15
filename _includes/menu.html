@@ -19,6 +19,7 @@
         </div>
 
         {% assign slash = '/' %}
+        {% assign commaAndSpacebar = ", " %}
 
         <div id="responsive-menu" class="c-responsive-menu">
           <ul class="c-responsive-menu__items" data-dropdown-menu="">
@@ -28,16 +29,22 @@
               {% if item.match %}
                 {% if item.submenu %}
                   {% for submenu in item.submenu %}
-                    {% assign match_with_slash = submenu.match | append: slash %}
-                    {% if page.url contains match_with_slash %}
-                      {% assign active_submenu_item = true %}
-                    {% endif %}
+                    {% assign matchEntries = submenu.match | split: commaAndSpacebar %}
+                    {% for match in matchEntries %}
+                      {% assign match_with_slash = submenu.match | append: slash %}
+                      {% if page.url contains match_with_slash %}
+                        {% assign active_submenu_item = true %}
+                      {% endif %}
+                    {% endfor %}
                   {% endfor %}
                 {% endif %}
-                {% assign match_with_slash = item.match | append: slash %}
-                {% if page.url contains match_with_slash %}
-                  {% assign active_menu_item = true %}
-                {% endif %}
+                {% assign matchEntries = item.match | split: commaAndSpacebar %}
+                {% for match in matchEntries %}
+                  {% assign match_with_slash = match | append: slash %}
+                  {% if page.url contains match_with_slash %}
+                    {% assign active_menu_item = true %}
+                  {% endif %}
+                {% endfor %}
               {% endif %}
               <li class="c-responsive-menu__item {% if item.class %}{{ item.class }}{% endif %} {% if active_submenu_item or active_menu_item %}c-responsive-menu__item--active{% endif %}">
                 <a href="{{ item.link | relative_url }}">{{ item.name }}</a>

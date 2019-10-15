@@ -1,0 +1,44 @@
+{% assign commaAndSpacebar = ", " %}
+
+{% for menu in site.data.menu.main %}
+  {% assign displaySubmenu = false %}
+  {% assign matches = menu.match | split: commaAndSpacebar %}
+  {% for match in matches %}
+    {% assign match_with_slash = match | append: slash %}
+    {% if page.url contains match_with_slash %}
+      {% if menu.submenu %}
+        {% assign displaySubmenu = true %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if displaySubmenu %}
+  <nav class="c-top-sub-nav">
+    <div class="row">
+      <div class="c-top-sub-nav-inner columns">
+        <div class="c-top-sub-nav__header">
+          <h2 class="c-top-sub-nav__heading">
+            <a href="{{ menu.link }}">{{ menu.name }} </a>
+          </h2>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          {% for submenu in menu.submenu %}
+            {% assign submenuActive = false %}
+            {% assign matchEntries = submenu.match | split: commaAndSpacebar %}
+              {% for match in matchEntries %}
+                {% if page.url contains match %}
+                  {% assign submenuActive = true %}
+                {% endif %}
+              {% endfor %}
+              <li class="c-top-sub-nav__item">
+              {% if submenuActive %}<b>{% endif %}
+              <a href="{{ submenu.link }}">{{ submenu.name }} </a>
+              {% if submenuActive %}</b>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </nav>
+  {% endif %}
+{% endfor %}

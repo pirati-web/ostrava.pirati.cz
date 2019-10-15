@@ -18,20 +18,20 @@ main:
     match: lide
   - link: /magistrat/
     name: Magistrát
-    match: magistrat
+    match: magistrat, magistrat2018
   - link: /moap/
     name: Městské obvody
-    match: moap, poruba, jih
+    match: moap, poruba, jih, moap2018, poruba2018, jih2018
     submenu:
       - link: /moap/
         name: Moravská Ostrava a Přívoz
-        match: moap
+        match: moap, moap2018
       - link: /poruba/
         name: Poruba
-        match: poruba
+        match: poruba, poruba2018
       - link: /jih/
         name: Jih
-        match: jih
+        match: jih, jih2018
   - link: https://nalodeni.pirati.cz/
     name: Připoj se
   - link: /kontakt/
