@@ -137,7 +137,6 @@ defaults:   # defaults values for collection scope
       rbar:
         - foto
         - personContact
-        - people
   -
     scope:
       path: "_program"
