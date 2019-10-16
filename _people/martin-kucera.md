@@ -4,9 +4,6 @@ name: Martin Kučera
 titles:
   before: Mgr. 
   after: 
-category:
-- representativeMoap
-ordRepresentativesMoap: 6
 img: people/martin-kucera.jpg
 description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
 mail: martin.kucera@pirati.cz

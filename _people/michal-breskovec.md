@@ -5,10 +5,10 @@ titles:
   before: Ing. 
   after: 
 category:
-- representativeJih
-ordRepresentativesJih: 4
+- vedeni
+ordVedeni: 3
 img: people/michal-breskovec.jpg
-description: zastupitel městského obvodu Ostrava-Jih
+description: 2. místopředseda místního sdružení Ostrava
 mail: michal.breskovec@pirati.cz 
 profiles:
   github:	https://github.com/mbreskovec

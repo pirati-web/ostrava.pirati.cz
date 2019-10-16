@@ -4,9 +4,6 @@ name: Lukáš Jansa
 titles:
   before: JUDr. 
   after: 
-category:
-- representativeMoap
-ordRepresentativesMoap: 3
 img: people/lukas-jansa.jpg
 description: radní městského obvodu Moravská Ostrava a Přívoz
 mail: # zjistit

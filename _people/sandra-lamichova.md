@@ -4,8 +4,6 @@ name: Sandra Lamichová
 titles:
   before: 
   after:
-category:
-- kandidat 
 img: people/sandra-lamichova.jpg
 description: kandidátka do zastupitelstva Ostravy-Jihu
 mail: # - zjistit

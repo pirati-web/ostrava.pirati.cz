@@ -4,8 +4,6 @@ name: Vladan Hýl
 titles:
   before: 
   after: 
-category:
-- kandidat 
 img: people/vladan-hyl.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby
 mail: # - zjistit

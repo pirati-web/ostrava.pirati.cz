@@ -4,11 +4,6 @@ name: Rostislav Řeha
 titles:
   before: Ing. 
   after: 
-category:
-- representativeMagistrat
-- representativeMoap
-ordRepresentativesMagistrat: 3
-ordRepresentativesMoap: 2
 img: people/rostislav-reha.jpg
 description: místostarosta městského obvodu Moravská Ostrava a Přívoz, zastupitel města Ostravy
 mail: rostislav.reha@pirati.cz

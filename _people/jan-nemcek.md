@@ -4,8 +4,6 @@ name: Jan Nemček
 titles:
   before: Mgr. 
   after: 
-category:
-- kandidat 
 img: people/jan-nemcek.jpg
 description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
 mail: # zjistit

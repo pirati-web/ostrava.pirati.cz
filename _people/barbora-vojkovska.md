@@ -4,9 +4,6 @@ name: Barbora Vojkovská
 titles:
   before: Mgr. 
   after: 
-category:
-- representativeMoap
-ordRepresentativesMoap: 5
 img: people/barbora-vojkovska.jpg
 description: zastupitelka městského obvodu Moravská Ostrava a Přívoz 
 mail: # zjistit

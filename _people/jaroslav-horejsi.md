@@ -3,9 +3,7 @@ uid: jaroslav.horejsi
 name: Jaroslav Hořejší
 titles:
   before: Ing. 
-  after: 
-category:
-- kandidat 
+  after:
 img: people/jaroslav-horejsi.jpg
 description: kandidát do zastupitelstva MMO
 mail: # - zjistit

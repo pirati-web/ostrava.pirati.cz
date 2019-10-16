@@ -4,11 +4,6 @@ name: Andrea Hoffmannová
 titles:
   before: Mgr. 
   after: Ph.D.
-category:
-- representativeMagistrat
-- representativePoruba
-ordRepresentativesMagistrat: 1
-ordRepresentativesPoruba: 3
 img: people/andrea-hoffmannova.jpg
 description: náměstkyně primátora města Ostravy, zastupitelka městského obvodu Poruba
 mail: andrea.hoffmannova@pirati.cz

@@ -4,11 +4,6 @@ name: Petr Kopečný
 titles:
   before: Ing. 
   after: 
-category:
-- representativeMagistrat
-- representativeJih
-ordRepresentativesMagistrat: 4
-ordRepresentativesJih: 2
 img: people/petr-kopecny.jpg
 description: zastupitel města Ostravy, zastupitel městského obvodu Ostrava-Jih
 mail: petr.kopecny@pirati.cz 

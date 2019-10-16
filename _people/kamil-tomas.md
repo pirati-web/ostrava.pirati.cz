@@ -4,9 +4,6 @@ name: Kamil Tomáš
 titles:
   before: Ing. 
   after: 
-category:
-- representativeMoap
-ordRepresentativesMoap: 4
 img: people/kamil-tomas.jpg
 description: zastupitel městského obvodu Moravská Ostrava a Přívoz 
 mail: #

@@ -4,8 +4,6 @@ name: Romana Körösi
 titles:
   before: 
   after: 
-category:
-- kandidat 
 img: people/romana-korosi.jpg
 description: kandidátka do zastupitelstva Ostravy-Jihu
 mail: # - zjistit

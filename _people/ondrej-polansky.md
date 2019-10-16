@@ -5,9 +5,9 @@ titles:
   before: Ing. 
   after:
 category:
-- kandidat
+- clen
 - poslanec
-ordposlanci: 2
+ordPoslanec: 2
 img: people/ondrej-polansky.jpg
 description: poslanec PSP ČR
 mail: # zjistit

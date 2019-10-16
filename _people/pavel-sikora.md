@@ -4,8 +4,6 @@ name: Pavel Sikora
 titles:
   before: Ing. 
   after: 
-category:
-- kandidat 
 img: people/pavel-sikora.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby
 mail: # - zjistit

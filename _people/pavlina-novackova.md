@@ -3,12 +3,13 @@ uid: pavlina.novackova
 name: Pavlína Nováčková
 titles:
   before: Bc. 
-  after: 
+  after:
 category:
-- representativeJih
-ordRepresentativesJih: 1
+- vedeni
+- clen
+ordVedeni: 1
 img: people/pavlina-novackova.jpg
-description: zastupitelka městského obvodu Ostrava-Jih
+description: předsedkyně místního sdružení Ostrava
 mail: pavlina.novackova@pirati.cz
 mob:			  
 profiles:

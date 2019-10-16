@@ -4,9 +4,6 @@ name: Gabriela Macečková
 titles:
   before: 
   after: 
-category:
-- representativeJih
-ordRepresentativesJih: 3
 img: people/gabriela-maceckova.jpg
 description: zastupitelka městského obvodu Ostrava-Jih
 mail: gabriela.maceckova@pirati.cz

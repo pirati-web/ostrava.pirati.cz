@@ -4,8 +4,6 @@ name: Jakub Šusta
 titles:
   before: 
   after: 
-category:
-- kandidat 
 img: people/jakub-susta.jpg
 description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
 mail: # zjistit

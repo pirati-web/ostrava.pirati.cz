@@ -4,8 +4,6 @@ name: Pavel Brynda
 titles:
   before: Mgr. 
   after: 
-category:
-- kandidat 
 img: people/pavel-brynda.jpg
 description: kandidát do zastupitelstva Moravské Ostravy a Přívozu
 mail: #
