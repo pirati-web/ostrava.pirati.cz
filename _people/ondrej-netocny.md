@@ -4,9 +4,6 @@ name: Ondřej Netočný
 titles:
   before: Ing. 
   after: 
-category:
-- representativeJih
-ordRepresentativesJih: 5
 img: people/ondrej-netocny.jpg
 description: zastupitel městského obvodu Ostrava-Jih
 mail: ondrej.netocny@pirati.cz

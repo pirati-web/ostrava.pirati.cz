@@ -4,9 +4,6 @@ name: Martin Tomášek
 titles:
   before: Mgr. 
   after: Ph.D.
-category:
-- representativePoruba
-ordRepresentativesPoruba: 1
 img: people/martin-tomasek.jpg
 description: místostarosta městského obvodu Poruba
 mail: # - martin.tomasek@pirati.cz - ověřit

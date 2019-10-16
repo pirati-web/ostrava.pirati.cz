@@ -4,8 +4,6 @@ name: Radim Stach
 titles:
   before: 
   after: 
-category:
-- kandidat 
 img: people/radim-stach.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # zjistit

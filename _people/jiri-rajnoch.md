@@ -3,12 +3,12 @@ uid: jiri.rajnoch
 name: Jiří Rajnoch
 titles:
   before: Ing. 
-  after: 
+  after:
 category:
-- representativePoruba
-ordRepresentativesPoruba: 2
+- vedeni
+ordVedeni: 2
 img: people/jiri-rajnoch.jpg
-description: radní městského obvodu Poruba
+description: 1. místopředseda místního sdružení Ostrava
 mail: # - jiri.rajnoch@pirati.cz - ověřit
 ---
 

@@ -4,8 +4,6 @@ name: Denisa Kučerová
 titles:
   before: Bc. 
   after:
-category:
-- kandidat 
 img: people/denisa-kucerova.jpg
 description: kandidátka do zastupitelstva Ostravy-Poruby
 mail: #

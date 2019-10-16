@@ -4,8 +4,6 @@ name: Jakub Pohl
 titles:
   before: BcA.
   after:
-category:
-- kandidat 
 img: people/jakub-pohl.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby
 mail: # - zjistit

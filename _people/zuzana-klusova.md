@@ -4,8 +4,6 @@ name: Zuzana Klusová
 titles:
   before: Mgr.
   after:
-category:
-#
 img: people/zuzana-klusova.jpg
 description: asistentka poslance
 mail: zuzana.klusova@pirati.cz

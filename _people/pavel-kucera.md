@@ -4,8 +4,6 @@ name: Pavel Kučera
 titles:
   before: Ing. 
   after: 
-category:
-- kandidat 
 img: people/pavel-kucera.jpg
 description: kandidát do zastupitelstva Ostravy-Poruby
 mail: #

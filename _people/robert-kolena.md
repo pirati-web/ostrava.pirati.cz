@@ -4,8 +4,6 @@ name: Robert Kolena
 titles:
   before: Bc.
   after:
-category:
-- kandidat 
 img: people/robert-kolena.jpg 
 description: kandidát do zastupitelstva Ostravy-Jihu
 mail: # - zjistit

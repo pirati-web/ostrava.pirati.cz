@@ -4,11 +4,6 @@ name: David Witosz
 titles:
   before: Ing.
   after:
-category:
-- representativeMagistrat
-- representativeMoap
-ordRepresentativesMagistrat: 2
-ordRepresentativesMoap: 1
 img: people/david-witosz.jpg
 description: místostarosta městského obvodu Moravská Ostrava a Přívoz, radní města Ostravy
 mail: david.witosz@pirati.cz
