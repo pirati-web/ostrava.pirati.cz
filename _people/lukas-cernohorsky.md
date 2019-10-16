@@ -11,7 +11,7 @@ category:
 ordVedeni: 4
 ordPoslanec: 1
 img: people/lukas-cernohorsky.jpg
-description: poslanec PSP ČR
+description: 3. místopředseda místního sdružení Ostrava, poslanec PSP ČR
 mail: lukas.cernohorsky@pirati.cz
 mob: +420 601 573 955 
 profiles:
