@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Arnoštovo okénko: Co všechno dělá a jak dlouho pracuje učitel?'
 date: 2019-10-14T16:00:00.000Z
 authorId: arnost.zidek
-image: posts/pridavani-ucitelum.jpg
+image: posts/pridavani-penez-ucitelum.jpg
 tags:
   - Arnoštovo-okénko
   - Vzdělávání
