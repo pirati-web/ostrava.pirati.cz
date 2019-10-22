@@ -1,6 +1,14 @@
+{% for team in site.data.boroughTeams %}
+  {% assign teamPage = site.pages | where: "boroughTeamUid", team.boroughTeamUid | first %}
+  {% assign member = team.members | where: "uid", page.uid | first %}
+  {% if member %}
+    {% assign isBoroughMemberAtAll = true %}
+  {% endif %}
+{% endfor %}
+{% if isBoroughMemberAtAll %}
 <div>
   <div class="o-section-header o-section-header--indented">
-    <h2 class="t-h2-alt">Zastávané funkce</h2>
+    <h2 class="t-h2">Zastávané funkce</h2>
   </div>
   {% for team in site.data.boroughTeams %}
   {% assign teamPage = site.pages | where: "boroughTeamUid", team.boroughTeamUid | first %}
@@ -24,3 +32,4 @@
   {% endif %}
   {% endfor %}
 </div>
+{% endif %}
