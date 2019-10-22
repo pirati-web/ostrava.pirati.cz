@@ -2,7 +2,7 @@
 layout: borough
 title: Piráti Moravská Ostrava a Přívoz
 shortTitle: Moravská Ostrava a Přívoz
-boroughBannerDefault: banner-default.jpg
+boroughBannerDefault: banner-default-blank.jpg
 boroughBannerMobile: banner-mobile.jpg
 boroughTag: MOaP
 boroughTeamUid: moap
@@ -22,4 +22,3 @@ linkCategories:
 ---
 
 > Moravská Ostrava a Přívoz je naším společným domovem a Piráti se budou snažit o to, aby se nám zde spolu žilo co nejlépe, a to díky pro občany transparentnímu fungování a hospodaření radnice, dostupným a kvalitním službám, efektivní dopravě, atraktivnímu veřejnému prostoru a moderní architektuře, lepšímu životnímu prostředí, kvalitní kultuře, sportovnímu vyžití, propojeným sídlištím s centrem města, udržované zeleni a pocitu bezpečnosti.
-

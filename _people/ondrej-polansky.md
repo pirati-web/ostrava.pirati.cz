@@ -2,7 +2,7 @@
 uid: ondrej.polansky
 name: Ondřej Polanský
 titles:
-  before: Ing. 
+  before: Ing.
   after:
 category:
 - clen
@@ -10,7 +10,7 @@ category:
 ordPoslanec: 2
 img: people/ondrej-polansky.jpg
 description: poslanec PSP ČR
-mail: # zjistit
+mail: ondrej.polansky@pirati.cz
 mob: #
 profiles:
   github:       
@@ -48,7 +48,7 @@ Velké mediální pozornosti se Ondřejovi dostalo v souvislosti s tendrem na no
 
 ### Ondra fandí železnici - stavba vysokorychlostních tratí má být vládní prioritou
 
-Ondřej je velký propagátor stavby vysokorychlostních tratí v Česku. Díky nim bychom se z Prahy do Ostravy dostali za pouhou hodinu a půl. To by způsobilo revoluci na trhu práce i na cestách. Bohužel se o nich v Česku už 30 let jen mluví. Více než o rozvoji železniční dopravy, která je pohodlná, rychlá i ekologická, je v nejvyšších patrech politiky i médiích více slyšet o megalomanských plánech postavit vodní koridor Dunaj-Odra-Labe. 
+Ondřej je velký propagátor stavby vysokorychlostních tratí v Česku. Díky nim bychom se z Prahy do Ostravy dostali za pouhou hodinu a půl. To by způsobilo revoluci na trhu práce i na cestách. Bohužel se o nich v Česku už 30 let jen mluví. Více než o rozvoji železniční dopravy, která je pohodlná, rychlá i ekologická, je v nejvyšších patrech politiky i médiích více slyšet o megalomanských plánech postavit vodní koridor Dunaj-Odra-Labe.
 
 ## Členství ve sněmovních orgánech
 
@@ -68,4 +68,4 @@ Ondřej je velký propagátor stavby vysokorychlostních tratí v Česku. Díky 
 * Stálá komise pro kontrolu činnosti Bezpečnostní informační služby, člen od 12. 12. 2017
 
 **Delegace**
-* Stálá delegace Parlamentu do Meziparlamentní unie, vedoucí delegace od 15. 12. 2017 
+* Stálá delegace Parlamentu do Meziparlamentní unie, vedoucí delegace od 15. 12. 2017

@@ -2,7 +2,7 @@
 layout: borough
 title: Piráti Ostrava-Poruba
 shortTitle: Poruba
-boroughBannerDefault: banner-default.jpg
+boroughBannerDefault: banner-default-blank.jpg
 boroughBannerMobile: banner-mobile.jpg
 boroughTag: Poruba
 boroughTeamUid: poruba
@@ -46,4 +46,3 @@ linkCategories:
     </div>
   </div>
 </section> -->
-

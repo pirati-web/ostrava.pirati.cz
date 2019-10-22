@@ -2,7 +2,7 @@
 layout: borough
 title: Piráti Ostrava-Jih
 shortTitle: Jih
-boroughBannerDefault: banner-default.jpg
+boroughBannerDefault: banner-default-blank.jpg
 boroughBannerMobile: banner-mobile.jpg
 boroughTag: Jih
 boroughTeamUid: jih

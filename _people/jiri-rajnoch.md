@@ -2,14 +2,14 @@
 uid: jiri.rajnoch
 name: Jiří Rajnoch
 titles:
-  before: Ing. 
+  before: Ing.
   after:
 category:
 - vedeni
 ordVedeni: 2
 img: people/jiri-rajnoch.jpg
 description: 1. místopředseda místního sdružení Ostrava
-mail: # - jiri.rajnoch@pirati.cz - ověřit
+mail: jiri.rajnoch@pirati.cz
 ---
 
 Jirka Rajnoch chodil do školky na základní, střední a vysokou školu do Ostravy-Poruby!
