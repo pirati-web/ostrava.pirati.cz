@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Piráti říkají “nesekat”! Ostrava se zelená a kvete díky lučním trávníkům'
 date: 2019-11-15T16:00:00.000Z
-authorId: jana.ozanova
+author: Jana Ožanová
 image: posts/rosta-lucni-travniky.jpg
 tags:
   - Rostislav-Řeha
