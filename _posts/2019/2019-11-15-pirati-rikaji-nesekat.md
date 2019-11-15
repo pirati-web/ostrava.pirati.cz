@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Piráti říkají “nesekat”! Ostrava se zelená a kvete díky lučním trávníkům'
+title: 'Piráti říkají „nesekat“! Ostrava se zelená a kvete díky lučním trávníkům'
 date: 2019-11-15T16:00:00.000Z
 author: Jana Ožanová
 image: posts/rosta-lucni-travniky.jpg
@@ -13,18 +13,27 @@ tags:
 
 ---
 
+Ostrava, 15. listopadu 2019 – **Obyvatelé městské části Moravská Ostrava a Přívoz dali Pirátům v loňských volbách velkou důvěru. Díky silnému zastoupení ve vedení centrálního obvodu se teď mohou výrazně podílet na proměně centra města. Když se stal před rokem Pirát Rostislav Řeha místostarostou pro životní prostředí, jedno z jeho prvních rozhodnutí bylo jasné: Omezit sekání a rozšířit plochy lučních trávníků.**
 
-Obyvatelé městské části Moravská Ostrava a Přívoz dali Pirátům v loňských volbách velkou důvěru. Díky silnému zastoupení ve vedení centrálního obvodu se teď mohou výrazně podílet na proměně centra města. Když se stal před rokem Pirát Rostislav Řeha místostarostou pro životní prostředí, jedno z jeho prvních rozhodnutí bylo jasné: Omezit sekání a rozšířit plochy lučních trávníků. I přes svou industriální minulost Ostrava už dávno není černým městem, patří mezi nejzelenější města v zemi. Velký podíl na zelené ploše mají parky a sady, kam chodí Ostravané relaxovat a trávit čas s rodinou a přáteli. S rostoucím suchem je ale potřeba o zeleň ve městě stále více pečovat. Rosťa na to šel od lesa a ukázalo se, že příroda si umí poradit sama, jen je třeba jí dát šanci. Jeho projekt lučních trávníků vzbudil velký zájem veřejnosti, odborníků i médií.
+I přes svou industriální minulost Ostrava už dávno není černým městem, patří mezi nejzelenější města v zemi. Velký podíl na zelené ploše mají parky a sady, kam chodí Ostravané relaxovat a trávit čas s rodinou a přáteli. S rostoucím suchem je ale potřeba o zeleň ve městě stále více pečovat. Rosťa na to šel od lesa a ukázalo se, že příroda si umí poradit sama, jen je třeba jí dát šanci. Jeho projekt lučních trávníků vzbudil velký zájem veřejnosti, odborníků i médií.
 
-Obvod má kromě několika parků a sadů také spoustu stromů a zelených ploch, o které se musí starat. Počet pracovníků je omezený, mnohdy je tak plánování pravidelné údržby spíš nelehká kombinatorická úloha. Rosťa se s tím jako bývalý ajťák popasoval po svém. Začal jak jinak, než sběrem dat a analýzou informací. &bdquo;To byl ale další oříšek. Pasportizace zeleně tady byla do mého příchodu neznámým pojmem a data scházela. Než je sesbíráme a navrhneme komplexní řešení, chtěl jsem alespoň začít něčím jednoduchým, levným a chytrým,&ldquo; popisuje Rosťa Řeha, jak se zrodil projekt Luční trávníky.
+Obvod má kromě několika parků a sadů také spoustu stromů a zelených ploch, o které se musí starat. Počet pracovníků je omezený, mnohdy je tak plánování pravidelné údržby spíš nelehká kombinatorická úloha. Rosťa se s tím jako bývalý ajťák popasoval po svém. Začal jak jinak, než sběrem dat a analýzou informací.
 
-Původně se tráva dost drasticky sekala šestkrát ročně na nízký pokos, aby náhodou někde něco nepovyrostlo. &bdquo; Jaký to mělo vliv na biodiverzitu si dokážete představit. Za ty roky jsme prakticky vyhubili hmyz, který neměl kde přežívat a rozmnožovat se. Ale bez sečení trávy v okolí bytových domů to nejde. Lidé tam venčí mazlíčky, hrají si tam děti, obávají se proto klíšťat. Hledali jsme tedy místa, kde bychom mohli zavést úplně jiný režim. Nesekat! A zjistit, co to přinese,&ldquo; popisuje Rosťa začátky projektu.
+> „To byl ale další oříšek. Pasportizace zeleně tady byla do mého příchodu neznámým pojmem a data scházela. Než je sesbíráme a navrhneme komplexní řešení, chtěl jsem alespoň začít něčím jednoduchým, levným a chytrým,“
 
-Piráti mají rádi systematická řešení, což se potvrdilo i tady. Rosťa nám prozradil, jak se &bdquo;ve svém rajónu&ldquo; postupnými kroky posunul od slov k činům a od vyprahlých trávníků k rozkvetlým loukám:
+popisuje Rosťa Řeha, jak se zrodil projekt Luční trávníky.
+
+Původně se tráva dost drasticky sekala šestkrát ročně na nízký pokos, aby náhodou někde něco nepovyrostlo.
+
+> „Jaký to mělo vliv na biodiverzitu si dokážete představit. Za ty roky jsme prakticky vyhubili hmyz, který neměl kde přežívat a rozmnožovat se. Ale bez sečení trávy v okolí bytových domů to nejde. Lidé tam venčí mazlíčky, hrají si tam děti, obávají se proto klíšťat. Hledali jsme tedy místa, kde bychom mohli zavést úplně jiný režim. Nesekat! A zjistit, co to přinese,“
+
+popisuje Rosťa začátky projektu.
+
+Piráti mají rádi systematická řešení, což se potvrdilo i tady. Rosťa nám prozradil, jak se „ve svém rajónu“ postupnými kroky posunul od slov k činům a od vyprahlých trávníků k rozkvetlým loukám.
 
 ### Nejprve jsme hledali lokality pro naše trávníky
 
-Neobejdete bez člověka, který obvod dokonale zná. My jsme měli štěstí hned na dva - jedním byl náš referent zeleně a druhým zástupkyně ředitele technických služeb. Společně se nám povedlo vytipovat oblasti, které byly dostatečně vzdálené od obydlí, měly potenciál v tom, co tam rostlo, a zároveň zároveň zabíraly rozumnou plochu.
+Neobejdete bez člověka, který obvod dokonale zná. My jsme měli štěstí hned na dva – jedním byl náš referent zeleně a druhým zástupkyně ředitele technických služeb. Společně se nám povedlo vytipovat oblasti, které byly dostatečně vzdálené od obydlí, měly potenciál v tom, co tam rostlo, a zároveň zároveň zabíraly rozumnou plochu.
 
 ### Připravili jsme plán a představili ho lidem
 
@@ -38,4 +47,6 @@ V našem obvodě sídlí agentura ochrany přírody, máme tu i fakultu životn�
 
 Již teď pracujeme na novém plánu pro příští rok a připravujeme trávníky na další jaro. Dle doporučení našich garantů jsme do vybraných lokalit individuálně dosadili původní směsi bylin a hlavně malou rostlinku jménem kokrhel. Ta má za úkol vytlačit plevel a dát prostor lučnímu kvítí. Příští rok chceme některé naše lokality rozšířit a vytipovat další vhodná místa. V podstatě si celé kolečko zopakujeme a využijeme zkušenosti z pilotní části projektu. A pro nevěřící Tomáše i sobě pro radost chystáme malý experiment – u jedné z lokalit budeme pomocí časosběrného snímku sledovat, jak se bude příroda během roku chovat a proměňovat.
 
-Luční trávníky jsou příkladem malého a nenáročného projektu, který ale může mít na život ve městě velký vliv. 
+Luční trávníky jsou příkladem malého a nenáročného projektu, který ale může mít na život ve městě velký vliv.
+
+- - -
