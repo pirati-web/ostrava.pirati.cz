@@ -41,7 +41,7 @@ Komunikace s veřejností a otevřená radnice je pirátskou prioritu. Prezentac
 
 ### Zahájili jsme spolupráci s odbornou veřejností
 
-V našem obvodě sídlí agentura ochrany přírody, máme tu i fakultu životního prostředí Ostravské univerzity. Stačilo tak v obou institucích natrefit na ty správné lidi a přizvat je k projektu. Stali se našimi odbornými garanty – vnesli do projektu odborné zázemí, navrhli jeho úpravy a sami s nadšením sledovali vývoj. Udělali jsme pro ně dva kontrolní dny (v červnu a potom na konci srpna), kdy jsme obešli všechny lokality a oni je mohli podrobně studovat. A objektů k pozorování bylo dost, do lokalit se vrátily původní druhy bylin i hmyzu.
+V našem obvodě sídlí agentura ochrany přírody, máme tu i přírodovědeckou fakultu Ostravské univerzity. Stačilo tak v obou institucích natrefit na ty správné lidi a přizvat je k projektu. Stali se našimi odbornými garanty – vnesli do projektu odborné zázemí, navrhli jeho úpravy a sami s nadšením sledovali vývoj. Udělali jsme pro ně dva kontrolní dny (v červnu a potom na konci srpna), kdy jsme obešli všechny lokality a oni je mohli podrobně studovat. A objektů k pozorování bylo dost, do lokalit se vrátily původní druhy bylin i hmyzu.
 
 ### Získané zkušenosti je potřeba zúročit!
 
