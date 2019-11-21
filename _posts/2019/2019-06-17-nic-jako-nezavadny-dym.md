@@ -13,7 +13,7 @@ tags:
  - Ekologie
  - Jan-Nezhyba
  - Daniel-Galuszka
- - Zuzana-Klusova
+ - Zuzana-Klusová
 ---
 
 Ostrava, 14. června 2019 – **Černý dým, zápach a nebezpečné zplodiny vylekaly už potřetí během června Ostravany i lidi z přilehlých obcí. Požár tentokrát vypukl v ostravské spalovně poblíž dálnice D1 vedoucí na Bohumín. Na vině bylo údajně samovznícení sodíku v blíže nespecifikovaném odpadu. Mluvčí spalovny uvedla, že do vzduchu ani vody neunikly nebezpečné látky.**
