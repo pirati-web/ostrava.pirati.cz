@@ -58,7 +58,6 @@
       committee: "členka kontrolního výboru"
     - uid: gabriela.maceckova
       assembly: "zastupitelka"
-      commission: "předsedkyně komise pro otevřenou radnici"
     - uid: michal.breskovec
       assembly: "zastupitel"
       commission: "člen sociální komise"
@@ -111,6 +110,8 @@
       commission: "členka komise pro životní prostředí"
     - uid: eva.spackova
       commission: "členka komise pro architekturu"
+    - uid: robert.kolena
+      commission: "člen komise pro bezpečnost a prevenci kriminality"
 - boroughTeamUid: moap
   members:
     - uid: david.witosz
@@ -143,10 +144,10 @@
       commission: "člen dopravní komise"
     - uid: gabriela.maceckova
       commission: "členka komise pro otevřenou radnici"
+    - uid: michal.breskovec
+      commission: "člen komise pro otevřenou radnici"
     - uid: jan.moravcik
       commission: "člen investiční komise"
-    - uid: veronika.murzynova
-      commission: "členka komise pro otevřednou radnici"
     - uid: kristyna.slana
       commission: "členka sociální komise"
     - uid: antonin.sturz
