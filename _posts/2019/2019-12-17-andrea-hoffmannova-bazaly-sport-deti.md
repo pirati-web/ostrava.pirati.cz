@@ -38,6 +38,6 @@ Nepochybuji, že v něm vyrostou nové fotbalové hvězdy, které budou hrdé na
 
 ---
 
-Úvodní obrázek zdroj: [Andrea Hoffmannový]({{'andrea-hoffmannova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: [Andrea Hoffmannová]({{'andrea-hoffmannova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
