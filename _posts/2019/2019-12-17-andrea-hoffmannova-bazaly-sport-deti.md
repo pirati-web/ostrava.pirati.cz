@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Pirátka Andrea Hoffmannová: „Bazaly v novém kabátě budou sloužit hlavně mladým sportovcům a dětem.“'
 date: 2019-12-17T08:00:00.000Z
 author: Jana Ožanová
-image: posts/andrea-otevira-bazaly.jpg
+image: posts/bazaly-opravene.jpg
 tags:
   - Ostrava
   - Bazaly
@@ -38,6 +38,6 @@ Nepochybuji, že v něm vyrostou nové fotbalové hvězdy, které budou hrdé na
 
 ---
 
-Úvodní obrázek zdroj: [Ostrava.cz](https://www.ostrava.cz/cs/o-meste/aktualne/upraveny-areal-bazaly-bude-slouzit-fotbalove-akademii/znovuzrozeny-stadion-slavnostnim-prestrizenim-pasky-otevreli-predstavitele-mesta-a-kraje-v-cele-s-primatorem-ostravy-tomasem-macurou-a-hejtmanem-ms-kraje-ivo-vondrakem/).
+Úvodní obrázek zdroj: [Andrea Hoffmannový]({{'andrea-hoffmannova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
