@@ -15,7 +15,7 @@ Ostrava, 21. března 2020 – **Koronavirus nechodí po horách, ale po lidech. 
 
 ----
 
->TEXT VÝZVY:
+## TEXT VÝZVY
 
 Milí Ostraváci,
 
@@ -27,23 +27,31 @@ Senioři buď nechtějí zatěžovat své okolí nebo jen nedůvěřují cizím 
 
 Proto jsme připravili leták, který můžete vytisknout a pověsit ve vašem vchodě na nástěnku, výtah nebo dveře. Zároveň se na něj rovnou můžete zapsat a nabídnout svou pomoc sousedům. Doručte taky první stranu vašim starším příbuzným a hlavně s nimi nezapomeňte zůstat v kontaktu.
 
-Letáky ke stažení k tisku:
-*[Leták ve formátu A4](https://1url.cz/@A4)
-*[Leták ve formátu A3](https://1url.cz/@A3)
+### Letáky ke stažení k tisku
+* [Formát A4](https://1url.cz/@A4)
+* [Formát A3](https://1url.cz/@A3)
 
-☎️ MĚSTSKÉ KRIZOVÉ LINKY - jen pro potřebné:
+### ☎️ MĚSTSKÉ KRIZOVÉ LINKY - jen pro potřebné
 
-Město Ostrava: 800 199 922
+#### Město Ostrava
+* 800 199 922
 
-**Ostrava-Poruba:** 599 481 500 (pracovní dny od 8.00 - 12.00)
+#### Ostrava-Poruba
+* 599 481 500 (pracovní dny od 8.00 - 12.00)
 
-**Ostrava-Jih:** 736 166 126 (denně od 8 - 18 hodin)
+#### Ostrava-Jih 
+* 736 166 126 (denně od 8 - 18 hodin)
 
-**Moravská Ostrava a Přívoz:** 599 442 999 (Po, St: 8.00 - 11.30, 12.30 - 17.00; Út, Čt: 8.00 - 11.30, 12.30 - 14.00)
+#### Moravská Ostrava a Přívoz
+* 599 442 999 (Po, St: 8.00 - 11.30, 12.30 - 17.00; Út, Čt: 8.00 - 11.30, 12.30 - 14.00)
 
-**Mariánské Hory a Hulváky:** 599 459 200 (ústředna), 599 459 222 a 770 136 079 (objednávky na nákupy 8.00 - 14.00)
+#### Mariánské Hory a Hulváky
+* 599 459 200 (ústředna)
+* 599 459 222 a 770 136 079 (objednávky na nákupy 8.00 - 14.00)
 
-**Slezská Ostrava:** +420 724 676 254, +420 602 369 430 (pomoc s nákupy potravin a léků 7.00 - 15.00)
+#### Slezská Ostrava
+* +420 724 676 254
+* +420 602 369 430 (pomoc s nákupy potravin a léků 7.00 - 15.00)
 
 ---
 
