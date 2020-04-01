@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Ostravští Piráti organizují výzvu "SOUSEDI SENIORŮM". Má aktivizovat obyvatele k pomoci ve svém okolí.'
+title: 'Ostravští Piráti organizují výzvu „SOUSEDI SENIORŮM“. Má aktivizovat obyvatele k pomoci ve svém okolí'
 date: 2020-03-21T08:00:00.000Z
 author: Jana Ožanová
 image: posts/coronavirus1.jpg
@@ -10,10 +10,12 @@ tags:
  - Zdravotnictví
  - Sociální-bydlení
  - Rodina
+ - Koronavirus
 ---
+
 Ostrava, 21. března 2020 – **Koronavirus nechodí po horách, ale po lidech. Mezi vůbec nejzranitelnější skupinu patří lidé vyššího věku. Piráti z Ostravy připravili online výzvu k tisku letáku a vyvěšení v místě bydliště. Leták s výzvou má seniory informovat o možnostech pomoci a důležitých kontaktech. Každý, kdo nabízí sousedům - seniorům svou pomoc, se zároveň může přímo na leták zapsat.**
 
-----
+<hr />
 
 ## TEXT VÝZVY
 
@@ -39,7 +41,7 @@ Proto jsme připravili leták, který můžete vytisknout a pověsit ve vašem v
 #### Ostrava-Poruba
 * 599 481 500 (pracovní dny od 8.00 - 12.00)
 
-#### Ostrava-Jih 
+#### Ostrava-Jih
 * 736 166 126 (denně od 8 - 18 hodin)
 
 #### Moravská Ostrava a Přívoz
@@ -57,6 +59,4 @@ Proto jsme připravili leták, který můžete vytisknout a pověsit ve vašem v
 
 Úvodní obrázek zdroj: mattthewafflecat \[[Pixabay License](https://pixabay.com/service/license/)\], [z Pixabay](https://pixabay.com/illustrations/coronavirus-covid-19-virus-corona-4945950/).
 
-
-
-
+- - -
