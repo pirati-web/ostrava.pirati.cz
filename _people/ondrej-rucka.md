@@ -6,7 +6,8 @@ titles:
   after: 
 img: people/ondrej-rucka.jpg
 description: kandidát do zastupitelstva Ostravy-Jihu
-mail: # zjistit
+mail:
+- ondrej.rucka@pirati.cz 
 ---
 
 (* 16. května 1983, Krnov) 
