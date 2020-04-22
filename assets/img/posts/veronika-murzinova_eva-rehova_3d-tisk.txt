@@ -1,0 +1,9 @@
+Při použití tohoto obrázku je potřeba uvést autora - viz níže:
+
+Úvodní obrázek zdroj: [Jakub Dedek]({{'jakub-dedek' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
+-------------------------------------------------------------------------------
+Na obrázku vlevo: Veronika Murzinová
+Na obrázku vpravo: Eva Řehová
+Na obrázku uprostřed: 3D tiskárna Prusa Research
+Lokace: OPiCe
