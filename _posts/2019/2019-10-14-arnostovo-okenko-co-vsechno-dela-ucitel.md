@@ -6,10 +6,11 @@ date: 2019-10-14T16:00:00.000Z
 authorId: arnost.zidek
 image: posts/pridavani-penez-ucitelum.jpg
 tags:
-  - Blog
-  - Arnoštovo-okénko
-  - Vzdělávání
   - Jih
+  - Blog
+  - Vzdělávání
+  - Arnoštovo-okénko
+  - Arnošt-Žídek
 authorBio: right-pane
 
 ---
