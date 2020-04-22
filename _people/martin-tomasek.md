@@ -2,11 +2,11 @@
 uid: martin.tomasek
 name: Martin Tomášek
 titles:
-  before: Mgr. 
+  before: Mgr.
   after: Ph.D.
 img: people/martin-tomasek.jpg
 description: místostarosta městského obvodu Poruba
-mail: # - martin.tomasek@pirati.cz - ověřit
+mail: martin.tomasek@pirati.cz
 calendar: bWFydGluLnRvbWFzZWsucG9ydWJhQGdtYWlsLmNvbQ
 ---
 

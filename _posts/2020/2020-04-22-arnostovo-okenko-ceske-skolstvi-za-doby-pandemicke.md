@@ -74,7 +74,7 @@ Pokud máte zájem o aktuálním článku diskutovat, nabízím opět svůj Face
 
 Chtěl bych poděkovat svým kolegům doktoru Janu Kotůlkovi z VŠB-TU Ostrava, doktoru Marcelu Karabínovi z VŠCHT v Praze a své milované manželce Hance, učitelce na ZŠ Horymírova v Ostravě, za korektury a věcné připomínky.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Farnost.zidek.9%2Fposts%2F2686737304691913&width=500" width="500" height="605" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Farnost.zidek.9%2Fposts%2F3117738908258415&width=500" width="500" height="605" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 [^1]: Video z cyklu „Pokusy nás baví“. Téma Van den Graaffův generátor - [YouTube](https://youtu.be/VoFvudcS0_8)
 
