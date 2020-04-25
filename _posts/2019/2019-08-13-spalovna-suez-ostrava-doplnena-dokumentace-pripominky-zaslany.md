@@ -30,6 +30,6 @@ konstatuje Pirát Rostislav Řeha, který má za obvod životní prostředí v g
 
 Všechny podané připomínky budou i předmětem dalšího veřejného projednání záměru, jehož datum je již známo – 6. 9. 2019. Vyzýváme tímto veřejnost i všechny dotčené subjekty k účasti na něm, je to poslední možnost, jak se k záměru vyjádřit před vydáním konečného rozhodnutí ministerstvem životního prostředí.                                                  
 
-Přikládáme [vyjádření]({{'spalovna-pripominky.docx' | prepend: '/assets/doc/' | relative_url}}) Pirátů k dokumentaci v jeho plném znění.
+Přikládáme [vyjádření]({{'spalovna-pripominky.pdf' | prepend: '/assets/pdf/' | relative_url}}) Pirátů k dokumentaci v jeho plném znění.
 
 - - -
