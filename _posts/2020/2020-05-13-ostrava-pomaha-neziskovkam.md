@@ -21,7 +21,7 @@ Minulý týden proto náměstkyně pro školství a sport Andrea Hoffmannová p�
 
 
 >„Program sanuje výpadky, které jim způsobila pandemie a vládní nařízení po 9. březnu. Podmínkou je, aby organizace provozovaly svou činnost na území města déle než jeden rok. Nabízíme pomoc těm, kteří pomáhají potřebným, pracují s dětmi a mládeží, organizují kulturní nebo sportovní akce. I na ně ekonomicky dopadá současný stav, jsou ohrožení a přitom jsou pro život města nepostradatelní,“  
->
+
 uvedla k nově schválené formě pomoci Andrea Hoffmannová. 
 
 Pomoc, jejíž maximální výše je 20 tisíc korun, je určena k pokrytí provozních výdajů, které organizace měly v průběhu vládních opatření a nejsou kryty dotacemi k financování celoroční činnosti. Držitelé již poskytnutých provozních dotací na rok 2020 jsou z možnosti ucházet se o podporu vyřazeni. 
