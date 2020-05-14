@@ -4,27 +4,25 @@ category: CLANKY
 title: 'Ostrava pomáhá neziskovým organizacím zmírnit dopady koronaviru: město již rozdělilo 400 tisíc korun'
 date: 2020-05-13T08:00:00.000Z
 author: Jana Ožanová
-image: posts/andrea-hoffmanova2020.jpg
+image: posts/andrea-hoffmannova-rouska.jpg
 tags:
   - Ostrava
   - Neziskovky
-  - Andrea-Hoffmanová
   - Koronavirus
+  - Andrea-Hoffmanová
 ---
 Ostrava, 13. května 2020 – **Ostrava podává pomocnou ruku všem, kteří spoluutváří duši města. O velkorysé pomoci podnikatelským subjektům jsme už psali. Krize ale zasáhla nejen ostravské drobné podnikatele, ale také činnost nadací, spolků, sociálně prospěšných, kulturních nebo sportovních organizací.**
 
-<hr />
+Město již dříve poskytlo pomoc podnikatelům a firmám, tuto pomoc využilo zhruba 1700 subjektů. Ta se ale nevztahuje na neziskový sektor, tedy organizace, které pořádají kulturní a sportovní akce, věnují se prevenci kriminality, zdravotnictví, sociální péči nebo pomáhají lidem s hendikepem.
 
-Město již dříve poskytlo pomoc podnikatelům a firmám, tuto pomoc využilo zhruba 1700 subjektů. Ta se ale nevzahuje na neziskový sektor, tedy organizace, které pořádají kulturní a sportovní akce, věnují se prevenci kriminality, zdravotnictví, sociální péči nebo pomáhají lidem s hendikepem.
-
-Minulý týden proto náměstkyně pro školství a sport Andrea Hoffmannová předložila městské radě materiál týkající se speciálního programu pro pomoc neziskovým organizacím, který rada následně schválila. 
+Minulý týden proto náměstkyně pro školství a sport Andrea Hoffmannová předložila městské radě materiál týkající se speciálního programu pro pomoc neziskovým organizacím, který rada následně schválila.
 
 
 >„Program sanuje výpadky, které jim způsobila pandemie a vládní nařízení po 9. březnu. Podmínkou je, aby organizace provozovaly svou činnost na území města déle než jeden rok. Nabízíme pomoc těm, kteří pomáhají potřebným, pracují s dětmi a mládeží, organizují kulturní nebo sportovní akce. I na ně ekonomicky dopadá současný stav, jsou ohrožení a přitom jsou pro život města nepostradatelní,“  
 
-uvedla k nově schválené formě pomoci Andrea Hoffmannová. 
+uvedla k nově schválené formě pomoci Andrea Hoffmannová.
 
-Pomoc, jejíž maximální výše je 20 tisíc korun, je určena k pokrytí provozních výdajů, které organizace měly v průběhu vládních opatření a nejsou kryty dotacemi k financování celoroční činnosti. Držitelé již poskytnutých provozních dotací na rok 2020 jsou z možnosti ucházet se o podporu vyřazeni. 
+Pomoc, jejíž maximální výše je 20 tisíc korun, je určena k pokrytí provozních výdajů, které organizace měly v průběhu vládních opatření a nejsou kryty dotacemi k financování celoroční činnosti. Držitelé již poskytnutých provozních dotací na rok 2020 jsou z možnosti ucházet se o podporu vyřazeni.
 
 Týden od spuštění programu město eviduje prvních 20 žádostí v celkové výši 400 000 Kč, které ostravští radní včera schválili. Podporu z prvního kola programu získají dětské oddíly, sportovní spolky i vzdělávací centra. Město Ostrava je na podporu neziskových organizací, jejichž existenci ohrozila opatření k omezení šíření koronaviru, připraveno vynaložit 20 milionů korun.
 
@@ -36,4 +34,10 @@ Organizace, kterým byly schváleny příspěvky, z nich budou pokrývat mzdové
 
 Zájemci mohou podávat elektronicky své žádosti prostřednictvím formuláře na webu města Ostravy:
 
-[POMOC NEZISKOVÝM ORGANIZACÍM](https://www.ostrava.cz/cs/o-meste/aktualne/kampane/pomoc-neziskovym-organizacim?fbclid=IwAR3OIwkCiXQR33mjJqafb9Ide_uxJ9Pj9ZAjLZD28fG8x9hTIrM1BTbMeRA)
+<p style="text-align: center;"><a href="https://www.ostrava.cz/cs/o-meste/aktualne/kampane/pomoc-neziskovym-organizacim">POMOC NEZISKOVÝM ORGANIZACÍM</a></p>
+
+---
+
+Úvodní obrázek zdroj: [Andrea Hoffmannová]({{'andrea-hoffmannova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
+- - -
