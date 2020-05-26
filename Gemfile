@@ -13,7 +13,7 @@ gem "jekyll", "~> 3.8.3"
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "7.5.0"
+gem "jekyll-theme-pirati", "7.7.1"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -28,7 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.10"
+  gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
 end
 
