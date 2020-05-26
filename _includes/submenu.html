@@ -1,3 +1,11 @@
+<!--
+Proč máme vlastní modifikaci?
+- Abychom mohli zobrazovat submenu jen pokud je klíčové slovo doplněno lomítkem
+  Příklad: Submenu chceme zobrazit jen pokud je v url 'jih/', pokud jen 'jih', submenu zobrazit nechceme
+- Abychom mohli zobrazovat položky submenu aktivní na základě více než jednoho klíčového slova
+  Příklad: Položku Moravská Ostrava a Přívoz chceme zobrazit jako aktivní, když url obsahuje 'moap/' nebo 'moap2018/'
+-->
+
 {% assign commaAndSpacebar = ", " %}
 
 {% for menu in site.data.menu.main %}
