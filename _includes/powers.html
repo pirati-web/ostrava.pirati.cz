@@ -1,3 +1,7 @@
+<!--
+Naše vlastní zobrazení funkcí v radě, zastupitelstvu, komisích, či výborech
+-->
+
 {% for team in site.data.boroughTeams %}
   {% assign teamPage = site.pages | where: "boroughTeamUid", team.boroughTeamUid | first %}
   {% assign member = team.members | where: "uid", page.uid | first %}
