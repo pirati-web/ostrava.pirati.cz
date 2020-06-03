@@ -49,4 +49,8 @@ Již teď pracujeme na novém plánu pro příští rok a připravujeme trávní
 
 Luční trávníky jsou příkladem malého a nenáročného projektu, který ale může mít na život ve městě velký vliv.
 
+---
+
+Úvodní obrázek zdroj: Adolf Horsinka \[[web](http://foto-horsinka.cz/)\] - MOaP.
+
 - - -
