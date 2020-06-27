@@ -37,6 +37,6 @@ Pirátský místostarosta od začátku svého působení v komunálu usiluje o r
 
 ---
 
-Úvodní obrázek zdroj: Adolf Horsinka \[[web](http://foto-horsinka.cz/)\] - MOaP.
+Úvodní obrázek zdroj: Adolf Horsinka \[[web](http://foto-horsinka.cz/)\] - použito s laskavým svolením MOaP.
 
 - - -

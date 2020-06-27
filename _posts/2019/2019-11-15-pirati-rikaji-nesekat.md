@@ -51,6 +51,6 @@ Luční trávníky jsou příkladem malého a nenáročného projektu, který al
 
 ---
 
-Úvodní obrázek zdroj: Adolf Horsinka \[[web](http://foto-horsinka.cz/)\] - MOaP.
+Úvodní obrázek zdroj: Adolf Horsinka \[[web](http://foto-horsinka.cz/)\] - použito s laskavým svolením MOaP.
 
 - - -
