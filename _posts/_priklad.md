@@ -112,6 +112,6 @@ Poznámka o autorovi licenci použitého obrázku v HTML:
 
 nebo podbně v Markdown:
 
-Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
