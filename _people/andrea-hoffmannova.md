@@ -15,13 +15,6 @@ profiles:
   flickr:	 
 calendar: YW5kcmVhLmhvZmZtYW5ub3ZhLm1tb0BnbWFpbC5jb20
 ---
+**Andrea Hoffmannová** (* 1983) v současné době zastává post náměstkyně primátora pro školství a sport v Ostravě a předsedkyně klubu zastupitelů v Porubě. Profesně se celou svou kariéru věnovala práci s mladými lidmi. Svou profesní dráhu začala jako středoškolská učitelka. Kromě následného akademického působení na Univerzitě Palackého organizovala workshopy pro učitele na českých i zahraničních univerzitách a věnovala se vzdělávání dospělých. Je autorkou monografie o současném britském divadle a sérií článků a kapitol v knihách. Se svými studenty připravila několik desítek divadelních představení v českém i anglickém jazyce. Prosazovala implementaci krásné literatury a dramatických do výuky angličtiny se snahou reformovat české školství. O to samé se nyní snaží z pozice náměstkyně zodpovědné za rezort školství. 
 
-Celou svou kariéru se věnuje práci s mladými lidmi. Svou profesní dráhu začala jako středoškolská učitelka. Kromě akademického působení na Univerzitě Palackého nyní organizuje workshopy pro učitele a věnuje se vzdělávání dospělých, moderuje ostravské vzdělávací a kulturní akce. Se svými studenty připravila již několik desítek divadelních představení v českém i anglickém jazyce.
-
-Prosazuje zvyšování čtenářské a mediální gramotnosti a inovativní výuku angličtiny se snahou reformovat české školství. 
-
-Přestože přednáší na univerzitách v Evropě a Spojených státech, jejím domovem je Ostrava.
-
-Po Fulbrightově stipendiu v USA dostala nabídku na práci asistentky europoslance, která jí přinesla mnoho zkušeností z nejvyšší politiky, otevřela nové obzory a také potřebu aktivněji zasahovat do politického života naší země.
-
-Věří, že je díky svým pracovním i životním zkušenostem a morální konzistencí schopna prosazovat potřeby občanů Ostravy.
+Po Fulbrightově stipendiu v USA dostala nabídku na práci asistentky europoslance, která jí přinesla mnoho zkušeností z nejvyšší politiky, otevřela nové obzory a také potřebu aktivněji zasahovat do politického života naší země. Věří, že je díky svým pracovním i životním zkušenostem a morální konzistencí schopna prosazovat potřeby občanů této země.
