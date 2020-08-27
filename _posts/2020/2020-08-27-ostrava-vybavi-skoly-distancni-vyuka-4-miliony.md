@@ -21,8 +21,6 @@ Rada města Ostravy schválila zcela novou výzvu k podpoře distanční digitá
 
 uvedla resortní náměstkyně primátora Andrea Hoffmannová.
 
-Peněžní prostředky z **programu na podporu školství** jsou určeny k financování celoročních i jednorázových zájmových a vzdělávacích aktivit včetně těch pro děti z mateřských škol, významných akcí celoměstského charakteru, mezinárodní spolupráce pro žáky základních a středních škol, a zájmových a vzdělávacích aktivit realizovaných školskými zařízeními a právnickými osobami neziskového charakteru. Maximální výše podpory na jeden projekt je 250 tisíc korun.
-
 Jak ukázalo dotazníkové šetření, největšími problémy bylo nedostatečné internetové připojení, nezájem ze strany některých žáků a rodičů, chybějící výpočetní technika nebo omezená schopnost využívání on-line aplikací některých vyučujících v rámci distanční výuky. Mezi pozitiva patří zařazení některých prvků distanční výuky i do běžné výuky a lepší využívání nových aplikací, videokonferencí, lepší a častější komunikace s rodiči, individuální konzultace žáků, pozitivní dopad na výuku cizích jazyků nebo podpora samostatnosti žáků vyšších ročníků.
 
 Řada dětí sice nemá počítače, případně početnější rodiny jich nemají tolik, kolik je dětí, ale mají chytré telefony, jenže bez potřebných dat.
