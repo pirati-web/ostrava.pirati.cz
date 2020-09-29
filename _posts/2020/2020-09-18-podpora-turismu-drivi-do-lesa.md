@@ -33,6 +33,6 @@ Jedním z kvalitních nástrojů, které již kraj používá, je například fa
 
 ---
 
-Úvodní obrázek zdroj: Gabriela Macečková /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\]
+Úvodní obrázek zdroj: [Gabriela Macečková]({{'gabriela-maceckova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\]
 
 - - -
