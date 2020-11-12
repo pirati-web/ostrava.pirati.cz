@@ -9,7 +9,7 @@ tags:
   - Ostrava
   - Neziskovky
   - Koronavirus
-  - Andrea-Hoffmanová
+  - Andrea-Hoffmannová
 ---
 Ostrava, 13. května 2020 – **Ostrava podává pomocnou ruku všem, kteří spoluutváří duši města. O velkorysé pomoci podnikatelským subjektům jsme už psali. Krize ale zasáhla nejen ostravské drobné podnikatele, ale také činnost nadací, spolků, sociálně prospěšných, kulturních nebo sportovních organizací.**
 
