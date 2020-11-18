@@ -44,6 +44,15 @@ dodává Veronika.
 
 > „Několik mých přátel dobrovolničí v zařízeních sociální péče, kde chybí personál z důvodu karantény. Zdravotníci a záchranáři slouží dlouhé směny v ochranných oblecích. Pro mě je tisk rouškolapek to nejmenší, co pro ně mohu udělat. A zároveň je skvělé vidět nadšené reakce zdravotníků, kterým sponky aspoň trochu zpříjemňují náročnou práci.“
 
+Máte ve svém okolí někoho, komu by se rouškolapky také hodily? Stačí naskenovat QR kód níže, který je navede přímo na objednávkový formulář, případně navštívit [rouskolapka.eu](https://rouskolapka.eu/).
+
+<p style="text-align: center">
+
+{% asset 'articles/2020/qr-rouskolapky.png' alt='Objednání rouškolapek.' %}
+
+<br /><i>Objednání rouškolapek.</i>
+</p>
+
 ---
 
 Obrázky zdroj: [Veronika Murzynová]({{'veronika-murzynova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
