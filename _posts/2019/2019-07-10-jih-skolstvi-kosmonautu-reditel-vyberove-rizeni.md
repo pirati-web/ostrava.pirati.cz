@@ -8,7 +8,7 @@ authorId: arnost.zidek
 image: posts/maturita-matematika.jpg
 tags:
  - Ostrava
- - Jih
+ - Ostrava-Jih
  - Školství
  - Výběrové-řízení
 ---
@@ -21,6 +21,6 @@ Piráti již před volbami deklarovali jako jednu z hlavních programových prio
 
 Konkurzní komise sestává nejen ze zástupců školy samotné a jejího zřizovatele (Ostrava-Jih), ale také ze školské rady, kraje a české školní inspekce. Komise má pouze doporučující stanovisko a konečné slovo při jmenování ředitele školy má vždy rada obce. V odůvodněných případech se dá pochopit, že rada doporučení komise nepodpoří, třeba když není dlouhodobě s prací ředitele spokojená nebo je pořadí kandidátů těsné. To ale není případ ZŠ Kosmonautů a jejího ředitele Marka Pabjana. Za dobu jeho působení se ze školy stala stabilní instituce nabízející nejen běžné třídy, ale také speciální třídy pro děti s logopedickými vadami, či výběrové třídy, kde probíhá bilingvní výuka. Navíc byl jediným kandidátem přihlášeným do výběrového řízení.
 
-Těžko říct, co radní za hnutí ANO k jejich původnímu postoji vedlo. Proč se straničtí kolegové – jmenovitě starosta Martin Bednář, místostarostka Markéta Langrová, místostarostka Hana Tichánková, místostarosta Otakar Šimík a členka rady Jana Hellerová (všichni za hnutí ANO) zdrželi hlasování a zablokovali tak jmenování jediného vhodného kandidáta, se už asi nedozvíme. Hrály roli nějaké osobní intervence, fakt, že se jedná o opozičního zastupitele nebo šlo jen o demonstraci moci? To nevíme, nicméně jsme rádi, že na druhý pokus to vyšlo a nezbývá než doufat, že postupy při obsazování ředitelských pozic na školách v Ostravě-Jihu budou v budoucnu více transparentní. 
+Těžko říct, co radní za hnutí ANO k jejich původnímu postoji vedlo. Proč se straničtí kolegové – jmenovitě starosta Martin Bednář, místostarostka Markéta Langrová, místostarostka Hana Tichánková, místostarosta Otakar Šimík a členka rady Jana Hellerová (všichni za hnutí ANO) zdrželi hlasování a zablokovali tak jmenování jediného vhodného kandidáta, se už asi nedozvíme. Hrály roli nějaké osobní intervence, fakt, že se jedná o opozičního zastupitele nebo šlo jen o demonstraci moci? To nevíme, nicméně jsme rádi, že na druhý pokus to vyšlo a nezbývá než doufat, že postupy při obsazování ředitelských pozic na školách v Ostravě-Jihu budou v budoucnu více transparentní.
 
 - - -

@@ -7,7 +7,7 @@ author: Jana Ožanová
 image: posts/housing-first.jpg
 tags:
   - Ostrava
-  - Jih
+  - Ostrava-Jih
   - Sociální-bydlení
 ---
 
@@ -22,7 +22,7 @@ uvedla k problematice pirátská zastupitelka Pavlína Nováčková.
 Z usnesení rady konané dne 11. 4. 2019 vyplývá, že rada rozhodla po ukončení realizace projektu „Koncepce bydlení a její pilotní ověření ve městě Ostrava“ k datu 30. 9. 2019 nevyčlenit pro účely sociálního bydlení v rámci navazujícího projektu žádnou bytovou jednotku ve vlastnictví statutárního města Ostravy, svěřenou městskému obvodu Ostrava-Jih.
 
 > „Je to konec nadějných vyhlídek pro řadu lidí v nouzi, kterých v tomto ostravském obvodu není málo. Jsem velmi zklamán postojem rady, která se rozhodla nepokračovat v tomto velmi důležitém a úspěšném projektu. Ostrava-Jih sice poskytuje tzv. nízkonákladové byty, ale to nestačí. Je to právě pomoc a dohled sociálních pracovníků, díky kterým účastníci projektu sociálního bydlení úspěšně nacházejí cestu zpět do normálního života,"
- 
+
 komentoval rozhodnutí rady Pirát Michal Breškovec, který je členem sociální komise.
 
 **Uvádíme celé znění otevřeného dopisu radě městského obvodu Ostrava-Jih:**

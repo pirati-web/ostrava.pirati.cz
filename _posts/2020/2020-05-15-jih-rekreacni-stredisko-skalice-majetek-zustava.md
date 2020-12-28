@@ -6,8 +6,8 @@ date: 2020-05-15T08:00:00.000Z
 author: Jana Ožanová
 image: posts/skalice-navsteva.jpg
 tags:
-  - Jih
   - Ostrava
+  - Ostrava-Jih
   - Skalice
   - Gabriela-Macečková
 ---

@@ -6,7 +6,7 @@ date: 2018-09-30T08:00:00.000Z
 author: Andrea Hoffmannová
 authorId: andrea.hoffmannova
 image: posts/michalek.jpg
-tags: 'Ostrava MOaP Poruba Jih Jakub-Michálek'
+tags: 'Ostrava Ostrava-Jih MOaP Poruba Jakub-Michálek'
 ---
 
 **Předposlední zářijový víkend navštívil Ostravu Jakub Michálek, předseda poslaneckého klubu Pirátů a místopředseda strany. Potkal se s místními v Porubě, zavítal do Dolních Vítkovic i centra a zúčastnil se dne dětí na Jihu.**
@@ -19,6 +19,6 @@ Další Jakubovy kroky směřovaly do Dolní oblasti Vítkovic – uhranula mu i
 
 V neděli navštívil <a href="{{ 'aktuality/detsky-den-na-jihu' | relative_url }}">Pirátský dětský den</a>, který organizovali před Kinem Luna <a href="{{ 'jih/' | relative_url }}">Piráti z ostravského Jihu</a> vedení Pavlínou Nováčkovou. Aktivity pro děti provázelo představení pirátského programu a také setkání s <a href="https://martindosenatu.cz/" target="_blank">Martinem Tomáškem</a>, který je kandidátem Pirátů do senátu.
 
-Jsme rádi, že si Jakub odvezl z Ostravy příjemné zážitky a Ostravané měli příležitost probrat s pirátským poslancem věci, které nás všechny ve městě trápí. 
+Jsme rádi, že si Jakub odvezl z Ostravy příjemné zážitky a Ostravané měli příležitost probrat s pirátským poslancem věci, které nás všechny ve městě trápí.
 
 ---

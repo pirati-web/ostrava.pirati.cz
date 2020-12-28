@@ -8,7 +8,7 @@ authorId: pavlina.novackova
 image: posts/zastupitelstvo-jih-brezen-2020.jpg
 tags:
   - Ostrava
-  - Jih
+  - Ostrava-Jih
   - DPO
 ---
 

@@ -6,7 +6,7 @@ date: 2018-09-30T09:00:00.000Z
 author: Pavlína Nováčková
 authorId: pavlina.novackova
 image: posts/detsky-den-jih.jpg
-tags: 'Ostrava Jih Rodina'
+tags: 'Ostrava-Jih Rodina'
 ---
 
 **Dětský pirátský den na Jihu proběhl v neděli 23. září a svým založením připomínal spíš komunitní akci – tím hlavním totiž nebyly bombastické a prvoplánové atrakce, ale nápady a nadšení všech zúčastněných.**
@@ -19,6 +19,6 @@ Každá akce by měla mít přidanou hodnotu. V tomto případě to byla sbírka
 
 Dětského pirátského dne se zúčastnil i Jakub Michálek, poslanec a místopředseda České pirátské strany, který v Ostravě strávil celý víkend, aby lépe poznal problémy, které nás ve městě trápí.
 
-Jsme rádi, že se dětský den před Kinem Luna vydařil. Velkou část aktivit připravili Piráti z Jihu vlastními silami a s dětmi strávili celou neděli bez ohledu na své místo na kandidátce. Přestože se počasí nevyvedlo a postrašil nás i malý deštík, přesvědčili jsme se o tom, že má smysl pořádat akce, do kterých se zapojí místní obyvatelé, spolky i živnostníci. A také, že je důležité hledat potenciál konkrétních míst a rozvíjet ho. 
+Jsme rádi, že se dětský den před Kinem Luna vydařil. Velkou část aktivit připravili Piráti z Jihu vlastními silami a s dětmi strávili celou neděli bez ohledu na své místo na kandidátce. Přestože se počasí nevyvedlo a postrašil nás i malý deštík, přesvědčili jsme se o tom, že má smysl pořádat akce, do kterých se zapojí místní obyvatelé, spolky i živnostníci. A také, že je důležité hledat potenciál konkrétních míst a rozvíjet ho.
 
 ---

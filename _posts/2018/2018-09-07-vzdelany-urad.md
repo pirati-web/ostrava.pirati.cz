@@ -6,7 +6,7 @@ date: 2018-09-07T10:00:00.000Z
 author: Pavlína Nováčková
 authorId: pavlina.novackova
 image: posts/vzdelany-urad.jpg
-tags: 'Ostrava Jih Úředníci Vzdělávání'
+tags: 'Ostrava-Jih Úředníci Vzdělávání'
 ---
 
 **Pověst úřadů a úředníků je ve většinou nevalná. Lidé si stěžují na nesmyslné papírování, průtahy a taky nekompetentnost těch, kteří na úřadě pracují. Panuje přesvědčení, že úředníci jsou lenoši, kteří nic neumí, a pokud se mezi nimi objeví přeci jen někdo schopný, je s podivem, že ještě neutekl do soukromého sektoru. Skutečnost je však taková, že i na úřadech pracuje mnoho schopných lidí, které ale vedení nemotivuje k osobnímu růstu, nebo jim k dalšímu rozvoji neposkytuje vhodné nástroje. Na Jihu jsme však svědky toho, že když se naskytne příležitost, jak zlepšit práci úředníků a jejich služby občanům, úřad toho nevyužije.**

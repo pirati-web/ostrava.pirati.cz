@@ -6,7 +6,7 @@ date: 2018-10-17T10:00:00.000Z
 author: Michal Breškovec
 authorId: michal.breskovec
 image: posts/volebni-urna.jpg
-tags: 'Ostrava MOaP Poruba Jih Volby'
+tags: 'Ostrava Ostrava-Jih MOaP Poruba Volby'
 ---
 
 Piráti v Ostravě výrazně uspěli a usednou v zastupitelstvech tří obvodů a také na magistrátu. Celkem získali Piráti v Ostravě 21 mandátů (z toho pět na magistrátu). Nejlepšího výsledku jsme dosáhli v Moravské Ostravě a Přívozu s 14,5 % a šesti mandáty, což je nejlepší výsledek Pirátů v celém Moravskoslezském kraji.

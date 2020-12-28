@@ -6,7 +6,7 @@ date: 2019-10-14T16:00:00.000Z
 authorId: arnost.zidek
 image: posts/pridavani-penez-ucitelum.jpg
 tags:
-  - Jih
+  - Ostrava-Jih
   - Blog
   - Vzdělávání
   - Arnoštovo-okénko

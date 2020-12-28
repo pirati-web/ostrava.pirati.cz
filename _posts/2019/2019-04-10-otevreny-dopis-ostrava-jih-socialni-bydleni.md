@@ -8,7 +8,7 @@ authorId: michal.breskovec
 image: posts/radnice-ostrava-jih.jpg
 tags:
   - Ostrava
-  - Jih
+  - Ostrava-Jih
   - Sociální-bydlení
 ---
 

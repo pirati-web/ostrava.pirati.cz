@@ -7,8 +7,8 @@ authorId: pavlina.novackova
 image: posts/budovani-socialismu.jpg
 tags:
   - Ostrava
+  - Ostrava-Jih
   - MOaP
-  - Jih
   - Historie
 
 ---

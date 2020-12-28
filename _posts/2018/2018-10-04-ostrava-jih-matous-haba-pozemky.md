@@ -6,7 +6,7 @@ date: 2018-10-04T20:00:00.000Z
 author: Pavlína Nováčková
 authorId: pavlina.novackova
 image: posts/matous-haba-pozemky-1.jpg
-tags: 'Ostrava Jih Sport Klientelismus Matouš-Hába'
+tags: 'Ostrava-Jih Sport Klientelismus Matouš-Hába'
 ---
 
 **Pronájem zelené plochy o rozloze více jak 4 km<sup>2</sup> za cenu 50 000 Kč za rok spolku Ostravská sportovní, z.s. za účelem výstavby sportovního areálu pro trénink fotbalového dorostu považují Piráti za podezřelou machinaci s obecními pozemky a zbytečnou devastaci zdejší zeleně.**
@@ -25,7 +25,7 @@ Ovšem v usnesení pak skutečnost, že pozemek bude pronajat právě tomuto spo
 
 Zastavme se tedy na chvíli u osoby pana Háby a u obsahu oné smlouvy o pronájmu, jejíž celé znění si můžete přečíst <a href="https://smlouvy.gov.cz/smlouva/2875838" target="_blank">zde</a>. <a href="https://rejstrik-firem.kurzy.cz/osoba/612162/" target="_blank">Ing. Matouš Hába</a> působil do 21. 8. 2017 jako předseda spolku Akademie FC Baník Ostrava a dříve také jako člen představenstva FC Baník Ostrava. Kdo si trochu pamatuje situaci okolo Baníku, tak ví, že v době vlastnění Baníku Petrem Šafarčíkem to s klubem nebylo moc slavné. Mimoto se staral o vedení ekonomické stránky více klubů – slušný přehled poskytuje FB stránka FC Baník Ostrava a příspěvek z 2. 8. 2014, a pro jeho práci měli ne vždy fanoušci Baníku pochopení (např. <a href="http://thordivision.com/index.php?a=aktuality/strucny-pohled-do-horke-zimni-prestavky" target="_blank">zde</a>). <a href="https://www.irozhlas.cz/sport/fotbal/trener-baniku-kucera-shani-posily-pro-ligovou-soutez-chce-premluvit-i-barose_1706131430_nis" target="_blank">Milan Baroš</a> si údajně vymínil podmínku svého nástupu, že Hába nebude nadále v Baníku působit, což se také nakonec stalo (více <a href="http://www.patriotmagazin.cz/zemetreseni-v-baniku-ve-vedeni-skoncili-otec-i-syn-safarcikove-odesel-i-haba" target="_blank">zde</a>).
 
-Matouš Hába je nyní zodpovědný za pozemek o rozloze 42 300 m<sup>2</sup> za cenu 50 000 Kč na rok (tj. cca 1,1 Kč za 1m<sup>2</sup> ) po dobu 30 let. 
+Matouš Hába je nyní zodpovědný za pozemek o rozloze 42 300 m<sup>2</sup> za cenu 50 000 Kč na rok (tj. cca 1,1 Kč za 1m<sup>2</sup> ) po dobu 30 let.
 
 ## Smlouva pod lupou
 

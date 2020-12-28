@@ -7,7 +7,7 @@ author: Arnošt Žídek
 authorId: arnost.zidek
 image: posts/laptop-2411303_1280.jpg
 tags:
-  - Jih
+  - Ostrava-Jih
   - Blog
   - Vzdělávání
   - Koronavirus

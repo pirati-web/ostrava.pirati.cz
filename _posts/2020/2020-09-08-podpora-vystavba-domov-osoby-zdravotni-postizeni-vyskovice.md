@@ -6,9 +6,9 @@ date: 2020-09-08
 author: Jana Ožanová
 image: posts/romana-korosi_michal_breskovec_mikasa.jpg
 tags:
-  - Ostrava
-  - Jih
+  - Ostrava-Jih
   - Sociální-služby
+  - Mikasa
   - Andrea-Hoffmannová
   - Pavlína-Nováčková
 ---

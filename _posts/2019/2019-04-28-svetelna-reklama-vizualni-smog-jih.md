@@ -8,7 +8,7 @@ authorId: ondrej.rucka
 image: posts/vizualni-smog-1.jpg
 tags:
   - Ostrava
-  - Jih
+  - Ostrava-Jih
   - Kultura
   - Architektura
 ---
@@ -17,7 +17,7 @@ tags:
 
 Jak ale s reklamním a neméně protivným světelným smogem naložit? Právě tím se už nějaký čas zabývají městští zastupitelé, komplexní řešení však zatím Ostravě chybí. Jenže – jak nedávná zkušenost ukázala – problém nemusí být neřešitelný. Stačí spolupracovat.
 
-Obyvatelům Hrabůvky v ulici Dr. Martínka „naservíroval“ nějaký dobrák na jedno z místních obchodních center velkoplošný reklamní panel. Svítil do všech stran, poblikával a rušil stovky domácností ve svém okolí. 
+Obyvatelům Hrabůvky v ulici Dr. Martínka „naservíroval“ nějaký dobrák na jedno z místních obchodních center velkoplošný reklamní panel. Svítil do všech stran, poblikával a rušil stovky domácností ve svém okolí.
 
 Naštěstí si to občané nenechali jen tak líbit a obrátili se na nás, tedy na Piráty z Ostravy – Jihu. Nelenili jsme a vyrazili na stavební úřad.  Tam nám k našemu překvapení sdělili, že světelný panel byl na nákupní centrum instalován bez stavebního povolení.
 
