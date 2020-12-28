@@ -6,7 +6,11 @@ date: 2018-12-20T22:30:00.00Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: people/ondrej-polansky.jpg
-tags: 'Ondřej-Polanský Dan-Ťok Doprava'
+tags:
+  - Praha
+  - Doprava
+  - Dan-Ťok
+  - Ondřej-Polanský
 ---
 
 Praha, 20. prosince 2018 – **Pirátský poslanec Ondřej Polanský bude dnes odpoledne interpelovat ministra dopravy Dana Ťoka ohledně dopravního kolapsu na D1 a zajištění pokračování stavby na dálnici. Reaguje tak na situaci na opravovaném úseku dálnice D1 mezi Humpolcem a Větrným Jeníkovem, kde vznikají od 12. prosince z důvodu zpoždění stavebních prací a očekávatelných zhoršených klimatických podmínek několikahodinové kolony.**
