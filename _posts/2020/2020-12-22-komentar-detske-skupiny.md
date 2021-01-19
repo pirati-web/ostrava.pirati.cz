@@ -35,6 +35,6 @@ Ostrava se přidala k výzvě spolu s dalšími velkými městy a bojuje za zach
 
 ---
 
-Úvodní obrázek zdroj: Jiří Zerzoň \[[web](https://www.zerzon.cz/)\] - modifikace: Jana Ožanová /Piráti/.
+Úvodní obrázek zdroj: Jiří Zerzoň \[[web](https://www.zerzon.cz/)\].
 
 - - -
