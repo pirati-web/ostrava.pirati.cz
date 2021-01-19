@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 16. prosince 2020 – **&bdquo;Další meta zdolána,&ldquo; může si oddychnout ředitel neziskové organizace MIKASA Michal Panáček. Koncem listopadu byla schválena nájemní smlouva na pozemek, na kterém má být vybudována příjezdová cesta k domovu pro klienty s autismem v Ostravě-Výškovicích.  MIKASA se v souvislosti s plánovanou výstavbou domova od začátku záměru potýká s řadu překážek. Projekt dlouho provázely komplikace při získávání povolení stavby a brzdila jej také petice zaměstnanců a rodičů žáků místní základní školy proti výstavbě. Piráti naopak realizaci projektu dlouhodobě podporují a k podpoře již v září vyzývali v otevřeném dopise i vedení radnice městského obvodu Ostrava-Jih. To nyní potřebné povolení stavby příjezdové cesty k pozemkům schválilo a MIKASA tak může finalizovat dokumenty pro vydání stavebního povolení a v případě schválení začít stavět.**
 
+<hr />
+
 MIKASA již do projektové dokumentace investovala 1 milion korun, slíbená dotace 50 milionů korun od Ministerstva pro místní rozvoj je navíc podmíněna získáním stavebního povolení do dubna 2021. Hraje se tedy o čas a nezbývá než doufat, že se organizaci podaří vše dotáhnout do zdárného konce. Ředitel organizace Michal Panáček má z dílčího úspěchu radost, ale taky ví, že MIKASA ještě zdaleka nemá  vyhráno.
 
 > &bdquo;Jsem opravdu rád, že se podařilo udělat další významný krok v cestě k zahájení stavby. Projekt od začátku provázely komplikace, snad se teď karty obrátily a další nezbytná &bdquo;razítka&ldquo; se nám podaří zajistit v potřebných termínech a dodržíme tak podmínky pro čerpání dotace. Děkuji Pirátům, že realizaci domova podporovali od začátku a postavili se za nás,&ldquo;

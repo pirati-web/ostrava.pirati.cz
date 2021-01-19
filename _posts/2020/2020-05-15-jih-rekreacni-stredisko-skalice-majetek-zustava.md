@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 15. května 2020 – **Co je doma, to se počítá! Více než roční drama kolem rekreačního střediska Skalice má happyend. Objekt zůstane v majetku města a najde navíc smysluplné využití. Došlo na slova opozičních Pirátů z Ostravy-Jihu, že rozhodnutí o prodeji nemovitosti by mělo probíhat na základě otevřené diskuze, po zvážení všech možností, sběru relevantních dat a informací o stavu objektu. Prodej majetku by měl být vždy až poslední možností.**
 
+<hr />
+
 Záměr o prodeji rekreačního střediska Skalice Frýdek-Místek byl předložen na zastupitelstvu obvodu v březnu loňského roku. Provoz objektu, který byl svěřen do správy městskému obvodu Ostrava-Jih, vyhodnotila rada jako ztrátový a zkratkovitě navrhla jeho prodej. Pirátští opoziční zastupitelé tehdy apelovali na to, aby se před rozhodnutím o prodeji objektu zvážily jiné možnosti využití střediska. Navrhovali také stažení materiálu z programu zastupitelstva, to ale schváleno nebylo a následně byli koaliční většinou přehlasováni i v otázce záměru na prodeje nemovitosti.
 
 Piráti to ale nevzdali a dál se osudem objektu zabývali. Na vlastní oči se jeli přesvědčit, v jakém stavu objekt je, jaké areál nabízí možnosti využití a co všechno je jeho součástí. Dál také zjišťovali podrobnější informace o provozu zařízení v současnosti i minulosti, o již proběhlých investicích do objektu, o tom, jakým způsobem se jeho využití propaguje a komu ho radnice nabízí. Ptali se i na aktuální ceníky, na to, co brání obvodu pronajímat objekt dalším subjektům, proč nemohou objekt využívat školy. Zajímalo je i to, zda existuje studie, kolik by stála další rekonstrukce, která by areál zatraktivnila.

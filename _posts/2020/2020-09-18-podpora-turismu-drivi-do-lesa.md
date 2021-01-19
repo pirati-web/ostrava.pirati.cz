@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 18. září 2020 – **V září a říjnu nemusíte ve vybraných turistických destinacích platit vstupné. Vedení kraje pro tento účel vyčlenilo 30 milionů korun, které na dotacích vyplatí vybraným provozovatelům. Kraj tak chce podpořit cestovní ruch a prodloužit turistickou sezónu. Posílení turismu je nesporně správnou cestou ke zvýšení aktraktivity regionu. To by ale nesměla podpora směřovat do míst, která dlouhodobě trpí „overturismem“ a kde navíc koronakrize návštěvnost nijak neomezila. K těm patří například Stezka Valaška na Pustevnách nebo rozhledna Praděd v Jeseníkách. Kraj tak navíc jedná v rozporu se svými závaznými strategickými dokumenty, kde zmiňuje, že některá místa mají tak vysokou návštěvnost, že to ohrožuje chráněné hodnoty území.**
 
+<hr />
+
 Byli jste někdy na Pustevnách? Pak nám jistě dáte za pravdu, že je to to poslední místo, které by trpělo nedostatkem návštěvníků. Přeplněná parkoviště, fronty na lanovku, hlava na hlavě. Nově vybudovaná Stezka Valaška láká nahoru další kvanta lidí a Pustevny praskají ve švech. Nebylo tomu jinak ani v době vládních opatření kvůli koronaviru, kdy lidé naopak vyráželi na hory a do přírody.
 
 > „Zmiňovaná dotace má být kompenzací provozovatelům, kteří v této nelehké době přišli o zisky. K těm ale třeba Valaška rozhodně nepatří. Podle veřejně dostupných informací o návštěvnosti a průměrné ceně vstupenky má roční obrat kolem 61 milionů. V tomto případě bychom podporu kraje nazvali spíše „VIP dotací“,“

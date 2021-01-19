@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 17. ledna 2020 – **K desátému výročí fungování strany si Piráti nadělili sladký dáreček v podobě dosud zřejmě nejpovedenějšího celostátního sjezdu. Ten se odehrál v ostravském Gongu a nejen členové strany, ale i média kvitovala úroveň eventu nadmíru pozitivně. Spíš než sjezd politické strany, připomínalo pirátské fórům jeden velký teambuilding, který místy přecházel v happening. Realizační tým čítal 57 dobrovolníků, které hlavní pořadatelka Zuzana Klusová umně propojila ve fungující organismus. Jak se jí to povedlo a jak celé Celostátní fórum hodnotí? Zeptali jsme se.**
 
+<hr />
+
 **Zuzko, Máme za sebou CF 2020 v Ostravě a z mnoha stran jsou slyšet samé superlativy. Co říkáš na ohlasy z médií a koneckonců i samotných Pirátů a hostů? Jaká reakce tě nejvíc potěšila a naopak?**
 
 Když se mě o Vánocích, v těch stresujících týdnech před „céefkem“ spousta lidí ptala, proč si to dělám, takové stresy, odpovídala jsem hláškou z filmu Go: „Kvůli tomu pokejvání“. A přesně tak to bylo. V sobotu těch poklepání na rameno se slovy „Díky, užili jsme si to“, bylo tolik, že jsem z toho dojetí byla fakt naměkko. Spokojení byli novináři, organizační tým Gongu, všichni si chválili pohodovou atmosféru a fajn spolupráci. To je pro mě to nejdůležitější, že i ve chvílích největšího vypětí a nervozity, jsme to zvládali s humorem a nadhledem. A která reakce mě nepotěšila? Asi reakce některých krajů, které jsme požádali alespoň o drobnou finanční výpomoc, ne všichni pomohli, někteří z nich ale ani neodpověděli.

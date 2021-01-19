@@ -10,6 +10,8 @@ tags: 'Ostrava MOaP Doprava Urbanismus David-Witosz Ondřej-Polanský'
 ---
 Iniciativu „Sepněme Moravskou“ jsme chystali pro komunální volby 2018 v Ostravě ještě daleko dříve, než někoho z nás napadlo, že bych se mohl dostat do Parlamentu. S radostí proto oznamuji, že dnes byla jak (znovu)založena místní buňka pirátské strany v Moravské Ostravě a Přívoze, ale také představen náš hlavní projekt.
 
+<hr />
+
 „Sepněme Moravskou“ je název projektu, který představilo právě založené místní sdružení Pirátů pro Moravskou Ostravu a Přívoz. Smyslem iniciativy je propojit dvě dosud oddělené části obvodu tak, aby se z jednoho konce na druhý dostali chodci, lidé na invalidním vozíku, cyklisté i bruslaři.
 
 > „Území obvodu Moravská Ostrava a Přívoz (MOaP) je od severu k jihu zhruba v polovině rozděleno neprostupnou bariérou v podobě železniční trati a ulice Místecké. Zatímco pro automobily je propojení přes osu  Hlavní nádraží a nádraží Ostrava – Střed velmi dobré, chodec prakticky nemá možnost důstojně se dostat z jedné části obvodu do druhé. Po celé délce mezi Hlavním nádražím a nádražím Ostrava – Střed neexistuje ani jeden plnohodnotný přechod,“

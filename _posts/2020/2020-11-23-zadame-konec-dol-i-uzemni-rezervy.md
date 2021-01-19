@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 23. listopadu 2020 – **Piráti bojují proti stavbě kanálu Dunaj- Odra-Labe na všech frontách. Debata o tomto megalomanském projektu se opět rozpoutala poté, co vláda 5. října nečekaně schválila přípravu jeho první etapy tzv. oderské větve kanálu. Jen ta má vyjít na 15 miliard. Své rozhodnutí vláda nekonzultovala s vedením Moravskoslezského kraje ani starosty dotčených měst a obcí. Plánované splavnění Odry po Ostravu by přitom zásadním negativním způsobem ovlivnilo nejen životní prostředí, ale také infrastrukturu. Ostravští zastupitelé včetně Pirátů proto na svém zasedání 11. listopadu jednomyslně vyjádřili nesouhlas se záměrem zahájit přípravu Oderské větve vodního koridoru a požádali vládu o přehodnocení postoje k této vodní stavbě.**
 
+<hr />
+
 > „Chceme podrobnou analýzu dopadů stavby na životní prostředí, včetně zhodnocení, zda je vůbec v souladu se zákony naší republiky a strategií Evropské unie. Studie proveditelnosti neřeší dostatečně dopady na zákonem chráněné zájmy na úseku vodního hospodářství a ochrany přírody a krajiny. Kanál by ohrozil Chráněnou krajinnou oblast Poodří včetně několika přírodních rezervací a soustavy Natura 2000, nemluvě o zdrojích pitné vody pro Ostravu. Chybí nám také informace o vlivu stavby na dopravní infrastrukturu města. Nechápu, jak tak obrovský a nevratný zásah do krajiny mohla vláda prosadit, aniž by s námi jednala,"
 
 komentuje Rostislav Řeha, který má na starost životní prostředí v centrálním obvodu Ostravy. Právě zde by měl vyrůst přístav a také překladiště.

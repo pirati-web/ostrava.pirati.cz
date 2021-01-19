@@ -13,6 +13,8 @@ tags:
 
 Ostrava, 13. dubna 2020 – **Hrdinou dnešních dní můžeš být i TY! To je hlavní vzkaz kampaně #ZachranZivnost, kterou na sociálních sítích spustili Piráti. Vyzývají lidi k podpoře podnikatelů a drobných živnostníků, kteří v důsledku vládních opatření ze dne na den přišli o výdělek nebo v lepším případě hlásí pokles tržeb.  Podobných projektů nyní v Česku přibývá. Funguje už [zachranpivo.cz](https://zachranpivo.cz) nebo [zachranhospodu.cz](https://zachranhospodu.cz).**
 
+<hr />
+
 Cílem této výzvy je ale motivovat lidi k nákupu v jakémkoliv malém obchůdku ve svém okolí místo supermarketu, nakoupit v „okně“ kavárny nebo jiného podniku, objednat si jídlo ze své oblíbené restaurace. Prostě podpořit lokální ekonomiku a udržet cirkulaci peněz v místě, kde žijeme.
 
 {% include image-gallery.html folder="/assets/img/articles/2020/bud-hrdina/" %}

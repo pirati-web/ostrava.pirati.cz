@@ -16,7 +16,8 @@ tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např
 
 Ostrava, 31. ledna 2021 – **Místo a datum vždy v tomto tvaru! Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2019-01-41-rucnikovy-den.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/rucnikovy-den.html. Perex vždy tučně.**
 
-Na webu Ostravy se perex a text čárou neoddělují!
+Odděluje perex a text čárou:
+<hr />
 
 Mezi odstavci musí být vždy jeden prázdný řádek.
 

@@ -13,6 +13,8 @@ tags:
 ---
 Ostrava, 13. května 2020 – **Ostrava podává pomocnou ruku všem, kteří spoluutváří duši města. O velkorysé pomoci podnikatelským subjektům jsme už psali. Krize ale zasáhla nejen ostravské drobné podnikatele, ale také činnost nadací, spolků, sociálně prospěšných, kulturních nebo sportovních organizací.**
 
+<hr />
+
 Město již dříve poskytlo pomoc podnikatelům a firmám, tuto pomoc využilo zhruba 1700 subjektů. Ta se ale nevztahuje na neziskový sektor, tedy organizace, které pořádají kulturní a sportovní akce, věnují se prevenci kriminality, zdravotnictví, sociální péči nebo pomáhají lidem s hendikepem.
 
 Minulý týden proto náměstkyně pro školství a sport Andrea Hoffmannová předložila městské radě materiál týkající se speciálního programu pro pomoc neziskovým organizacím, který rada následně schválila.

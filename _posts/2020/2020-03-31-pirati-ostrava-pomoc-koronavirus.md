@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 31. března 2020 – **Nedostatek roušek a respirátorů, zavřené provozovny, drobné podnikání v ohrožení. Důsledky pandemie koronaviru a nouzového stavu dolehly i na Ostravu. Piráti společně s koaličními partnery na magistrátu schválili řadu opatření, která pomohou zmírnit tyto dopady. Město nabízí možnost finanční výpomoci, odpuštění nebo prodloužení splatnosti nájmu, posouvá se také termín pro regulaci reklamního smogu. Nedostatek ochranných pomůcek řeší vlastní investicí v řádech milionů korun.**
 
+<hr />
+
 Město již v počátcích krize přišlo s nabídkou finanční pomoci, kterou řada podnikatelů využila. Dnešní rada města Ostravy schválila další formy pomoci a nákup ochranných pomůcek. Radní odhlasovali:
 
 * nákup 3200 ks respirátorů FFP2,

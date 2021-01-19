@@ -22,19 +22,19 @@ Pracovní cesta do USA spojila příjemné s užitečným. Doufáme, že slovo �
 Překlad projevu, který Ondřej Polanský přednesl v OSN:
 
 > Vážený pane prezidente, vážení kolegové,
-> 
+>
 > Především vám chci poděkovat za příležitost účastnit se tohoto dvoudenního parlamentního slyšení. Čas zde jsem si opravdu užil a jsem rád, že mám příležitost zde vystoupit.
-> 
+>
 > Česká republika podporuje kroky, které mají zlepšit regulační mechanismy migrace na globální úrovni a skutečně věřím, že můžeme z pozice poslanců přispět k vyjednávacímu procesu v rámci dohody Global Compact.
-> 
+>
 > Souhlasím, že sdílená odpovědnost – jedno z ustanovení Global Compact – je velmi důležitá, a proto si dovolím jmenovat několik pozitivních příkladů za Českou republiku.
-> 
+>
 > Česká republika se v rámci vnější migrační politiky zaměřuje na poskytování pomoci uprchlíkům v místě jejich původu, na finanční pomoc zemím, které přijímají největší počty uprchlíků a na preventivní akce proti velkým migračním vlnám. Pomoc poskytuje například prostřednictvím programů pomoci na západě Balkánského poloostrova, na Blízkém východě nebo Zdravotně humanitárním programem MEDEVAC.
-> 
+>
 > Česká republika také aktivně posílá policisty a odborníky na azylovou politiku do evropských agentur jako je Frontex nebo Evropský podpůrný úřad pro otázky azylu. Bilaterálně posílá odborníky do zemí stižených migrační vlnou jako Balkán, Řecko a Itálie.
-> 
+>
 > Česká republika se také podílí na prevenci a řízení migračních proudů prostřednictvím širších aktivit EU. EU je přitom nyní největším poskytovatelem humanitární pomoci na světě. Česká republika poskytla značné finanční prostředky do Nouzového svěřenského fondu EU pro Afriku, Regionálního svěřenského fondu pro Sýrii (130 milionů Kč), nebo do   programů regionálního rozvoje a ochrany.
-> 
+>
 > Je zřejmé, že Česká republika vytváří pozitivní příklady a drží se ustanovení Global Compact. Upřímně doufám, že dosáhneme smysluplného kompromisu, který pomůže lidem, kteří to potřebují.
 
 

@@ -18,6 +18,8 @@ authorBio: right-pane
 
 **Napsat nový díl „Arnoštova okénka“ je v dnešní době záležitost poněkud komplikovaná. Doba je extrémně turbulentní, situace ve školství se mění každým dnem a kdykoli jsem se pokusil začít psát, mohl jsem svůj pokus za pár hodin hodit do smetí. Myslím si však, že je několik věcí, které je třeba nyní vypíchnout. Pokusím se proto shrnout aktuální události ve školství za poslední měsíc a nastínit pozitiva i negativa výhledů do blízké budoucnosti.**
 
+<hr />
+
 ### Co přinesla koronavirová krize?
 
 Je to už měsíc, kdy byla z důvodu koronavirové krize přerušena prezenční výuka na českých školách a učitelé přešli na výuku distanční. V prvé řadě je třeba si uvědomit, že dobře připravená virtuální hodina stojí vyučujícího řádově více času než hodina běžná. Na dobrých školách nyní učitelé vedou výuku přes virtuální třídy vytvořené v různých programech, např. v MS Teams nebo Moodle. Kromě toho, že byli nuceni nastudovat si potřebné technické záležitosti virtuální výuky, musí každou hodinu předem zvlášť připravit. Někteří natáčejí vlastní výuková videa, jiní hledají online vhodné materiály, někdo vymýšlí zábavné úlohy a pokusy pro děti, další tvoří vlastní webové stránky. Spousta z nás se k této nečekané situaci postavila čelem a neočekávaného úkolu se zhostila s grácií. Někteří na ni dokonce byli připraveni předem, neboť prvky distanční výuky používali už dříve. Sám jsem překvapen, o jak velké množství pedagogů se jedná. Zároveň tato situace ukázala, že české školství na tom vůbec není tak špatně, jak jsem si myslel. Obdivuji zejména učitelky prvních stupňů základních škol, u kterých je vztah mezi učitelkou a jejími žáky naprosto stěžejní a kde se výuka opravdu nedá řešit žádnou formou samostudia.

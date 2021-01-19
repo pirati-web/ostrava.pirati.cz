@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 8. září 2020 – **Nezisková organizace MIKASA, která pečuje o klienty s autismem, usiluje o výstavbu domova pro osoby se zdravotním postižením v Ostravě-Výškovicích. Musí ale čelit řadě překážek při získávání povolení stavby a projekt brzdí také petice zaměstnanců a rodičů žáků místní základní školy proti výstavbě. Petice adresovaná vedení radnice se bude projednávat na čtvrtečním zasedání zastupitelstva. Tam plánuje dorazit i ředitel organizace MIKASA Michal Panáček. Piráti realizaci projektu dlouhodobě podporují a k podpoře vyzývají v otevřeném dopise i vedení radnice.**
 
+<hr />
+
 Pokud se rozběhnutá realizace zastaví, bude to pro neziskovku tvrdá rána. Do projektové dokumentace již investovala 1 milion korun a navíc by přišla o slíbenou dotaci 50 milionů korun od Ministerstva pro místní rozvoj, která je podmíněna získáním stavebního povolení do dubna 2021. Jedním z potřebných kroků je povolení stavby příjezdové cesty k pozemkům radou městského obvodu Ostrava-Jih. Místní Piráti proto vyzývají radní ke schválení povolení.
 
 Petice zaměstnanců a rodičů žáků ZŠ Ostrava-Výškovice na Srbské, která se staví proti výstavbě domova pro dospělé, mentálně postižené autisty, bude projednávaná na zasedání zastupitelstva obvodu ve čtvrtek 10. 9. 2020. V petici se uvádí, že výstavbou by se znehodnotila přírodní krajina, zhoršila bezpečnost a automobilová dostupnost místních obyvatel a žáků školy. Proti výstavbě se postavili někteří členové bytových družstev v okolí, kteří argumentují ve stejném duchu.

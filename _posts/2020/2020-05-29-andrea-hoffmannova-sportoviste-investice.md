@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 29. května 2020 – **Město Ostrava uvolňuje další prostředky na modernizaci sportovní infrastruktury. Náměstkyně pro školství a sport Andrea Hoffmannová tak pokračuje ve své vizi „zasíťovat“ co nejvíc obvodů v Ostravě menšími sportovišti pro veřejnost. Sportovní haly už rostou v Krásném Poli a Nové Bělé, vedle Svinova tak budou na konci roku už celkem tři. Američtí fotbalisté se dočkají umělé trávy v rámci rekonstrukce areálu SAP. Investice pokračují i v dalších obvodech a po schválení na posledním zastupitelstvu města se dočkají modernizace svého zázemí čtyři ostravské sportovní kluby.**
 
+<hr />
+
 Stará Bělá se dočká revitalizace trávníku, v Polance nad Odrou bude zrekonstruován celý sportovní areál, TJ Hlubina v Moravské Ostravě dokončí rekonstrukci areálu vybudováním zázemí a tribuny k fotbalovému hřišti a TJ Start v Porubě promění škvárové hřiště v tenisové kurty. Celková hodnota investic je vyčíslena na téměř 100 milionů korun, z toho až 80 procent kluby získaly z externích zdrojů. Projekty budou spolufinancovány z rozpočtu města, v některých případech na ně přispějí jednotlivé městské obvody.
 
 > „Do budování sportovní infrastruktury město letos investuje opravdu velké prostředky. Stavíme sportovní haly v Nové Bělé a v Krásném Poli, rekonstruujeme část sportovního areálu klubu amerického fotbalu Ostrava Steelers v Porubě, připravujeme vybudování deseti workoutových hřišť. Na svém květnovém zasedání zastupitelé schválili uvolnění dalších prostředků na rekonstrukce čtyř sportovních areálů. Naprostá většina z nich cílí hlavně na děti a mládež, které chceme vést ke sportování a zdravému životnímu stylu,“

@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 3. června 2020 – **Obyvatelé Moravské Ostravy a Přívozu mohou nově ovlivnit změny ve veřejném prostoru a dění v místě, kde žijí. Radnice centrálního obvodu vyhlásila participativní rozpočet, který se již na mnoha jiných místech osvědčil jako ideální způsob, jak se mohou občané zapojit do rozhodování o veřejných financích. Na zavedení tohoto nástroje do praxe již nějakou dobu pracuje místostarosta pro otevřenou radnici Rostislav Řeha. Na posledním zasedání zastupitelstva dali PaRo zelenou zastupitelé, když schválili všechna navržená pravidla. Na první ročník participativního rozpočtu vyčlení radnice jeden milion korun ze svého rozpočtu.**
 
+<hr />
+
 Participativní rozpočet není jen o nových dětských hřištích, komunitních zahrádkách, lavičkách v parku a jiných investičních akcích. Prostor dostávají také tzv. měkké, neinvestiční projekty - sousedské slavnosti, informační kampaň, osvětová nebo vzdělávací akce. O tom, co bude centru města nejvíc „slušet“, nakonec ale rozhodnou sami občané.
 
 > „Jedná se o první ročník participativního rozpočtu „Náš obvod“, do kterého se můžete zapojit úplně všichni. Buď najdete ve svém okolí „tu věc, co vás štve“ a dokážete vytvořit smysluplný projekt, který se s problémem popere a vaše okolí zkrášlí nebo vylepší, v ideálním případě obojí. Nebo se na podzim přijdete podívat na veřejnou prezentaci takovýchto projektů a pak pečlivě rozdělíte své hlasy v hlasování tak, aby vyhrál ten, který pro vás osobně bude nejlepší. Každý z vás bude mít šanci se zúčastnit,“

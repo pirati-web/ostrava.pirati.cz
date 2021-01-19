@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 12. listopadu 2020 – **Koronavirus obohacuje češtinu o nové výrazy. Víte třeba, co je to „rouškolapka“? Že ne? Jedná se o plochou plastovou sponu s háčky, která zachraňuje uši zdravotníkům a dalším lidem v první linii doslova po celém světě. Vymyslel je mladý kanadský skaut, jejich obliba se bleskově rozšířila. Do jejich výroby se zapojily tisíce dobrovolníků, stejně jako na jaře během první vlny pandemie do výroby ochranných štítů a dalších pomůcek. A spolu s početnou českou komunitou 3D tiskařů a tiskařek i ostravská zastupitelka Veronika Murzynová.**
 
+<hr />
+
 > „Pokud jste někdy měli na sobě respirátor nebo chirurgickou roušku s kratšími gumičkami delší dobu, víte, že to není nic příjemného,“
 
 vysvětluje Veronika a předvádí, jak rouškolapka funguje. Gumičky od respirátoru zahákne za sponu, takže netlačí za ušima, a sponu umístí na zátylek. Pro zdravotníky, záchranáře, pracovníky v zařízeních sociální péče, ale i další, kteří v respirátorech tráví například i dvanáct hodin denně, je to neskutečná úleva.

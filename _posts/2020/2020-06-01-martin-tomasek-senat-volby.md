@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 1. června 2020 – **Odvážně a s pokorou. S tímto heslem se chce o senátorské křeslo za volební obvod Ostrava-město ucházet porubský místostarosta pro vzdělávání Martin Tomášek. Spojení pokory vůči tradici a odvahy při prosazování nových cest odpovídá jeho vizi moderní politiky. S nadsázkou si proto do kampaně nasazuje klobouk Indiany Jonese jako symbolu vlastností, které nás okouzlovaly na filmovém plátně, ale jimž bychom chtěli zůstat věrni i v reálném životě.**
 
+<hr />
+
 Martin Tomášek je pirátským místostarostou pro vzdělávání a prevenci kriminality v Ostravě-Porubě. Zároveň působí na Ostravské univerzitě, kde připravuje budoucí učitele. Díky této dvojroli může sledovat současný stav školství a podporovat moderní metody na různých úrovních, od mateřské školy po vysokou. Jaká je jeho vize českého vzdělávání? Školy otevřené všem dětem i rodičům. Sebevědomí, dobře připravení a ohodnocení učitelé vedoucí své žáky k aktivnímu přístupu k řešení problémů a k všestrannému rozvoji. Ředitelé jako pedagogičtí lídři citliví vůči měnícím se společenským potřebám a pedagogickým trendům.
 
 {% asset 'posts/martin-tomasek2.jpg' alt='Martin Tomášek, kandidát do Senátu za Piráty.' %}

@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 20. října 2020 – **Již od začátku přerušení běžné školní docházky nabídlo město pomocnou ruku rodičům, jejichž profese jsou v boji s Covid-19 nejvíc potřeba. Jedná se o zaměstnance bezpečnostních sborů, městské policie, poskytovatelů zdravotních služeb, lékařů, orgánů ochrany veřejného zdraví a ozbrojených sil, pracovníků sociálních služeb a dalších. Ostrava tak chce těmto pracovníkům umožnit naplno vykonávat jejich důležitou práci. Od pondělí navíc funguje i hlídání předškolních dětí, jejichž školka byla z důvodu nákazy uzavřena.**
 
+<hr />
+
 > „Nyní máme kapacitu pro stovky školáků od šesti do deseti let. Nabízíme hlídání v centru města v základní škole v Ostrčilově ulici, na Jihu v základní škole v Březinově ulici, a v Porubě na Ukrajinské. Dětem se tam věnují pedagogičtí pracovníci, družinářky a další zaměstnanci, a to podle možností jednotlivých zařízení,“
 
 uvedla resortní náměstkyně Andrea Hoffmannová.

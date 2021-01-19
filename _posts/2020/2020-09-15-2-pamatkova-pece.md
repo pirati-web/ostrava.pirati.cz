@@ -13,6 +13,8 @@ tags:
 
 Ostrava, 15. září 2020 – **Pirátský poslanec Lukáš Černohorský připravil velkou novelu zákona o státní památkové péči, kterou plánuje do Sněmovny předložit po konzultaci se zainteresovanými aktéry. Jejím cílem je zpřehlednit celý systém památkové péče, zjednodušit lidem jednání s úřady a také zvýšit ochranu kulturního dědictví Česka. Nejradikálnější změnou má být transformace Národního památkového ústavu na Národní památkový úřad, čímž se posílí role odborníků a jejich stanoviska se stanou závaznými.**
 
+<hr />
+
 Památková péče je dlouhodobě zanedbávaným tématem a odpovídá tomu i podoba současného zákona. Ten je sice v zásadě dobrý, pochází ale z roku 1987 a potřeboval by aktualizovat pro potřeby památek v demokracii 21. století. Novelizace se ovšem připravuje už více než deset let, Piráti tak odmítají další odklad a chtějí konečně začít řešit ty nejpalčivější problémy z praxe. Navrhují hned tři zásadní změny.
 
 > „Především se chceme zbavit dvojkolejnosti památkové péče, protože ta běžného občana neskutečně mate. Je zde odborný Národní památkový ústav a vedle toho správní řízení vedou příslušné oddělení obecních úřadů, v případě Prahy to je magistrát. Nově vznikne Národní památkový úřad a jemu podřízené krajské památkové úřady s kontaktními místy. Díky tomu docílíme toho, že posílíme odbornou složku a odborná stanoviska se stanou závaznými. Pro občana se celý proces vyřizování žádostí stane jednodušším a přehlednějším, navíc se zkrátí doba vyřizování žádostí. Také by navržené změny přispěly k náležitému plnění závazků vyplývajících z Úmluvy o ochraně architektonického dědictví Evropy a dalších mezinárodních úmluv o ochraně kulturního dědictví, ke kterým se ČR zavázala,”

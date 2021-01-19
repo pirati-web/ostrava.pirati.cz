@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 27. srpna 2020 – **Distanční výuka a online komunikace se stanou běžnou součástí vzdělávání na českých školách. Sněmovnou schválená novela zákona ukládá dětem povinnost účastnit se distanční výuky jako součásti povinné školní docházky. Ostravským školám teď podává pomocnou ruku město, které podpoří nákup počítačové techniky a softwaru i školení učitelů.**
 
+<hr />
+
 Rada města Ostravy schválila zcela novou výzvu k podpoře distanční digitální výuky na základních školách zřizovaných městem. Město vyhlásilo program na podporu distančního vzdělávání ještě před zahájením školního roku.  K dispozici je 4,17 milionu korun pro rok 2020 s tím, že si školy požádají o podporu v září a v říjnu, žádosti posoudí rada města.
 
 > „Dálková výuka nemá nahradit školu, ale je možné ji efektivně využívat v rámci běžné výuky v kombinaci prezenčního a distančního vzdělávání nebo například v případech dlouhodobé nepřítomnosti žáka. Je nutné, aby se školy na tento způsob výuky dle možností připravily, jak po stránce technické, tak po stránce znalostní. Ostrava prověřovala situaci na školách vlastním dotazníkovým šetřením a získala zpětnou vazbu k on-line výuce, na kterou reagovala vyhlášením nového programu,“

@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 14. října 2020 – **Scénář z jara se opakuje, kvůli nouzovému stavu a nařízení vlády zavírá řada nájemců z centra Ostravy své provozovny. Městský obvod ale nic neponechal náhodě a na různé varianty vývoje se v uplynulých měsících připravoval. Teď může s klidným svědomím vytáhnout předjednané a předpřipravené postupy ze šuplíku. I přesto, že je část vedení obvodu v karanténě, proběhlo tento týden online jednání, kde se zástupci koalice dohodli na možnosti finanční výpomoci drobným podnikatelům.**
 
+<hr />
+
 > „Řešili jsme finanční situaci obvodu, rozpočtovou kondici, která je stejně jako všude jinde vážná. V oblasti nebytového fondu, který mám v gesci, budeme muset reagovat na výpadky příjmů našich nájemců a dál bojovat o přežití obchodu a služeb v našem obvodu. Pokud nynější výzvu nezvládneme, pak by veškerá práce a společné úsilí vynaložené v posledním půl roce, přišly vniveč. A to nesmíme připustit,“
 
 je přesvědčen místostarosta David Witosz.

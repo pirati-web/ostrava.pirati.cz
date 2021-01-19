@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 26. října 2020 – **S druhou vlnou koronaviru přešly vzdělávací instituce na distanční výuku. Mnoho rodin však potřebným technickým vybavením nedisponuje. Krizový štáb Pirátů proto přišel s návrhem na založení celorepublikové sbírky stolních počítačů, notebooků a tabletů pro rodiny, které teď čelí problémům. Sbírky probíhají po celé České republice především v krajských pirátských centrech. Kampaň #SbirkaNotebooku poběží v našem kraji od 26. října do 10. listopadu.**
 
+<hr />
+
 > „Piráti si vytvořili krizový štáb, který stínuje vládu. Společně během koronavirové pandemie vytváříme vlastní návrhy pro boj s krizí. Vytvořili jsme tzv. [chytrý plán](https://budoucnostresimeted.cz/ "Budoucnost řešíme teď") a ve Sněmovně se nám podařilo prosadit [11 usnesení](https://www.pirati.cz/tiskove-zpravy/pirati-prosadili-jedenact-usneseni-k-reseni-koronakrize.html "Pirati.cz: Piráti spolu s opozicí prosadili jedenáct usnesení k řešení pandemické krize. O dalších návrzích se bude jednat odpoledne") k řešení pandemické krize,“
 
 vysvětluje člen krizového štábu Pirátů, poslanec Lukáš Kolářík a dodává:

@@ -16,6 +16,8 @@ tags:
 
 Ostrava, 3. srpna 2020 – **Celkem 39,2 milionů korun je v rozpočtu města Ostravy připraveno na podporu školství, vzdělávání a talent managementu prostřednictvím dvou dotačních programů. Žádosti o dotace se navíc letos budou podávat dříve, příjemci tak zjistí výsledky už na začátku roku.**
 
+<hr />
+
 Zájemci o dotace mohou podávat žádosti v termínu od 5. do 16. října 2020.
 
 > „Termín pro podání žádostí jsme v letošním roce posunuli, což pro žadatele znamená, že se výsledky o výši finanční podpory dozví už na začátku roku, ihned po projednání v orgánech města. Mohou si tak lépe plánovat své aktivity. Ostrava každoročně vyhlašuje tři dotační programy zaměřené přímo na vzdělávání. Třetí dotační titul na podporu výuky cizích jazyků a cizojazyčné výuky pro rok 2021 zveřejníme na jaře příštího roku. Na všechny tři programy uvolní město ze svého rozpočtu kolem 50 milionů korun,“

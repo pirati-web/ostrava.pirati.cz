@@ -16,6 +16,8 @@ tags:
 
 Ostrava, 17. dubna 2020 – **Není čas ztrácet čas. Vedení města se rozhodlo nečekat pouze na pomoc státu a samo iniciativně přišlo s nevídanou škálou opatření, která mají pomoci zmírnit  dopady nouzového stavu. Prodloužení splatnosti nebo odpuštění nájmu, rychlá finanční výpomoc do 20 tisíc nebo finanční dar do 100 tisíc korun. To je záchranná síť, kterou Ostrava připravila pro drobné podnikatele. Celkem už město schválilo podporu ve výši téměř 19 milionů korun pro více než dvanáct set místních podnikatelů. Také nedostatek ochranných pomůcek se Ostrava rozhodla vyřešit investicí z vlastního rozpočtu. Všichni se shodli, že město své lidi ve štychu nenechá!**
 
+<hr />
+
 Nákup respirátorů v řádech milionů korun pomohl ochránit pracovníky městské policie a další lidi v první linii. 4 000 ochranných štítů pak putovalo městské nemocnici, domovům pro seniory, magistrátu a městské policii. Město již v počátcích krize přišlo také jako jedno z mála s nabídkou rychlé finanční pomoci podnikatelům, o kterou se okamžitě po vyhlášení hlásily stovky zájemců. O dar do výše 20 tisíc korun si mohou zažádat všichni menší podnikatelé s ročním obratem do 6 milionů korun, kteří mají provozovnu na území města Ostravy.
 
 > „V části Moravská Ostrava a Přívoz, která je správcem největšího nebytového fondu ve městě, jsme se rozhodli uvolnit na pomoc nájemcům podstatnou část „spících“ peněz. Mám na mysli prostředky z kaucí, které dosud ležely na účtech. Věříme, že tyto prostředky spolu s dalšími připravovanými kroky pomohou obchodníkům překonat nynější těžké období,“

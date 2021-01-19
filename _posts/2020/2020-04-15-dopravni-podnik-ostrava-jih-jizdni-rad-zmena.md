@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 15. dubna 2020 – **Piráti z Ostravy-Jihu iniciovali vznik usnesení zastupitelstva městského obvodu, které reaguje na změny v jízdních řádech Dopravního podniku Ostrava (dále DPO). Spolu s ostatními stranami napříč politickým spektrem dospěli ke shodě a formulovali společné stanovisko vůči krokům DPO. Březnové zastupitelstvo schválilo usnesení, ve kterém žádá radu města, aby DPO uložila povinnost projednávat změny v organizaci městské hromadné dopravy s dotčenými městskými obvody a umožnila jim tyto změny připomínkovat v dostatečném časovém předstihu.**
 
+<hr />
+
 Od prvního návrhu postupu předsedům zastupitelských klubů, přes společnou schůzku a připomínkování námi sepsaného usnesení a důvodové zprávy až po finální hlasování uplynulo 7 dní, což je v administrativním bludišti komunální politiky docela slušný výkon. Co zastupitelům na změnách v organizaci dopravy vadí a co konkrétně usnesení připomínkuje?
 
 Městský obvod Ostrava-Jih je nejlidnatějším ostravským obvodem, tvoří více než třetinu celkového počtu obyvatel města. Téměř 20 % z nich jsou senioři nad 65 let a necelé 3 % obyvatel obvodu vlastní průkaz ZTP a ZTP/P, mají tedy sníženou mobilitu, samostatnost a častější potřebu lékařské péče.

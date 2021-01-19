@@ -15,6 +15,8 @@ tags:
 
 Ostrava, 8. listopadu 2020 – **Pirát Jan Fišer se řadí mezi ty, kterých je momentálně nejvíc potřeba – zdravotníky v první linii. Jako diplomovaná všeobecná sestra na speciální Covid jednotce Fakultní nemocnice Ostrava dennodenně vykonává nelehkou a obdivuhodnou práci. Stejně jako my všichni, i on zažívá v době koronavirové nejedno „poprvé“. Honza se nedávno přistěhoval z Prahy do Ostravy a určitě ho ani ve snu nenapadlo, že začátky na jeho novém působišti budou tak dramatické a plné adrenalinu.**
 
+<hr />
+
 **Honzo, jak ses vlastně jako rodák z Prahy ocitl tady v Ostravě? Většinou jsme svědky spíše opačného trendu, tedy odlivu Ostraváků do Prahy…**
 
 Situace s bydlením v Praze není úplně jednoduchá. Chtěli bychom v budoucnu založit rodinu a tak vyhlídky na větší byt v Praze či u Prahy nebyly příliš růžové. Manželka je z Ostravy, já z Prahy a tak jsme se dohodli, že bude dobré když budeme mít zázemí v Ostravě. Moji rodiče za námi jezdí a podnikaji různé výlety a jsou také určitou mírou spokojeni, že se nám tu celkem daří. Jinak si myslím, že ty odlivy se mění, ale uvidíme, jak s tím zamíchá COVID-19.

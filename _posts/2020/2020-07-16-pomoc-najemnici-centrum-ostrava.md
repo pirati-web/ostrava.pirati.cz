@@ -14,6 +14,8 @@ tags:
 
 Ostrava, 16. července 2020 – **Piráti nedělají unáhlená rozhodnutí, jdou na všechno s námořnickou rozvahou. Strategie a řešení navrhují, až když znají relevantní data. Nejinak tomu bylo i v případě pomoci nájemníkům v době koronavirové krize v centrálním obvodu. I když si zpočátku nájemníci stěžovali, že se jim po uzavření provozoven nedostává potřebné pomoci, vedení obvodu vyčkalo na dopady krize, aby navržená kompenzace byla co nejefektivnější.**
 
+<hr />
+
 Centrální obvod nyní přichází s programem na pomoc nájemníkům, kterou je možné čerpat zpětně za dobu, kdy byli zasaženi koronavirem. Díky vládnímu programu Covid-Nájemné mají živnostníci nejen v Ostravě možnost zaplatit za tři jarní měsíce v době koronavirové krize pouze pětinu nájmu. Podmínkou je dohoda s pronajímatelem prostor.
 
 Podstatou programu je participace: pronajímatel (obvod) sleví 30 procent z nájmu, nájemce uhradí 20 procent a stát mu přispěje 50 procent. V centru nyní provozuje svou činnost celkem 249 živnostníků, přičemž od více než 140 z nich už obvod během jara obdržel žádost o úlevu z nájmu.

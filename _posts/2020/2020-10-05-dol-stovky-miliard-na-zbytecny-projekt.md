@@ -17,6 +17,8 @@ image:        posts/ondrej-polansky.jpg
 
 Praha, 5. října 2020 – **Vláda na dnešním zasedání schválila přípravy první části vodního koridoru Dunaj-Odra-Labe. Celkové náklady na vybudování koridoru odhaduje studie proveditelnosti na 613 miliard korun, další stovky milionů ročně bude stát vynakládat na jeho údržbu. Záměr vybudování koridoru Dunaj-Odra-Labe je smutným dědictvím dob dávno minulých. Protestují proti němu místní starostové i občané, protože bude mít nevratný vliv na životní prostředí, vodní režim, krajinu a zlikviduje tisíce hektarů zemědělské půdy. Významná ekologická rizika navíc provází sporný ekonomický přínos díla.**
 
+<hr />
+
 > „Zatímco zbytek Evropy investuje do ekologických forem dopravy, česká vláda vynakládá desítky milionů na další a další studie a projekční práce. Akademie věd v připomínkovém řízení uvedla, že v nejnovější studii proveditelnosti byly zneužity metody hodnocení ekosystémových služeb, čímž došlo k účelovému zlepšení výsledků ekonomické analýzy. Ministerstvo životního prostředí dokonce uvedlo, že nejnovější předkládaná studie neopodstatněně zvyšuje potenciální ekonomické přínosy, podceňuje rizika a negativní dopady a celý záměr je v rozporu s právem EU. Jak Piráti dlouhodobě upozorňují, musíme urychleně investovat do revitalizace vodních toků, protierozních opatření a budování krajinných prvků. Místo toho vláda pokračuje v nesmyslném vyhazování prostředků za centrálně plánované megalomanské stavby, které nepatří do 21. století,”
 
 upozornila předsedkyně Výboru pro životní prostředí a pirátská poslankyně Dana Balcarová.

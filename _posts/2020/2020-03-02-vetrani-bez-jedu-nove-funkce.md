@@ -15,14 +15,15 @@ tags:
 ---
 Ostrava, 2. března 2020 - **Kvalita ovzduší trápí řadu obyvatel Ostravy. Jedním z nejproblematičtějších zdrojů znečištění jsou ostravské koksovny, jejichž  problematice se jako Piráti dlouhodobě věnujeme. I proto jsme loni vyvinuli aplikaci Větrání bez jedů, která pomáhá zjistit, odkud vítr (a zápach s jedy) vane. Aplikaci jsme teď navíc rozšířili o informace o naměřených koncentracích polétavého prachu z měřících stanic z celého kraje. V Ostravě byla nedávno zprovozněna v pořadí již pátá měřící stanice v Hrušově, data tak budeme moci čerpat nově i odtud.**
 
- 
+<hr />
+
 Koksovna Svoboda a Závod 10 Liberty Ostrava (býv. Nové Huti) jsou jedním z nejproblematičtějších zdrojů znečišťování, které zde máme. Z dostupných studií vyplývá např možný příspěvek pro benzo(a)pyren (prokázaný lidský karcinogen) v obytné zástavbě Přívozu nad hodnotou imisního limitu. Koksovny jsou rovněž zdrojem nepříjemného zápachu, který znepříjemňuje život jejich sousedům.
 
 > &bdquo;Usilujeme o to, aby u koksovny Svoboda byla provedena rozptylová studie a studie zdravotních dopadů. V návaznosti na to rovněž o přezkum závazných podmínek provozu závodu tak, aby imisní koncentrace způsobené provozem závodu v obydlených oblastech, sousedících se závodem nepřesahovaly hodnotu imisního limitu. &ldquo;
 
 říká pirátský odborník na ovzduší a člen komise pro životní prostředí rady města Ostravy Václav Parchaňský.
 
-V této souvislosti vítáme iniciativu města Ostrava a paní náměstkyně Šebestové, která ve spolupráci se Zdravotním ústavem se sídlem v Ostravě zajistila provoz další měřící stanice kvality ovzduší, na ulici Stará cesta v Hrušově. 
+V této souvislosti vítáme iniciativu města Ostrava a paní náměstkyně Šebestové, která ve spolupráci se Zdravotním ústavem se sídlem v Ostravě zajistila provoz další měřící stanice kvality ovzduší, na ulici Stará cesta v Hrušově.
 
 > &bdquo;Stanice bude monitorovat imisní příspěvek z koksovny Svoboda. Koksovna leží ve směru převládajícího proudění mezi existující stanicí v Přívoze a novou stanicí, bude tak možné zjistit její příspěvek k imisím v oblasti. Koksovny jsou problematickými zdroji i z pohledu toho, že se u nich emise některých látek dají stanovit pouze výpočtem. &ldquo;
 
