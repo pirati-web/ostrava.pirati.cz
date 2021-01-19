@@ -69,7 +69,7 @@ S politikou je to jako s podnikáním. Nemá smysl se soustředit na konkurenci 
 
 Někdy je až úsměvné, kolik obavy o soukromí mají lidé, kteří každodenně a téměř bez obav používají sociální sítě a dobrovolně svěřují své osobní údaje, informace o svých každodenních činnostech i peníze do rukou různých obchodníků. Pokud máte Facebook, Google nebo TikTok, opravdu se nemusíte bát E-roušky. Konkrétně E-rouška žádné Vaše osobní údaje neshromažďuje, ani nepředává hygieně nebo vládě, na základě anonymního kódu pouze informuje lidi, kteří se s Vámi dostali do kontaktu, že mohou být v riziku. Přesto k ní byli lidé velmi nedůvěřiví a právě kvůli nedůvěře to vůbec nezafungovalo. Na druhou stranu jsme zaznamenali několik opravdu nepěkných pokusů ze strany vlády i Evropy zasahovat nám soukromí a cenzurovat internet nebo shromažďovat citlivé informace. Proti tomu vždy chceme a budeme bojovat!
 
-Zdroj: [ParlamentníListy.cz](https://www.parlamentnilisty.cz/arena/rozhovory/Pirat-Polansky-nabada-k-vakcinaci-Vzpamatujeme-se-jakmile-vlada-doresi-strategii-ockovani-649644)
+Zdroj: [ParlamentníListy.cz](https://www.parlamentnilisty.cz/arena/rozhovory/Pirat-Polansky-nabada-k-vakcinaci-Vzpamatujeme-se-jakmile-vlada-doresi-strategii-ockovani-649644 "Pirát Polanský nabádá k vakcinaci: Vzpamatujeme se, jakmile vláda dořeší strategii očkování")
 
 ---
 
