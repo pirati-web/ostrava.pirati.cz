@@ -17,7 +17,7 @@ tags:
 
 <hr />
 
-ompostárna se nachází v areálu chemických závodů poblíž bývalého dolu a koksovny Jan Šverma. Areál bývalého dolu je příkladem úspěšného využití bývalého důlního areálu pro lehký průmysl. Právě zaměstnance místních podniků ale zejména v letních měsících a v nočních hodinách obtěžuje silný hnilobný zápach neznámého původu a hojný výskyt much. I když se přímou souvislost zápachu  s provozem kompostárny nepodařilo v minulosti prokázat, může být jednou z jeho pravděpodobných příčin. O to více překvapuje, že ačkoli má dojít k navýšení kapacity zařízení ze současných 42 tisíc tun odpadů ročně na 80 tisíc tun, zmíněný záměr zcela postrádá pachovou studii. 
+Kompostárna se nachází v areálu chemických závodů poblíž bývalého dolu a koksovny Jan Šverma. Areál bývalého dolu je příkladem úspěšného využití bývalého důlního areálu pro lehký průmysl. Právě zaměstnance místních podniků ale zejména v letních měsících a v nočních hodinách obtěžuje silný hnilobný zápach neznámého původu a hojný výskyt much. I když se přímou souvislost zápachu  s provozem kompostárny nepodařilo v minulosti prokázat, může být jednou z jeho pravděpodobných příčin. O to více překvapuje, že ačkoli má dojít k navýšení kapacity zařízení ze současných 42 tisíc tun odpadů ročně na 80 tisíc tun, zmíněný záměr zcela postrádá pachovou studii. 
 
 Takovou informaci si můžete přečíst v [Oznámení záměru](https://portal.cenia.cz/eiasea/detail/EIA_MSK2212?lang=cs), zveřejněném v informačním systému EIA. 
 
@@ -39,7 +39,7 @@ Podle Pirátů může mít záměr významný vliv na životní prostředí v da
 
 Dotýká se rozšíření provozu kompostárny i Vás? Pošlete krajskému úřadu své vyjádření! Pokud úřad rozhodne, že záměr může mít významný vliv na životní prostředí, bude tento pozsouzen v plném rozsahu podle zákona 100/2001 Sb., a veřejnost může mít možnost se zúčastnit veřejného projednání.
 
-Vyjádření podle naší šablony ([.dotx]({{'kompostarna-sablona.dotx' | prepend: '/assets/doc/' | relative_url}}), [.odt]({{'kompostarna-sablona.odt' | prepend: '/assets/doc/' | relative_url}}) nebo vlastní připomínky můžete zaslat datovou schránkou, poštou nebo osobně do 5. 2. 2021 na adresu krajského úřadu:
+Vyjádření podle naší šablony ([.dotx]({{'kompostarna-sablona.dotx' | prepend: '/assets/doc/' | relative_url}}), [.odt]({{'kompostarna-sablona.odt' | prepend: '/assets/doc/' | relative_url}})) nebo vlastní připomínky můžete zaslat datovou schránkou, poštou nebo osobně do 5. 2. 2021 na adresu krajského úřadu:
 
 **Moravskoslezský kraj**\\
 **28. října 117,**\\
