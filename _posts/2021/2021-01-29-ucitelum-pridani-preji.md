@@ -13,7 +13,7 @@ tags:
 
 Ostrava, 29. ledna 2021 – **Sněmovna včera schválila novelu zákona o pedagogických pracovnících včetně pozměňovacích návrhů pirátského poslance Lukáše Bartoně. Ty zajistí, aby se platy pedagogických pracovníků držely automaticky minimálně na 130 procentech průměrné mzdy v ČR. Legislativní podporu získali rovněž sociální pedagogové, kteří pomáhají žákům ze sociálně znevýhodněných rodin. Díky Pirátům bude také možné, aby se studenti s pedagogickým zaměřením snadněji zapojovali do praxe.**
 
-<hr />
+<hr /> 
 
 >„Věřím, že až bude práce učitelů a učitelek díky právě schválené novele dobře finančně i společensky ohodnocena, absolventi pedagogických oborů přestanou odcházet pracovat mimo školství a ve školách zůstanou. Dnes je učitelství jednou z nejhůře ohodnocených profesí vysokoškoláků. Finsko rapidně zvýšilo platy a učitelé jsou tam dnes na stejné úrovni s právníky a lékaři, to pomohlo i růstu jejich ekonomiky. V nadcházející době bude právě kvalitní vzdělání založené na kreativitě a flexibilitě tou hlavní hybnou silou i rozvoje našeho hospodářství. Místo montovny se musíme stát mozkovnou,“
 
