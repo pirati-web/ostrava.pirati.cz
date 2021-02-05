@@ -6,15 +6,16 @@ date: 2021-01-28
 author: Jana Ožanová
 image: posts/martin-tomasek3.jpg
 tags:
-  - Martin-Tomášek
+  - Ostrava
   - Školství
+  - Martin-Tomášek
 ---
 
 Ostrava, 28. ledna 2021 – **První státní Montessori třída v Ostravě může fungovat již od září v Porubě. Pokud bude dostatek zájemců a třída se naplní, tento obvod se bude moci po nedávném otevření Waldorfského kampusu pochlubit dalším prvenstvím. Piráti alternativní pedagogice fandí a dlouhodobě usilují o širokou paletu cest ke kvalitnější výuce.**
 
 <hr />
 
->„’Pomoz mi, abych to dokázal sám.’ To je heslo Marie Montessori, zakladatelky inovativní pedagogiky. Je v něm obsaženo vše podstatné. Dítě se samo z vrozené zvídavosti dostává na kloub různým věcem, nevědomky a nenásilně tím rozvíjí své dispozice a pedagog tuto jeho hravost pouze podněcuje a usměrňuje,“ 
+>„’Pomoz mi, abych to dokázal sám.’ To je heslo Marie Montessori, zakladatelky inovativní pedagogiky. Je v něm obsaženo vše podstatné. Dítě se samo z vrozené zvídavosti dostává na kloub různým věcem, nevědomky a nenásilně tím rozvíjí své dispozice a pedagog tuto jeho hravost pouze podněcuje a usměrňuje,“
 
 vysvětluje porubský místostarosta pro vzdělávání Martin Tomášek princip Montessori pedagogiky.
 
@@ -22,10 +23,9 @@ Vzdělávací metoda Montessori má ve světě více než stoletou historii, u n
 
 V Ostravě půjde o vůbec první státní třídu s prvky Montessori a otevře ji základní škola na Ukrajinské ulici. Tzv. dvojročí bude sdružovat první a druhou třídu o ideálně šestnácti dětech. Zápis je naplánován na 8. dubna, podrobnosti se zájemci dozvědí ve škole, na úřadě nebo ve spolku rodičů Montessori Poruba, který vznik třídy inicioval a výrazně se podílí na naplnění této idey.
 
->„Jako Piráti podporujeme alternativní pedagogiku, stejně jako inovativní pojetí klasického školství. Jednotlivé alternativní směry a klasické školství se synergicky se doplňují, naším cílem je uspokojit co nejširší poptávku ze strany rodičů a dětí. Nejen že je každé dítě jiné, ale i představy rodičů o správné vzdělávací cestě bývají různé. My tyto představy ctíme a snažíme se pro jejich naplnění vytvářet podmínky. Jsme přesvědčeni, že svoboda volby a kvalitní vzdělávání mohou jít ruku v ruce,“ 
+>„Jako Piráti podporujeme alternativní pedagogiku, stejně jako inovativní pojetí klasického školství. Jednotlivé alternativní směry a klasické školství se synergicky se doplňují, naším cílem je uspokojit co nejširší poptávku ze strany rodičů a dětí. Nejen že je každé dítě jiné, ale i představy rodičů o správné vzdělávací cestě bývají různé. My tyto představy ctíme a snažíme se pro jejich naplnění vytvářet podmínky. Jsme přesvědčeni, že svoboda volby a kvalitní vzdělávání mohou jít ruku v ruce,“
 
 dodává Martin Tomášek.
-
 
 ---
 
