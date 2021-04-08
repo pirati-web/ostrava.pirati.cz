@@ -18,7 +18,7 @@ Ostrava, 2. dubna 2021 – **Ve vilové čtvrti na nároží ulic Pospolitá a Z
 
 komentuje plánovanou výstavbu objektu opoziční zastupitelka Pavlína Nováčková.
 
-Ke změně vlastníka dotčené parcely došlo v minulém roce. Potomci zesnulého majitele prvorepublikovou vilu prodali, nový vlastník ji následně zboural a nyní zde plánuje postavit dvoupodlažní objekt. Má jít o spojení dvou nestejně vysokých objektů, z nichž v jednom se plánuje zázemí pro administrativu a ve druhém skladovací prostory. Více zde.
+Ke změně vlastníka dotčené parcely došlo v minulém roce. Potomci zesnulého majitele prvorepublikovou vilu prodali, nový vlastník ji následně zboural a nyní zde plánuje postavit dvoupodlažní objekt. Má jít o spojení dvou nestejně vysokých objektů, z nichž v jednom se plánuje zázemí pro administrativu a ve druhém skladovací prostory. Více [zde](https://a.pirati.cz/msk/doc/informace-o-pozemku-parcela-556-45.pdf "ČÚZK.cz: Informace o pozemku 556/45 \[PDF\]").
 
 Již v době, kdy došlo k demolici vily, upozornili Piráti na nejasné záměry nového vlastníka pozemku. Z veřejně dostupných registrů vyplynulo, že majitel pozemku figuruje v různých právnických subjektech a s velkou pravděpodobností zde může stavět i něco jiného než rodinný dům. Tuto skutečnost poprvé přednesla Pavlína Nováčková začátkem prosince na schůzi předsedů zastupitelských klubů a následně apelovala e-mailem na předsedy politických klubů a starostu Martina Bednáře, aby se o plánovanou výstavbu rada více zajímala. Poukázala na to, že majitel pozemku bude zřejmě muset kvůli využití okolní komunikace pro stavební práce jednat s obvodem jakožto s vlastníkem komunikací a požádala, zda by městský obvod mohl tuto záležitost sledovat.
 
