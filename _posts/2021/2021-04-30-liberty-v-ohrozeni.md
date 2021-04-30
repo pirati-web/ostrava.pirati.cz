@@ -10,7 +10,6 @@ tags:
   - Ivan-Bartoš
   - Vít-Rakušan
   - Lukáš-Černohorský
-  - Andrea-Hoffmannová
 ---
 Ostrava, 30. dubna 2021 – **Ostravská huť Liberty je v ohrožení, Piráti a Starostové varují před vytunelováním podniku. V souvislosti s prodejem emisních povolenek, které hutní společnost Liberty Ostrava prodala sesterské rumunské společnosti Liberty Galati v noci z 29. na 30. dubna, apelujeme na vládu, aby zabránila vyvedení  prostředků mimo ČR a prověřila, jak vedení naložilo s dvoumiliardovým úvěrem, který do Ostravy nikdy nedoputoval.**
 
