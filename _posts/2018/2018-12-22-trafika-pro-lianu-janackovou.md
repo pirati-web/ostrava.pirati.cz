@@ -5,15 +5,18 @@ title: 'Trafika pro Lianu Janáčkovou za 1 milion korun?'
 date: 2018-12-22T08:00:00.000Z
 author: Jakub Dedek
 authorId: jakub.dedek    # uid nekoho z _people
-image: posts/tichy-daniel.jpg
+image: posts/mar-hory-radnicni-namesti.jpg
 tags:
-  - Ostrava
   - Mariánské-Hory
+  - Korupce
   - Liana-Janáčková
-  - Klientelismus
+  - Patrik-Hujdus
+  - Daniel-Tichý
 ---
  
 Ostrava, 22. prosince 2018 - **Na radnici obvodu Mariánské Hory a Hulváky je rušno i těsně před Vánoci. Poprask způsobilo rozhodnutí koalice, která uvolnila paní Janáčkovou a zvolila ji na post předsedkyně nově vytvořené komise pro strategický rozvoj a investice. Trafika pro bývalou starostku stojí městský obvod 1 milion korun ročně. Pro malý obvod jde o velké náklady.**
+
+<hr>
 
 Přestože paní Liana Janáčková skončila po 28 letech ve vedení mariánskohorské radnice, vypadá to, že se v žádném případě nehodlá vzdát svého vlivu na její chod. Tento názor podporuje i fakt, že byla zvolena jí nakloněnými politickými subjekty do čela 5-členné Komise pro strategický rozvoj a investice.
 
@@ -28,3 +31,7 @@ Daniel Tichý, Pirát a obyvatel městského obvodu k tomu dodává:
 >„Situaci kolem paní Janáčkové sleduji už dlouho. Paní Janáčková skončila po 28 letech v radě a místo toho, aby se městský obvod posunul dál, jsme uzavřeni v kruhu devadesátých let. Vládnoucí koalice má pouze 8 z 15 zastupitelů, kde Nezávislí mají pouze 4. Situace mi proto přijde o to víc absurdní, že se nenašel jediný koaliční partner, který by se proti trafice postavil. Celá situace dokazuje, že neoficiální starostkou zůstává i nadále paní Janáčková a pan Hujdus s ostatními ji jdou na ruku. Zisk vedoucí pozice v komisi její vliv jen potvrzuje.”
 
 ---
+
+Úvodní obrázek zdroj: Lukáš Mižoch \[[CC-BY-SA-2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.cs)\], [z Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_Hory,_radni%C4%8Dn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD_3.jpg).
+
+- - -
