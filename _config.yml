@@ -46,7 +46,7 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-facebook
     label: Facebooková stránka
-    body: <a href="https://www.facebook.com/https://www.facebook.com/piratiostrava//" target="_blank">Piráti Ostrava</a>
+    body: <a href="https://www.facebook.com/piratiostrava/" target="_blank">Piráti Ostrava</a>
 
 
 calendar:
