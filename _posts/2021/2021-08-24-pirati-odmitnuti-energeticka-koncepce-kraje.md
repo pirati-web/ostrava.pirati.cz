@@ -14,13 +14,9 @@ tags:
   - Zuzana-Klusová
 ---
 
-Ostrava, 24. srpna 2021 – **Uzavírání černouhelných dolů, zdražování elektřiny i tepla kvůli rostoucí ceně emisních povolenek nebo odpojování bytových domů od centrálního zásobování teplem. To všechno jsou problémy, které aktuálně trápí Moravskoslezský kraj.**
+Ostrava, 24. srpna 2021 – **Uzavírání černouhelných dolů, zdražování elektřiny i tepla kvůli rostoucí ceně emisních povolenek nebo odpojování bytových domů od centrálního zásobování teplem. To všechno jsou problémy, které aktuálně trápí Moravskoslezský kraj. *„Právě nová energetická koncepce za 1,2 milionu nám měla pomoci najít odpovědi a ukázat směr, kterým se má energetika v našem průmyslovém kraji ubírat. Krajem předložený dokument je ale bohužel zralý na hození do koše. Vychází totiž z dat roku 2014, neřeší zvyšování cen emisních povolenek ani evropské klimatické cíle. Na výboru pro životní prostředí jsme jej proto odmítli doporučit ke schválení a požadujeme zpracovat novou koncepci,“* komentuje krajská zastupitelka a předsedkyně Výboru pro životní prostředí Zuzana Klusová.**
 
 <hr />
-
-> „Právě nová energetická koncepce za 1,2 milionu nám měla pomoci najít odpovědi a ukázat směr, kterým se má energetika v našem průmyslovém kraji ubírat. Krajem předložený dokument je ale bohužel zralý na hození do koše. Vychází totiž z dat roku 2014, neřeší zvyšování cen emisních povolenek ani evropské klimatické cíle. Na výboru pro životní prostředí jsme jej proto odmítli doporučit ke schválení a požadujeme zpracovat novou koncepci,“
-
-komentuje krajská zastupitelka a předsedkyně Výboru pro životní prostředí Zuzana Klusová.
 
 Dvě ze tří variant zpracovaných v Územní energetické koncepci počítají s tím, že se v Moravskoslezském kraji ještě v roce 2044 bude v elektrárnách a teplárnách spalovat přibližně polovina dnešního množství uhlí.
 
