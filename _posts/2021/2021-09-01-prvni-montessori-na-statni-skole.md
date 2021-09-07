@@ -6,9 +6,10 @@ date: 2021-09-01
 author: Zuzana Klusová
 image: posts/popsana-tabule.jpg
 tags:
+  - Ostrava
+  - Školství
   - Martin-Tomášek
   - Andrea-Hoffmannová
-  - Školství
 ---
 
 Ostrava, 1. září 2021 – **Porubská Základní škola Ukrajinská dnes slavnostně přivítala žákyně a žáky tří prvních tříd. Do nově zřízené Montessori třídy nastoupilo prvních devatenáct dětí. Městský obvod Ostrava-Poruba tímto krokem reaguje na velký zájem rodičů o Montessori pedagogiku. V Ostravě se jedná o vůbec první státní základní školu uplatňující ve výuce prvky tohoto alternativního přístupu, který si zakládá na respektu ke schopnostem dítěte a vytváření vhodných podmínek pro seberozvíjení žáků.**
@@ -30,14 +31,8 @@ dodává náměstkyně primátora pro školství a sport Andrea Hoffmannová.
 
 Kvalitní vzdělání a všestranný rozvoj dítěte se totiž nejlépe daří, když funguje spolupráce rodičů s pedagogy a také spolupráce vedení školy s jejím zřizovatelem.
 
-
-
-
-
-
 ---
 
-Úvodní obrázek zdroj: Martin Tomášek \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
-
+Úvodní obrázek zdroj: [Martin Tomášek]({{'martin-tomasek' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
