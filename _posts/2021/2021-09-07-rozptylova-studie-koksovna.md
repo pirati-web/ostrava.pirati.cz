@@ -7,12 +7,12 @@ author: Jana Ožanová
 image: posts/koksovna_4koure.jpg
 tags:
   - Ostrava
+  - Koksovna
   - Rostislav-Řeha
   - Václav-Parchaňský
-  - Koksovna
 ---
 
-Ostrava, 7. září 2021 - **Konečně! Rada města na svém srpnovém zasedání schválila zpracování rozptylové studie Koksovny Svoboda. Po provedení studie Piráti dlouhodobě volají, ostravská koksovna byla také hlavním impulsem pro vznik pirátské aplikace [Větrání bez jedů](https://vetrani.pirati.cz) před dvěma lety. Studie hodnotící dopad koksovny na kvalitu ovzduší se má realizovat v příštím roce. Piráti rovněž opakovaně vyvzývají ke zpracování studie zdravotních dopadů, s tou se zatím bohužel nepočítá.**
+Ostrava, 7. září 2021 – **Konečně! Rada města na svém srpnovém zasedání schválila zpracování rozptylové studie Koksovny Svoboda. Po provedení studie Piráti dlouhodobě volají, ostravská koksovna byla také hlavním impulsem pro vznik pirátské aplikace [Větrání bez jedů](https://vetrani.pirati.cz "Větrání bez jedů") před dvěma lety. Studie hodnotící dopad koksovny na kvalitu ovzduší se má realizovat v příštím roce. Piráti rovněž opakovaně vyvzývají ke zpracování studie zdravotních dopadů, s tou se zatím bohužel nepočítá.**
 
 <hr />
 
@@ -28,7 +28,6 @@ doplňuje Rostislav Řeha, místostarosta Moravské Ostravy a Přívozu, který 
 
 ---
 
-Úvodní obrázek zdroj: Václav Parchaňský \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
-
+Úvodní obrázek zdroj: Václav Parchaňský /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -

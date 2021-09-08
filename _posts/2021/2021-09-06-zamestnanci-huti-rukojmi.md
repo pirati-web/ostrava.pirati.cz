@@ -4,15 +4,17 @@ category: CLANKY
 title: 'Komentář pirátského poslance Lukáše Černohorského: Zaměstnanci ostravské huti jako rukojmí, z LIBERTY zmizely další povolenky za miliardy a vláda mlčí '
 date: 2021-09-06
 author: Lukáš Černohorský
-image: posts/polansky-bartos-hut.jpg
+authorId: lukas.cernohorsky
+image: posts/cernohorsky-bartos-hut.jpg
 tags:
+  - Ostrava
+  - Komentář
+  - OKD
   - Liberty-Ostrava
   - Lukáš-Černohorský
-  - Ostrava
-  - OKD
 ---
 
-Ostrava, 6. září 2021 – **Když se v květnu na půdě Sněmovny projednávala napjatá situace v ostravské huti Liberty Steel, ptal jsem se Ministra průmyslu a obchodu, zda uvažuje o státní intervenci nebo má jiný plán, pokud dojde k dalšímu vyvedení povolenek a ocelárně bude hrozit úpadek. Odpověděl, že vstup do společnosti vláda zatím neřeší, krizové scénáře ale prý má. A mohli bychom je vidět? Zřejmě ne. Nikdo o nich nic neví.  Varovných signálů je přitom za uplynulé měsíce celá řada. Vedení společnosti hned v květnu porušilo jen pár dní starý slib daný premiérovi, že bez vědomí dozorčí rady nevyvede žádné povolenky určené na investice do modernizace závodu a přechodu k uhlíkové neutralitě mimo Českou republiku. Nyní již víme, že tento slib v červenci porušilo podruhé**
+Ostrava, 6. září 2021 – **Když se v květnu na půdě Sněmovny projednávala napjatá situace v ostravské huti Liberty Steel, ptal jsem se Ministra průmyslu a obchodu, zda uvažuje o státní intervenci nebo má jiný plán, pokud dojde k dalšímu vyvedení povolenek a ocelárně bude hrozit úpadek. Odpověděl, že vstup do společnosti vláda zatím neřeší, krizové scénáře ale prý má. A mohli bychom je vidět? Zřejmě ne. Nikdo o nich nic neví.  Varovných signálů je přitom za uplynulé měsíce celá řada. Vedení společnosti hned v květnu porušilo jen pár dní starý slib daný premiérovi, že bez vědomí dozorčí rady nevyvede žádné povolenky určené na investice do modernizace závodu a přechodu k uhlíkové neutralitě mimo Českou republiku. Nyní již víme, že tento slib v červenci porušilo podruhé.**
 
 <hr />
 
@@ -28,10 +30,8 @@ Zatímco se ale situace v Liberty dál vyostřuje, ministr průmyslu a obchodu i
 
 Nedokážu si představit, že by stát v této situaci odkoupil akcie vytunelované huti, která je navíc energeticky závislá na konkurenčním Tamehu. Ledaže by byla k mání za korunu, stát by pak mohl konsolidovat finance, vyřešit energetickou soběstačnost a najít jí lepšího majitele.
 
-
 ---
 
-Úvodní obrázek zdroj: Dominik Kučera.
-
+Úvodní obrázek zdroj: Dominik Kučera ([web](https://www.dominikkucera.com/ "Dominik Kučera – Photo & Video")) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
