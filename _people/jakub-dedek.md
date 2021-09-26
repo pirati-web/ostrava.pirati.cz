@@ -7,7 +7,6 @@ titles:
 category:
 - koordinator
 - kontaktni_osoba
-- vedeni
 ordpak: 1
 ordVedeni: 5
 img: people/jakub-dedek.jpg

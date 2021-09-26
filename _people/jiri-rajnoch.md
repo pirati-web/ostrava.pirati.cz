@@ -4,9 +4,6 @@ name: Jiří Rajnoch
 titles:
   before: Ing.
   after:
-category:
-- vedeni
-ordVedeni: 2
 img: people/jiri-rajnoch.jpg
 description: 1. místopředseda místního sdružení Ostrava
 mail: jiri.rajnoch@pirati.cz

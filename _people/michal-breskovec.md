@@ -4,11 +4,8 @@ name: Michal Breškovec
 titles:
   before: Ing. 
   after: 
-category:
-- vedeni
-ordVedeni: 3
 img: people/michal-breskovec.jpg
-description: 2. místopředseda místního sdružení Ostrava
+description: Zastupitel městeského obvodu Ostrava-Jih
 mail: michal.breskovec@pirati.cz 
 profiles:
   github:	https://github.com/mbreskovec

@@ -1,15 +1,15 @@
 ---
 uid: pavlina.novackova
-name: Pavlína Nováčková
+name: Pavlína Polášková
 titles:
   before: Bc. 
   after:
 category:
 - vedeni
 - clen
-ordVedeni: 1
+ordVedeni: 2
 img: people/pavlina-novackova.jpg
-description: předsedkyně místního sdružení Ostrava
+description: 1. místopředsedkyně místního sdružení Ostrava
 mail: pavlina.novackova@pirati.cz
 mob:			  
 profiles:
@@ -21,7 +21,7 @@ profiles:
 
 (* 1. března 1988) 
 
-Pavlína Nováčková je od května roku 2016 registrovaným příznivcem České pirátské strany. Narodila se a stále žije v Ostravě.
+Pavlína Polášková je od května roku 2016 registrovaným příznivcem České pirátské strany. Narodila se a stále žije v Ostravě.
 
 Vystudovala Střední odbornou školu v Luhačovicích, obor knihovnické a informační systémy a služby. Na Univerzitě Palackého v Olomouci získala titul Bc. z oboru historie.
 
