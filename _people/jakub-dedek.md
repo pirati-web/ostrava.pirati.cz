@@ -6,11 +6,8 @@ titles:
   after: 
 category:
 - koordinator
-- kontaktni_osoba
-ordpak: 1
-ordVedeni: 5
 img: people/jakub-dedek.jpg
-description: 4. místopředseda místního sdružení Ostrava, koordinátor dobrovolníků pro Moravskoslezský kraj
+description: koordinátor dobrovolníků pro Moravskoslezský kraj
 mail: jakub.dedek@pirati.cz
 mob: +420 770 113 644
 profiles:
