@@ -9,6 +9,8 @@ boroughTeamUid: jih
 linkCategories:
   - name: Magazín Pod Plachtami
     links:
+    - name: Web
+      link: https://podplachtami.info
     - name: Březen 2019
       link: assets/pdf/pod-plachtami-2019-03.pdf
   - name: Sociální sítě

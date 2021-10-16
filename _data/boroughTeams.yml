@@ -75,6 +75,8 @@
       commission: "člen majetkové komise"
     - uid: arnost.zidek
       commission: "člen kulturní a školské komise"
+    - uid: alexander.polansky
+      commission: "člen kontrolního výboru"
     - uid: ondrej.rucka
       committee: "předseda komise proti kriminalitě a člen finančního výboru"
 - boroughTeamUid: poruba
