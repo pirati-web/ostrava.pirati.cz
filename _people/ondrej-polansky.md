@@ -6,10 +6,10 @@ titles:
   after:
 category:
 - clen
-- poslanec
-ordPoslanec: 2
+#- poslanec
+#ordPoslanec: 2
 img: people/ondrej-polansky.jpg
-description: poslanec PSP ČR
+description: byl poslanec PSP ČR 2017-2021
 mail: ondrej.polansky@pirati.cz
 mob: #
 profiles:

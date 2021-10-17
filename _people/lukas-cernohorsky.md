@@ -6,10 +6,10 @@ titles:
   after:
 category:
 - clen
-- poslanec
-ordPoslanec: 1
+#- poslanec
+#ordPoslanec: 1
 img: people/lukas-cernohorsky.jpg
-description: poslanec PSP ČR
+description: byl poslanec PSP ČR 2017-2021
 mail: lukas.cernohorsky@pirati.cz
 mob: +420 601 573 955 
 profiles:

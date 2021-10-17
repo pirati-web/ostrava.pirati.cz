@@ -33,6 +33,8 @@ linkCategories:
 
 > Náš městský obvod je velice rozmanitý nejen historicky a geograficky, ale hlavně lidsky. Žijeme zde všichni spolu, avšak každý s jinými potřebami a přáními. Piráti z Jihu chtějí naslouchat a spolu s dalšími občany pomáhat Jihu v jeho rozvoji. Největší městský obvod si tu péči zaslouží.
 
+Aktuality a informace o práci Pirátu na Jihu naleznete na stránkách: [podplachtami.info](https://podplachtami.info/ "Pod plachtami - Pirátská plavba Ostravou - Jih").
+
 <!-- <section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
     <div class="o-section-block">

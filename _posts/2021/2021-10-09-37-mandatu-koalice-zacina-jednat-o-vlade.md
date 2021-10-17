@@ -1,11 +1,15 @@
 ---
-date:         2021-10-09
-category:     blog
-tags:         volby
-layout:       post
-title:        "Koalice Pirátů a Starostů získala ve volbách 37 mandátů a začne jednat o vládě"
-image:        posts/bartos-rakusan01.jpg
-author:       Mediální odbor
+layout: post
+category: CLANKY
+title: 'Koalice Pirátů a Starostů získala ve volbách 37 mandátů a začne jednat o vládě'
+date: 2021-10-09
+author: Mediální odbor
+image: posts/bartos-rakusan01.jpg
+tags:
+  - Praha
+  - Volby
+  - Ivan-Bartoš
+  - Vít-Rakušan
 ---
 
  
@@ -16,8 +20,16 @@ Praha, 9. října 2021 - **Koalice Pirátů a Starostů získala ve sněmovních
 
 <hr />
 
-> „Podle dosavadního součtu hlasů to vypadá, že koalice Pirátů a Starostů získala 37 mandátů. Čehož si velice vážíme a všem děkujeme za důvěru. Jde o velké vítězství demokratických sil v této zemi a porážku Andreje Babiše. Voliči řekli jeho nekompetentní politice a skandálům jasné ‚dost'. Lidé si stejně jako my přejí vrátit Česku budoucnost a proměnit naši zemi v moderní férový bohatý stát. My můžeme slíbit, že pro to uděláme maximum. Projevila se zde brutální lživá a dezinformační kampaň vedená proti Pirátům, přesto demokratické strany vyhrály, za což jsem moc rád. Česká republika si zaslouží konečně důstojnou schopnou vládu,“ okomentoval výsledky předseda Pirátů Ivan Bartoš s tím, že děkuje všem, kteří přišli k volbám. A také všem, kteří Piráty a Starosty na cestě doprovázejí, podporují je a pomáhají jim uskutečnit společné cíle.
+> „Podle dosavadního součtu hlasů to vypadá, že koalice Pirátů a Starostů získala 37 mandátů. Čehož si velice vážíme a všem děkujeme za důvěru. Jde o velké vítězství demokratických sil v této zemi a porážku Andreje Babiše. Voliči řekli jeho nekompetentní politice a skandálům jasné ‚dost'. Lidé si stejně jako my přejí vrátit Česku budoucnost a proměnit naši zemi v moderní férový bohatý stát. My můžeme slíbit, že pro to uděláme maximum. Projevila se zde brutální lživá a dezinformační kampaň vedená proti Pirátům, přesto demokratické strany vyhrály, za což jsem moc rád. Česká republika si zaslouží konečně důstojnou schopnou vládu,“
 
-> „Nyní zahájíme jednání o vládě, zítra se sejde jak naše společná koaliční rada, tak poslanecké kluby,“ doplnil Bartoš. 
+okomentoval výsledky předseda Pirátů Ivan Bartoš s tím, že děkuje všem, kteří přišli k volbám. A také všem, kteří Piráty a Starosty na cestě doprovázejí, podporují je a pomáhají jim uskutečnit společné cíle.
 
-> „Důvěra, kterou nám ve volbách lidé dali, je pro nás zavazující, moc za ni děkujeme. Vážíme si každého hlasu, který naší koalici odevzdali. Všichni ukázali, že jim budoucnost země a její směřování není lhostejný. Nyní už je nás, abychom prosadili programové priority, se kterými jsme se občanům prezentovali. Chceme jim vrátit ukradenou zemi, připravit vzdělávací systém na 21. století, ochránit krajinu a vrátit slušnost a férovost do politiky. Jde o neopakovatelnou šanci, jak napravit chaos a zmar po vládě Andreje Babiše, musíme ji naplno využít,“ zhodnotil konečné výsledky předseda Starostů Vít Rakušan. Podle něj bude nyní záležet i na vyjednávání s druhým koaličním subjektem. Na tiskové konferenci Rakušan rovněž pogratuloval vítězi voleb, jimž je koalice SPOLU a označil za úspěch nepřítomnost KSČM ve Sněmovně.
+> „Nyní zahájíme jednání o vládě, zítra se sejde jak naše společná koaliční rada, tak poslanecké kluby,“
+
+doplnil Bartoš. 
+
+> „Důvěra, kterou nám ve volbách lidé dali, je pro nás zavazující, moc za ni děkujeme. Vážíme si každého hlasu, který naší koalici odevzdali. Všichni ukázali, že jim budoucnost země a její směřování není lhostejný. Nyní už je nás, abychom prosadili programové priority, se kterými jsme se občanům prezentovali. Chceme jim vrátit ukradenou zemi, připravit vzdělávací systém na 21. století, ochránit krajinu a vrátit slušnost a férovost do politiky. Jde o neopakovatelnou šanci, jak napravit chaos a zmar po vládě Andreje Babiše, musíme ji naplno využít,“
+
+zhodnotil konečné výsledky předseda Starostů Vít Rakušan. Podle něj bude nyní záležet i na vyjednávání s druhým koaličním subjektem. Na tiskové konferenci Rakušan rovněž pogratuloval vítězi voleb, jimž je koalice SPOLU a označil za úspěch nepřítomnost KSČM ve Sněmovně.
+
+- - -
