@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Ostravští Piráti podpořili projekt „PĚŠKY DO ŠKOLY“, přijeli na koloběžce'
 date: 2021-09-16
-author: Jana Ožanová"
+author: Jana Ožanová
 image: posts/pesky-do-skoly.jpg
 tags:					
   - Ostrava
