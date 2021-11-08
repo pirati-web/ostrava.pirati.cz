@@ -8,8 +8,10 @@ image: posts/andrea-hoffmannova_fajne-bistro.jpg
 tags:
   - Ostrava
   - Školství
+  - Vzdělávání
   - Fajne-školní-bistro
   - Andrea-Hoffmannová
+  - David-Valíček
 ---
 
 Ostrava, 15. října 2019 – **Fajne školní bistro dnes poprvé otevřelo své jídelní okénko. Projekt, který na ostravských školách zavádí náměstkyně primátora pro školství a sport Andrea Hoffmannová, reaguje na nevalnou úroveň stravování ve školních jídelnách. Pozvednout jí má populární ostravský šéfkuchař David Valíček. Po vzoru televizních kulinářských show zábavnou formou personálu v kuchyni poradí s organizací, přípravou pokrmů a jejich servírováním.**
