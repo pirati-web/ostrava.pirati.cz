@@ -28,8 +28,8 @@ Děti si tentokrát pochutnaly na doslova vymazleném menu. Jako předkrm se pod
 
 Mentoring již proběhl na ZŠ I. Sekaniny v Porubě, ZŠ Matiční v Moravské Ostravě, ZŠ Šeříkově ve Výškovicích, ZŠ A. Hrdličky v Porubě a ZŠ Srbské ve Výškovicích. Do konce roku jsou v Davidově hledáčku ještě tyto školy:
 
-* 18. 11. 2021 ZŠ F. Formana 45, Ostrava-Dubina 
-* 02. 12. 2021 ZŠ a MŠ Březinova 52, Ostrava-Zábřeh
+* 18.11.2021 ZŠ F. Formana 45, Ostrava-Dubina 
+* 02.12.2021 ZŠ a MŠ Březinova 52, Ostrava-Zábřeh
 
 Připomeňme, že stejně jako kuchařky ze školních jídelen se musí i David Valíček při svém školním vaření vejít do norem a tabulek a respektovat nutriční doporučení a spotřební koš.
 
