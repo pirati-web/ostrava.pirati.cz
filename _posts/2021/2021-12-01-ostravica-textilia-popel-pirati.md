@@ -4,11 +4,11 @@ category: CLANKY
 title: 'Ostravica-Textilia vstává z popela, přispěli k tomu i Piráti'
 date: 2021-12-01
 author: Jana Ožanová		
-image: posts/2021_04_24_moravskoslezky_pirati_1200px-5193.jpg
+image: posts/ostravica-textilia-lukas-ondra.jpg
 tags:					
   - Ostrava			
   - Urbanismus		
-  - Ostravica			
+  - Ostravica-Textilia			
   - Lukáš-Černohorský		
   - Ondřej-Polanský
   - Jaroslav-Němec			
@@ -31,12 +31,12 @@ Společně s ním stáli u zrodu iniciativy za záchranu všech tří historick�
 
 neskrývá nadšení z nové situace kolem historické památky Ondřej Polanský.
 
->„V Ostravě již sice nebydlím, ale Ostravica je stále moje srdcovka. V roce 2012 jsme spolu s Lukášem, Ondrou a dalšími podporovateli spojili síly a založili jsme Petiční výbor za záchranu tří budov Ostravice-Textilie. Ta od Felixe Neumanna měla být v té době dokonce zbourána. Píše se rok 2021 a otevírá se další, doufám, že nadějná, etapa tohoto historického skvostu Ostravy,“
-Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku). Nezapomeň zmínit autora a licenci pod kterou je obrázek zveřejněn - ukázku viz na konci šablony.
+> „V Ostravě již sice nebydlím, ale Ostravica je stále moje srdcovka. V roce 2012 jsme spolu s Lukášem, Ondrou a dalšími podporovateli spojili síly a založili jsme Petiční výbor za záchranu tří budov Ostravice-Textilie. Ta od Felixe Neumanna měla být v té době dokonce zbourána. Píše se rok 2021 a otevírá se další, doufám, že nadějná, etapa tohoto historického skvostu Ostravy,“
 
 dodává Jaroslav Němec.
 
-Úvodní obrázek zdroj: Petr Vrabec \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+---
 
+Úvodní obrázek zdroj: Petr Vrabec \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -

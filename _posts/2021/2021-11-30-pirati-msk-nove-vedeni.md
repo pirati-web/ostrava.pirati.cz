@@ -6,6 +6,7 @@ date: 2021-11-30
 author: Jana Ožanova
 image: posts/1_lukas-cernohorsky.jpg	
 tags:				
+  - Ostrava
   - KS-Moravskoslezsko
   - Lukáš-Černohorský
   - Rostislav-Řeha
@@ -27,6 +28,8 @@ První místopředseda Rostislav Řeha je dlouholetým členem krajského předs
 Druhým místopředsedou byl zvolen Jiří Demel, který ve vedení krajského sdružení usedne již několikáté funkční období. Za důležité považuje zklidnit zjitřené emoce po sněmovních volbách a dál pokračovat v dobře rozdělané práci. I on chce věnovat velkou část energie nadcházejícím komunálním volbám, které ukážou sílu pirátské strany v kraji.
 
 Naplňovat podobné cíle chtějí také další zvolení místopředsedové – právník a dosluhující předseda místního sdružení Opavské Slezsko Marian Babic a bohumínský zastupitel Daniel Galuszka, který je současně místopředsedou místního sdružení Karvinsko.
+
+---
 
 Úvodní obrázek zdroj: Jaroslav Kocián \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
