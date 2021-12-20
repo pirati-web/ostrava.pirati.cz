@@ -7,7 +7,7 @@ titles:
 category:
 - vedeni
 ordVedeni: 1
-img: people/michal-najvarek.jpg
+img: people/michal-najvarek-edit.jpg
 description: Přeseda místního sdružení Ostrava
 mail: michal.najvarek@pirati.cz
 ---
