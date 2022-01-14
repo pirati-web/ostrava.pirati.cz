@@ -31,7 +31,6 @@ dodává krajský zastupitel Ondřej Ručka, který bude na místě poskytovat p
 
 ---
 
-
-Úvodní obrázek zdroj: 1820796 \[[Pixabay   License](https://pixabay.com/cs/service/license/)\], [z Pixabay]
-(https://pixabay.com/cs/illustrations/bez-peněz-chudý-peníze-ne-krize-2070384/).
+Úvodní obrázek zdroj: 1820796 \[[Pixabay   License](https://pixabay.com/cs/service/license/)\],
+[z Pixabay](https://pixabay.com/cs/illustrations/bez-pen%C4%9Bz-chud%C3%BD-pen%C3%ADze-ne-krize-2070384/).
 - - -
