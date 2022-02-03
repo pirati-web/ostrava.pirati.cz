@@ -7,7 +7,7 @@ titles:
 img: people/martin-tomasek.jpg
 description: místostarosta městského obvodu Poruba
 mail: martin.tomasek@pirati.cz
-calendar: bWFydGluLnRvbWFzZWsucG9ydWJhQGdtYWlsLmNvbQ
+calendar: bWFydGluLnRvbWFzZWs2OUBnbWFpbC5jb20
 ---
 
 Martin Tomášek se do Poruby přiženil v roce 1991 a považuje ji za ideální místo k životu.
