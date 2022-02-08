@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Město Ostrava investuje do rozvoje sportu téměř 10 milionů korun'
 date: 2022-02-08
-author: Jana Ožanova
+author: Jana Ožanová
 image: posts/andrea-hoffmannova-hlediste.jpg"
 tags:				
   - Ostrava
