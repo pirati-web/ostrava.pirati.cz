@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Ostrava pokračuje v podpoře alternativního vzdělávání, schválila vznik ScioŠkoly'
 date: 2022-02-09
-authorId: jana.ozanova
+author: Jana Ožanová
 image: posts/pesky-do-skoly.jpg
 tags:				
   - Ostrava
