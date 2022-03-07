@@ -12,7 +12,7 @@ tags:
   - Moravskoslezský-kraj
 ---
 
-Ostrava, 22.února 2022 – **Dobrovolnictví a pomoc potřebným mají Piráti ve svém DNA. Když přišla výzva k účasti na projektu na podporu tzv. nocleženek, neváhali ani chvilku a zapojili se. Nocleženky dlouhodobě fungují pod hlavičkou Armády spásy, nyní vznikla výzva na webu [ Darujme](darujme.cz, "darujme.cz"), která má posílit zapojení veřejnosti a zvýšit povědomí o této problematice.**
+Ostrava, 22.února 2022 – **Dobrovolnictví a pomoc potřebným mají Piráti ve svém DNA. Když přišla výzva k účasti na projektu na podporu tzv. nocleženek, neváhali ani chvilku a zapojili se. Nocleženky dlouhodobě fungují pod hlavičkou Armády spásy, nyní vznikla výzva na webu [ Darujme](https://www.darujme.cz/vyzva/1202881?fbclid=IwAR1Vx4ey6kxQUn6Lx2zmMbTycQmKC3lNMUg5QgdOAIKEyq5TIu6WdMbPAkQ#vyzva, "darujme.cz"), která má posílit zapojení veřejnosti a zvýšit povědomí o této problematice.**
 
 <hr />
 
