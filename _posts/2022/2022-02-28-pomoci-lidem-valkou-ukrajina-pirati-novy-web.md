@@ -19,7 +19,7 @@ Naší lidskou povinností je vynaložit veškeré úsilí k podpoře všech Ukr
 
 Pomoci lidem stiženým válkou na Ukrajině může každý z nás. Zvolte vhodnou formu pomoci, informujte své přátele i okolí. Podporujeme svobodnou Ukrajinu společně!
 
-Sledujte nový web: ukrajina.pirati.cz.
+Sledujte nový web: [ukrajina.pirati.cz](ukrajina.pirati.cz).
 
 ---
 Úvodní obrázek zdroj: Česká pirátská strana
