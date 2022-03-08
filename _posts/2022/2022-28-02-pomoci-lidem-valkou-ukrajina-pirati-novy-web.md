@@ -3,7 +3,6 @@ layout: post
 category: CLANKY
 title: 'Pomoci lidem stiženým válkou na Ukrajině může každý: Piráti spustili nový web'			
 date: 2022-28-02
-authorId: jana.ozanova
 image: posts/podporme-ukrajinu.jpg
 tags:						
   - Zahraničí		
