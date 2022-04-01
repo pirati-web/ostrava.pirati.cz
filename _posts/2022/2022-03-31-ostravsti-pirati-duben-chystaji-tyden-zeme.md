@@ -62,6 +62,6 @@ uzavírá Rostislav Řeha.
 
 ---
 
-Úvodní obrázek zdroj: [[Freepik   License](https://www.freepikcompany.com/legal?_gl=1*12fi5ab*fp_ga*MTk1ODE4MjY5LjE2NDg4MjQ3OTg.*fp_ga_QWX66025LC*MTY0ODgyNDc5Ny4xLjEuMTY0ODgyNTcxMy42MA..*_ga*MTk1ODE4MjY5LjE2NDg4MjQ3OTg.*_ga_18B6QPTJPC*MTY0ODgyNDc5Ny4xLjEuMTY0ODgyNTcxMy42MA..#nav-freepik-license)\] grafika: Hana Pavlíčková
+Úvodní obrázek zdroj: [[Freepik   License](https://www.freepikcompany.com/legal?_gl=1*12fi5ab*fp_ga*MTk1ODE4MjY5LjE2NDg4MjQ3OTg.*fp_ga_QWX66025LC*MTY0ODgyNDc5Ny4xLjEuMTY0ODgyNTcxMy42MA..*_ga*MTk1ODE4MjY5LjE2NDg4MjQ3OTg.*_ga_18B6QPTJPC*MTY0ODgyNDc5Ny4xLjEuMTY0ODgyNTcxMy42MA..#nav-freepik-license)\], [z Freepik](https://www.freepik.com/psd/banner). grafika:Hana Pavlíčková
 
 - - -
