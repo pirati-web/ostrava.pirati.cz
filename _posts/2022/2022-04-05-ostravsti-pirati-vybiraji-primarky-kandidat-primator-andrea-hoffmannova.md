@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Ostravští Piráti vybírají v primárkách kandidáta na post primátora, favoritkou je Andrea Hoffmannová'			
 date: 2022-04-05
-authorId: jana.ozanova
+author: Jana Ožanová
 image: posts/andrea-hoffmannova-vitkovice.jpg
 tags:					
   - Ostrava			
