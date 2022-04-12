@@ -7,7 +7,6 @@ author: Jana Ožanová
 image: posts/radnice-ukrajinska-vlajka.jpg
 tags:				
   - Ostrava
-  - Piráti
   - Ukrajina
 ---
 
