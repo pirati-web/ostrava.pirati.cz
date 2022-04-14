@@ -16,7 +16,8 @@ tags:
 Ostrava, 14. dubna 2022 – **Ostravští Piráti si před Velikonocemi zvolili nového lídra do podzimních komunálních voleb. V jejich čele poprvé stane 39letá Andrea Hoffmannová. Současná náměstkyně primátora pro školství a sport v Ostravě.**
 
 <hr />
-si, že uspěješ?**
+
+**Andreo, blahopřejeme k vítězství v prvním kole pirátských primárek. Věřila jsi, že uspěješ?**
 
 Když se David Witosz vzdal své kandidatury, tak jsem si říkala, že by to mohlo dopadnout dobře. Ale byla jsem nervózní, jak to celé dopadne. Pořád jsem musela v prvním kole získat přes 50 % hlasů a získat akceptaci členské základny. V tradičních stranách by to asi byla formalita. U Pirátů ne. Naše primárky jsou velmi tvrdé.
 
