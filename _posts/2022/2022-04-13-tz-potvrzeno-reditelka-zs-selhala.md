@@ -36,6 +36,6 @@ dodává.
 
 ---
 
-Úvodní obrázek zdroj: Pavlína Polášková
+Úvodní obrázek zdroj: [Pavlína Polášková]({{'pavlina-polaskova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
