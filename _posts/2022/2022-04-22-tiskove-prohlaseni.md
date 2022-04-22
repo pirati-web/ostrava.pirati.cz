@@ -10,7 +10,7 @@ tags:
   - Ostrava		
   - Dunaj-Odra-Labe		
   - Ekologie		
-  - Kauza
+  
 ---
 
 Ostrava, 22. dubna 2022 – **V návaznosti na včera zveřejněné informace serveru zdopravy.cz, který informuje o pokračování projekčních příprav na splavnění řeky Odry vydává Pirátská strana v Ostravě následující tiskové prohlášení.**
