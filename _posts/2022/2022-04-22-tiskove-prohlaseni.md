@@ -3,14 +3,14 @@ layout: post
 category: CLANKY
 title: 'Tiskové prohlášení'			
 date: 2022-04-22
-authorId: jana.ozanova
+author: Jana Ožanová
 image: posts/splavneni-odry.jpg
 tags:			
   - Moravskoslezský-kraj		
   - Ostrava		
   - Dunaj-Odra-Labe		
   - Ekologie		
-  
+
 ---
 
 Ostrava, 22. dubna 2022 – **V návaznosti na včera zveřejněné informace serveru zdopravy.cz, který informuje o pokračování projekčních příprav na splavnění řeky Odry vydává Pirátská strana v Ostravě následující tiskové prohlášení.**
