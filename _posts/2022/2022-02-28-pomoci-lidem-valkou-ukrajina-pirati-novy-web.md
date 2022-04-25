@@ -3,6 +3,7 @@ layout: post
 category: CLANKY
 title: 'Pomoci lidem postiženým válkou na Ukrajině může každý: Piráti spustili nový web'			
 date: 2022-02-28
+author: Mediální odbor 
 image: posts/podporme-ukrajinu.jpg
 tags:						
   - Zahraničí		
@@ -19,8 +20,10 @@ Naší lidskou povinností je vynaložit veškeré úsilí k podpoře všech Ukr
 
 Pomoci lidem stiženým válkou na Ukrajině může každý z nás. Zvolte vhodnou formu pomoci, informujte své přátele i okolí. Podporujeme svobodnou Ukrajinu společně!
 
-Sledujte nový web: [ukrajina.pirati.cz](https://ukrajina.pirati.cz/).
+Sledujte nový web: [ukrajina.pirati.cz](https://ukrajina.pirati.cz/ "Podpořme Ukrajinu").
 
 ---
+
 Úvodní obrázek zdroj: Česká pirátská strana
+
 - - -
