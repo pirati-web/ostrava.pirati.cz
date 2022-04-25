@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Tiskové prohlášení'			
+title: 'Tiskové prohlášení k projektu splavnění Odry'			
 date: 2022-04-22
 author: Jana Ožanová
 image: posts/splavneni-odry.jpg
