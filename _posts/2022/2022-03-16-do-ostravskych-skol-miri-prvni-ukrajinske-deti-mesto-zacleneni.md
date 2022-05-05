@@ -44,7 +44,7 @@ Město zároveň vyhledává mezi příchozími ukrajinskými maminkami odbornic
 
 prozradila ostravská náměstkyně.
 
-Město Ostrava také školám doporučilo zaevidovat své možnosti vzdělávání ukrajinských dětí a žáků na portálu [Shkola](https://shkola.cz "Web pro pomoc školní docházkou pro ukrajínské děti"). Aktuální informace k tématu začleňování dětí do školní docházky v České republice najdete na webu [talentOVA!!!](talentova.cz "Projekt Ostravy na podporu vzdělávání").
+Město Ostrava také školám doporučilo zaevidovat své možnosti vzdělávání ukrajinských dětí a žáků na portálu [Shkola](https://shkola.cz "Web pro pomoc školní docházkou pro ukrajínské děti"). Aktuální informace k tématu začleňování dětí do školní docházky v České republice najdete na webu [talentOVA!!!](https://talentova.cz/ "Projekt Ostravy na podporu vzdělávání").
 
 ---
 
