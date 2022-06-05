@@ -1,9 +1,9 @@
 ---
 layout: post
 category: CLANKY
-title: '„Z Přívozu bude brzy nový Karlín,”'			
+title: '„Z Přívozu bude brzy nový Karlín,” říká místostarosta Moravské Ostravy a Přívozu David Witosz'			
 date: 2022-06-05
-author: Jana Ožanová
+authorId: jana.ozanova
 image: posts/david-witosz-cerny-kun.jpg
 tags:				
   - Ostrava			
@@ -13,7 +13,7 @@ tags:
   - Přivoz
 ---
 
-Ostrava, 5. června 2022 – **říká kandidát na starostu obvodu Moravská Ostrava a Přívoz David Witosz. V rozhovoru prozradí, co vše se Pirátům v uplynulých 4 letech v Ostravě povedlo i proč rád nosí triko Forever Fracek nebo japonské digitálky.**
+Ostrava, 5. června 2022 – **Na zahrádce Černý Kůň Marketu pod ikonickým muralem jsme si povídali s kandidátem na starostu obvodu Moravská Ostrava a Přívoz Davidem Witoszem. V rozhovoru prozradil, co vše se Pirátům v uplynulých 4 letech v Ostravě povedlo i proč rád nosí triko Forever Fracek nebo japonské digitálky.**
 
 **Davide, na podzim povedeš Piráty do voleb ve volebním obvodu Moravská Ostrava a Přívoz. Od roku 2018 jsi tady prvním místostarostou. Pojďme začít náš rozhovor malým ohlédnutím. Co považuješ za největší úspěch? Na co si nejvíce pyšný?**
 
