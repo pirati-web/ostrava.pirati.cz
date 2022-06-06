@@ -10,7 +10,7 @@ tags:
   - Ekonomika		
   - David-Witosz		
   - Rozhovor			
-  - Přivoz
+  - MOaP
 ---
 
 Ostrava, 5. června 2022 – **Na  zahrádce Černý Kůň Marketu pod ikonickým muralem jsme si povídali s kandidátem na starostu obvodu Moravská Ostrava a Přívoz Davidem Witoszem. V rozhovoru prozradil, co vše se Pirátům v uplynulých 4 letech v Ostravě povedlo i proč rád nosí triko Forever Fracek nebo japonské digitálky.**
