@@ -1,24 +1,23 @@
 ---
 layout: post
 category: CLANKY
-title: '„Z Přívozu bude brzy nový Karlín,” říká místostarosta Moravské Ostravy a Přívozu David Witosz'			
+title: '„Z Přívozu bude brzy nový Karlín,” říká místostarosta Moravské Ostravy a Přívozu David Witosz'	
 date: 2022-06-05
 author: Jana Ožanová
 image: posts/david-witosz-cerny-kun.jpg
-tags:				
-  - Ostrava			
-  - Ekonomika		
-  - David-Witosz		
-  - Rozhovor			
-  - Přivoz
+tags:
+  - Ostrava
+  - MOaP
+  - Ekonomika
+  - Rozhovor
+  - David-Witosz
 ---
 
 Ostrava, 5. června 2022 – **Na  zahrádce Černý Kůň Marketu pod ikonickým muralem jsme si povídali s kandidátem na starostu obvodu Moravská Ostrava a Přívoz Davidem Witoszem. V rozhovoru prozradil, co vše se Pirátům v uplynulých 4 letech v Ostravě povedlo i proč rád nosí triko Forever Fracek nebo japonské digitálky.**
 
-**Davide, na podzim povedeš Piráty do voleb ve volebním obvodu Moravská Ostrava a Přívoz. Od roku 2018 jsi tady prvním místostarostou. Pojďme začít náš rozhovor malým ohlédnutím. Co považuješ za největší úspěch? Na co si nejvíce pyšný?**
-
 <hr />
 
+**Davide, na podzim povedeš Piráty do voleb ve volebním obvodu Moravská Ostrava a Přívoz. Od roku 2018 jsi tady prvním místostarostou. Pojďme začít náš rozhovor malým ohlédnutím. Co považuješ za největší úspěch? Na co si nejvíce pyšný?**
 
 Myslím, že se nám v Moravské Ostravě a Přívozu podařilo uskutečnit dost dobrých věcí. Zpočátku nám lidé asi moc nevěřili. Myslím, že i řada úředníků na radnici si říkala, co nového by tady ti mladí Piráti mohli přinést. Ale postupně se nám začalo dařit získávat si jejich důvěru, což je základ pro jakýkoli úspěch. Klíčové bylo, že jsme se zaměřili na základní ekonomiku obvodu a její fungování.
 
@@ -81,6 +80,7 @@ To jo. Ostravu miluji. Jsem okouzlený historií a úspěchy našeho města. Svo
 **Přesně to je David Witosz. Náš rozhovor pokračoval ještě další dvě hodiny. Povídali jsme si o Ostravě, o Davidově milované železniční dopravě i o životě. Mezitím se u našeho stolku zastavilo postupně 9 lidí, kteří se s Davidem chtěli pozdravit. V Moravské Ostravě a Přívozu se těší David velkému respektu. Podle mě zcela právem.**
 
 ---
+
 Úvodní obrázek zdroj: Petr Vrabec \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
