@@ -10,7 +10,6 @@ tags:
   - Slezská-Ostrava
   - Bazaly		
   - Zuzana-Koláříková			
-  - Kauza			
 ---
 
 Ostrava, 20. června 2022 – **Piráti v zastupitelstvu Slezské dosud chybí. Přesto mají na vzniku nových Bazalů, nejvýznamnějšího projektu v obvodu v uplynulých 4 letech, velký podíl. Lídryně Pirátů na Slezské Zuzana Kolaříková prozradí, co vše ji na Slezské chybí, proč ráda chodí pěšky nebo proč radí v Senátu se zákony.**
