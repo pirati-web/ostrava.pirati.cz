@@ -26,7 +26,7 @@ Pro zbytek města je Slezská většinou vnímána jako ta část, kde mají ZOO
 
 **Jaké jsou ty nedořešené problémy?**
 
-Hlavní problém vidím v nedostatečné občanské vybavenosti. Náš obvod je v podstatě jedna velká obytná čtvrť stávající převážně z rodinných domů a menších bytovek bez potřebného zázemí jako jsou dětská hřiště, obchody, kavárny, restaurace nebo prostory pro pasivní i aktivní odpočinek. Úplně zde chybí veřejná prostranství, kde by se přirozeně potkávali místní lidé. Vždyť tu nemáme ani jedno klasické náměstí.
+Hlavní problém vidím v nedostatečné občanské vybavenosti. Náš obvod je v podstatě jedna velká obytná čtvrť stávající převážně z rodinných domů a menších bytovek bez potřebného zázemí jako jsou dětská hřiště, obchody, kavárny, restaurace nebo prostory pro pasivní i aktivní odpočinek. Úplně zde chybí veřejná prostranství, kde by se přirozeně potkávali místní lidé. 
 
 **Co s tím?**
 
