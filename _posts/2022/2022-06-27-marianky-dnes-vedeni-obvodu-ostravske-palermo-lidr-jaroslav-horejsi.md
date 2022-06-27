@@ -1,112 +1,71 @@
 ---
 layout: post
 category: CLANKY
-title: 'Nadpis článku'			#Zachovat jednoduché úvozovky
-date: 2021-01-31	#Datum a čas, kdy má být článek zveřejněn podle ISO8601
-author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
-authorId: jakub.dedek			#Musí existovat profil v "./_people/"
-image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
-tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou. Seznam již použitých tagů je zde: https://mrak.pirati.cz/s/aJM27bpD7QfDCwg
-  - Město/obvod			#Ostrava-Jih
-  - Programová oblast		#Transparence
-  - Osoby			#Lukáš-Černohorský
-  - Spojený tag			#Evropská-komise (tag o dvou slovech vždy spojit pomocí "-")
-  - Kauza			#Další relevantní tagy
+title: '„Mariánky jsou dnes díky vedení obvodu považovány za ostravské Palermo,” říká lídr Pirátů v Mariánských Horách Jaroslav Hořejší.'			
+date: 2022-06-27
+author: Mediální odbor		
+image: posts/jaroslav-horejsi2.jpg
+tags:					
+  - Ostrava		
+  - Mariánské-Hory		
+  - Jaroslav-Hořejší		
+
 ---
 
-Ostrava, 31. ledna 2021 – **Místo a datum vždy v tomto tvaru! Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2019-01-41-rucnikovy-den.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/rucnikovy-den.html. Perex vždy tučně.**
+Ostrava, 26. června 2022 – **Před létem se na filmová plátna vrátil TOP GUN. Chvíle, kdy Tom Cruise hovořil s Valem Kilmerem prostřednictvím počítače, patří k nejdojemnějším scénám celého filmu. Můj rozhovor s Jaroslavem Hořejším, lídrem Pirátů v Mariánkách, probíhal obdobně. Vzhledem k Jarkově postižení (v dětství prodělal dětskou obrnu) mi i on ťukal své odpovědi raději do klávesnice počítače. Na rozdíl od hrdiny na filmovém plátně však byl Jarek plný energie. Seznamte se s odvážným mužem na vozíčku, který má ambiciózní plán, jak z Mariánek vymést korupci a udělat z nich zase obvod, na který budou jeho obyvatelé pyšní.**
 
-Odděluje perex a text čárou:
 <hr />
 
-Mezi odstavci musí být vždy jeden prázdný řádek.
+**Jarku, i přes zdravotní hendikep jsi se stal lídrem Pirátů v Mariánských Horách. To je velmi odvážné! Zvláště v situaci, kdy po úřadu v Mariánkách běhá protikorupční policie. Co bys udělal jako první věc, kdybys s Piráty uspěl v podzimních volbách?**
 
-> „Přímá řeč se odděluje do vlastního odstavce, který je graficky oddělen. Nezapomeňte správný, Český tvar uvozovek, tak jako jsou v této poznámce.“
+Hlavním úkolem nového vedení bude vrátit Mariánským Horám především důvěryhodnost. Je mi smutno, když vidím, že jsou Mariánky považovány za ostravské Palermo! Jedním z prvních kroků musí být audit finančních toků. Všimni si, že stávající vedení obvodu se tváří, jako by se nic nestalo. Přitom potřebujeme rozkrýt všechny špinavé kšefty, které se tady děly. V druhé fázi je potřeba radnici otevřít lidem a začít s transparentností. K tomu může přispět digitalizace. To je něco, čemu velmi rozumím. Nuly a jedničky jsou můj svět. V tuto chvíli si dodělávám doktorské studium na VŠB Technické univerzitě v oboru informatika. Takže mám jasnou představu, jak postupovat.
 
-Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku). Nezapomeň zmínit autora a licenci pod kterou je obrázek zveřejněn - ukázku viz na konci šablony.
+**Myslíš si, že Piráti mohou v Mariánkách získat dostatek hlasů? Dosud v zastupitelstvu chyběli.**
 
-{% asset 'articles/cesta_k_obrazku/jmeno-obrazku.jpg' alt='Text který se objeví místo obrázku, pokud ten nelze zobrazit' %}
+Těžko říct. Záleží na tom, jak moc lidem korupce v obvodu vadí. Podle toho, co slyším kolem sebe, tak lidi jsou vážně naštvaní. Piráti jsou dnes jediná skutečně protikorupční strana, která se může pochlubit čistým štítem i důslednou kontrolou moci a mocných. Všechny jiné politické strany i takzvaná hnutí, ať už ostravská nebo celostátní, v boji s korupcí selhávají.
 
-<p style="text-align: center">
-<i>Popis obrázku, vystředěný a italikou.</i>
-</p>
+**Co když to je náhoda?**
 
-Vložení odkazu na lokální soubor:
+To si nemyslím. Piráti jsou mentálně nastaveni jinak. Všichni jsme šli do politiky s tím, že kšeftovat se státními nebo veřejnými zakázkami nebo brát desátky podle návodu Faltýnkova deníčku není normální. A že tento nešvar chceme z politiky vykořenit. Máme za sebou 13 let bez ztráty kytičky. Interně máme nastavena velmi přísná protikorupční pravidla a jakmile by se objevil nějaký náznak prohřešku, náš analytický tým by na to okamžitě upozornil. Všimni si, že i v současné korupční kauze STAN, to byli Piráti, kteří tušili, že STAN může mít problém a ptali se pana Rakušana, zda je vše OK. Dostalo se nám ujištění, že ano. Bohužel to nebyla pravda.  
 
-[Text odkazu]({{'jmeno-soubor.pdf' | prepend: '/assets/pdf/' | relative_url}} "Text který se objeví po najetí na odkaz")
+**Pojďme od korupce k dalšímu letitému problému Mariánských Hor. Bezpečnosti. Zatímco Poruba, kde jsou Piráti ve vedení, je dlouhodobě považována za oázu bezpečí v Ostravě, Mariánky jsou na opačném spektru.**
 
-# Nadpis H1
+Ano, to je bohužel pravda. Bezpečnost vnímám stále jako velký problém našeho obvodu. A nemám z toho žádnou radost, protože situace může na podzim dále eskalovat. V době rostoucí inflace a zdražování energií bude stále více domácností pociťovat nedostatek financí. Obávám se, že to v našem obvodu může vést ke zvýšení trestné činnosti.
 
-## Nadpis H2
+**Co se s tím dá podle tebe dělat?**
 
-##### Nadpis H5
+Vše podle mě mají v rukou 4 subjekty. Městská policie, státní policie, neziskový sektor a samozřejmě také vedení obvodu. Jedině pokud začnou všechny 4 subjekty spolupracovat, může dojít ke zlepšení. Důležité je také posílit opatření v rámci prevence kriminality. A v neposlední řadě je důležité podpořit činnost terénních sociálních pracovníků, kteří odvádějí v ulicích velkou práci.
 
-**Toto je bold text**
+D**otkli jsme se navrácení důvěryhodnosti, transparentnosti radnice i bezpečnosti v obvodu. Co dalšího by Piráti po příchodu do vedení v Mariánkách udělali?**
 
-__Toto je také bold text__
+Především chceme vytvořit vstřícný úřad, kde si většinu věcí vyřídíš z pohodlí domova nebo za pár minut na radnici. Úřady nemají být zdrojem neustálých komplikací, byrokratických šíleností a komplikovaných postupů. Se státem nebo radnicí nemáme bojovat, tak jako dosud, ale měli bychom v nich cítit podporu. Za ty roky jsem už vyplnil tolik papírů a formulářů, že bych tím vytapetoval několik pokojů.
 
-*Toto je text italikou*
+**Co dále v obvodu chybí?**
 
-_Toto je také text italikou_
+Chceme v obvodu udržet mladé. Proto pro rodiny s dětmi potřebujeme vybudovat nová dětská hřiště a pro teenagery třeba skatepark, aby tady všechny věkové skupiny našly prostor pro trávení volného času. Samozřejmě budeme volit vhodná místa po konzultaci s urbanisty a obyvateli obvodu. Budeme také chtít zmodernizovat objekt radnice. Stav budovy bohužel v mnohém odráží způsob jejího vedení. Budova neodpovídá současným požadavkům 21. století a navíc nepatří zrovna k ukázkovým příkladům bezbariérových řešení, já bych o tom mohl vykládat hodiny. Plánujeme zadat nezávislou studii, která navrhne nejvhodnější řešení pro přestavbu radnice Mariánských Hor a Hulvák.
 
-~~Toto je přeškrtnutý text~~
+**Myslíš, že by se ti podařilo tvář obvodu změnit?**
 
-Avšak toto je ~spodní index~  a ^horní index^
+V politice už jsem dlouho, takže vím, že jakékoliv sliby jsou ošidné. Slibovat lidem modré z nebe není fér. Já mohu lidem v Mariánkách slíbit, že náš přístup bude vždy “data based”. To znamená založen na faktech a ne na dojmech. A už vůbec ne na kamarádšoftech. My Piráti jsme generace, která se řídí daty, analýzami a příklady dobré praxe. Prosazujeme prostě postupy, které fungují, ať jsou z toho či onoho koutu politického spektra. Tohle bych chtěl na radnici v Mariánkách zavést. Když se mi to podaří, budu spokojený.
 
-1. První položka číslovaného seznamu
-2. Druhá položka číslovaného seznamu
+**Jsi členem Komise pro osoby se zdravotním postižením v Moravskoslezském kraji. Co se ti zatím povedlo prosadit v této funkci?**
 
-Všechny následující příklady seznamu jsou ekvivalentní:
+Můj dlouhodobý cíl v politice je především zlepšit sociální služby, zvýšit bezbariérovost a plnohodnotné zapojení všech skupin občanů. Slovo všech bych rád zdůraznil. Nemluvím jen o lidech se zdravotním znevýhodněním, ale také třeba o rodičích s dětmi nebo o seniorech. Nám Pirátům se často předhazuje, že seniory přehlížíme. Přitom to není pravda. Naší snahou je zapojit seniory do aktivního života. Aby jen neseděli doma a nenadávali. My Piráti naopak chceme, aby senioři svůj podzim života prožili plnohodnotně a smysluplně. Ale abych odpověděl na tvou otázku. V rámci krajské komise se mi povedlo prosadit kurzy o komunikaci s lidmi se zdravotním znevýhodněním. Lidé často nevědí, jak s námi hendikepovanými mluvit, a tak se nám raději vyhýbají, a to je škoda.
 
-* Seznam
+**Když jsme narazili na tvůj hendikep, zeptám se, jak moc je obtížné být politik s hendikepem? Na jaké překážky naražíš?**
 
-- Opět seznam
+Jako každý člověk se zdravotním znevýhodněním musím vše hodně dopředu plánovat, abych se mohl dostat tam, kam potřebuji. Bohužel řada budov i veřejných prostranství není v Ostravě ani v našem obvodu bezbariérová. To mi hodně a zbytečně komplikuje život. Například místo schůzky vždy vybírám hlavně podle toho, jestli jsem vůbec schopen se tam s pomocí asistenta v pohodě dostat. Když jdu na nějakou akci, snažím se sehnat kontakt na pořadatele a říct, že jsem vozíčkář, abych se vyhnul neočekávaným problémům. Hendikep mám od dětství následkem dětské obrny. Dříve mi pomáhali rodiče, teď mám asistenta. Sehnat asistenta je dnes velmi těžké. Tohle je podle mě jeden z největších dnešních problémů lidí s hendikepem.
 
-+ A zase seznam
+**Ještě jsme se nezmínili o tvé práci. Čemu se věnuješ profesně?**
 
-Co když děláš seznam a potřebuješ v jedné položce třeba adresu na více řádků? Použij na konci řádku dvě mezery:
+Kromě studia a práce na kraji, o kterém jsem mluvil, se starám o webové stránky Pirátů v Ostravě i v celém Moravskoslezském kraji. Kolegové mi někdy z legrace přezdívají “ostravský Stephen Hawking”. Ale já to dělám moc rád. Přál bych všem zažít přátelskou atmosféru, která u Pirátů panuje. Líbí se mi i přímá demokracie uvnitř strany. Každý z nás má možnost ovlivňovat směřování naší strany. Nejsme strana jednoho muže. O všem důležitém se u nás hlasuje.
 
-- email: jakub.pirat@pirati.cz
-- telefon: +420 609 112 777
-- adresa:  
-Ulice Johna Silvera 1  
-Ostrov pokladů  
-- datová schránka: pffu666
+**Vidím, že jsi neustále plný elánu. Zajímalo by mě, kde dobíjíš baterky?**
 
-[Toto je text odkazu](https://www.pirati.cz "Text který se objeví po najetí na odkaz")
-
-Pokud je potřeba nezalomitelná mezera, použij &nbsp;
-Třeba OS&nbsp;X.
-
-Pokud chceš použít v textu nějaký znak, který Markdown používá v textu pro formátování, dej před něj znak \.
-Třeba \* Toto nebude seznam.
-
-Text který má být kůs kódu se uzavírá mezi obrácené uvozovky, viz příklad:
- toto je `kód`.
-
-Poznámka pod čarou:
-Ahoj tady[^1] je poznámka pod čarou. A zde [^2] je druhá.
-
-[^1]: První poznámka pod čarou.
-[^2]: Druhá poznámka pod čarou.
-
-Jednoduchá tabulka:
-
-| **První řádek tabulky** | **druhý sloupec** |
-|---|---|
-| Druhý řádek tabulky | druhý sloupec |
-| Třetí řádek tabulku | druhý sloupec |
-
-A pokud to vše nestačí, lze použít i  <font color="red">HTML!</font>
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Fusce nibh. Etiam dictum tincidunt diam. Suspendisse nisl. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Fusce aliquam vestibulum ipsum. Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat.
+Ve volnu hrozně rád navštěvuji různé kulturní akce od festivalů po plesy. V Ostravě nejraději chodím na ostravské Výstaviště a také na Stodolní. Kromě toho i rád čtu detektivky a sci-fi romány. Mám rád Jeffreyho Deavera a Star Trek. A mou velkou vášní je cestování. I když je to pro mě náročné, snažím se hodně cestovat. Jezdím po celé republice. Občas se lidé diví, že se mi chce. A já všem, co mají zdravé nohy, říkám, že se divím, že se jim nechce. Život si přece musíme užít.
 
 ---
 
-Poznámka o autorovi a licenci použitého obrázku:
-
-Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: Petr Vrabec \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
