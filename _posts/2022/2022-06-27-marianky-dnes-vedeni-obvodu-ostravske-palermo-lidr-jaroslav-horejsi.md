@@ -12,7 +12,7 @@ tags:
 
 ---
 
-Ostrava, 26. června 2022 – **Před létem se na filmová plátna vrátil TOP GUN. Chvíle, kdy Tom Cruise hovořil s Valem Kilmerem prostřednictvím počítače, patří k nejdojemnějším scénám celého filmu. Můj rozhovor s Jaroslavem Hořejším, lídrem Pirátů v Mariánkách, probíhal obdobně. Vzhledem k Jarkově postižení (v dětství prodělal dětskou obrnu) mi i on ťukal své odpovědi raději do klávesnice počítače. Na rozdíl od hrdiny na filmovém plátně však byl Jarek plný energie. Seznamte se s odvážným mužem na vozíčku, který má ambiciózní plán, jak z Mariánek vymést korupci a udělat z nich zase obvod, na který budou jeho obyvatelé pyšní.**
+Ostrava, 27. června 2022 – **Před létem se na filmová plátna vrátil TOP GUN. Chvíle, kdy Tom Cruise hovořil s Valem Kilmerem prostřednictvím počítače, patří k nejdojemnějším scénám celého filmu. Můj rozhovor s Jaroslavem Hořejším, lídrem Pirátů v Mariánkách, probíhal obdobně. Vzhledem k Jarkově postižení (v dětství prodělal dětskou obrnu) mi i on ťukal své odpovědi raději do klávesnice počítače. Na rozdíl od hrdiny na filmovém plátně však byl Jarek plný energie. Seznamte se s odvážným mužem na vozíčku, který má ambiciózní plán, jak z Mariánek vymést korupci a udělat z nich zase obvod, na který budou jeho obyvatelé pyšní.**
 
 <hr />
 
@@ -66,6 +66,6 @@ Ve volnu hrozně rád navštěvuji různé kulturní akce od festivalů po plesy
 
 ---
 
-Úvodní obrázek zdroj: Petr Vrabec \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: Martin Procházka
 
 - - -
