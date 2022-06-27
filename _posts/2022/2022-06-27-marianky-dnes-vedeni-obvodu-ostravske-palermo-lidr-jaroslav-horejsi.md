@@ -36,7 +36,7 @@ Ano, to je bohužel pravda. Bezpečnost vnímám stále jako velký problém na�
 
 Vše podle mě mají v rukou 4 subjekty. Městská policie, státní policie, neziskový sektor a samozřejmě také vedení obvodu. Jedině pokud začnou všechny 4 subjekty spolupracovat, může dojít ke zlepšení. Důležité je také posílit opatření v rámci prevence kriminality. A v neposlední řadě je důležité podpořit činnost terénních sociálních pracovníků, kteří odvádějí v ulicích velkou práci.
 
-D**otkli jsme se navrácení důvěryhodnosti, transparentnosti radnice i bezpečnosti v obvodu. Co dalšího by Piráti po příchodu do vedení v Mariánkách udělali?**
+**Dotkli jsme se navrácení důvěryhodnosti, transparentnosti radnice i bezpečnosti v obvodu. Co dalšího by Piráti po příchodu do vedení v Mariánkách udělali?**
 
 Především chceme vytvořit vstřícný úřad, kde si většinu věcí vyřídíš z pohodlí domova nebo za pár minut na radnici. Úřady nemají být zdrojem neustálých komplikací, byrokratických šíleností a komplikovaných postupů. Se státem nebo radnicí nemáme bojovat, tak jako dosud, ale měli bychom v nich cítit podporu. Za ty roky jsem už vyplnil tolik papírů a formulářů, že bych tím vytapetoval několik pokojů.
 
