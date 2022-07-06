@@ -6,9 +6,14 @@ date: 2022-06-27
 author: Mediální odbor		
 image: posts/jaroslav-horejsi2.jpg
 tags:					
-  - Ostrava		
-  - Mariánské-Hory		
-  - Jaroslav-Hořejší		
+  - Ostrava
+  - Mariánské-Hory
+  - Volby
+  - Rozhovor
+  - Bezbariérovost
+  - Bezpečnost
+  - Korupce
+  - Jaroslav-Hořejší
 
 ---
 
@@ -46,7 +51,7 @@ Chceme v obvodu udržet mladé. Proto pro rodiny s dětmi potřebujeme vybudovat
 
 **Myslíš, že by se ti podařilo tvář obvodu změnit?**
 
-V politice už jsem dlouho, takže vím, že jakékoliv sliby jsou ošidné. Slibovat lidem modré z nebe není fér. Já mohu lidem v Mariánkách slíbit, že náš přístup bude vždy “data based”. To znamená založen na faktech a ne na dojmech. A už vůbec ne na kamarádšoftech. My Piráti jsme generace, která se řídí daty, analýzami a příklady dobré praxe. Prosazujeme prostě postupy, které fungují, ať jsou z toho či onoho koutu politického spektra. Tohle bych chtěl na radnici v Mariánkách zavést. Když se mi to podaří, budu spokojený.
+V politice už jsem dlouho, takže vím, že jakékoliv sliby jsou ošidné. Slibovat lidem modré z nebe není fér. Já mohu lidem v Mariánkách slíbit, že náš přístup bude vždy „data based“. To znamená založen na faktech a ne na dojmech. A už vůbec ne na kamarádšoftech. My Piráti jsme generace, která se řídí daty, analýzami a příklady dobré praxe. Prosazujeme prostě postupy, které fungují, ať jsou z toho či onoho koutu politického spektra. Tohle bych chtěl na radnici v Mariánkách zavést. Když se mi to podaří, budu spokojený.
 
 **Jsi členem Komise pro osoby se zdravotním postižením v Moravskoslezském kraji. Co se ti zatím povedlo prosadit v této funkci?**
 
