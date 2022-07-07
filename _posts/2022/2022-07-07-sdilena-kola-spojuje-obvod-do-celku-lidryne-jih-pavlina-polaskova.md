@@ -4,7 +4,7 @@ category: CLANKY
 title: '„Sdílená kola spojují náš obvod do jednoho celku“, říká Pavlína Polášková, lídryně Pirátů v Ostravě-Jihu'
 date: 2022-07-07
 author: Jana Ožanová
-image: posts/pavlina-polaskova.jpg
+image: posts/pavlina-polaskova2.jpg
 tags:						
   - Ostrava
   - Ostrava-Jih
@@ -74,12 +74,6 @@ Jsem typický evenťák a ti moc nespí. Na Jihu navíc máme skvělý pirátsk�
 
 ---
 
-Poznámka o autorovi licenci použitého obrázku v HTML:
-
-Úvodní obrázek zdroj: Lukáš Mižoch [<a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File:ArcelorMittal_Ostrava,_pohled_z_Nov%C3%A9_radnice,_srpen_2011.jpg">z Wikimedia Commons</a>
-
-nebo podobně v Markdown:
-
-Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: Lucie Maceczková
 
 - - -
