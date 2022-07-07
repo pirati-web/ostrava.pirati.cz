@@ -1,129 +1,42 @@
 ---
 layout: post
 category: CLANKY
-title: 'Nadpis článku'			#Zachovat jednoduché úvozovky
-date: 2019-01-31T08:00:00.000Z	#Datum a čas, kdy má být článek zveřejněn
-author: Jméno Příjmení			#Použije se, pokud není vyplněno "authorId"
-authorId: jakub.dedek			#Musí existovat profil v "./_people/"
-image: posts/uvodni-obrazek.jpg	#Musí existovat v "./assets/img/posts/, rozlišení 1200x628px"
-tags:						#První písmeno velké, s diakritikou, v případě dvou slov (např. jméno a příjmení) spojené pomlčkou. Seznam již použitých tagů je zde: https://mrak.pirati.cz/s/aJM27bpD7QfDCwg
-  - Město/obvod			#Ostrava-Jih
-  - Programová oblast		#Transparence
-  - Osoby			#Lukáš-Černohorský
-  - Spojený tag			#Evropská-komise (tag o dvou slovech vždy spojit pomocí "-")
-  - Kauza			#Další relevantní tagy
+title: 'Ostrava je město sportu: Pod vedením náměstkyně Andrey Hoffmannové má ostravský sport největší podporu v Česku'			
+date: 2022-06-30
+author: Jana Ožanová
+image: posts/andrea-hoffmannova-tretra.jpg
+tags:					
+  - Ostrava
+  - Sport		
+  - SPORT-22
+  - Andrea-Hoffmannová
 ---
 
-Ostrava, 31. ledna 2019 – **Místo a datum vždy v tomto tvaru! Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2019-01-41-rucnikovy-den.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/rucnikovy-den.html. Perex vždy tučně.**
+Ostrava, 30.června 2022 – **Ostrava se v posledních letech může pochlubit nejmasivnější podporou sportu ze všech měst v České republice. Odbor školství a sportu, který čtvrtým rokem vede náměstkyně primátora Andrea Hoffmannová, vydává na podporu sportu přibližně 500 milionů korun. Tolik peněz na sport nedává ani Praha či Brno. Město finančně provozuje finančně dodstupné sportoviště včetně koupališť a bazénů, podporuje sportovce, kluby, sportovní aktivity pro děti a mládež a systematicky investuje do sportovní infrastruktury. Přispívá také na řadu prestižních sportovních akcí a projekty sloužící k popularizaci sportu. Ostrava se stává městem sportu, které má co nabídnout profesionálním sportovcům, dětem i veřejnosti.**
 
-Odděluje perex a text čárou:
 <hr />
+Umožnit sportovat a aktivně trávit čas co nejvíce lidem. Takový cíl si dala Andrea Hoffmannová, když před 4 roky převzala štafetu na odboru školství a sportu v Ostravě. Jde na to typicky po pirátsku - systematicky. Postupnými kroky chce Ostravu “zasíťovat“ kvalitními sportovišti, vybudovat zázemí ve všech městských částech a zkrátit tak lidem cestu k pohybu. Pod svým odborem buduje nové haly a sportovní areály, rekonstruuje ty staré, na sídlištích a v parcích přibývají workoutová hřiště. Do sportovní infrastruktury město investuje desítky milionů ročně, veškeré realizované, probíhající i plánované investice najdete na webu fajnovysport.cz.
 
-Mezi odstavci musí být vždy jeden prázdný řádek.
+>„Mám radost, kolik sportovišť vyrostlo během mojí „čtyřletky“ ze země, kolik areálů se podařilo zrekonstruovat a kolik projektů se povedlo i přes překážky dotáhnout do zdárného konce. Z chystaných realizací bych vypíchla Multifunkční sportovní halu, ve které si veřejnost, profi sportovci i kluby už brzy zahrají volejbal, florbal, basketbal, stolní tenis a další sporty. Jde o unikátní projekt postavený na partnerství veřejného a soukromého sektoru,“
 
->„Přímá řeč se odděluje do vlastního odstavce, který je graficky odělen. Nezapomeňte správný, Český tvar úvozovek, tak jako jsou v této poznámce.”
+říká Andrea Hoffmannová.
 
-Vložení obrázku (všechny obrázky by měly mít shodné rozměry, nebo aspoň šířku). Nezapomeň zmínit autora a licenci pod kterou je obrázek zveřejněn - ukázku viz na konci šablony.
+Na své si nepřijdou jen místní, Ostrava je taky městem světového sportu a velkých hapenningů. Vysokou laťku si za éry pirátské sportovní náměstkyně drží tradiční akce jako Zlatá tretra nebo MS v ledním hokeji, tím to ale zdaleka nekončí. A Ostravě máme i nové sportovní tradice jako třeba fenomenální MS v parahokeji se světovým diváckým rekordem nebo čtyřhvězdičkový turnaj v plážovém volejbale zasazený do kulis Dolní oblasti Vítkovice.
 
-{% asset 'articles/cesta_k_obrazku/jmeno-obrazku.jpg' alt='Text který se objeví místo obrázku, pokud ten nelze zobrazit' %}
+K popularizaci sportu přispívají také projekty pro děti a mládež, které Andrea v Ostravě prosadila či úspěšně pokračuje v jejich realizaci.
 
-<p style="text-align: center">
-<i>Popis obrázku, vystředěný a italikou.</i>
-</p>
+>„Například do Ostravských sportovních her, ve kterých každoročně poměří žáci základních škol své síly a dovednosti, se letos zapojilo téměř 5000 dětí z 26 škol. Projekt podporují svou účastí i známí sportovci - ambasadoři, kteří vlastním příkladem motivují děti k pohybu,“
 
-Vložení odkazu na lokální soubor:
+doplňuje ostravská náměstkyně.
 
-[Text odkazu]({{'jmeno-soubor.pdf' | prepend: '/assets/pdf/' | relative_url}} "Text který se objeví po najetí na odkaz")
+To, že je Ostrava městem sportu, dokládá i anketa Sportovec roku, kde pravidelně město oceňuje významné sportovní osobnosti z našeho regionu.
 
-# Nadpis H1
+Město začalo pomáhat sportovním klubům nově i v oblasti sportovního marketingu. Po Covidu se kluby setkávají s úbytkem diváků i sponzorů. Také proto Andrea iniciovala marketingovou konferenci SPORT 22!!!. Kromě zajímavých přednášek a tipů, jak oslovit diváky, konference propojila zástupce místních firem s kluby a komunikovala potřebu finanční podpory sportu jako součást společenské odpovědnosti komerčního sektoru. Do budoucna Andrea připravuje sérii workshopů, které pomohou sportovním organizacím prohlubovat know-how k zajištění externího financování a lepší propagaci svých akcí a činnosti.
 
-## Nadpis H2
-
-##### Nadpis H5
-
-**Toto je bold text**
-
-__Toto je také bold text__
-
-*Toto je text italikou*
-
-_Toto je také text italikou_
-
-~~Toto je přeškrtnutý text~~
-
-Avšak toto je ~spodní index~  a ^horní index^
-
-1. První položka číslovaného seznamu
-2. Druhá položka číslovaného seznamu
-
-Všechny následující příklady seznamu jsou ekvivalentní:
-
-* Seznam
-
-- Opět seznam
-
-+ A zase seznam
-
-Co když děláš seznam a potřebuješ v jedné položce třeba adresu na více řádků? Použij na konci řádku dvě mezery:
-
-- email: jakub.pirat@pirati.cz
-- telefon: +420 609 112 777
-- adresa:  
-Ulice Johna Silvera 1  
-Ostrov pokladů  
-- datová schránka: pffu666
-
-[Toto je text odkazu](https://www.pirati.cz "Text který se objeví po najetí na odkaz")
-
-Pokud je potřeba nezalomitelná mezera, použij &nbsp;
-Třeba OS&nbsp;X.
-
-Pokud chceš použít v textu nějaký znak, který Markdown používá v textu pro formátování, dej před něj znak \.
-Třeba \* Toto nebude seznam.
-
-Text který má být kůs kódu se uzavírá mezi obrácené úvozovky, viz příklad:
- toto je `kód`.
-
-Jednoduchá tabulka:
-
-| **První řádek tabulky** | **druhý sloupec** |
-|---|---|
-| Druhý řádek tabulky | druhý sloupec |
-| Třetí řádek tabulku | druhý sloupec |
-
-A pokud to vše nestačí, lze použít i  <font color="red">HTML!</font>
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla accumsan, elit
-sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel
-leo. Fusce nibh. Etiam dictum tincidunt diam. Suspendisse nisl. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Sed elit dui, pellentesque a, faucibus vel, interdum nec, diam. Etiam
-dui sem, fermentum vitae, sagittis id, malesuada in, quam. Fusce tellus. Donec
-ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Class aptent
-taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.
-Fusce aliquam vestibulum ipsum. Vestibulum erat nulla, ullamcorper nec, rutrum
-non, nonummy ac, erat. Ut enim ad minima veniam, quis nostrum exercitationem
-ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo
-dui eget wisi. Cras elementum. Etiam dictum tincidunt diam. Aliquam erat
-volutpat. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et,
-dolor. Aliquam erat volutpat. Etiam ligula pede, sagittis quis, interdum
-ultricies, scelerisque eu. Cras elementum. Vestibulum fermentum tortor id mi.
-Etiam quis quam. Mauris elementum mauris vitae tortor. Fusce tellus. Integer
-rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae
-placerat pede sem sit amet enim. Ut enim ad minima veniam, quis nostrum
-exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-consequatur?
+Andrea se prostě rozhodla rozhýbat Ostravu. A daří se jí to.
 
 ---
 
-Poznámka o autorovi licenci použitého obrázku v HTML:
-
-Úvodní obrázek zdroj: Lukáš Mižoch [<a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File:ArcelorMittal_Ostrava,_pohled_z_Nov%C3%A9_radnice,_srpen_2011.jpg">z Wikimedia Commons</a>
-
-nebo podobně v Markdown:
-
-Úvodní obrázek zdroj: [Zuzana Klusová]({{'zuzana-klusova' | prepend: '/lide/' | relative_url}}) \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: Archiv MNO
 
 - - -
