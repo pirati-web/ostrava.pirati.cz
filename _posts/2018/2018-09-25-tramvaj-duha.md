@@ -6,7 +6,7 @@ date: 2018-09-25T10:00:00.000Z
 author: Andrea Hoffmannová
 authorId: andrea.hoffmannova
 image: posts/tramvaj1.jpg
-tags: 'Ostrava Poruba Doprava'
+tags: 'Ostrava Ostrava-Poruba Doprava'
 ---
 
 Piráti se staví kladně k ekologizaci dopravy a podporují budování tramvajových sítí v souladu s územním plánem, ale jen za předpokladu, že projekt bude splňovat tyto podmínky:

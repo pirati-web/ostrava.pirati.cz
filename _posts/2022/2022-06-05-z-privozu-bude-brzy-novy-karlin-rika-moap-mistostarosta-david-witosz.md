@@ -9,6 +9,7 @@ tags:
   - Ostrava
   - MOaP
   - Ekonomika
+  - Volby
   - Rozhovor
   - David-Witosz
 ---

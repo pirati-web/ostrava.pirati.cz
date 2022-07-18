@@ -8,10 +8,11 @@ image: posts/pavlina-polaskova2.jpg
 tags:						
   - Ostrava
   - Ostrava-Jih
+  - Volby
   - Rozhovor
   - Bikesharing		
   - Směr-Jih
-  - Ochrana-přírody
+  - Ekologie
   - Pavlína-Polášková
 ---
 
@@ -74,6 +75,6 @@ Jsem typický evenťák a ti moc nespí. Na Jihu navíc máme skvělý pirátsk�
 
 ---
 
-Úvodní obrázek zdroj: Lucie Maceczková
+Úvodní obrázek zdroj: Lucie Maceczková \([web](https://www.elemfoto.cz/ "ELEM FOTO")\)
 
 - - -
