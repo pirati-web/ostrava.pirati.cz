@@ -1,0 +1,4 @@
+﻿Při použití tohoto obrázku je potřeba uvést autora - viz níže
+
+Úvodní obrázek zdroj: [Andrea Hoffmannová]({{'andrea-hoffmannova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
