@@ -27,7 +27,7 @@ Pro Porubu bylo důležité, že se konečně povedlo dokončit stavbu prodlouž
 
 **Jak vypadá dopravní obslužnost Poruby?**
 
-To mohu posoudit velmi dobře, protože sama se snažím chodit všude pěšky nebo MHD. Veřejná doprava je v Porubě OK. Spojení obvodu s ostatními částmi města je v pořádku. Kde to už funguje méně dobře, je automobilová doprava. Z křižovatky u vodárny se stává ve frekventovaných časech velmi úzké místo. Další problém spočívá v parkování. Lidé mají čím dál větší problém zaparkovat. Poruba i celá Ostrava potřebují urgentně koncepci statické dopravy.
+To mohu posoudit velmi dobře, protože sama se snažím chodit všude pěšky nebo MHD. Veřejná doprava je v Porubě OK. Spojení obvodu s ostatními částmi města je v pořádku. Kde to už funguje méně dobře, je automobilová doprava. Z křižovatky u vodárny se stává ve frekventovaných časech velmi úzké místo. Další problém spočívá v parkování. Lidé mají čím dál větší problém zaparkovat. Poruba i celá Ostrava potřebují urgentně realizovat schválenou koncepci statické dopravy.
 
 **Kde má podle tebe Poruba největší slabiny?**
 
@@ -35,7 +35,7 @@ Myslím, že v Porubě podceňujeme komunitní život. Je fajn, že tady máme F
 
 **Proč tomu tak je?**
 
-Za prvé populace v tradičních porubských bytech stárne. Za druhé mi připadá, že lidé o svůj obvod ztrácejí zájem. Poruba má jednu z nejdelších tradic v participativním rozpočtu. Ten projekt se jmenuje Zelená Porubě a lidé v něm mají možnost přicházet se zlepšeními ve svém okolí. Vzpomínám si, že v jednom roce přišlo na radnici 16 nápadů na zlepšení. V obvodě, kde bydlí 80 tisíc lidí, přišlo 16 obyvatel s nějakým námětem na vylepšení. To přece není normální.
+Za prvé populace v tradičních porubských bytech stárne. Za druhé mi připadá, že lidé o svůj obvod ztrácejí zájem. Poruba má jednu z nejdelších tradic v participativním rozpočtu. Ten projekt se jmenuje Zelená Porubě a lidé v něm mají možnost přicházet se zlepšeními ve svém okolí. Vzpomínám si, že v jednom roce přišlo na radnici 16 nápadů na zlepšení. V obvodě, kde bydlí 60 tisíc lidí, přišlo 16 obyvatel s nějakým námětem na vylepšení. To přece není normální.
 
 **Čím si to vysvětluješ?**
 
