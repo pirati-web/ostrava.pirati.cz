@@ -43,6 +43,7 @@ V Ostravě Porubě i v Mariánských Horách prošli do druhého kola oba kandid
 
 ---
 
-Úvodní obrázek zdroj:  Kristína Polakovičová
+Úvodní obrázek zdroj:  Ateliér Mošnov
+
 
 - - -
