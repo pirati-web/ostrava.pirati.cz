@@ -34,7 +34,7 @@ Je to těžké a trvá to mnohem déle. Ale ve srovnání s kolegy v jiných mě
 
 **Dopravovat se dá taky na kolech. Jsi velká fanynka a propagátorka bikesharingu…**
 
-Ano. Rozvoj sdílených kol na Jihu podporujeme dlouhodobě. Sdílená kola pomáhají obvod propojovat. Tam, kde nestačí MHD nebo je to pěšky daleko, je sdílené kolo ideálním způsobem přepravy. A naším dlouhodobým cílem je propojovat jednotlivé místní části do jednoho celku a sdílená kola tomuto umí hodně pomoci.
+Ano. Rozvoj sdílených kol na Jihu podporujeme dlouhodobě. Sdílená kola pomáhají obvod propojovat. Tam, kde nestačí MHD nebo je to pěšky daleko, je sdílené kolo ideálním způsobem dopravy. A naším dlouhodobým cílem je propojovat jednotlivé místní části do jednoho celku a sdílená kola tomuto umí hodně pomoci.
 
 **V roce 2019 jsi byla iniciátorkou kampaně Směr Jih…**
 
