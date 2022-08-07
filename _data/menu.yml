@@ -10,15 +10,15 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
   - link: /lide/
     name: Lidé
     match: lide
+  - link: /volby2022/
+    name: Volby 2022
+    match: volby2022
   - link: /magistrat/
     name: Magistrát
-    match: magistrat, magistrat2018
+    match: magistrat, magistrat2018, magistrat2022
   - link: /moap/
     name: Městské obvody
     match: moap, poruba, jih, moap2018, poruba2018, jih2018
@@ -49,6 +49,8 @@ bottom:
     links:
       - link: /aktuality/
         name: Aktuality
+      - link: /volby2022/
+        name: Volby 2022
       - link: /magistrat/
         name: Magistrát
       - link: /moap/
