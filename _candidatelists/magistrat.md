@@ -2,7 +2,7 @@
 title: Kandidátka na Magistrát města Ostravy
 uid: magistrat
 leader:
-  uid: david.witosz
+  uid: andrea.hoffmannova
   age: 37
   profession: inženýrský geodet
   party: Piráti

@@ -1,11 +1,11 @@
 ---
 layout: communal-elections
-title: Volby 2022
-campaignCategoryUid: magistrat2022
-candidateListUid: magistrat
+title: Volby 2022 - Poruba
+campaignCategoryUid: poruba2022
+candidateListUid: poruba
 ---
 
-Volby 2022
+Volby 2022 - Poruba
 
 <!--<section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
