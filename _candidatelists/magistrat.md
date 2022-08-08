@@ -3,235 +3,231 @@ title: Kandidátka na Magistrát města Ostravy
 uid: magistrat
 leader:
   uid: andrea.hoffmannova
-  age: 37
-  profession: inženýrský geodet
+  age: 39
+  profession: náměstkyně primátora Ostravy, vysokoškolská pedagožka
   party: Piráti
   description: 
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: rostislav.reha
-    age: 45  
-    profession: informatik - databázový specialista
-    description: 
-    party: Piráti
-  - uid: andrea.hoffmannova
-    age: 35  
-    profession: vysokoškolská pedagožka
-    description: 
-    party: Piráti
-  - uid:  petr.kopecny
-    age: 34
-    profession:  automatizační inženýr
-    party: Piráti
-  - uid: veronika.murzynova
-    age: 32
-    profession: projektová manažerka
-    party: Piráti
-  - uid: martin.tomasek
     age: 49
-    profession: vysokoškolský učitel
-    party:
-  - uid: lukas.jansa
-    age: 41
-    profession: právník, člen pracovní komise Legislativní rady vlády
-    party:
-  - uid: jakub.dedek
-    age: 26
-    profession: krajský koordinátor
+    profession: místostarosta, IT specialista
+    description: 
     party: Piráti
-  - uid: ondrej.rucka
+  - uid: david.witosz
+    age: 41
+    profession: místostarosta, zeměměřič
+    description: 
+    party: Piráti
+  - uid: lukas.cernohorsky
+    age: 37
+    profession: solution architekt
+    party: Piráti
+  - uid: martina.duskova
     age: 35
-    profession: právník
+    profession: sociální pedagožka
+    party: Piráti
+  - uid: pavlina.polaskova
+    age: 34
+    profession: pracovnice v kultuře
+    party: Piráti
+  - uid: zuzana.kolarikova
+    age: 34
+    profession: politická analytička
+    party:
+  - uid: jiri.rajnoch
+    age: 33
+    profession: IT konzultant, radní
     party: Piráti
   - uid: jaroslav.horejsi
-    age: 35
-    profession: programátor
+    age: 39
+    profession: informatik
+    party: Piráti
+  - uid: jakub.dedek
+    age: 30
+    profession: OSVČ
     party: Piráti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Mgr. Martin Kučera
-    age: 47
-    profession: nakladatel
+  - name: Ing. Petr Kopečný
+    age: 38
+    profession: inženýr v ropném průmyslu
     party: Piráti
-  - name: doc. Mgr. Jiří Surůvka
-    age: 57
-    profession: VŠ pedagog, umělec
-    party:
-  - name: Ing. Lukáš Černohorský
-    age: 33
-    profession: poslanec PSP ČR
+  - name: Mgr. Martin Tomášek, Ph.D.
+    age: 53
+    profession: vysokoškolský pedagog, místostarosta
     party: Piráti
-  - name: Marta Oškerová
-    age: 51
-    profession: grafička
+  - name: Gabriela Macečková
+    age: 25
+    profession: jednatelka společnosti, zastupitelka
     party: Piráti
-  - name: Ing. Jiří Rajnoch
-    age: 30
-    profession: síťový inženýr
+  - name: BSc. Barbora Hopp
+    age: 37
+    profession: customer service specialist
     party: Piráti
-  - name: doc. RNDr. PaedDr. Hashim Habiballa Ph.D.
-    age: 42
-    profession: VŠ učitel - informatik
-    party:
-  - name: Mgr. Jan Nemček
-    age: 32
-    profession: spisovatel
-    party:
-  - name: Bc. Denisa Kučerová
-    age: 33
-    profession: úředník
-    party:
-  - name: Ing. Ondřej Polanský
-    age: 34
-    profession: poslanec PSP ČR
-    party: Piráti
-  - name: Ing. Lukáš Rapant Ph.D.
-    age: 31
-    profession: vědecko-výzkumný pracovník
-    party:
   - name: Mgr. Jiří Klega
-    age: 36
+    age: 40
     profession: advokát
     party:
-  - name: Jonáš Vrchovský
-    age: 36
-    profession: event manager
-    party:
-  - name: Jiří Zahuta
-    age: 56
-    profession: dramaturg hudebního klubu
-    party:
   - name: Jakub Šusta
-    age: 35
+    age: 39
     profession: podnikatel
     party:
-  - name: Mgr. Jan Gajdica
-    age: 43
-    profession: učitel - hudebník
+  - name: doc. Mgr. Jiří Surůvka
+    age: 61
+    profession: vysokoškolský pedagog, výtvarný umělec
     party:
-  - name: Mgr. Martina Dušková
-    age: 31
-    profession: odborná konzultantka vzdělání a sociálních věcí
-    party:
-  - name: Ing. arch. Jiří Mika
+  - name: Bc. Lucie Syptáková
     age: 27
-    profession: architekt
+    profession: učitelka
     party:
-  - name: Prokop Hampl
-    age: 36
-    profession: stavbyvedoucí
+  - name: Mgr. Eva Peterková, Ph.D.
+    age: 33
+    profession: akademická pracovnice
     party:
-  - name: Daniel Tichý
+  - name: Bc. Margarita Fotopulu
+    age: 26
+    profession: studentka
+    party:
+  - name: Ing. Václav Parchaňský, Ph.D.
+    age: 34
+    profession: IT specialista
+    party: Piráti
+  - name: Mgr. Marian Babic
+    age: 40
+    profession: advokát
+    party: Piráti
+  - name: Ing. Andrea Svobodová
+    age: 33
+    profession: manažerka
+    party:
+  - name: Mgr. Simona Masaříková
+    age: 40
+    profession: sociální pracovnice
+    party:
+  - name: Bc. Jan Fišer, DiS.
+    age: 31
+    profession: všeobecná sestra
+    party: Piráti
+  - name: Stanislav Holiš
+    age: 52
+    profession: údržbář
+    party:
+  - name: Adam Piechowicz
     age: 21
     profession: student
     party:
-  - name: Lukáš Drlík, DiS.
-    age: 34
-    profession: metodik v oblasti sociální ochrany
+  - name: Ing. Tomáš Lovás
+    age: 33
+    profession: specialista zabezpečovací techniky na železnici
     party:
-  - name: Tamara Strachotová
-    age: 28
-    profession: zubní instrumentářka
-    party:
-  - name: Mgr. et Mgr. Veronika Polachová
-    age: 27
-    profession: středoškolská učitelka
-    party:
-  - name: Ing. Ondřej Netočný
-    age: 29
-    profession: vývojář
+  - name: JUDr. Ondřej Ručka
+    age: 39
+    profession: právník
     party: Piráti
-  - name: Ing. arch. Petr Svoboda
-    age: 29
-    profession: architekt
+  - name: Ing. Michal Breškovec
+    age: 43
+    profession: informatik
+    party: Piráti
+  - name: Aleš Okon
+    age: 47
+    profession: manažer
     party:
-  - name: Gabriela Macečková
-    age: 21
-    profession: administrativní pracovnice
+  - name: Mgr. Jan Nemček
+    age: 36
+    profession: spisovatel a učitel
+    party:
+  - name: Mgr. Barbora Vyka
+    age: 35
+    profession: OSVČ, marketingová specialistka
+    party: Piráti
+  - name: Vladan Hýl
+    age: 36
+    profession: redaktor zpravodajství
+    party: Piráti
+  - name: Bc. Adriana Fišerová, DiS.
+    age: 30
+    profession: diplomovaná všeobecná sestra
+    party:
+  - name: Martin Pasek
+    age: 34
+    profession: IT specialista
+    party:
+  - name: Aneta Polochová
+    age: 36
+    profession: učitelka v mateřské školce
+    party:
+  - name: Mgr. Zuzana Ryšková
+    age: 46
+    profession: speciální pedagog
+    party:
+  - name: Ing. Ondřej Polanský
+    age: 38
+    profession: OSVČ
+    party: Piráti
+  - name: Ing. Kateřina Smutná, Ph.D.
+    age: 41
+    profession: pracovník pro vědu a výzkum
+    party:
+  - name: Ing. Jiří Lavický
+    age: 33
+    profession: klientský poradce
+    party:
+  - name: Bc. Jan Horák
+    age: 38
+    profession: sociální pracovník, terapeut
+    party: Piráti
+  - name: Karel Krajča
+    age: 38
+    profession: živnostník
+    party:
+  - name: Bc. Aleš Vyka
+    age: 34
+    profession: byznys architekt v IT
+    party:
+  - name: Mgr. Martin Kučera
+    age: 51
+    profession: nakladatel
     party: Piráti
   - name: BcA. Jakub Pohl
+    age: 37
+    profession: pracovník v televizi
+    party:
+  - name: Václav Beyer
+    age: 20
+    profession: student
+    party:
+  - name: Bc. Lucie Anna Pasek
     age: 33
-    profession: TV technik, OSVČ střihač, kameraman
+    profession: rodičovská dovolená, fotografka
     party:
-  - name: Ing. Jan Struhala
-    age: 39
-    profession: soudní tlumočník
+  - name: Michal Šíma
+    age: 31
+    profession: marketingový specialista
     party:
-  - name: Ing. Kamil Tomáš
-    age: 33
-    profession: projektový manažer
-    party:
-  - name: Ing. Pavel Sikora
-    age: 32
-    profession: kulturní referent
-    party:
-  - name: Ing. Pavel Kučera
-    age: 32
-    profession: programátor
-    party:
-  - name: Ing. Michal Breškovec
-    age: 39
-    profession: IT specialista
-    party: Piráti
-  - name: Radim Gál
-    age: 33
+  - name: Dalibor Hopp
+    age: 31
     profession: OSVČ
     party:
-  - name: Nela Parmová, DiS.
-    age: 38
-    profession: PR referent, Ostravská univerzita
+  - name: Bc. Pavel Ryška
+    age: 46
+    profession: sociální pracovník
     party:
-  - name: Mgr. Adam Šotkovský
-    age: 30
-    profession: logistik
+  - name: Eva Šebková
+    age: 73
+    profession: důchodkyně
     party:
-  - name: Richard Chmelař
-    age: 42
-    profession: OSVČ
-    party:
-  - name: Irena Mazumderová
-    age: 59
-    profession: briefing officer u Řízení letového provozou
-    party:
-  - name: Bc. Markéta Tomášková
-    age: 24
-    profession: studentka
-    party:
-  - name: Ing. David Sedlík
+  - name: Zuzana Kopečná
     age: 35
-    profession: softwarový architekt
+    profession: mateřská dovolená, prodavačka
     party:
-  - name: Mgr. Zdenek Pala
-    age: 39
-    profession: výtvarník
+  - name: Ing. Petr Řepka
+    age: 33
+    profession: software developer
     party:
-  - name: Ing. Daniel Frejek
-    age: 45
-    profession: programátor
+  - name: Mgr. Denisa Jánská
+    age: 48
+    profession: akademický pracovník
     party:
-  - name: Jan Kočvara
-    age: 47
-    profession: strojvedoucí
-    party:
-  - name: Bc. Zdeněk Nováček
-    age: 30
-    profession: dispečer
-    party:
-  - name: Ing. Martin Koudela
-    age: 34
-    profession: logistik
-    party:
-  - name: Mgr. Pavel Brynda
-    age: 36
-    profession: event manager
-    party:
-  - name: Ing. David Garai
-    age: 30
-    profession: jednatel IT firmy
-    party:
-    
- 
-
-note: # poznámka pod kanidátku
 ---

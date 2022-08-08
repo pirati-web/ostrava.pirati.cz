@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Jak (ne)mít vzdělaný úřad'
 date: 2018-09-07T10:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/vzdelany-urad.jpg
 tags: 'Ostrava-Jih Úředníci Vzdělávání'
 ---

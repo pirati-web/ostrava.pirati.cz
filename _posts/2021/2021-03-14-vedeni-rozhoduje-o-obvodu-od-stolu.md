@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Vedení radnice Ostrava-Jih rozhoduje o budoucnosti obvodu od stolu, Piráti opakovaně volají po strategickém plánu'
 date: 2021-03-14
 author: Jana Ožanová
-image: posts/pavlina-novackova.jpg
+image: posts/pavlina-polaskova.jpg
 tags:
   - Ostrava-Jih
   - Pavlína-Nováčková

@@ -1,10 +1,10 @@
 ---
-uid: barbora.vojkovska
+uid: barbora.vyka
 name: Barbora Vojkovská
 titles:
   before: Mgr. 
   after: 
-img: people/barbora-vojkovska.jpg
+img: people/barbora-vyka.jpg
 description: zastupitelka městského obvodu Moravská Ostrava a Přívoz 
 mail: # zjistit
 ---

@@ -2,7 +2,7 @@
 title: Kandidáti na zastupitele v Ostravě-Jihu
 uid: jih
 leader:
-  uid: pavlina.novackova
+  uid: pavlina.polaskova
   age: 30
   profession: pracovnice v kultuře
   party:

@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Piráti na Jihu: Na červnovém zasedání zastupitelstva jsme se zapotili, nejen kvůli vedru'
 date: 2019-06-23T08:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/zastupitelstvo-jih-cerven-2019.png
 tags:
  - Ostrava

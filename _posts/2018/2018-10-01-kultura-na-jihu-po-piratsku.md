@@ -5,7 +5,7 @@ title: 'Kultura v Ostravě-Jihu po pirátsku'
 date: 2018-10-01T10:00:00.000Z
 # date: 2018-09-30T08:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/kultura-jih.jpg
 tags: 'Ostrava-Jih Kultura'
 ---

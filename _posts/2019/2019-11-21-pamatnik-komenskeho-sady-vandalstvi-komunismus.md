@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Komentář Pirátů z Ostravy-Jihu: Národ, který zapomene svou minulost, nemá žádnou budoucnost'
 date: 2019-11-21T16:00:00.000Z
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/budovani-socialismu.jpg
 tags:
   - Ostrava

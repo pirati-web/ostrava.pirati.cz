@@ -46,13 +46,13 @@
       commission: "člen komise pro vzdělávání, vědu a výzkum"
     - uid: ondrej.netocny
       committee: "člen finančního výboru"
-    - uid: pavlina.novackova
+    - uid: pavlina.polaskova
       committee: "členka kontrolního výboru"
     - uid: ondrej.rucka
       committee: "člen finančního výboru"
 - boroughTeamUid: jih
   members:
-    - uid: pavlina.novackova
+    - uid: pavlina.polaskova
       assembly: "předsedkyně zastupitelského klubu"
       commission: "členka investiční komise"
       committee: "členka kontrolního výboru"
@@ -134,7 +134,7 @@
       assembly: "zastupitel"
       commission: "předseda komise pro otevřenou radnici"
       committee: "člen finančního výboru"
-    - uid: barbora.vojkovska
+    - uid: barbora.vyka
       assembly: "zastupitelka"
       commission: "členka komise pro školství, členka sociální komise"
       assembly: "členka finančního výboru"
