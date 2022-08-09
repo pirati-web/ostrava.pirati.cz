@@ -22,7 +22,7 @@ linkCategories:
   - name: Komunální volby 2022
     links:
     - name: Kompletní program
-      link: program/magistrat2022/programovy-bod-1/
+      link: program/magistrat2022/lide-komunita/
 ---
 
 > Ostrava je naším společným domovem a Piráti se budou snažit o to, aby se nám zde spolu žilo co nejlépe, a to díky pro občany transparentnímu fungování a hospodaření magistrátu, dostupným a kvalitním službám, efektivní dopravě, atraktivnímu veřejnému prostoru a moderní architektuře, lepšímu životnímu prostředí, kvalitní kultuře, sportovnímu vyžití, udržované zeleni a pocitu bezpečnosti.

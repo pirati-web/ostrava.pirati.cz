@@ -102,4 +102,44 @@ tail: # zbytek kandidatky
     age: 29
     profession: šéfkuchař, performer
     party:
+  - name: Bc. Tamara Tomášková
+    age: 33
+    profession: projektová manažerka
+    party: 
+  - name: Tamara Strachotová
+    age: 32
+    profession: zubní instrumentářka
+    party: 
+  - name: Ing. Kamil Tomáš
+    age: 37
+    profession: IT konzultant
+    party: 
+  - name: Ing. Ondřej Polanský
+    age: 38
+    profession: OSVČ
+    party: Piráti
+  - name: Daniel Wowra
+    age: 37
+    profession: IT technik
+    party: 
+  - name: Ing. Václav Sikora
+    age: 34
+    profession: vedoucí prodejny
+    party: 
+  - name: Ing. Jaroslav Holiš
+    age: 32
+    profession: geotechnik
+    party: 
+  - name: Martin Pavelka
+    age: 40
+    profession: řidič trolejbusu DPO
+    party: 
+  - name: Ing. Miroslav Raška
+    age: 33
+    profession: chemický inženýr
+    party: 
+  - name: Bc. Marta Skalińska
+    age: 37
+    profession: specialista HR a marketingu
+    party: 
 ---
