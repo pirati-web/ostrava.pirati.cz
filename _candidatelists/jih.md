@@ -3,201 +3,188 @@ title: Kandidáti na zastupitele v Ostravě-Jihu
 uid: jih
 leader:
   uid: pavlina.polaskova
-  age: 30
+  age: 34
   profession: pracovnice v kultuře
-  party:
-  description: 
+  party: Piráti
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: petr.kopecny
-    age: 34  
-    profession: automatizační inženýr
-    description: 
-    party: Piráti
   - uid: gabriela.maceckova
-    age: 21
-    profession: administrativní pracovnice
-    description: 
-    party: Piráti
-  - uid: michal.breskovec
-    age: 39
-    profession: IT specialista
-    description: 
-    party: Piráti
-  - uid: radim.stach
-    age: 41
-    profession: zástupce manažera
-    description: 
-    party: Piráti
-  - uid: ondrej.netocny
-    age: 29
-    profession: vývojář
-    description: 
+    age: 25
+    profession: jednatelka společnosti, rodičovská dovolená
     party: Piráti
   - uid: arnost.zidek
-    age: 42
-    profession: vysokoškolský pedagog
-    description: 
+    age: 46
+    profession: ředitel základní školy
     party:
   - uid: ondrej.rucka
-    age: 35
-    profession: právník
-    description: 
+    age: 39
+    profession: advokát
     party: Piráti
-  - uid: sandra.lamichova
+  - uid: michal.breskovec
     age: 43
-    profession: invalidní důchodce
-    description: 
+    profession: informatik
     party: Piráti
-  - uid: romana.korosi
-    age: 44
-    profession: facility manager
-    description: 
+  - uid: simona.masarikova
+    age: 40
+    profession: sociální pracovnice
+    party:
+  - uid: petr.kopecny
+    age: 38
+    profession: inženýr v ropném průmyslu
+    party: Piráti
+  - uid: stanislav.holis
+    age: 52
+    profession: údržbář
+    party:
+  - uid: ales.okon
+    age: 38
+    profession: manažer
+    party:
+  - uid: martin.pasek
+    age: 34
+    profession: IT support specialist-ERP
     party: Piráti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name:  Bc. Robert Kolena
-    age: 23
-    profession:  sportovec, student VUT strojní
-    party:
-  - name: Martin Netočný
-    age: 23
-    profession: student
-    party:
-  - name: Margarita Fotopulu
-    age: 22
-    profession: studentka
-    party: 
-  - name: Karel Krajča
-    age: 34
-    profession: OSVČ
-    party: 
-  - name: Ondřej Platko
+  - name: Bc. Jan Fišer, DiS.
+    age: 31
+    profession: všeobecná diplomovaná sestra
+    party: Piráti
+  - name: Ing. Ondřej Netočný
     age: 33
+    profession: digitální nomád
+    party: Piráti
+  - name: Ing. Michal Šobr
+    age: 32
+    profession: projektant dopravních staveb
+    party: Piráti
+  - name: Hana Pavlíčková
+    age: 33
+    profession: grafička, koordinátorka
+    party: 
+  - name: Bc. Lucie Anna Pasek
+    age: 33
+    profession: matka na rodičovské dovolené, fotografka
+    party: 
+  - name: Aneta Polochová
+    age: 36
+    profession: učitelka v mateřské škole
+    party: 
+  - name: Bc. Ondřej Ondryáš
+    age: 25
+    profession: vývojář
+    party: 
+  - name: Ing. Lenka Polanská
+    age: 66
+    profession: důchodkyně
+    party: 
+  - name: Jan Giža
+    age: 34
+    profession: projektant
+    party: 
+  - name: Bc. Adriana Fišerová, DiS.
+    age: 30
+    profession: diplomovaná všeobecná sestra
+    party: Piráti
+  - name: Michal Šíma
+    age: 31
     profession: marketingový specialista
     party: 
-  - name: Mgr. Dana Havlenová
-    age: 59
-    profession: pracovnice v kultuře
-    party: 
-  - name: Mgr. Zdenek Pala
-    age: 39
-    profession: výtvarník
-    party: 
-  - name: Mgr. Petra Netočná
-    age: 51
-    profession: lékárnice
-    party: 
   - name: Zuzana Kopečná
-    age: 31
-    profession: prodavačka
+    age: 35
+    profession: mateřská dovolená, prodavačka
     party: 
   - name: Mgr. Rostislav Dostál
-    age: 31
+    age: 35
     profession: učitel
     party: 
-  - name: Denis Vlček
-    age: 24
-    profession: senior smluvních vztahů
-    party: 
-  - name: Martin Vitouš
-    age: 23
-    profession: hutník operátor
-    party: 
-  - name: David Lanc
+  - name: Ing. Robert Kolena
     age: 27
-    profession: OSVČ
+    profession: specialista kvality v automotive
     party: 
-  - name: Jana Mařecová
-    age: 37
-    profession: učitelka na ZŠ
+  - name: Petr Turhanovský
+    age: 52
+    profession: invalidní důchodce
     party: 
-  - name: Michal Šíma
-    age: 27
-    profession: grafik
-    party: 
-  - name: Martin Kantorek
-    age: 20
-    profession: operátor licích strojů
-    party: 
-  - name: Lukáš Kroupa
-    age: 20
-    profession: student VŠB-TUO
-    party: 
-  - name: Markéta Soukupová
-    age: 41
-    profession: knihkupec
-    party: 
-  - name: Ondřej Ondryáš
-    age: 21
-    profession: student
-    party: 
-  - name: Patrik Matějný
-    age: 22
-    profession: student
-    party: 
-  - name: Pavel Kopečný
-    age: 66
-    profession: revizní technik elektro
-    party: 
-  - name: Karina Staníková
-    age: 58
-    profession: cleaning lady
-    party: 
-  - name: Jaroslav Zavadil
-    age: 38
-    profession: technik
-    party: 
-  - name: Veronika Jurčková
-    age: 39
-    profession: mateřská dovolená
-    party: 
-  - name: Denis Cvrkal
-    age: 21
-    profession: IT specialista
-    party: 
-  - name: Pavel Škrobánek
-    age: 46
-    profession: ostraha - B.AG.
-    party: 
-  - name: Jiří Kulja
-    age: 72
-    profession: důchodce
+  - name: Margarita Fotopulu
+    age: 26
+    profession: studentka českého jazyka a literatury
     party: 
   - name: Michaela Bartová
-    age: 47
-    profession: pracovník v sociálních službách
+    age: 51
+    profession: ošetřovatelka
     party: 
-  - name: Miroslav Staník
-    age: 61
-    profession: důchodce
-    party: 
-  - name: Ján Barta
+  - name: Mgr. Nikola Minkovičová
     age: 28
-    profession: plánovač výroby
+    profession: právník
+    party: 
+  - name: Jan Šimeček
+    age: 33
+    profession: IT administrátor
+    party: 
+  - name: Jaroslav zavadil
+    age: 42
+    profession: IT technik
+    party: 
+  - name: Markéta Némethová
+    age: 34
+    profession: provozní restaurace
     party: 
   - name: Jana Kopečná
-    age: 69
+    age: 73
     profession: důchodkyně
     party: 
-  - name: Daniela Kuljová
-    age: 66
-    profession: důchodkyně
+  - name: Bc. Martina Šandorová
+    age: 33
+    profession: referent účetní OSSZ
     party: 
-  - name: René Jurček
-    age: 19
+  - name: Radek Hrbáč
+    age: 23
     profession: student
     party: 
-  - name: Denisa Bartová B.Sc.
-    age: 22
-    profession: vysokoškolská studentka
+  - name: Zuzana Ďurajková
+    age: 26
+    profession: manažerka zákaznického servisu
     party: 
-  - name: Mgr. Jan Šeděnka
-    age: 32
-    profession: manažer
+  - name: Kristýna Petrušková
+    age: 26
+    profession: rodičovská dovolená
     party: 
- 
-
-note: # poznámka pod kanidátku
+  - name: Žanet Novorov
+    age: 46
+    profession: prodavačka
+    party: 
+  - name: Daniel Tabašek
+    age: 52
+    profession: technolog
+    party: 
+  - name: Denis Vlček
+    age: 28
+    profession: specialista on-site podpory
+    party: 
+  - name: Kamila Gižová
+    age: 29
+    profession: rodičovská dovolená
+    party: 
+  - name: Anna Tabašková
+    age: 52
+    profession: pečovatelka
+    party: 
+  - name: Ing. Pavel Zácha
+    age: 38
+    profession: jednatel společnosti
+    party: 
+  - name: Adam Gaborík
+    age: 20
+    profession: student
+    party: 
+  - name: Jana Ručková
+    age: 70
+    profession: důchodkyně
+    party: 
+  - name: Stanislav Ručka
+    age: 78
+    profession: důchodce
+    party: 
 ---
