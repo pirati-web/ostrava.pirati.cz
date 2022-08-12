@@ -2,202 +2,191 @@
 title: Kandidáti na zastupitele v Ostravě-Porubě
 uid: poruba
 leader:
-  uid: andrea.hoffmannova
+  uid: martina.duskova
   age: 35
-  profession: vysokoškolská pedagožka
+  profession: sociální pedagožka
   party: Piráti
-  description: 
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: veronika.murzynova
-    age: 32  
-    profession: projektová manažerka
-    description: 
-    party: Piráti
   - uid: jiri.rajnoch
-    age: 30
-    profession: síťový inženýr
-    description: 
+    age: 33
+    profession: IT konzultant, radní
     party: Piráti
   - uid: jakub.dedek
-    age: 26
-    profession: krajský koordinátor
-    description: 
+    age: 30
+    profession: OSVČ
+    party: Piráti
+  - uid: andrea.hoffmannova
+    age: 39
+    profession: náměstkyně primátora Ostravy, vysokoškolská pedagožka
     party: Piráti
   - uid: martin.tomasek
-    age: 49
-    profession: vysokoškolský učitel
-    description: 
-    party:
-  - uid: pavel.kucera
-    age: 32
-    profession: programátor
-    description: 
-    party:
-  - uid: denisa.kucerova
+    age: 53
+    profession: vysokoškolský pedagog, místostarosta
+    party: Piráti
+  - uid: jiri.lavicky
     age: 33
-    profession: úředník
-    description: 
+    profession: klientský poradce
     party:
   - uid: pavel.sikora
-    age: 32
-    profession: kulturní referent
-    description: 
+    age: 36
+    profession: vedoucí kina
     party:
-  - uid: vladan.hyl
-    age: 32
-    profession: redaktor zpravodajství
-    description: 
+  - uid: martin.cerny
+    age: 38
+    profession: učitel
     party: Piráti
-  - uid: jakub.pohl
-    age: 33
-    profession: technik, OSVČ
-    description: 
+  - uid: katerina.smutna
+    age: 41
+    profession: pracovnice pro vědu a výzkum
+    party:
+  - uid: vit.svozil
+    age: 35
+    profession: vedoucí Domova se zvláštním režimem
     party:
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name:  Mgr. Martin Černý
-    age: 34
-    profession:  učitel
-    party:
-  - name:  Ing. Kateřina Smutná, Ph.D.
-    age: 37
-    profession:  vědecký pracovník
-    party:
-  - name:  RNDr. Libor Davidík
-    age: 38
-    profession:  učitel
-    party:
-  - name:  MUDr. Jana Daňková-Kučerová
-    age: 34
-    profession:  lékař
-    party:
-  - name:  Mgr. Petr Říman
-    age: 43
-    profession:  učitel
-    party:
-  - name:  Bc. Pavel Ryška
-    age: 42
-    profession:  personalista
-    party:
-  - name:  Mgr. Zuzana Lažková
-    age: 42
-    profession:  speciální pedagog
-    party:
-  - name:  Ing. Andrea Wantulová
-    age: 29
-    profession:  PR manažer
-    party:
-  - name:  Mgr. Martina Dušková
+  - name: Bc. Veronika Cinková
     age: 31
-    profession:  odborná konzultantka
-    party:
-  - name:  Bc. Ondřej Filip
-    age: 30
-    profession:  IT technik
-    party:
-  - name:  Ing. Anna Kučerová
-    age: 53
-    profession:  úřednice
-    party:
-  - name:  Ing. Martin Mucha
-    age: 30
-    profession:  online marketér, OSVČ
-    party:
-  - name:  Bc. Jiří Homola
-    age: 42
-    profession:  IT technik
-    party:
-  - name:  Lukáš Šimíček
-    age: 38
-    profession:  učitel autoškoly
-    party:
-  - name:  Jan Smutný, DiS.
-    age: 37
-    profession:  grafik
-    party:
-  - name:  Bc. Markéta Tomášková
-    age: 24
-    profession:  studentka
-    party:
-  - name:  Mgr. Adam Šotkovský
-    age: 30
-    profession:  logistik
-    party:
-  - name:  Bc. Richard Jakubec
-    age: 44
-    profession:  technolog
-    party:
-  - name:  Bc. Petra Hoffmannová
-    age: 41
-    profession:  asistentka pedagoga
-    party:
-  - name:  Ing. Lumír Janošek
-    age: 32
-    profession:  programátor
-    party:
-  - name:  Mgr. Hana Černá
-    age: 32
-    profession:  učitelka
-    party:
-  - name:  Ctirad Wojtanovský
+    profession: komunitní managerka
+    party: Strana zelených
+  - name: Martin Šimeček
     age: 34
-    profession:  lektor
-    party:
-  - name:  Jana Wildová
-    age: 31
-    profession:  rodičovská dovolená
-    party:
-  - name:  Jiří Tomášek
-    age: 19
-    profession:  student
-    party:
-  - name:  Růžena Podžorská
-    age: 60
-    profession:  prodavačka
-    party:
-  - name:  Petr Hoffmann
-    age: 53
-    profession:  důchodce
-    party:
-  - name:  Vlastimil Garai
-    age: 53
-    profession:  OSVČ
-    party:
-  - name:  Jan Kučera
-    age: 69
-    profession:  důchodce
-    party:
-  - name:  Radim Gál
+    profession: procesní specialista
+    party: 
+  - name: Ing. Jana Klímová
     age: 33
-    profession:  OSVČ
-    party:
-  - name:  Eva Šebková
-    age: 69
-    profession:  důchodkyně
-    party:
-  - name:  Filip Koval
+    profession: mateřská dovolená
+    party: 
+  - name: Dalibor Hopp
+    age: 31
+    profession: podnikatel
+    party: 
+  - name: Ing. Andrea Svobodová
+    age: 33
+    profession: manažerka, mateřská dovolená
+    party: 
+  - name: Mgr. Petr Říman
+    age: 47
+    profession: učitel
+    party: 
+  - name: Eva Šebková
+    age: 73
+    profession: důchodkyně
+    party: 
+  - name: Mgr. Adam Šotkovský
     age: 34
-    profession:  programátor
-    party:
-  - name:  Jiří Pleva
-    age: 34
-    profession:  technik ŽTV
-    party:
-  - name:  Dominik Blaha
-    age: 25
-    profession:  servisní technik
-    party:
-  - name:  Martin Šimeček
-    age: 30
-    profession:  team leader
-    party:
-  - name:  Helena Švidrnochová
+    profession: pracovník e-shopu
+    party: 
+  - name: Mgr. Hana Černá
+    age: 36
+    profession: učitelka
+    party: 
+  - name: Ing. Stanislav Gas
+    age: 40
+    profession: stavební inženýr
+    party: 
+  - name: Renáta Rajnochová
+    age: 62
+    profession: důchodkyně
+    party: 
+  - name: Michal Stoklásek
+    age: 42
+    profession: technicko-hospodářský pracovník
+    party: Strana zelených
+  - name: Anežka Liparová
     age: 24
-    profession:  student
-    party:
- 
+    profession: studentka VŠ
+    party: Piráti
+  - name: RNDr. Libor Davidík
+    age: 42
+    profession: učitel
+    party: 
+  - name: Anna Pohl Sulská
+    age: 36
+    profession: reklamační specialistka
+    party: 
+  - name: BcA. Jakub Pohl
+    age: 37
+    profession: technik
+    party: 
+  - name: Bc. Markéta Tomášková, M.A.
+    age: 28
+    profession: administrátorka mezinárodních vztahů
+    party: 
+  - name: Bc. Pavel Ryška
+    age: 26
+    profession: sociální pracovník
+    party: 
+  - name: Bc. Kristýna Šimečková
+    age: 34
+    profession: obchodní zástupce
+    party: 
+  - name: Ing. arch. et Ing. Petr Svoboda
+    age: 33
+    profession: architekt
+    party: 
+  - name: Bc. Helena Švidrnochová
+    age: 28
+    profession: asistentka učitele
+    party: 
+  - name: Jan Lažek
+    age: 22
+    profession: student
+    party: 
+  - name: Aneta Kosmáková
+    age: 28
+    profession: archivářka
+    party: 
+  - name: Matěj Smilek
+    age: 46
+    profession: řemeslník
+    party: 
+  - name: Radek Mikuš
+    age: 30
+    profession: pracovník ostrahy
+    party: 
+  - name: Mgr. Lukáš Grochal
+    age: 34
+    profession: terapeut, pedagog
+    party: 
+  - name: Ing. Petr Řepka
+    age: 33
+    profession: software developer
+    party: 
+  - name: Filip Koval
+    age: 38
+    profession: databázový specialista
+    party: 
+  - name: Bc. Martin Tomašík
+    age: 39
+    profession: programátor, veslař
+    party: 
+  - name: Mgr. Jan Buček
+    age: 38
+    profession: advokát
+    party: 
+  - name: Mgr. Zuzana Ryšková
+    age: 46
+    profession: speciální pedagog
+    party: 
+  - name: Ctirad Wojtanovský
+    age: 38
+    profession: lektor
+    party: 
+  - name: Jarmila Kojdecká
+    age: 39
+    profession: učitelka
+    party: 
+  - name: Adam Kempný
+    age: 46
+    profession: poradce
+    party: 
+  - name: Martina Bubová, DiS.
+    age: 38
+    profession: sociální pracovnice
+    party: 
 
 note: # poznámka pod kanidátku
 ---

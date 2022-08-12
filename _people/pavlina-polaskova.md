@@ -1,5 +1,5 @@
 ---
-uid: pavlina.novackova
+uid: pavlina.polaskova
 name: Pavlína Polášková
 titles:
   before: Bc. 
@@ -14,7 +14,7 @@ mail: pavlina.polaskova@pirati.cz
 mob:			  
 profiles:
   github:       
-  facebook: https://www.facebook.com/pavlina.novackova
+  facebook: https://www.facebook.com/pavlina.polaskova
   twitter: 		  
   flickr:	 
 ---

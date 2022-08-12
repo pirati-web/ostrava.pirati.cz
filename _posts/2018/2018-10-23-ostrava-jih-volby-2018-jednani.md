@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Jak se jednalo na Jihu?'
 date: 2018-10-23T06:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/povolebni-vyjednavani-1.jpg
 tags: 'Ostrava-Jih Volby'
 ---

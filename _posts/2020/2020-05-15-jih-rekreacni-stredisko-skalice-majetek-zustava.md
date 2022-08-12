@@ -46,6 +46,6 @@ A jak šel čas se Skalicí? Piráti z Jihu pro vás vypíchli podstatné milní
 
 ---
 
-Úvodní obrázek zdroj: [Pavlína Nováčková]({{'pavlina-novackova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: [Pavlína Nováčková]({{'pavlina-polaskova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -

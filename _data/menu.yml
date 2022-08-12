@@ -10,12 +10,31 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
   - link: /lide/
     name: Lidé
     match: lide
+  - link: /volby/magistrat2022.html
+    name: Volby 2022
+    match: volby
+    submenu:
+      - link: /volby/magistrat2022.html
+        name: Magistrát
+        match: magistrat2022
+      - link: /volby/moap2022.html
+        name: Moravská Ostrava
+        match: moap2022
+      - link: /volby/poruba2022.html
+        name: Poruba
+        match: poruba2022
+      - link: /volby/jih2022.html
+        name: Jih
+        match: jih2022
+      - link: /volby/slezska2022.html
+        name: Slezská Ostrava
+        match: slezska2022
+      - link: /volby/marianky2022.html
+        name: Mariánské Hory
+        match: marianky2022
   - link: /magistrat/
     name: Magistrát
     match: magistrat, magistrat2018
@@ -49,6 +68,8 @@ bottom:
     links:
       - link: /aktuality/
         name: Aktuality
+      - link: /volby/
+        name: Volby 2022
       - link: /magistrat/
         name: Magistrát
       - link: /moap/

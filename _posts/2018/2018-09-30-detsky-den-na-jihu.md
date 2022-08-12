@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Na Jihu ukázali, jak může vypadat dětský den'
 date: 2018-09-30T09:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/detsky-den-jih.jpg
 tags: 'Ostrava-Jih Rodina'
 ---

@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Když se kácí les, létají třísky'
 date: 2018-10-04T20:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/matous-haba-pozemky-1.jpg
 tags: 'Ostrava-Jih Sport Klientelismus Matouš-Hába'
 ---

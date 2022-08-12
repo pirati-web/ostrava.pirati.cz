@@ -12,3 +12,18 @@
       categoryUid: poruba2018
     - title: Pirátský program pro Jih
       categoryUid: jih2018
+- groupUid: volby-2022
+  title: Volby 2022
+  campaigns:
+    - title: Pirátský program pro Magistrát 2022
+      categoryUid: magistrat2022
+    - title: Pirátský program pro Moravskou 2022
+      categoryUid: moap2022
+    - title: Pirátský program pro Porubu 2022
+      categoryUid: poruba2022
+    - title: Pirátský program pro Jih 2022
+      categoryUid: jih2022
+    - title: Pirátský program pro Slezskou 2022
+      categoryUid: slezska2022
+    - title: Pirátský program pro Mariánky 2022
+      categoryUid: marianky2022

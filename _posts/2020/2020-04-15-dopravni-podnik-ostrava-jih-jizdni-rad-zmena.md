@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Piráti vyzvali ostatní zastupitele k přijetí společného usnesení vůči krokům Dopravního podniku Ostrava. Vadí jim změny v jízdním řádu'
 date: 2020-04-15T08:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/zastupitelstvo-jih-brezen-2020.jpg
 tags:
   - Ostrava

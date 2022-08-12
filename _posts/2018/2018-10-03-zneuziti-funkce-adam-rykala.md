@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Zneužitím funkce k volebnímu úspěchu?'
 date: 2018-10-03T08:00:00.000Z
 author: Pavlína Nováčková
-authorId: pavlina.novackova
+authorId: pavlina.polaskova
 image: posts/dopis-byty-jih-1.jpg
 tags: 'Ostrava-Jih Bydlení Klientelismus Adam-Rykala'
 ---
