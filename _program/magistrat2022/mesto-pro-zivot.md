@@ -6,7 +6,7 @@ campaignCategoryUid: magistrat2022
 campaignGroupUid: volby-2022
 approved: #
 garant: # david.witosz
-img: program/zivotni-prostredi.svg
+img: program/mistni-rozvoj.svg
 perex: >
   Cílem pilíře Město pro život je vytvoření bezpečného a pohodlného životního prostředí.
 order: 3
