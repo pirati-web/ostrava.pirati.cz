@@ -3,15 +3,25 @@ layout: default
 rbar:
   - calendar
   - fb
-img: banner-default-blank.jpg
+img: banner-volby2022.jpg
 ---
 
+{% include homepage/banner.html
+   title='Piráti Ostrava Volby 2022'
+   link='/volby/magistrat2022.html'
+   default='banner-volby2022.jpg'
+   mobile='banner-volby2022-mobile.jpg'
+   breakpoint=640
+%}
+
+<!--
 {% include homepage/banner.html
    title='Piráti Ostrava'
    default='banner-default-blank.jpg'
    mobile='banner-mobile.jpg'
    breakpoint=640
 %}
+--!>
 
 <div class="row">
   <div class="medium-12 large-8 columns">
