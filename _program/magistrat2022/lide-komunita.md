@@ -6,7 +6,7 @@ campaignCategoryUid: magistrat2022
 campaignGroupUid: volby-2022
 approved: #
 garant: # david.witosz
-img: program/mistni-rozvoj.svg
+img: program/vzdelani.svg
 perex: >
   Základem pilíře Lidé a komunity je pro nás vzdělání.
 order: 1

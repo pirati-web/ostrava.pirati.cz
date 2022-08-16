@@ -15,7 +15,7 @@ main:
     match: lide
   - link: /volby/magistrat2022.html
     name: Volby 2022
-    match: volby
+    match: volby, magistrat2022, moap2022, poruba2022, jih2022, slezska2022, marianky2022
     submenu:
       - link: /volby/magistrat2022.html
         name: Magistrát
