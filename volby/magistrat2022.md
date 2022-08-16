@@ -39,7 +39,7 @@ Naším cílem je tento přístup změnit. Naši základní prioritou bude péč
 
 Našim hlavním cílem je vrátit do Ostravy radost. Radost ze života. Slavný dánský architekt Jan Gehl říká, že dobré město poznáte podle toho, že funguje jako dobrá párty. Lidé zapomenou na čas a chtějí tady zůstat a bavit se. Přesně taková má být podle nás Ostrava.
 
-**Princip 8 a 80 a čtyři základní pilíře nové Ostravy**
+**Princip 7 a 70 a čtyři základní pilíře nové Ostravy**
 
 Pokud má být Ostrava příjemným místem pro život musíme při plánování myslet na všechny. Nejen na mladé nebo na staré. Nejen na řidiče, ale i na cyklisty. Nejen na chodce, ale i na vozíčkáře a maminky s kočárky. Pokud dokážeme vytvořit přátelské město pro děti ve věku 8 let i pro seniory ve věku 80 let, je slušná šance, že se v Ostravě bude líbit i všem ostatním.
 
