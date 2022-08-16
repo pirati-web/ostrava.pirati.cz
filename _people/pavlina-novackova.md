@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - clen
-img: people/pavlina-polaskova-2021.jpg
+img: people/pavlina-polaskova.jpg
 description: 1. místopředsedkyně místního sdružení Ostrava
 mail: pavlina.polaskova@pirati.cz
 mob:			  
