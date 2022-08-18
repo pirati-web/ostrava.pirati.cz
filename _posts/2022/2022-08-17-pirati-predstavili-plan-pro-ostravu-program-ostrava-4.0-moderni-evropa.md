@@ -19,7 +19,7 @@ tags:
   - Jaroslav-Hořejší
 ---
 
-Ostrava, 17. srpna 2022 – **limatický plán. Investice do vzdělání. Motivující veřejný prostor. Komunitní energetika. Nová tržnice. Carsharing. Bezuhlíková budoucnost pro naše děti. Ostravští piráti dnes představili svůj program Ostrava 4.0 pro letošní komunální volby.**
+Ostrava, 17. srpna 2022 – **Klimatický plán. Investice do vzdělání. Motivující veřejný prostor. Komunitní energetika. Nová tržnice. Carsharing. Bezuhlíková budoucnost pro naše děti. Ostravští piráti dnes představili svůj program Ostrava 4.0 pro letošní komunální volby.**
 
 <hr />
 
