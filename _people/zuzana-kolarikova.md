@@ -1,6 +1,6 @@
 ---
 uid: zuzana.kolarikova
-name: Zuzana Koláříková
+name: Zuzana Kolaříková
 titles:
   before: Mgr.
   after:

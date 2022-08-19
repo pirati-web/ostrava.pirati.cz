@@ -141,7 +141,7 @@ tail:
     age: 31
     profession: student filosofie a psychologie
     party: 
-  - name: Petra Košťálová
+  - name: Ing. Petra Košťálová
     age: 36
     profession: pedagog volného času
     party: 

@@ -4,7 +4,7 @@ name: Barbora Hopp
 titles:
   before: BSc.
   after:
-img: # sehnat
+img: people/barbora-hopp.jpg 
 description: # zajistit
 mail: # - zjistit
 ---

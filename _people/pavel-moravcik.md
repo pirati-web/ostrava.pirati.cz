@@ -4,7 +4,7 @@ name: Pavel Moravčík
 titles:
   before: 
   after:
-img: # sehnat
+img: people/pavel-moravcik.jpg 
 description: # zajistit
 mail: # - zjistit
 ---

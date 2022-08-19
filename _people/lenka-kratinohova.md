@@ -4,7 +4,7 @@ name: Lenka Kratinohová
 titles:
   before: 
   after:
-img: # sehnat
+img: people/lenka-kratinohova.jpg 
 description: # zajistit
 mail: # - zjistit
 ---

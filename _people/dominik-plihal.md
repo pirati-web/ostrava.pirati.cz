@@ -4,7 +4,7 @@ name: Dominik Plíhal
 titles:
   before: 
   after:
-img: # sehnat
+img: people/dominik-plihal.jpg 
 description: # zajistit
 mail: # - zjistit
 ---

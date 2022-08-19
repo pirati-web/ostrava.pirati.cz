@@ -4,7 +4,7 @@ name: Tomáš Lovás
 titles:
   before: Ing.
   after:
-img: # sehnat
+img: people/tomas-lovas.jpg 
 description: # zajistit
 mail: # - zjistit
 ---

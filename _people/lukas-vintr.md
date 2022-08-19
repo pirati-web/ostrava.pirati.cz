@@ -2,9 +2,9 @@
 uid: lukas.vintr
 name: Lukáš Vintr
 titles:
-  before: 
+  before: Ing. 
   after:
-img: # sehnat
+img: people/lukas-vintr.jpg
 description: # zajistit
 mail: # - zjistit
 ---

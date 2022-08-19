@@ -4,7 +4,7 @@ name: Vítězslav Košťál
 titles:
   before: 
   after:
-img: # sehnat
+img: people/vitezslav-kostal.jpg
 description: # zajistit
 mail: # - zjistit
 ---
