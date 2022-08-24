@@ -18,7 +18,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party:
   - uid: ondrej.rucka
     age: 39
-    profession: advokát
+    profession: právník
     party: Piráti
   - uid: michal.breskovec
     age: 43
@@ -37,7 +37,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: údržbář
     party:
   - uid: ales.okon
-    age: 38
+    age: 48
     profession: manažer
     party:
   - uid: martin.pasek

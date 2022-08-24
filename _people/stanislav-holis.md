@@ -4,7 +4,7 @@ name: Stanislav Holiš
 titles:
   before: 
   after: 
-img: # sehnat
+img: people/stanislav-holis.jpg
 description: # zajistit
 mail: # - zjistit
 ---
