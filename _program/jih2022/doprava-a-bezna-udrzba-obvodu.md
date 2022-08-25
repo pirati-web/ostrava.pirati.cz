@@ -1,6 +1,6 @@
 ---
-title: "Doprava a běžná údržna obvodu"
-shortTitle: "Doprava a běžná údržna obvodu"
+title: "Doprava a běžná údržba obvodu"
+shortTitle: "Doprava a běžná údržba obvodu"
 uid: doprava
 campaignCategoryUid: jih2022
 campaignGroupUid: volby-2022
