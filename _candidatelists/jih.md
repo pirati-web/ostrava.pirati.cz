@@ -58,7 +58,7 @@ tail: # zbytek kandidatky
   - name: Ing. Michal Šobr
     age: 32
     profession: projektant dopravních staveb
-    party: Piráti
+    party: 
   - name: Hana Pavlíčková
     age: 33
     profession: grafička, koordinátorka
@@ -86,7 +86,7 @@ tail: # zbytek kandidatky
   - name: Bc. Adriana Fišerová, DiS.
     age: 30
     profession: diplomovaná všeobecná sestra
-    party: Piráti
+    party: 
   - name: Michal Šíma
     age: 31
     profession: marketingový specialista
@@ -123,7 +123,7 @@ tail: # zbytek kandidatky
     age: 33
     profession: IT administrátor
     party: 
-  - name: Jaroslav zavadil
+  - name: Jaroslav Zavadil
     age: 42
     profession: IT technik
     party: 
@@ -142,7 +142,7 @@ tail: # zbytek kandidatky
   - name: Radek Hrbáč
     age: 23
     profession: student
-    party: 
+    party: Piráti 
   - name: Zuzana Ďurajková
     age: 26
     profession: manažerka zákaznického servisu
