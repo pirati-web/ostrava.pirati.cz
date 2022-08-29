@@ -1,18 +1,18 @@
 ---
 layout: communal-elections
-title: Volby 2022 - Slezská Ostrava
+title: Volby 2022 - 4 vize pro hezkou Slezskou 
 campaignCategoryUid: slezska2022
 candidateListUid: slezska
 ---
 
-Volby 2022 - Slezská Ostrava
+Nabízíme vám naše 4 vice pro hezkou Slezkou. Slezská jako bezpečné a příjemné místo pro život a sport, podpořené chytrými technologiemi.
 
-<!--<section class="o-section o-section--spaceBot">
+<section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
     <div class="o-section-block">
       <div class="c-BasicPage">
         <div class="c-BasicPage-content">
-          {% assign program = site.program | where: "campaignCategoryUid","magistrat2018" | sort: 'order' %}
+          {% assign program = site.program | where: "campaignCategoryUid","slezska2022" | sort: 'order' %}
           <div class="row small-up-3 medium-up-5 large-up-7">
             {% for item in program %}
               <div class="column column-block">
@@ -29,4 +29,4 @@ Volby 2022 - Slezská Ostrava
       </div>
     </div>
   </div>
-</section>-->
+</section>
