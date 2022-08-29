@@ -5,7 +5,7 @@ campaignCategoryUid: slezska2022
 candidateListUid: slezska
 ---
 
-Nabízíme vám naše 4 vice pro hezkou Slezkou. Slezská jako bezpečné a příjemné místo pro život a sport, podpořené chytrými technologiemi.
+Nabízíme vám naše 4 vize pro hezkou Slezkou. Slezská jako bezpečné a příjemné místo pro život a sport, podpořené chytrými technologiemi.
 
 <section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
