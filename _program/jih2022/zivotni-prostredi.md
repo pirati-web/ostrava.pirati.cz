@@ -18,7 +18,7 @@ Průmyslová zóna v Hrabové možná nabízí pracovní místa, zároveň se zd
 
 ## Halda Hrabůvka jako místo pro relaxaci
 
-Vyzdvihneme uhlím potlačenou důlní vodu, kterou dnes bezúčelně vyléváme do řeky Ostravice. Voda má celoroční teplotu 26 stupňů celsia a dá se využití například k vybudování rekreačních venkovních lázní či arboreta, vytápění nebo zimní údržbě, a to díky vysoké slanosti vody. Dokázali bychom si představit takové lázně na Haldě Hrabůvka.
+Vyzdvihneme uhlím potlačenou důlní vodu, kterou dnes bezúčelně vyléváme do řeky Ostravice. Voda má celoroční teplotu 26 stupňů Celsia a dá se využití například k vybudování rekreačních venkovních lázní či arboreta, vytápění nebo zimní údržbě, a to díky vysoké slanosti vody. Dokázali bychom si představit takové lázně na Haldě Hrabůvka.
 
 Chceme vstoupit do jednání s majiteli pozemků a s dalšími aktéry a využít toto naše podzemní ostravské moře pro dobrou věc.
 

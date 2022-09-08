@@ -41,7 +41,7 @@ Na webových stránkách našeho obvodu poskytneme přehledné a průběžně ak
 
 ### Zavedení pozice sociálního koordinátora
 
-Sociální koordinátor by měl aktivně komunikovat se sociálními službami působícími v našem obvodě a být styčnou osobou pro tyto organizace. Bude zodpovědný za aktualizaci seznamu sociálních služeb a jejich nabídky na webových stránkách obvodu, zajistí jejich propagaci na sociálních sítích a médiích městského obvodu, bude shromažďovat potřeby sociálních služeb a zpětnou vazbu na jejich práci. Tyto informace pak bude pravidelně předkládat Sociální komisi rady pro jejich vyhodnocení a následnádoporučení radě městského obvodu. Bude také na našich webových stránkách, sociálních sítích a Jižních listech informovat o různých typech příspěvků, kdo na ně má nárok a kde občané získají pomoc s jejich vyřízením.
+Sociální koordinátor by měl aktivně komunikovat se sociálními službami působícími v našem obvodě a být styčnou osobou pro tyto organizace. Bude zodpovědný za aktualizaci seznamu sociálních služeb a jejich nabídky na webových stránkách obvodu, zajistí jejich propagaci na sociálních sítích a médiích městského obvodu, bude shromažďovat potřeby sociálních služeb a zpětnou vazbu na jejich práci. Tyto informace pak bude pravidelně předkládat Sociální komisi rady pro jejich vyhodnocení a následná doporučení radě městského obvodu. Bude také na našich webových stránkách, sociálních sítích a Jižních listech informovat o různých typech příspěvků, kdo na ně má nárok a kde občané získají pomoc s jejich vyřízením.
 
 ### Zvýšíme finanční stabilitu sociálních služeb
 
