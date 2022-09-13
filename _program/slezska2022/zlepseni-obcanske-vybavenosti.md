@@ -25,6 +25,6 @@ Na Slezské nám chybí základní občanská vybavenost, která by odpovídala 
 V neposlední řadě chybí na Slezské místa, kde by místní mohli trávit volný čas, setkávali se s přáteli nebo jen prostě odpočívali někde na lavičce. Vždyť tady nemáme ani jedno klasické náměstí, kde by se lidé o víkendu sešli na trzích, popovídali si, dali kafe.
 
 - Chceme proto vytvořit veřejná prostranství, kde by se přirozeně potkávali místní lidé. 
-- To je trend, kterým se ubírají moderní města.  
+- Nastartujeme trend úspěšných evropských měst podporující komunitní život.  
 - Plánovat víceúčelové investiční projekty, nikoli jen hasit jeden konkrétní problém.
 

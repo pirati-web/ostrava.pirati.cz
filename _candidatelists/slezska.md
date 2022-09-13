@@ -4,8 +4,8 @@ uid: slezska
 leader:
   uid: zuzana.kolarikova
   age: 34
-  profession: politický poradce
-  party: Piráti
+  profession: politická analytička
+  party: 
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: lukas.cernohorsky
@@ -19,15 +19,15 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: tomas.lovas
     age: 33
     profession: specialista zabezpečovací techniky na železnici
-    party: Piráti
+    party: 
   - uid: pavel.moravcik
     age: 42
     profession: technik-programátor
-    party: Piráti
+    party: 
   - uid: vitezslav.kostal
     age: 38
     profession: správce aplikace
-    party: Piráti
+    party: 
   - uid: lenka.kratinohova
     age: 63
     profession: ředitelka Mickeyho mikrojesle a školka, dětská skupina z. s.

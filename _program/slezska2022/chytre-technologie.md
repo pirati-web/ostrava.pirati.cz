@@ -12,6 +12,8 @@ perex: >
 order: 4
 ---
 
+## Zapojení chytrých technologií do fungování obvodu 
+
 Podpoříme instalaci chytrých technologií pro zlepšení každodenního fungování města
 
 - Prosadíme instalaci odpadkových košů a podzemních kontejnerů, které samy upozorní na to, že jsou plné. 
