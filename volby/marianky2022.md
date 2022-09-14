@@ -16,7 +16,7 @@ Hlavním cílem je vytvořit z našeho obvodu jedno z nejlepších míst k živo
     <div class="o-section-block">
       <div class="c-BasicPage">
         <div class="c-BasicPage-content">
-          {% assign program = site.program | where: "campaignCategoryUid","magistrat2018" | sort: 'order' %}
+          {% assign program = site.program | where: "campaignCategoryUid","marianky2022" | sort: 'order' %}
           <div class="row small-up-3 medium-up-5 large-up-7">
             {% for item in program %}
               <div class="column column-block">
