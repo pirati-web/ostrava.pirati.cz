@@ -4,7 +4,7 @@ name: Adam Piechowicz
 titles:
   before: 
   after:
-img: # sehnat
+img: people/adam-piechowicz.jpg
 description: # zajistit
 mail: # - zjistit
 ---

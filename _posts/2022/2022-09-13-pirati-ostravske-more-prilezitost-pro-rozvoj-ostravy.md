@@ -7,6 +7,7 @@ authorId: zuzana.klusova
 image: posts/dul-jeremenko.jpg
 tags:					
   - Ostrava			
+  - Rozvoj
   - Důl-Jeremenko
   - Ostravské-moře
 ---

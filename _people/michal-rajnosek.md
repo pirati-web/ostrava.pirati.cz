@@ -4,7 +4,7 @@ name: Michal Rajnošek
 titles:
   before: 
   after:
-img: # sehnat
+img: people/michal-rajnosek.jpg
 description: # zajistit
 mail: # - zjistit
 ---

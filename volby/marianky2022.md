@@ -5,9 +5,13 @@ campaignCategoryUid: marianky2022
 candidateListUid: marianky
 ---
 
-Volby 2022 - Mariánské Hory a Hulváky
+Náš volební program pro obvod Mariánské Hory a Hulváky navazuje na pirátský program Ostrava 4.0 pro město a je rozdělen do pěti základních oblastí: vzdělání a volný čas, transparence, otevřená radnice, ekonomika,veřejný prostor a investice, sociální záležitosti a bezpečnost a chytrá řešení pro naše občany, které se prolíná s ostatními oblastmi.
 
-<!--<section class="o-section o-section--spaceBot">
+Hlavním cílem je vytvořit z našeho obvodu jedno z nejlepších míst k životu v rámci Ostravy. Chceme, aby mohli mít občané zase plnou důvěru k radnici, měli zde dostatek vyhovujícího prostoru ke svému životu a odpočinku.  
+
+
+
+<section class="o-section o-section--spaceBot">
   <div class="o-section-inner">
     <div class="o-section-block">
       <div class="c-BasicPage">
@@ -29,4 +33,4 @@ Volby 2022 - Mariánské Hory a Hulváky
       </div>
     </div>
   </div>
-</section>-->
+</section>

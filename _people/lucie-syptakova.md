@@ -4,7 +4,7 @@ name: Lucie Syptáková
 titles:
   before: Bc.
   after:
-img: # sehnat
+img: people/lucie-syptakova.jpg
 description: # zajistit
 mail: # - zjistit
 ---

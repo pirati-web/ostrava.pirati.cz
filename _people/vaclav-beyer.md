@@ -4,7 +4,7 @@ name: Václav Beyer
 titles:
   before: 
   after:
-img: # sehnat
+img: people/vaclav-beyer.jpg
 description: # zajistit
 mail: # - zjistit
 ---
