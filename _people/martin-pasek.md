@@ -4,7 +4,7 @@ name: Martin Pasek
 titles:
   before: 
   after: 
-img: # sehnat
+img: people/martin-pasek.jpg
 description: # zajistit
 mail: # - zjistit
 ---

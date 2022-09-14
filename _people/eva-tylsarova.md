@@ -4,7 +4,7 @@ name: Eva Tylšarová
 titles:
   before: 
   after:
-img: # sehnat
+img: people/eva-tylsarova.jpg 
 description: # zajistit
 mail: # - zjistit
 ---

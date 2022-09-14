@@ -1,5 +1,5 @@
 ---
-uid: pavlina.polaskova
+uid: pavlina.novackova
 name: Pavlína Polášková
 titles:
   before: Bc. 

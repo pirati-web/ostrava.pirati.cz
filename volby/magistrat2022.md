@@ -41,6 +41,6 @@ Našim hlavním cílem je vrátit do Ostravy radost. Radost ze života. Slavný 
 
 **Princip 7 a 70 a čtyři základní pilíře nové Ostravy**
 
-Pokud má být Ostrava příjemným místem pro život musíme při plánování myslet na všechny. Nejen na mladé nebo na staré. Nejen na řidiče, ale i na cyklisty. Nejen na chodce, ale i na vozíčkáře a maminky s kočárky. Pokud dokážeme vytvořit přátelské město pro děti ve věku 8 let i pro seniory ve věku 80 let, je slušná šance, že se v Ostravě bude líbit i všem ostatním.
+Pokud má být Ostrava příjemným místem pro život musíme při plánování myslet na všechny. Nejen na mladé nebo na staré. Nejen na řidiče, ale i na cyklisty. Nejen na chodce, ale i na vozíčkáře a maminky s kočárky. Pokud dokážeme vytvořit přátelské město pro děti ve věku 7 let i pro seniory ve věku 70 let, je slušná šance, že se v Ostravě bude líbit i všem ostatním.
 
 Město příjemné pro život chceme vytvotvořit na 4 základních pilířích: Lidé a komunity, Lokální ekonomika, Město pro život a Smart řešení jako nadstavba, která se prolíná všemi oblastmi.

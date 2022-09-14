@@ -4,7 +4,7 @@ name: Gabriela Macečková
 titles:
   before: 
   after: 
-img: people/gabriela-maceckova-2021.jpg
+img: people/gabriela-maceckova.jpg
 category:
 - vedeni
 ordVedeni: 5
