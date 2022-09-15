@@ -24,6 +24,12 @@ Důlní voda má díky vysokému obsahu solí léčivé schopnosti a její koroz
 
 Důl Jeremenko však kromě solanky poskytuje také naprosto jedinečnou vyhlídku z těžební věže, kterou směle hodnotíme jako jeden z nejhezčích a nejkomplexnějších výhledů v Ostravě. Vidět tady můžeme prakticky všechny hlavní ostravské obvody i všemožné dominanty počínaje haldou Ema, Novou radnicí, Hošťálkovickým vysílačem, Vítkovickými stadiony a konče u haldy Hrabůvka orámované panoramatem Beskyd. Prostě Ostrava jako na dlani. Průmyslová historie tedy Ostravě skýtá spoustu zatím nevyužitých příležitostí pro rozvoj a jednou z nich je i toto skryté ostravské moře.
 
+A jaké bohatství vlastně ostravské moře skrývá? Důlní voda, která má celoroční teplotu 27 °C má obrovský potenciál,  především při dnešní energetické krizi, ve využití jejího přirozeného tepla. Hrubou kalkulací jsme spočítali, že při využití 5 tepelných čerpadel bychom dokázali vytopit v topné sezóně až 5 000 domácností, ale je nutné, Ostrava ve spolupráci s krajem a státem prověřila realizovatelnost a udržitelnost takového projektu.
+
+Důlní voda se dá využít i ke vzniku lázní, nebo například vyhřívaného arboreta pro potřeby Přírodovědecké fakulty Ostravské univerzity.
+
+>„Ostrava vyrostla na černém uhlím, díky černému uhlí je Ostrava statisícová, využijme proto pozůstatek naší historické a kulturní identity!“ shrunla po exkurzi potenciál ostravského moře pirátská zastupitelka Gabriela Macečková.
+
 ---
 
 Úvodní obrázek zdroj: Tomáš Swaczyna
