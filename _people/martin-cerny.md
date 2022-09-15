@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 img: people/martin-cerny.jpg
-img: # sehnat
 description: # zajistit
 mail: # - zjistit
 ---
