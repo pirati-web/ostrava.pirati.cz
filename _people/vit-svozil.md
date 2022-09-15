@@ -4,6 +4,7 @@ name: Vít Svozil
 titles:
   before: Mgr.
   after:
+img: people/vit-svozil.jpg
 img: # sehnat
 description: # zajistit
 mail: # - zjistit
