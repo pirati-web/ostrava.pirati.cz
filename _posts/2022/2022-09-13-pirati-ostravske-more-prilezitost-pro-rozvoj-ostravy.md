@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Piráti: Ostravské moře je velká příležitost pro rozvoj Ostravy'			
 date: 2022-09-13
 authorId: zuzana.klusova
-image: posts/dul-jeremenko.jpg
+image: posts/dul-jeremenko2.jpg
 tags:					
   - Ostrava			
   - Rozvoj
