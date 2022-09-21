@@ -14,11 +14,7 @@ tags:
   - Václav-Parchaňský
 ---
 
-<<<<<<< HEAD
 Ostrava, 21.září 2022 – **Rozptylová studie ukázala významný vliv Koksovny Svoboda na ovzduší Moravské Ostravy a Přívozu. Koksovna podle rozptylové studie může za více než čtvrtinu povoleného limitu v oblasti přívozských základních škol. Benzo(a)pyren je látkou prokazatelně způsobující rakovinu, jehož limity dané zákonem jsou bohužel v Ostravě dlouhodobě překračovány. Město proto připravuje další navazující studii, tentokrát zaměřenou na vliv těchto emisí na zdraví obyvatel. Provoz koksovny ohrožuje miliardové investice v okolí a pomalu tráví městskou čtvrť, která je obtěžována nejen rakovinotvornými látkami, ale také výrazným zápachem. Koksovna měla v roce 2021 rekordní zisk, vyrobený koks vyváží do zahraničí.**
-=======
-Ostrava, 21. zaří 2022 – **Rozptylová studie ukázala významný vliv Koksovny Svoboda na ovzduší Moravské Ostravy a Přívozu. Koksovna podle rozptylové studie může za více než čtvrtinu povoleného limitu v oblasti přívozských základních škol. Benzo(a)pyren je látkou prokazatelně způsobující rakovinu, jehož limity dané zákonem jsou bohužel v Ostravě dlouhodobě překračovány. Město proto připravuje další navazující studii, tentokrát zaměřenou na vliv těchto emisí na zdraví obyvatel. Provoz koksovny ohrožuje miliardové investice v okolí a pomalu tráví městskou čtvrť, která je obtěžována nejen rakovinotvornými látkami, ale také výrazným zápachem. Koksovna měla v roce 2021 rekordní zisk, vyrobený koks vyváží do zahraničí.**
->>>>>>> 816d37ca53b725905b17b9d9f92745353c46c24d
 
 <hr />
 
@@ -26,7 +22,7 @@ Ostrava, 21. zaří 2022 – **Rozptylová studie ukázala významný vliv Kokso
 
 komentuje Václav Parchaňský, zástupce Pirátů v komisi a také tvůrce zmíněné aplikace.
 
-Rozptylová studie vypočetla imise rakovinotvorného benzo(a)pyrenu v oblasti ZŠ Gebauerova ve výši 26 % zákonného limitu, měřicí stanice umístěna přímo na zahradě mateřské a základní školy Waldorfské pak dokonce ještě o procento více. Studie také konstatuje, že vliv zdroje pro tyto škodliviny je v posuzované oblasti významný.
+Rozptylová studie vypočetla emise rakovinotvorného benzo(a)pyrenu v oblasti ZŠ Gebauerova ve výši 26 % zákonného limitu, měřicí stanice umístěna přímo na zahradě mateřské a základní školy Waldorfské pak dokonce ještě o procento více. Studie také konstatuje, že vliv zdroje pro tyto škodliviny je v posuzované oblasti významný.
 
 >„Je třeba dodat, že zákonný imisní limit je v oblasti dlouhodobě překračován i kvůli jiným zdrojům zejména typu lokálních topenišť a zahraničního přenosu. Ale je to právě koksovna, která je nejvýznamnějším bodovým zdrojem znečištění v oblasti. Pokud by tento zdroj přestal ničit své okolí, kvalita života by v širokém okolí vystřelila prudce vzhůru,“
 
