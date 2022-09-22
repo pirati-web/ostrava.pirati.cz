@@ -19,7 +19,7 @@ Ostrava, 21.září 2022 – **Rozptylová studie ukázala významný vliv Kokso
 
 <hr />
 
-> „Kauzu Přívozské koksovny Svoboda dlouhodobě sledujeme a právě kvůli ní jsme vytvořili aplikaci Větrání bez jedů na adrese [vetrani.pirati.cz](https://vetrani.pirati.czi "Větrání bez jedů"). Byl to také náš podnět v komisi životního prostředí, na jehož základě vedení města Ostravy zadalo zpracování rozptylové studii mapující vliv závodu na ovzduší,“
+> „Kauzu Přívozské koksovny Svoboda dlouhodobě sledujeme a právě kvůli ní jsme vytvořili aplikaci Větrání bez jedů na adrese [vetrani.pirati.cz](https://vetrani.pirati.cz "Větrání bez jedů"). Byl to také náš podnět v komisi životního prostředí, na jehož základě vedení města Ostravy zadalo zpracování rozptylové studii mapující vliv závodu na ovzduší,“
 
 komentuje Václav Parchaňský, zástupce Pirátů v komisi a také tvůrce zmíněné aplikace.
 
