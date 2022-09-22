@@ -1,13 +1,13 @@
 ---
 layout: post
 category: CLANKY
-title: 'Koksovna může podle rozptylové studie za čtvrtinu emisí rakovinotvorného benzoapyrenu'		
-date: 2021-09-21
+title: 'Koksovna může podle rozptylové studie za čtvrtinu emisí rakovinotvorného benzoapyrenu'
+date: 2022-09-21
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: posts/koksovna_4koure.jpg
-tags:				
-  - Ostrava		
+tags:
+  - Ostrava
   - MOaP
   - Koksovna
   - Rozptylova-studie
