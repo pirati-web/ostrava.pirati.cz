@@ -1,6 +1,6 @@
 ---
 uid: barbora.vyka
-name: Barbora Vojkovská
+name: Barbora Vyka
 titles:
   before: Mgr. 
   after: 
@@ -11,7 +11,7 @@ mail: # zjistit
 
 (* 1986)
 
-Barbora Vojkovská je zkušená PPC specialistka, nadšená grafička, fanoušek veškeré online reklamy a komunikace, kreativní dáma, milovnice koloběžky a lektorka fitness a poledance.
+Barbora Vyka je zkušená PPC specialistka, nadšená grafička, fanoušek veškeré online reklamy a komunikace, kreativní dáma, milovnice koloběžky a lektorka fitness a poledance.
 
 Soustředí se především na tvorbu kampaní pro online komunikaci.
 
