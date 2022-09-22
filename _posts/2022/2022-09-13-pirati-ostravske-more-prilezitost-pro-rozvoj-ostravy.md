@@ -28,7 +28,7 @@ A jaké bohatství vlastně ostravské moře skrývá? Důlní voda, která má 
 
 Důlní voda se dá využít i ke vzniku lázní, nebo například vyhřívaného arboreta pro potřeby Přírodovědecké fakulty Ostravské univerzity.
 
->„Ostrava vyrostla na černém uhlím, díky černému uhlí je Ostrava statisícová, využijme proto pozůstatek naší historické a kulturní identity!“ shrunla po exkurzi potenciál ostravského moře pirátská zastupitelka Gabriela Macečková.
+>„Ostrava vyrostla na černém uhlím, díky černému uhlí je Ostrava statisícová, využijme proto pozůstatek naší historické a kulturní identity!“ shrnula po exkurzi potenciál ostravského moře pirátská zastupitelka Gabriela Macečková.
 
 ---
 
