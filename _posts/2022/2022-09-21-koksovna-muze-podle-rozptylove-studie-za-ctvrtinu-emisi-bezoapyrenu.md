@@ -5,7 +5,7 @@ title: 'Koksovna může podle rozptylové studie za čtvrtinu emisí rakovinotvo
 date: 2021-09-21
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: posts/koksovna-4koure.jpg
+image: posts/koksovna_4koure.jpg
 tags:				
   - Ostrava		
   - MOaP
