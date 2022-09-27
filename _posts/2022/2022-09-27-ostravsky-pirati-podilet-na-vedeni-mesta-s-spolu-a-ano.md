@@ -33,6 +33,6 @@ V oblasti kultury pak chtějí dokončit klíčové investice jako je koncertní
 dodává ostravská náměstkyně pro školství a kulturu.
 
 ---
-Úvodní obrázek zdroj: Rostislav Řeha
+Úvodní obrázek zdroj:[Rostislav Řeha]({{'rostislav-reha' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
