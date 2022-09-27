@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Ostravští Piráti se budou dál podílet na vedení města, koalice ANO, SPOLU a Pirátů pokračuje'
 date: 2022-09-27
 author: Jana Ožanová
-image: posts/koalicni-smlouva -magistrat-2022.jpg
+image: posts/koalicni-smlouva-magistrat-2022.jpg
 tags:				
   - Ostrava
   - Magistrát
