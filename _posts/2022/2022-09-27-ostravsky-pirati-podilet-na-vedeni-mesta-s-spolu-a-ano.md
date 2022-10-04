@@ -18,7 +18,7 @@ tags:
 Ostrava, 27. září 2022 – **Ostravští Piráti dnes podepsali koaliční smlouvu o vedení města Ostravy a budou tak další 4 roky pokračovat v práci, kterou odvedli v minulém volebním období. Nově vzniklou koalici tvoří s hnutím ANO a koalicí SPOLU (ODS, KDU-ČSL, TOP09). Na křeslo náměstkyně primátora Tomáše Macury znovu usedne Andrea Hoffmannová, na starosti bude mít školství a nově také kulturu. Opouští tak gesci sportu, kterou s čistým štítem předává náměstkovi z ODS. V zastupitelských lavicích města dále zasednou Piráti David Witosz a Rostislav Řeha.**
 
 <hr />
->„V minulých 4 letech jsme s kolegy na odboru školství a sportu odvedli spoustu práce, za což všem patří velký dík. Těší mě, že ostravské školství můžu dál rozvíjet a posouvat tím správným směrem. Nově mi připadne gesce kultury, která si v Ostravě rozhodně zaslouží pozornost a podporu města. Ostravskému sportu budu dál už jenom fandit a věřím, že můj nástupce bude pokračovat v nastaveném trendu,"
+> „V minulých 4 letech jsme s kolegy na odboru školství a sportu odvedli spoustu práce, za což všem patří velký dík. Těší mě, že ostravské školství můžu dál rozvíjet a posouvat tím správným směrem. Nově mi připadne gesce kultury, která si v Ostravě rozhodně zaslouží pozornost a podporu města. Ostravskému sportu budu dál už jenom fandit a věřím, že můj nástupce bude pokračovat v nastaveném trendu,"
 
 komentuje Andrea Hoffmannová svou staronovou účast ve vedení Ostravy.
 
@@ -28,11 +28,12 @@ Piráti podpoří také vznik dalších školních parlamentů, čtenářskou gr
 
 V oblasti kultury pak chtějí dokončit klíčové investice jako je koncertní hala, vědecká knihovna nebo muzeum paměti. Zasadí se o to, aby se klíčové kulturní projekty z grantů prezentovaly široké veřejnosti.
 
->„Budeme podporovat rozmanitost kulturních aktivit a akcí tak, aby si každý našel to své. Nechceme rozhodovat o podpoře či nepodpoře kulturní činnosti na základě vlastních preferencí, ale s cílem zajistit širokou nabídku akcí v rámci různých forem umění, ať je to hudba, divadlo, pohyb, výtvarné či vizuální umění. Jak jsme deklarovali v našem programu, chceme, aby Ostrava byla moderním evropským městem. Budeme se proto soustředit na podporu vzdělanosti, kultury a komunitního a spolkového života,"
+> „Budeme podporovat rozmanitost kulturních aktivit a akcí tak, aby si každý našel to své. Nechceme rozhodovat o podpoře či nepodpoře kulturní činnosti na základě vlastních preferencí, ale s cílem zajistit širokou nabídku akcí v rámci různých forem umění, ať je to hudba, divadlo, pohyb, výtvarné či vizuální umění. Jak jsme deklarovali v našem programu, chceme, aby Ostrava byla moderním evropským městem. Budeme se proto soustředit na podporu vzdělanosti, kultury a komunitního a spolkového života,"
 
 dodává ostravská náměstkyně pro školství a kulturu.
 
 ---
-Úvodní obrázek zdroj:[Rostislav Řeha]({{'rostislav-reha' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
+Úvodní obrázek zdroj: [Rostislav Řeha]({{'rostislav-reha' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
