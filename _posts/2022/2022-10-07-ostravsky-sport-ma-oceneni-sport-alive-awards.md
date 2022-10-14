@@ -27,7 +27,7 @@ v těchto klubech i potřebu všech ekonomických sfér. Na zahajovací roční
 
 V rámci shortlistu, tj. seznamu deseti nejlepších sportovních projektů města či kraje, uspěl také projekt Ostravských sportovních her. Tento projekt vychází ze zdánlivě banálního příběhu, avšak s překvapujícím dopadem „vytvořme to, co bude dostupné pro všechny děti na základních školách v Ostravě – prostor pro všechny si vyzkoušet sport a jeho disciplíny, motivovat, probudit zájem o sportování, vyniknout, překonat se.“ Proto byly vybrány jednoduché a dostupné sportovní disciplíny, které si mohlo vyzkoušet maximální množství dětí (atletika, gymnastika, dribling, švihadlo, šplh či běh), a to na základě sportovních výzev doplněných metodickým videem. Bylo nastaveno jednoznačné poselství „když to zvládnu já, můžeš to zvládnout i ty,“ zapojeny ostravské sportovní kluby, u kterých se natáčela videa a podíleli se i ambasadoři. Ti nejlepší se pak potkali na Velkém sportovním dni, který byl vyvrcholením ročníku.
 
-Všechny novinky o ostravském sportu najdete na webu [Fajnovysport.cz](www.fajnovysport.cz)
+Všechny novinky o ostravském sportu najdete na webu [fajnovysport](https://fajnovysport.cz/)
 
 ---
 Úvodní obrázek zdroj: [Andrea Hoffmannova]({{'andrea-hoffmannova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
