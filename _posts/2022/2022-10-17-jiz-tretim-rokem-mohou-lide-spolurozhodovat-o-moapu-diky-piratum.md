@@ -23,9 +23,9 @@ Pirátský místostarosta Rostislav Řeha už počítá poslední dny svého pů
 
 uvedl.
 
-Hlasování poběží do 31. 10. 2022, hlasovat pro přihlášené projekty můžete tady 👇
+Hlasování poběží do 31. 10. 2022, hlasovat pro přihlášené projekty můžete [TADY](https://participace.mobilnirozhlas.cz/nasobvod/)
 
-https://participace.mobilnirozhlas.cz/nasobvod/
+
 
 ---
 
