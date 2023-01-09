@@ -30,8 +30,7 @@ Finanční podporu lze využít na úhradu energií – elektrické energie, tep
 
 dodává Andrea Hoffmannová.
 
-Bližší informace včetně podmínek této podpory najdete na webových stránkách [www.ostrava.cz](www.ostrava.cz "Web Ostravy") a [www.fajnovysport.cz](www.fajnovysport.cz "Web programu pro rozvoj sportu v Ostravě"). 
-
+Bližší informace včetně podmínek této podpory najdete na webových stránkách [www.ostrava.cz](https://www.ostrava.cz "Web Ostravy") a [www.fajnovysport.cz](https://www.fajnovysport.cz "Web programu pro rozvoj sportu v Ostravě").
 
 ---
 
