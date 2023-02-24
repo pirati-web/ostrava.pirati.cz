@@ -21,6 +21,8 @@ linkCategories:
       link: assets/pdf/povolebni-strategie.pdf
   - name: Komunální volby 2022
     links:
+    - name: Koaliční smlouva
+      link: assets/pdf/koalicni-smlouva-mmo-2022.pdf
     - name: Kompletní program
       link: program/magistrat2022/lide-komunita/
 ---
